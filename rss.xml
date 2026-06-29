@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+  <channel>
+    <title>Journo Pulse – U.S. Breaking News, politics and Business</title>
+    <link>https://www.journopulse.com</link>
+    <description>Stay updated with U.S. breaking news, politics, business, tech, and investigations with real-time coverage, trusted analysis, and essential daily insights.</description>
+    <language>en-us</language>
+    <copyright>© JournoPulse.com. All rights reserved</copyright>
+    <lastBuildDate>Mon, 09 Mar 2026 09:30:00 GMT</lastBuildDate>
+    <generator>Static HTML RSS Feed</generator>
+    <managingEditor>admin@journopulse.com (Journo Pulse Editor)</managingEditor>
+    <webMaster>admin@journopulse.com (Journo Pulse Webmaster)</webMaster>
+
+    <atom:link href="https://www.journopulse.com/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <image>
+      <title>Journo Pulse</title>
+      <link>https://www.journopulse.com</link>
+      <url>https://www.journopulse.com/logo.png</url>
+    </image>
+
+    <!-- Article 1 -->
+    <item>
+      <title>Puerto Rico Governor Signs Bill Critics Say Will Restrict Access to Public Information</title>
+      <link>https://www.journopulse.com/puertorico/puerto-rico-governor-public-information-bill</link>
+      <guid isPermaLink="true">https://www.journopulse.com/puertorico/puerto-rico-governor-public-information-bill</guid>
+      <pubDate>Mon, 09 Mar 2026 08:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Puerto Rico's governor has signed a controversial bill that critics argue will restrict public access to government information, sparking concern among journalists and watchdog groups.<br/><br/>
+        Read the full article: <a href="https://www.journopulse.com/puertorico/puerto-rico-governor-public-information-bill">Puerto Rico Governor Public Information Bill</a>
+      ]]></description>
+      <category>Puerto Rico</category>
+      <category>politics</category>
+      <category>Government</category>
+      <author>admin@journopulse.com (Journo Pulse)</author>
+    </item>
+
+    <!-- Article 2 -->
+    <item>
+      <title>Supreme Court to Hear Oil Firms’ Appeals in Climate Lawsuits</title>
+      <link>https://www.journopulse.com/us/us-supreme-court-hear-exxon-suncor-bid-toss-boulders-climate-suit</link>
+      <guid isPermaLink="true">https://www.journopulse.com/us/us-supreme-court-hear-exxon-suncor-bid-toss-boulders-climate-suit</guid>
+      <pubDate>Mon, 09 Mar 2026 09:30:00 GMT</pubDate>
+      <description><![CDATA[
+        The U.S. Supreme Court has agreed to hear appeals from oil and gas companies attempting to block lawsuits seeking to hold the industry liable for billions of dollars in damages linked to climate change.<br/><br/>
+        Read the full article: <a href="https://www.journopulse.com/us/us-supreme-court-hear-exxon-suncor-bid-toss-boulders-climate-suit">Full Article</a>
+      ]]></description>
+      <category>Daily News</category>
+      <category>politics</category>
+      <category>World</category>
+      <author>admin@journopulse.com (Journo Pulse)</author>
+    </item>
+
+  </channel>
+
+</rss>

@@ -1,0 +1,619 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ownership and Funding - JournoPulse</title>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet" />
+  
+  <!-- Favicon -->
+  <link rel="icon" href="https://www.journopulse.com/img/Group8 (1).svg" type="image/x-icon">
+  
+  
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --red: #e8262a;
+      --dark: #1a1a1a;
+      --mid: #333;
+      --light-gray: #f4f4f4;
+      --border: #ddd;
+      --white: #fff;
+      --text: #444;
+      --nav-bg: #1a1a1a;
+    }
+
+    body {
+      font-family: 'Open Sans', sans-serif;
+      color: var(--text);
+      background: var(--white);
+      font-size: 15px;
+      line-height: 1.7;
+    }
+
+    /* ── TOP BAR ── */
+    .topbar {
+      background: var(--dark);
+      color: #ccc;
+      font-size: 12px;
+      padding: 6px 0;
+      border-bottom: 2px solid var(--red);
+    }
+    .topbar-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .topbar-social a {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 28px; height: 28px;
+      background: #333;
+      border-radius: 3px;
+      margin-right: 5px;
+      text-decoration: none;
+      transition: background .2s;
+    }
+    .topbar-social a:hover { background: var(--red); }
+    .topbar-social img { width: 16px; height: 16px; filter: invert(1); }
+
+    /* ── HEADER ── */
+    header {
+      background: var(--white);
+      border-bottom: 1px solid var(--border);
+      padding: 14px 0;
+    }
+    .header-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .logo {
+      font-family: 'Merriweather', serif;
+      font-size: 35px;
+      font-weight: 700;
+      color: var(--dark);
+      text-decoration: none;
+      letter-spacing: -0.5px;
+      margin-left: 35%;
+    }
+    .logo span { color: var(--red); }
+
+    /* ── NAV ── */
+    nav {
+      background: var(--nav-bg);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .nav-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 20px;
+      display: flex;
+      align-items: center;
+      gap: 0;
+    }
+    .nav-inner a {
+      color: #eee;
+      text-decoration: none;
+      font-size: 13px;
+      font-weight: 600;
+      padding: 13px 16px;
+      display: block;
+      text-transform: uppercase;
+      letter-spacing: .5px;
+      transition: background .2s, color .2s;
+    }
+    .nav-inner a:hover, .nav-inner a.active { background: var(--red); color: #fff; }
+
+    /* ── BREADCRUMB ── */
+    .breadcrumb {
+      background: var(--light-gray);
+      border-bottom: 1px solid var(--border);
+      padding: 10px 0;
+      font-size: 12px;
+      color: #888;
+    }
+    .breadcrumb-inner { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
+    .breadcrumb a { color: var(--red); text-decoration: none; }
+    .breadcrumb a:hover { text-decoration: underline; }
+    .breadcrumb span { margin: 0 6px; }
+
+    /* ── MAIN LAYOUT ── */
+    .main-wrapper {
+      max-width: 1200px;
+      margin: 36px auto;
+      padding: 0 20px;
+      display: grid;
+      grid-template-columns: 1fr 300px;
+      gap: 40px;
+    }
+
+    /* ── CONTENT ── */
+    .content-area {
+      background: var(--white);
+    }
+    .page-title-bar {
+      border-left: 4px solid var(--red);
+      padding-left: 14px;
+      margin-bottom: 28px;
+    }
+    .page-title-bar h1 {
+      font-family: 'Merriweather', serif;
+      font-size: 26px;
+      color: var(--dark);
+      font-weight: 700;
+      line-height: 1.3;
+    }
+    .page-title-bar .meta {
+      font-size: 12px;
+      color: #999;
+      margin-top: 6px;
+    }
+    .page-title-bar .meta strong { color: var(--red); }
+
+    .intro-box {
+      background: var(--light-gray);
+      border-left: 3px solid var(--red);
+      padding: 16px 20px;
+      margin-bottom: 30px;
+      font-size: 14px;
+      color: #555;
+      border-radius: 0 4px 4px 0;
+    }
+
+    .terms-section {
+      margin-bottom: 30px;
+      padding-bottom: 30px;
+      border-bottom: 1px solid var(--border);
+    }
+    .terms-section:last-of-type { border-bottom: none; }
+
+    .terms-section h2 {
+      font-family: 'Merriweather', serif;
+      font-size: 17px;
+      color: var(--dark);
+      font-weight: 700;
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .terms-section h2 .num {
+      background: var(--red);
+      color: #fff;
+      font-size: 12px;
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 700;
+      width: 24px; height: 24px;
+      border-radius: 50%;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+    .terms-section p { margin-bottom: 10px; color: #555; font-size: 14px; }
+    .terms-section a { color: var(--red); text-decoration: none; }
+    .terms-section a:hover { text-decoration: underline; }
+
+    .contact-box {
+      background: var(--dark);
+      color: #ccc;
+      padding: 18px 20px;
+      border-radius: 4px;
+      font-size: 14px;
+      margin-top: 8px;
+    }
+    .contact-box a { color: var(--red); text-decoration: none; }
+    .contact-box a:hover { text-decoration: underline; }
+
+    .last-updated {
+      margin-top: 32px;
+      padding: 14px 18px;
+      background: var(--light-gray);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      font-size: 13px;
+      color: #777;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .last-updated strong { color: var(--dark); }
+
+    /* ── SIDEBAR ── */
+    
+    .widget {
+      margin-bottom: 30px;
+    }
+    .widget-title {
+      font-family: 'Merriweather', serif;
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--white);
+      background: var(--dark);
+      padding: 10px 14px;
+      text-transform: uppercase;
+      letter-spacing: .5px;
+      border-left: 4px solid var(--red);
+      margin-bottom: 0;
+    }
+    .widget-body {
+      border: 1px solid var(--border);
+      border-top: none;
+      padding: 16px;
+    }
+    .quick-links { list-style: none; }
+    .quick-links li {
+      border-bottom: 1px solid var(--border);
+      padding: 9px 0;
+      font-size: 13px;
+    }
+    .quick-links li:last-child { border-bottom: none; }
+    .quick-links a {
+      color: var(--mid);
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      transition: color .2s;
+    }
+    .quick-links a:before {
+      content: '›';
+      color: var(--red);
+      font-size: 16px;
+      font-weight: 700;
+    }
+    .quick-links a:hover { color: var(--red); }
+
+    .categories-list { list-style: none; }
+    .categories-list li {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid var(--border);
+      padding: 9px 0;
+      font-size: 13px;
+    }
+    .categories-list li:last-child { border-bottom: none; }
+    .categories-list a { color: var(--mid); text-decoration: none; transition: color .2s; }
+    .categories-list a:hover { color: var(--red); }
+    .cat-count {
+      background: var(--light-gray);
+      color: #888;
+      font-size: 11px;
+      padding: 2px 7px;
+      border-radius: 10px;
+    }
+
+    .about-widget p { font-size: 13px; color: #666; margin-bottom: 12px; }
+    .social-row { display: flex; gap: 8px; }
+    .social-row a {
+      display: inline-flex; align-items: center; justify-content: center;
+      width: 34px; height: 34px;
+      background: var(--dark);
+      border-radius: 4px;
+      text-decoration: none;
+      transition: background .2s;
+    }
+    .social-row a:hover { background: var(--red); }
+    .social-row img { width: 16px; height: 16px; filter: invert(1); }
+
+    /* ── FOOTER ── */
+    footer {
+      background: var(--dark);
+      color: #aaa;
+      margin-top: 50px;
+    }
+   .footer-top {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 40px 20px;
+      display: grid;
+      grid-template-columns: 3fr 1fr 1fr 1fr 1fr 1fr;
+      gap: 30px;
+    }
+    .footer-col h4 {
+      font-family: 'Merriweather', serif;
+      font-size: 14px;
+      color: #fff;
+      margin-bottom: 16px;
+      padding-bottom: 8px;
+      border-bottom: 2px solid var(--red);
+      display: inline-block;
+    }
+    .footer-col p { font-size: 13px; line-height: 1.8; }
+    .footer-col ul { list-style: none; }
+    .footer-col ul li { margin-bottom: 8px; font-size: 13px; }
+    .footer-col ul li a { color: #aaa; text-decoration: none; transition: color .2s; }
+    .footer-col ul li a:hover { color: var(--red); }
+    .footer-logo {
+      font-family: 'Merriweather', serif;
+      font-size: 22px;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 12px;
+    }
+    .footer-logo span { color: var(--red); }
+    .footer-bottom {
+      background: #111;
+      border-top: 1px solid #2a2a2a;
+      text-align: center;
+      padding: 16px 20px;
+      font-size: 12px;
+      color: #666;
+    }
+    .footer-bottom a { color: #888; text-decoration: none; }
+    .footer-bottom a:hover { color: var(--red); }
+
+    @media (max-width: 900px) {
+      .main-wrapper { grid-template-columns: 1fr; }
+      .footer-top { grid-template-columns: 1fr 1fr; }
+    }
+    @media (max-width: 600px) {
+      .footer-top { grid-template-columns: 1fr; }
+      .nav-inner { flex-wrap: wrap; }
+      .nav-inner a { padding: 10px 12px; font-size: 12px; }
+      .logo { font-size: 22px; }
+    }
+  </style>
+
+</head>
+<body>
+
+  <!-- TOP BAR -->
+  <div class="topbar">
+    <div class="topbar-inner">
+      <span>Your Source for Business &amp; Technology News</span>
+      <div class="topbar-social">
+        <a href="#" title="Facebook"><img src="https://img.icons8.com/ios-glyphs/30/facebook-new.png" alt="Facebook" /></a>
+        <a href="https://x.com/journopulse_" title="Twitter / X"><img src="https://img.icons8.com/ios-filled/50/twitterx--v2.png" alt="X" /></a>
+        <a href="#" title="YouTube"><img src="https://img.icons8.com/ios-filled/50/youtube-play.png" alt="YouTube" /></a>
+      </div>
+    </div>
+  </div>
+
+  <!-- HEADER -->
+  <header>
+    <div class="header-inner">
+      <a href="https://www.journopulse.com/" class="logo">Journo<span>Pulse</span></a>
+    </div>
+  </header>
+
+  <!-- NAV -->
+  <nav>
+    <div class="nav-inner">
+      <a href="https://www.journopulse.com/">Home</a>
+      <a href="/us/us.html">U.S News</a>
+      <a href="/technology/technology.html">Technology</a>
+      <a href="/business/business.html">Business</a>
+      <a href="/politics/politics.html">Politics</a>
+      <a href="/world/world.html">World</a>
+      <a href="/world/world.html">puerto-rico</a>
+      <a href="/world/world.html">Bancredito</a>
+      <a href="/about/about-us.html">About Us</a>
+    </div>
+  </nav>
+
+  <!-- BREADCRUMB -->
+  <div class="breadcrumb">
+    <div class="breadcrumb-inner">
+      <a href="https://www.journopulse.com/">Home</a>
+      <span>›</span>
+      <strong>Ownership and Funding</strong>
+    </div>
+  </div>
+
+  <!-- MAIN -->
+  <div class="main-wrapper">
+
+    <!-- CONTENT -->
+    <main class="content-area">
+
+      <div class="page-title-bar">
+        <h1>Ownership and Funding</h1>
+        <div class="meta">Last Updated:<strong>May 21, 2026</strong> &nbsp;|&nbsp; JournoPulse Editorial</div>
+      </div>
+
+      <div class="intro-box">
+            At JournoPulse, we believe readers should understand who controls editorial decisions, how our journalism is funded, and the safeguards we maintain to protect editorial independence
+            <br>This page explains our approach to ownership transparency, commercial relationships, conflicts of interest, and funding disclosures.
+       </div>
+
+      <!-- Section 1 -->
+      <div class="terms-section">
+        <h2><span class="num">1</span>Purpose of This Page</h2>
+        <p>JournoPulse is an independent digital news and media platform committed to factual, transparent, and accountable journalism.</p>
+
+        <article>This page is intended to help readers understand:</article>
+        <ul>
+            <li>How editorial decisions are made</li>
+            <li>How commercial and business activities are separated from reporting</li>
+            <li>How conflicts of interest are handled</li>
+            <li>When ownership, funding, or material relationships are disclosed</li>
+            </ul>
+            <br>
+            <p>This policy is designed for reader transparency and does not replace any legal, corporate, tax, or regulatory disclosures that may apply to the organization.</p>
+        <!-- <div class="contact-box">
+          📧 <a href="mailto:editorial@journopulse.com">editorial@journopulse.com</a>
+        </div> -->
+      </div>
+
+      <!-- Section 2 -->
+      <div class="terms-section">
+        <h2><span class="num">2</span>Editorial Independence</h2>
+        <sub>Editorial decisions at JournoPulse are made independently by editors, reporters, and newsroom leadership.</sub>
+        <p>Coverage decisions, reporting priorities, headlines, story framing, source selection, and publication timing are not influenced by advertisers, sponsors, political organizations, government entities, business partners, or other external interests.</p>
+          <p>No advertiser, sponsor, donor, partner, or commercial entity is granted:</p>
+          <ul>
+            <li>Favorable coverage in exchange for payment</li>
+            <li>Prior approval of editorial content</li>
+            <li>Editorial control over reporting decisions</li>
+            <li>The ability to suppress accurate reporting</li>
+          </ul>
+
+          <p>JournoPulse maintains a clear separation between editorial operations and commercial activities.</p>
+    </div>
+
+      <!-- Section 3 -->
+      <div class="terms-section">
+        <h2><span class="num">3</span>How JournoPulse May Be Funded</h2>
+        <p>JournoPulse may generate revenue through advertising, sponsorships, content partnerships, affiliate programs, licensing arrangements, and other publishing-related business activities. These revenue sources are managed separately from editorial operations and do not determine how stories are reported or presented.</p>
+      </div>
+
+      <!-- Section 4 -->
+      <div class="terms-section">
+        <h2><span class="num">4</span>Conflicts of Interest and Recusals</h2>
+        <p>JournoPulse expects contributors, reporters, and editors to disclose any personal, financial, political, or professional relationships that could create a conflict of interest. When necessary, assignments may be reassigned or accompanied by appropriate disclosures to ensure transparency and maintain reader trust.</p>
+       </div>
+      <!-- Section 5 -->
+      <div class="terms-section">
+        <h2><span class="num">5</span> Commercial Support Does Not Buy Coverage</h2>
+        <p>Advertising, sponsorship, or commercial partnerships do not guarantee coverage or influence editorial decisions. No sponsor, advertiser, or business partner has the right to approve, alter, or suppress JournoPulse reporting. Sponsored and promotional content will be clearly labeled so readers can distinguish it from independent journalism.</p>
+      </div>
+
+      
+      <!-- Section 6 -->
+      <div class="terms-section">
+        <h2><span class="num">6</span> Political, Governmental, and Advocacy Influence</h2>
+        <p>JournoPulse operates independently of political parties, government agencies, lobbying groups, and advocacy organizations. We do not allow external entities to shape our reporting through financial support, access, or pressure. Any material relationship relevant to a story may be disclosed to provide readers with appropriate context.</p>
+              </div>
+
+       <!-- Section 7 -->
+      <div class="terms-section">
+        <h2><span class="num">7</span>Changes to Ownership or Material Support</h2>
+        <p>Ownership structures and funding arrangements may evolve over time. If JournoPulse undergoes a significant ownership change, receives substantial outside funding, or enters into a material relationship that could reasonably affect perceptions of editorial independence, we may update this page and provide appropriate disclosures where relevant.</p>
+              </div>
+
+              <div class="contact-box">
+          📧 <a href="https://www.journopulse.com/contact/contact-us.html">Contact Page</a> &nbsp;|&nbsp;
+          📧 <a href="mailto:editorial@journopulse.com">editorial@journopulse.com</a>
+        </div>
+     
+
+      <div class="last-updated">
+        🗓 <span><strong>Last Updated:</strong> May 21, 2026 &nbsp;—&nbsp; JournoPulse reserves the right to update these terms periodically.</span>
+      </div>
+
+    </main>
+
+    <!-- SIDEBAR -->
+    <aside class="sidebar">
+
+      <div class="widget">
+        <div class="widget-title">Quick Links</div>
+        <div class="widget-body">
+          <ul class="quick-links">
+            <li><a href="/terms/terms-and-condition.html">Terms &amp; Conditions</a></li>
+            <li><a href="/privacy/privacy-policy.html">Privacy Policy</a></li>
+            <li><a href="/contact/contact-us.html">Contact Us</a></li>
+            <li><a href="/about/about-us.html">About Us</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="widget">
+        <div class="widget-title">Categories</div>
+        <div class="widget-body">
+          <ul class="categories-list">
+            <li><a href="/us/us.html">U.S News</a><span class="cat-count">Latest</span></li>
+            <li><a href="/technology/technology.html">Technology</a><span class="cat-count">Latest</span></li>
+            <li><a href="/business/business.html">Business</a><span class="cat-count">Latest</span></li>
+            <li><a href="/politics/politics.html">Politics</a><span class="cat-count">Latest</span></li>
+            <li><a href="/world/world.html">World News</a><span class="cat-count">Latest</span></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="widget">
+        <div class="widget-title">About JournoPulse</div>
+        <div class="widget-body">
+          <div class="about-widget">
+            <p>JournoPulse delivers the latest business, technology, and global news to a growing audience, providing reliable insights and stories that matter.</p>
+            <div class="social-row">
+              <a href="#" title="Facebook"><img src="https://img.icons8.com/ios-glyphs/30/facebook-new.png" alt="Facebook" /></a>
+              <a href="https://x.com/journopulse_" title="Twitter / X"><img src="https://img.icons8.com/ios-filled/50/twitterx--v2.png" alt="X" /></a>
+              <a href="#" title="YouTube"><img src="https://img.icons8.com/ios-filled/50/youtube-play.png" alt="YouTube" /></a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </aside>
+  </div>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="footer-top">
+      <div class="footer-col">
+        <div class="footer-logo">Journo<span>Pulse</span></div>
+        <p>JournoPulse delivers the latest business, technology, and global news to a growing audience, providing reliable insights and stories that matter.</p>
+      </div>
+      <div class="footer-col">
+        <h4>Sections</h4>
+        <ul>
+          <li><a href="/us/us.html">U.S News</a></li>
+          <li><a href="/technology/technology.html">Technology</a></li>
+          <li><a href="/business/business.html">Business</a></li>
+          <li><a href="/politics/politics.html">Politics</a></li>
+          <li><a href="/world/world.html">World</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Legal</h4>
+        <ul>
+          <li><a href="#">Terms &amp; Conditions</a></li>
+          <li><a href="/privacy/privacy-policy.html">Privacy Policy</a></li>
+          <li><a href="/contact/contact-us.html">Contact Us</a></li>
+          <li><a href="/about/about-us.html">About Us</a></li>
+         </ul>
+      </div>
+      <div class="footer-col">
+        <h4>News room</h4>
+        <ul>
+            <li><a href="/our-team/our-team.html">Our Team</a></li>
+           <li><a href="/editorial-policy/editorial-policy.html">Editorial Policy</a></li>
+          <li><a href="/corrections-policy/correction-policy.html">Corrections Policy</a></li>
+          <li><a href="/source-methodology/source-methodology.html">Source Methodology</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Standards</h4>
+        <ul>
+            <li><a href="/ownership/ownership-funding.html">Ownership & Funding</a></li>
+           <li><a href="/advertising-policy/advertising-policy.html">Advertising Policy</a></li>
+          <li><a href="/right-of-reply/right-of-reply.html">Right of Reply</a></li>
+          <li><a href="/corrections-policy/correction-policy.html">Corrections Policy</a></li>
+        <li><a href="/legal/legal.html">Legal</a></li>
+
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Follow Us</h4>
+        <ul>
+          <li><a href="#">Facebook</a></li>
+          <li><a href="https://x.com/journopulse_">Twitter / X</a></li>
+          <li><a href="#">YouTube</a></li>
+          
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      &copy; 2026 JournoPulse. Your Source for Business &amp; Technology News. All Rights Reserved. &nbsp;|&nbsp;
+      <a href="#">Terms &amp; Conditions</a> &nbsp;|&nbsp;
+      <a href="https://www.journopulse.com/privacy/privacy-policy.html">Privacy Policy</a>
+    </div>
+  </footer>
+
+</body>
+</html>

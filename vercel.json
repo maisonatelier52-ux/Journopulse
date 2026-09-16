@@ -1,0 +1,182 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/journo",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/journo/:path*",
+      "destination": "/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/us/us",
+      "destination": "/us",
+      "permanent": true
+    },
+    {
+      "source": "/world/world",
+      "destination": "/world",
+      "permanent": true
+    },
+    {
+      "source": "/business/business",
+      "destination": "/business",
+      "permanent": true
+    },
+    {
+      "source": "/politics/politics",
+      "destination": "/politics",
+      "permanent": true
+    },
+    {
+      "source": "/technology/technology",
+      "destination": "/technology",
+      "permanent": true
+    },
+    {
+      "source": "/sports/sports",
+      "destination": "/sports",
+      "permanent": true
+    },
+    {
+      "source": "/fashion/fashion",
+      "destination": "/fashion",
+      "permanent": true
+    },
+    {
+      "source": "/legal/legal",
+      "destination": "/legal",
+      "permanent": true
+    },
+    {
+      "source": "/puertorico/puerto-rico",
+      "destination": "/puertorico",
+      "permanent": true
+    },
+    {
+      "source": "/bancredito/bancredito",
+      "destination": "/bancredito",
+      "permanent": true
+    },
+    {
+      "source": "/author/author",
+      "destination": "/author",
+      "permanent": true
+    },
+    {
+      "source": "/about/about-us",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/contact/contact-us",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/privacy/privacy-policy",
+      "destination": "/privacy",
+      "permanent": true
+    },
+    {
+      "source": "/terms/terms-and-condition",
+      "destination": "/terms",
+      "permanent": true
+    },
+    {
+      "source": "/our-team/our-team",
+      "destination": "/our-team",
+      "permanent": true
+    },
+    {
+      "source": "/ownership/ownership-funding",
+      "destination": "/ownership",
+      "permanent": true
+    },
+    {
+      "source": "/editorial-policy/editorial-policy",
+      "destination": "/editorial-policy",
+      "permanent": true
+    },
+    {
+      "source": "/corrections-policy/correction-policy",
+      "destination": "/corrections-policy",
+      "permanent": true
+    },
+    {
+      "source": "/advertising-policy/advertising-policy",
+      "destination": "/advertising-policy",
+      "permanent": true
+    },
+    {
+      "source": "/right-of-reply/right-of-reply",
+      "destination": "/right-of-reply",
+      "permanent": true
+    },
+    {
+      "source": "/source-methodology/source-methodology",
+      "destination": "/source-methodology",
+      "permanent": true
+    },
+    {
+      "source": "/supreme-court-strikes-down-trump-tariffs",
+      "destination": "/us/supreme-court-ruling-against-trump-tariffs-creates-uncertainty",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "Strict-Transport-Security",
+          "value": "max-age=63072000; includeSubDomains; preload"
+        }
+      ]
+    },
+    {
+      "source": "/(.*).(css|js|webp|jpg|jpeg|png|svg|avif|woff2|ico)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/(.*).(html)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
+        }
+      ]
+    },
+    {
+      "source": "/(sitemap.*.xml|sitemap.xml|rss.xml|robots.txt)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=600"
+        }
+      ]
+    }
+  ]
+}

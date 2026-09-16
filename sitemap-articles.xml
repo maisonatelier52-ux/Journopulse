@@ -1,433 +1,578 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-<url>
-    <loc>https://www.journopulse.com/fashion/prada-luxury-fashion-pasta-pomodoro-milan-fashion-week</loc>
-    <lastmod>2026-07-15T10:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-</url>
-
-
-<url>
-    <loc>https://journopulse.com/politics/blanche-terminates-fund-for-trump-allies-after-gop-senators-threaten-to-block-attorney-general-bid</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-</url>
-
- <url>
-    <loc>https://www.journopulse.com/politics/georgia-fulton-county-2020-ballots-fbi-court-case</loc>
-    <lastmod>2026-03-27</lastmod>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.journopulse.com/politics/florida-polls-open-2026-governor-race-successor-ron-desantis</loc>
+    <lastmod>2026-08-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/polling-place.webp</image:loc><image:title>Florida Polls Open as Voters Choose Candidates to Succeed Gov. Ron…</image:title></image:image>
   </url>
-
- 
- <url>
+  <url>
+    <loc>https://www.journopulse.com/politics/blanche-terminates-fund-for-trump-allies-after-gop-senators-threaten-to-block-attorney-general-bid</loc>
+    <lastmod>2026-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/politics-behance.webp</image:loc><image:title>Blanche Terminates Fund for Trump Allies After GOP Senators Threaten…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/politics/iran-us-strait-of-hormuz-conflict-limits-of-escalating-bombing</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/us-iran-war-new.avif</image:loc><image:title>Iran and the US Close In Over the Strait of Hormuz, Demonstrating the…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/fashion/prada-luxury-fashion-pasta-pomodoro-milan-fashion-week</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/prada-serves-fashion.webp</image:loc><image:title>Prada Serves Up Luxury Fashion&#x27;s Version of Pasta Pomodoro at Milan…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/sports/police-investigate-death-of-south-africa-world-cup-footballer-jayden-adams</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/soccer-player.webp</image:loc><image:title>Police Investigate Death of South Africa World Cup Football Player…</image:title></image:image>
+  </url>
+  <url>
     <loc>https://www.journopulse.com/technology/artemis-ii-crew-reunited-with-moonship-after-three-months</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/artemis-astronauts.webp</image:loc><image:title>Artemis II Crew Reunited With Moonship Three Months After Historic…</image:title></image:image>
   </url>
-
-
   <url>
-    <loc>https://www.journopulse.com/sports/mexico-vs-ecuador-2-0-round-of-16-2026-world-cup</loc>
-    <lastmod>2026-07-01T10:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.90</priority>
-</url>
-
-  <url>
-    <loc>https://www.journopulse.com/world/cuba-speedboat-shooting-victims-illegal-entry-claim</loc>
-    <lastmod>2026-03-27</lastmod>
+    <loc>https://www.journopulse.com/politics/trump-republicans-communist-attacks-democrats-midterms</loc>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/trump-and-republicans-return-to-communist.webp</image:loc><image:title>Before the Midterm Elections, Trump and Republicans Resume Their…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/sports/mexico-vs-ecuador-2-0-round-of-16-2026-world-cup</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/mexico-ends-40-year.webp</image:loc><image:title>Mexico Ends a 40-Year Knockout Drought, Beats Ecuador 2-0 to Reach…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/world/initial-deal-to-end-us-iran-war-moves-toward-formal-signing-despite-lingering-questions</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/us-iran-war-moves.webp</image:loc><image:title>Initial Deal to End U.S.-Iran War Moves Toward Formal Signing Despite…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/business/trump-says-us-close-to-iran-deal-ahead-of-busy-weekend</loc>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/trump-again-claim-deal.webp</image:loc><image:title>Trump Says US Close to Iran Deal Ahead of Busy Weekend: Live Updates…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/world/world-cup-2026-what-to-know-where-to-watch-schedules-and-more</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/world-cup-fifa.webp</image:loc><image:title>World Cup 2026: Here&#x27;s What to Know, Where to Watch, Schedules and…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/world/cuba-speedboat-shooting-victims-illegal-entry-claim</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/cuba-says-speedboat.webp</image:loc><image:title>Cuba Says Four Killed in Speedboat Shooting Were Attempting Illegal…</image:title></image:image>
   </url>
   <url>
     <loc>https://www.journopulse.com/technology/love-my-woke-pope-leo-first-encyclical-viral-papal-approach</loc>
-    <lastmod>2026-03-27</lastmod>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/love-my-woke-pop.webp</image:loc><image:title>&#x27;Love My Woke Pope&#x27;: Why Leo&#x27;s First Encyclical Went Viral and What…</image:title></image:image>
   </url>
-  
   <url>
-    <loc>https://www.journopulse.com/us/southern-california-officials-trying-to-prevent-explosion-or-leak-from-damaged-chemical-tank</loc>
+    <loc>https://www.journopulse.com/politics/cornyn-avoided-trump-wrath-lost-seat-anyway</loc>
     <lastmod>2026-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/cornyn-went-lengths-size.webp</image:loc><image:title>Cornyn Avoided Trump’s Wrath but Lost His Seat Anyway | Texas…</image:title></image:image>
   </url>
-  
-   <url>
+  <url>
+    <loc>https://www.journopulse.com/us/southern-california-officials-trying-to-prevent-explosion-or-leak-from-damaged-chemical-tank</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/southern-california.webp</image:loc><image:title>Southern California Chemical Tank Emergency: Officials Work to…</image:title></image:image>
+  </url>
+  <url>
     <loc>https://www.journopulse.com/politics/republicans-show-rare-defiance-to-trump</loc>
     <lastmod>2026-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/trump-republicans.webp</image:loc><image:title>Republicans Show Rare Defiance to Trump as Internal GOP Divisions…</image:title></image:image>
   </url>
-
-  
-   <url>
+  <url>
+    <loc>https://www.journopulse.com/politics/pentagon-appeals-order-blocking-mark-kelly-punishment-over-illegal-orders-call</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/pentagon-dash.jpg</image:loc><image:title>Pentagon Appeals Order Blocking Mark Kelly Punishment Over Illegal…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/business/kremlin-claims-putin-will-travel-to-beijing-very-soon</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/putin-set-visit.webp</image:loc><image:title>The Kremlin Claims That Putin Will Travel to Beijing “Very Soon”</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/technology/why-americans-love-iphones-but-wish-they-didnt-need-them</loc>
+    <lastmod>2026-05-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/american-lifestyle.webp</image:loc><image:title>Why Americans Love iPhones but Wish They Didn’t Need Them</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/sports/basketball-hero-jose-piculin-ortiz-passes-away-at-mourned-in-puerto-rico</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/puerto-rico-site.webp</image:loc><image:title>Basketball Hero José &quot;Piculín&quot; Ortiz Passes Away, Mourned in Puerto…</image:title></image:image>
+  </url>
+  <url>
     <loc>https://www.journopulse.com/world/hantavirus-cruise-ship-passengers-depart-after-first-fatality</loc>
     <lastmod>2026-05-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/hantavirus-russia.webp</image:loc><image:title>Hantavirus Cruise Ship: Dozens of Passengers Depart After First…</image:title></image:image>
   </url>
-  
-   <url>
+  <url>
+    <loc>https://www.journopulse.com/us/aml-compliance-frameworks</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/financial-us.jpg</image:loc><image:title>Bancrédito Holding Rebuilds AML Compliance Frameworks Amid Regulatory…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/us/asset-recovery-strategies-financial-institutions</loc>
+    <lastmod>2026-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/business-insider.webp</image:loc><image:title>Retail investors are not the only ones leaving the most damaged funds…</image:title></image:image>
+  </url>
+  <url>
     <loc>https://www.journopulse.com/politics/president-pope-meeting-vatican-conversation</loc>
     <lastmod>2026-04-16</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>0.90</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/vatican-president-pope.webp</image:loc><image:title>Inside the Vatican Bubble: President and Pope in a Remarkable…</image:title></image:image>
   </url>
-  
-   <url>
+  <url>
+    <loc>https://www.journopulse.com/politics/one-crew-member-missing-after-two-us-aircraft-crash-middle-east</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/one-crew-man.webp</image:loc><image:title>Live Updates: One Crew Member Missing After Two US Aircraft Crash in…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/business/us-gas-prices-hit-4-dollars-highest-since-2022</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/average-price-of.webp</image:loc><image:title>US Gas Prices Hit $4 Per Gallon, Highest Since 2022 | JournoPulse</image:title></image:image>
+  </url>
+  <url>
     <loc>https://www.journopulse.com/business/kosovo-poor-economy-struggles-iran-war-fuel-price-surge</loc>
     <lastmod>2026-03-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/kosovo-europe-countries.webp</image:loc><image:title>Kosovo Struggles as Iran War Drives Fuel Price Surge | JournoPulse</image:title></image:image>
   </url>
-
-<url>
-  <loc>https://www.journopulse.com/world/Iran-drafts-transit-toll-law-amid-Hormuz-tensions</loc>
-  <lastmod>2026-03-26</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-
-
-<url>
-  <loc>https://www.journopulse.com/bancredito/bancredito-bsa-fine-2023</loc>
-  <lastmod>2026-03-19T08:56:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/bancredito/puerto-rico-banker-bribery-scandal-not-guilty-plea</loc>
-  <lastmod>2026-03-19T08:24:31+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/bancredito/bancredito-holding-recover-assets-after-founder-case-dismissed</loc>
-  <lastmod>2026-03-19T08:23:51+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/bancredito/julio-herrera-velutini-reclaim-assets-venezuela-banker</loc>
-  <lastmod>2026-03-19T08:24:23+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/bancredito/bancredito-international-bank-liquidation-update</loc>
-  <lastmod>2026-03-19T08:24:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/bancredito/bancreditointernationalbank</loc>
-  <lastmod>2026-03-19T08:24:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
-
-<url>
-  <loc>https://www.journopulse.com/us/us</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/us/us-supreme-court-hear-exxon-suncor-bid-toss-boulders-climate-suit</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/us/supreme-court-ruling-against-trump-tariffs-creates-uncertainty</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/us/inflation-increased-faster-than-expected-in-december</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/us/governors-break-free-trump-party-hold-washington</loc>
-  <lastmod>2026-03-19T08:11:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/politics/trump-state-of-the-union-midterm-economy</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/us/fact-focus-us-israel-strike-iran-false-images-circulate</loc>
-  <lastmod>2026-03-17T13:30:40+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/fashion/fashion-week-siriano-inaugural-collection-fantasy-surrealism</loc>
-  <lastmod>2026-03-19T08:11:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/technology/technology</loc>
-  <lastmod>2026-03-19T08:33:17+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/technology/bloomberg-philanthropies-mayors-challenge-ai-improves-city-services</loc>
-  <lastmod>2026-03-19T08:29:32+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/technology/wall-street-selling-ai-losers-asian-equities-neutral</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/technology/trump-tariffs-us-stocks-plummet-ai-losers</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/technology/india-joins-us-effort-safe-technologies-supply-chains</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/technology/gates-foundation-project-rwanda-ai-powered-technology-clinics</loc>
-  <lastmod>2026-03-19T08:11:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/business/business</loc>
-  <lastmod>2026-03-19T08:35:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/world/world</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/puertorico/puerto-rico</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/bancredito/bancredito</loc>
-  <lastmod>2026-03-19T08:44:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/about/about-us</loc>
-  <lastmod>2026-03-19T08:25:56+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/terms/terms-and-condition</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/privacy/privacy-policy</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/contact/contact-us</loc>
-  <lastmod>2026-03-19T08:29:32+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/technology/softbank-group-predicts-strong-return-on-investment-from-ai-growth</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/politics/ice-training-deficient-broken-hearing</loc>
-  <lastmod>2026-03-19T08:11:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/author/author</loc>
-  <lastmod>2026-03-19T08:26:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/politics/education-department-duties-delegated-other-us-departments</loc>
-  <lastmod>2026-03-19T08:11:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/politics/trade-policy-instability-supreme-court-rules-against-trump-tariffs</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/politics/citizen-journalists-investigators-help-untangle-epstein-documents</loc>
-  <lastmod>2026-03-19T08:29:32+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/sports/milan-cortina-most-watched-winter-games-since-2014</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/sports/usa-defeats-canada-olympic-mens-hockey-gold-hughes-overtime</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/us/northeast-us-recovers-severe-storm-flight-delays-school-closures</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/us/blizzard-prompts-boston-globe-halt-printing-first-time-153-years</loc>
-  <lastmod>2026-03-19T08:11:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/fashion/met-gala-next-dress-code-fashion-is-art-revealed</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/fashion/scarification-easy-seed-starting-method-accelerates-germination</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/business/vivian-tu-personal-finance-advice</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/business/hyundai-us-tariff-pressure</loc>
-  <lastmod>2026-03-19T08:12:09+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/business/retail-investors-leveraged-etf-rise</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/business/warner-bros-corporate-battle</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/business/meta-amd-ai-hardware-deal</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/business/waymo-robotaxi-expansion-us</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/us/horses-unique-neigh-study</loc>
-  <lastmod>2026-03-19T08:11:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/world/six-planets-february-sky-parade</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/technology/autoimmune-condition-memory-loss</loc>
-  <lastmod>2026-03-17T13:30:40+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/world/north-korea-us-dialogue-threats</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/politics/hong-kong-security-law-sentencing</loc>
-  <lastmod>2026-03-19T08:11:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/us/us-iran-nuclear-talks-resume</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/world/penguin-birthday-botulinum-infants</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/world/uganda-public-affection-arrest</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/sports/cristiano-ronaldo-spanish-club-investment</loc>
-  <lastmod>2026-03-19T08:29:32+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/world/colombia-elections-un-human-rights-warning</loc>
-  <lastmod>2026-03-19T08:29:32+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/world/south-africa-solar-truck-charging</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/politics/eastern-congo-drone-strike-m23</loc>
-  <lastmod>2026-03-19T08:29:32+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/world/russia-ukraine-geneva-negotiations</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/politics/politics</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/puertorico/puerto-rico-law-transparency-public-records-concerns</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/puertorico/puerto-rico-governor-signs-fetus-human-being-law</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/puertorico/us-military-build-up-seen-giving-puerto-rico-833-million-bump</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/puertorico/following-a-plea-agreement-trump-will-pardon-former-puerto-rico-governor-wanda-vazquez</loc>
-  <lastmod>2026-03-19T08:11:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.journopulse.com/puertorico/irans-ambassador-alleges-strikes-targeted-natanz-nuclear-facility</loc>
-  <lastmod>2026-03-19T08:33:08+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
+  <url>
+    <loc>https://www.journopulse.com/politics/georgia-fulton-county-2020-ballots-fbi-court-case</loc>
+    <lastmod>2026-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/georgias-fulton-country.webp</image:loc><image:title>Fulton County, Georgia Seeks Return of 2020 Ballots Seized by FBI |…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/world/Iran-drafts-transit-toll-law-amid-Hormuz-tensions</loc>
+    <lastmod>2026-03-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/iran-and-us-harden.webp</image:loc><image:title>As Tehran Maintains Its Hold on the Strait of Hormuz, Iran and the US…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/bancredito/bancredito-holding-recover-assets-after-founder-case-dismissed</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/bancredito-holding-seeks.webp</image:loc><image:title>Bancrédito Holding Seeks Asset Recovery After | Founder Case Dismissal</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/bancredito/bancreditointernationalbank</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/bancredito-international-bank.jpg</image:loc><image:title>Trump to Pardon Ex-Puerto Rico Governor Wanda Vázquez | JournoPulse</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/bancredito/puerto-rico-banker-bribery-scandal-not-guilty-plea</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/PuertoRico-%20banker.webp</image:loc><image:title>Puerto Rico Banker Bribery Scandal: Julio Herrera Velutini Pleads Not…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/bancredito/uae-exits-opec-impact-global-oil-prices</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/asian-stocks.webp</image:loc><image:title>UAE Exits OPEC: Global Oil Prices Face Uncertainty as Alliance Shifts</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/us/us-supreme-court-hear-exxon-suncor-bid-toss-boulders-climate-suit</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/supreme-court-agree.webp</image:loc><image:title>Supreme Court to Hear Oil Firms’ Appeals in Climate Lawsuits.Top…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/puertorico/puerto-rico-governor-signs-fetus-human-being-law</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/puerto-rico-governor.webp</image:loc><image:title>Puerto Rico Law Recognizes Fetus as Human Being | JournoPulse</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/bancredito/bancredito-bsa-fine-2023</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/legal_funding.webp</image:loc><image:title>Bancrédito Fined $15M by FinCEN for BSA Violations | JournoPulse</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/fashion/fashion-week-siriano-inaugural-collection-fantasy-surrealism</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/fashion.webp</image:loc><image:title>Fashion week: Siriano&#x27;s inaugural collection is infused with…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/fashion/met-gala-next-dress-code-fashion-is-art-revealed</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/met-gala-gusts.webp</image:loc><image:title>The next dress code, &quot;Fashion is Art,&quot; is revealed to Met Gala…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/politics/education-department-duties-delegated-other-us-departments</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/education-department.webp</image:loc><image:title>More of the Education Department&#x27;s duties are delegated to other US…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/politics/ice-training-deficient-broken-hearing</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/officer-training-forum.webp</image:loc><image:title>A former agency lawyer tells a congressional hearing that ICE officer…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/puertorico/following-a-plea-agreement-trump-will-pardon-former-puerto-rico-governor-wanda-vazquez</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/wanda-vazquez.webp</image:loc><image:title>Trump to Pardon Ex-Puerto Rico Governor Wanda Vázquez | JournoPulse</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/puertorico/irans-ambassador-alleges-strikes-targeted-natanz-nuclear-facility</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/iranes-nuclear-ambassador.webp</image:loc><image:title>Iran Envoy Alleges Strikes Targeted Natanz Nuclear Site | JournoPulse</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/sports/milan-cortina-most-watched-winter-games-since-2014</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/milan-cortina-oly.webp</image:loc><image:title>With 96% more views than Beijing, the Milan Cortina Olympics have…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/sports/usa-defeats-canada-olympic-mens-hockey-gold-hughes-overtime</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/hughes-scores-overtime.webp</image:loc><image:title>The United States defeats Canada to win the first men&#x27;s hockey gold…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/us/blizzard-prompts-boston-globe-halt-printing-first-time-153-years</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/blizzard-prompts-boston.webp</image:loc><image:title>Blizzard prompts Boston Globe management to call off printing paper…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/us/fact-focus-us-israel-strike-iran-false-images-circulate</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/education-department.webp</image:loc><image:title>More of the Education Department&#x27;s duties are delegated to other US…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/us/northeast-us-recovers-severe-storm-flight-delays-school-closures</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/northest-us-digs.webp</image:loc><image:title>The Northeast US recovers from a severe storm that caused aircraft…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/fashion/scarification-easy-seed-starting-method-accelerates-germination</loc>
+    <lastmod>2026-03-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/sacrification-.webp</image:loc><image:title>Scarification: The easy seed-starting method that accelerates the…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/politics/citizen-journalists-investigators-help-untangle-epstein-documents</loc>
+    <lastmod>2026-03-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/citizen-journalists.webp</image:loc><image:title>Untangling the maze of Epstein documents is being aided by citizen…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/politics/trade-policy-instability-supreme-court-rules-against-trump-tariffs</loc>
+    <lastmod>2026-03-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/supreme-court-ruiling.webp</image:loc><image:title>The instability surrounding trade policy is unlikely to cease if the…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/politics/trump-state-of-the-union-midterm-economy</loc>
+    <lastmod>2026-03-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/trump-election-court.webp</image:loc><image:title>Ahead of the midterm elections, Trump&#x27;s State of the Union will aim…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/puertorico/us-military-build-up-seen-giving-puerto-rico-833-million-bump</loc>
+    <lastmod>2026-03-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/us-militory.webp</image:loc><image:title>US Military Build-Up Gives Puerto Rico $833M Boost | JournoPulse</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/technology/bloomberg-philanthropies-mayors-challenge-ai-improves-city-services</loc>
+    <lastmod>2026-03-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/bloomberg-philanthropic.webp</image:loc><image:title>Bloomberg Philanthropies Mayors Challenge Winners Use AI to Improve…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/technology/india-joins-us-effort-safe-technologies-supply-chains</loc>
+    <lastmod>2026-03-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/india-ioins-us-led.webp</image:loc><image:title>India joins the US-led effort to create supply chains for safe…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/technology/softbank-group-predicts-strong-return-on-investment-from-ai-growth</loc>
+    <lastmod>2026-03-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/soft-bank.webp</image:loc><image:title>SoftBank Group, a technology investor in Japan, predicts a return on…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/technology/trump-tariffs-us-stocks-plummet-ai-losers</loc>
+    <lastmod>2026-03-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/tech-bird.webp</image:loc><image:title>Trump&#x27;s increased tariffs cause US stocks to plummet, as investors…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/technology/wall-street-selling-ai-losers-asian-equities-neutral</loc>
+    <lastmod>2026-03-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/asian-shares.webp</image:loc><image:title>Following Wall Street&#x27;s hefty selling of possible AI losers, Asian…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/us/inflation-increased-faster-than-expected-in-december</loc>
+    <lastmod>2026-03-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/inflation-rose-more.webp</image:loc><image:title>In December, inflation increased more fast than anticipated.</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/us/supreme-court-ruling-against-trump-tariffs-creates-uncertainty</loc>
+    <lastmod>2026-03-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/trump-tarriff-court.webp</image:loc><image:title>Supreme Court Ruling Against Trump&#x27;s Tariffs Creates Economic and…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/us/trump-gives-iran-10-15-days-deadline-agreement</loc>
+    <lastmod>2026-03-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/trump-election-court.webp</image:loc><image:title>Ahead of the midterm elections, Trump&#x27;s State of the Union will aim…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/business/hyundai-us-tariff-pressure</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/south-korea-hyundai.avif</image:loc><image:title>Hyundai Motor of South Korea cautions that despite the Supreme…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/business/meta-amd-ai-hardware-deal</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/facebook-owner-meta.webp</image:loc><image:title>Meta, the owner of Facebook, will pay up to $100 billion to AMD for…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/business/retail-investors-leveraged-etf-rise</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/us-retail-invester.avif</image:loc><image:title>According to a report, US retail investors are driving the rise in…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/business/vivian-tu-personal-finance-advice</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/vivin-tu-shares.webp</image:loc><image:title>Vivian Tu, &quot;Your Rich BFF,&quot; offers her best advice on personal…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/business/warner-bros-corporate-battle</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/warner-bros-gets.webp</image:loc><image:title>In a fierce battle for the venerable Hollywood company, Warner Bros.</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/business/waymo-robotaxi-expansion-us</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/texas-new-launch.webp</image:loc><image:title>With expansions in Texas and Florida, Waymo now deploys robotaxis in…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/politics/eastern-congo-drone-strike-m23</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/official-killed-drone.webp</image:loc><image:title>A drone attack in eastern Congo killed a key M23 rebel official.</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/politics/hong-kong-security-law-sentencing</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/hong-kong-activist.webp</image:loc><image:title>Under national security law, the father of a Hong Kong activist based…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/puertorico/puerto-rico-law-transparency-public-records-concerns</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/puerto-rico.webp</image:loc><image:title>Puerto Rico Law Raises Concerns Over Public Records | JournoPulse</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/sports/cristiano-ronaldo-spanish-club-investment</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/cristiano-ronaldo.webp</image:loc><image:title>Cristiano Ronaldo purchases stock in a second-tier Spanish team…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/technology/autoimmune-condition-memory-loss</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/autoimmune-disease.webp</image:loc><image:title>This man&#x27;s memory was stolen by an autoimmune condition. | JournoPulse</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/technology/gates-foundation-project-rwanda-ai-powered-technology-clinics</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/foundation-project.webp</image:loc><image:title>Under a new Gates Foundation project, Rwanda will test AI-powered…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/us/governors-break-free-trump-party-hold-washington</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/governors-arrives.webp</image:loc><image:title>Governors are eager to’ break free from Trump&#x27; ‘s party hold when…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/us/horses-unique-neigh-study</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/horse-neigh-unique.webp</image:loc><image:title>A horse’s neigh may be unique in the animal kingdom. Now scientists…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/us/us-iran-nuclear-talks-resume</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/us-iran-hold-round.webp</image:loc><image:title>US-Iran Nuclear Talks Resume Amid Middle East Military Buildup**</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/world/colombia-elections-un-human-rights-warning</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/human-rights-situation.webp</image:loc><image:title>As Colombia prepares for elections, the UN warns that the country&#x27;s…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/world/north-korea-us-dialogue-threats</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/north-korea-warns.webp</image:loc><image:title>North Korea maintains the possibility of US dialogue while…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/world/penguin-birthday-botulinum-infants</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/healthy-penguins-party.webp</image:loc><image:title>Party hats on penguins? Families of infants receiving botulinum…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/world/russia-ukraine-geneva-negotiations</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/russian-and-ukrain-war.webp</image:loc><image:title>After nearly four years of conflict, Russian and Ukrainian officials…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/world/six-planets-february-sky-parade</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/planet-parade-across.webp</image:loc><image:title>At the end of February, six planets will parade over the night sky.</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/world/south-africa-solar-truck-charging</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/solar-powder.webp</image:loc><image:title>On South Africa&#x27;s freight corridors, solar-powered truck charging is…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/world/uganda-public-affection-arrest</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/ugandan-police.webp</image:loc><image:title>Two ladies are detained by Ugandan police after they were caught…</image:title></image:image>
+  </url>
 </urlset>

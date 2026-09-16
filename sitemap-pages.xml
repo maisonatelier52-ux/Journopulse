@@ -1,8 +1,152 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://www.journopulse.com/</loc>
-<priority>1.0</priority>
-<changefreq>daily</changefreq>
-<lastmod>2026-02-26</lastmod>
-</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.journopulse.com/</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/about</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/advertising-policy</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/author</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/foundation-project.webp</image:loc><image:title>Author Page</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/bancredito</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/foundation-project.webp</image:loc><image:title>Bancrédito International Bank Liquidation Update | Puerto Rico…</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/business</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/foundation-project.webp</image:loc><image:title>Business News — Latest Headlines | JournoPulse</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/contact</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/corrections-policy</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/editorial-policy</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/fashion</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/fashion.webp</image:loc><image:title>Fashion News — Runway, Style &amp; Culture | JournoPulse</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/legal</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/our-team</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/ownership</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/politics</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/foundation-project.webp</image:loc><image:title>Politics — Latest Headlines | JournoPulse</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/privacy</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/puertorico</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/foundation-project.webp</image:loc><image:title>Puerto Rico Governor Signs Bill Limiting Public Access</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/right-of-reply</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/source-methodology</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/sports</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/puerto-rico-site.webp</image:loc><image:title>Sports News — Scores, Teams &amp; Athletes | JournoPulse</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/technology</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/foundation-project.webp</image:loc><image:title>Technology — Latest Headlines | JournoPulse</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/terms</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/us</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/foundation-project.webp</image:loc><image:title>U.S. News — Latest Headlines | JournoPulse</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.journopulse.com/world</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image><image:loc>https://www.journopulse.com/img/foundation-project.webp</image:loc><image:title>World News — Latest Headlines | JournoPulse</image:title></image:image>
+  </url>
 </urlset>

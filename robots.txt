@@ -1,4 +1,12 @@
 User-agent: *
 Allow: /
 
+# No crawlable value, keeps crawl budget on articles
+Disallow: /detail
+Disallow: /*?utm_
+Disallow: /*?fbclid
+
+User-agent: Googlebot-News
+Allow: /
+
 Sitemap: https://www.journopulse.com/sitemap.xml

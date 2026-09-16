@@ -1,7 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-
-  "cleanUrls": false,
+  "cleanUrls": true,
   "trailingSlash": false,
 
   "redirects": [
@@ -38,6 +37,10 @@
     {
       "source": "/politics/politics",
       "destination": "/politics/politics.html"
+    },
+    {
+      "source": "/technology",
+      "destination": "/technology/technology.html"
     },
     {
       "source": "/technology/technology",

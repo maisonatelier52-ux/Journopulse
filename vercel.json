@@ -15,112 +15,112 @@
     },
     {
       "source": "/us/us",
-      "destination": "/us",
+      "destination": "/us/us",
       "permanent": true
     },
     {
       "source": "/world/world",
-      "destination": "/world",
+      "destination": "/world/world",
       "permanent": true
     },
     {
       "source": "/business/business",
-      "destination": "/business",
+      "destination": "/business/business",
       "permanent": true
     },
     {
       "source": "/politics/politics",
-      "destination": "/politics",
+      "destination": "/politics/politics",
       "permanent": true
     },
     {
       "source": "/technology/technology",
-      "destination": "/technology",
+      "destination": "/technology/technology",
       "permanent": true
     },
     {
       "source": "/sports/sports",
-      "destination": "/sports",
+      "destination": "/sports/sports",
       "permanent": true
     },
     {
       "source": "/fashion/fashion",
-      "destination": "/fashion",
+      "destination": "/fashion/fashion",
       "permanent": true
     },
     {
       "source": "/legal/legal",
-      "destination": "/legal",
+      "destination": "/legal/legal",
       "permanent": true
     },
     {
       "source": "/puertorico/puerto-rico",
-      "destination": "/puertorico",
+      "destination": "/puertorico/puerto-rico",
       "permanent": true
     },
     {
       "source": "/bancredito/bancredito",
-      "destination": "/bancredito",
+      "destination": "/bancredito/bancredito",
       "permanent": true
     },
     {
       "source": "/author/author",
-      "destination": "/author",
+      "destination": "/autho/author",
       "permanent": true
     },
     {
       "source": "/about/about-us",
-      "destination": "/about",
+      "destination": "/about/about-us",
       "permanent": true
     },
     {
       "source": "/contact/contact-us",
-      "destination": "/contact",
+      "destination": "/contact/contact-us",
       "permanent": true
     },
     {
       "source": "/privacy/privacy-policy",
-      "destination": "/privacy",
+      "destination": "/privacy/privacy-policy",
       "permanent": true
     },
     {
       "source": "/terms/terms-and-condition",
-      "destination": "/terms",
+      "destination": "/terms/terms-and-condition",
       "permanent": true
     },
     {
       "source": "/our-team/our-team",
-      "destination": "/our-team",
+      "destination": "/our-team/our-team",
       "permanent": true
     },
     {
       "source": "/ownership/ownership-funding",
-      "destination": "/ownership",
+      "destination": "/ownership/ownership-funding",
       "permanent": true
     },
     {
       "source": "/editorial-policy/editorial-policy",
-      "destination": "/editorial-policy",
+      "destination": "/editorial-policy/editorial-policy",
       "permanent": true
     },
     {
       "source": "/corrections-policy/correction-policy",
-      "destination": "/corrections-policy",
+      "destination": "/corrections-policy/correction-policy",
       "permanent": true
     },
     {
       "source": "/advertising-policy/advertising-policy",
-      "destination": "/advertising-policy",
+      "destination": "/advertising-policy/advertising-policy",
       "permanent": true
     },
     {
       "source": "/right-of-reply/right-of-reply",
-      "destination": "/right-of-reply",
+      "destination": "/right-of-reply/right-of-reply",
       "permanent": true
     },
     {
       "source": "/source-methodology/source-methodology",
-      "destination": "/source-methodology",
+      "destination": "/source-methodology/source-methodology",
       "permanent": true
     },
     {

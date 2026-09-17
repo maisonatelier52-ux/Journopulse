@@ -8,6 +8,12 @@
     <priority>0.8</priority>
     <image:image><image:loc>https://www.journopulse.com/img/polling-place.webp</image:loc><image:title>Florida Polls Open as Voters Choose Candidates to Succeed Gov. Ron…</image:title></image:image>
   </url>
+  <url> 
+  <loc>https://www.journopulse.com/puertorico/puerto-ricans-protest-reliable-water-access-governor-response</loc>
+   <lastmod>2026-09-17T10:00:00+00:00</lastmod>
+    <changefreq>hourly</changefreq>
+     <priority>1.0</priority>
+      </url>
   <url>
     <loc>https://www.journopulse.com/politics/blanche-terminates-fund-for-trump-allies-after-gop-senators-threaten-to-block-attorney-general-bid</loc>
     <lastmod>2026-08-03</lastmod>

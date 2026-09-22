@@ -1,0 +1,89 @@
+{
+  "scope": "Selected official-source checks during the content pass; not a fresh verification of every linked source or all subsequent events.",
+  "checks": [
+    {
+      "source": "FinCEN",
+      "url": "https://www.fincen.gov/news/news-releases/fincen-announces-15-million-civil-money-penalty-against-bancredito-international",
+      "scope": "Checked the $15 million penalty, enforcement date, period and compliance failures described in the release.",
+      "checked": "2026-09-18"
+    },
+    {
+      "source": "DOJ clemency register",
+      "url": "https://www.justice.gov/pardon/clemency-grants-president-donald-j-trump-2025-present",
+      "scope": "Checked the January 2026 grants and amended warrants; individual clemency remains separate from corporate disputes.",
+      "checked": "2026-09-18"
+    },
+    {
+      "source": "OCC problem loans",
+      "url": "https://www.occ.treas.gov/topics/supervision-and-examination/credit/commercial-credit/problem-loans.html",
+      "scope": "Checked the source for the troubled-loan explanation; the new numerical example is explicitly hypothetical.",
+      "checked": "2026-09-18"
+    },
+    {
+      "source": "NASA Artemis II return",
+      "url": "https://www.nasa.gov/news-release/nasa-welcomes-record-setting-artemis-ii-moonfarers-back-to-earth/",
+      "scope": "Checked April launch/return chronology and the distinction between a lunar flyby and a landing.",
+      "checked": "2026-09-18"
+    },
+    {
+      "source": "Apple Screen Time",
+      "url": "https://support.apple.com/en-kw/guide/iphone/iphbfa595995/ios",
+      "scope": "Reopened the official guide supporting the Screen Time explanation.",
+      "checked": "2026-09-18"
+    },
+    {
+      "source": "SoftBank investment announcement",
+      "url": "https://group.softbank/en/news/press/20260227",
+      "scope": "Checked $30 billion additional investment and three planned $10 billion tranches. The post does not assert completion.",
+      "checked": "2026-09-18"
+    },
+    {
+      "source": "Florida election results",
+      "url": "https://floridaelectionwatch.gov/StateOffices/Governor",
+      "scope": "Checked the separately reported Republican and Democratic primary totals.",
+      "checked": "2026-09-18"
+    },
+    {
+      "source": "India PIB Pax Silica announcement",
+      "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2230648",
+      "scope": "Checked the initiative name and February 20 signing date.",
+      "checked": "2026-09-18"
+    },
+    {
+      "source": "Garden Grove incident information",
+      "url": "https://ggcity.org/hazmat-incident",
+      "scope": "Checked the proposed fund and the distinction between an announcement and final eligibility/application rules.",
+      "checked": "2026-09-18"
+    },
+    {
+      "source": "Supreme Court docket 25-170",
+      "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-170.html",
+      "scope": "Checked the February 23 grant and the additional statutory and Article III jurisdiction question; a grant is not a merits ruling.",
+      "checked": "2026-09-18"
+    },
+    {
+      "source": "PRFAA release excerpt via LegiStorm",
+      "url": "https://www.legistorm.com/stormfeed/view_rss/7027887/organization/45271/title/governor-gonzlez-coln-signs-into-law-bill-recognizing-the-unborn-conceived-as-a-human-being.html",
+      "scope": "The reproduced official-release excerpt identifies Senate Bill 923 and Penal Code Articles 92/93. Only the available excerpt was checked.",
+      "checked": "2026-09-18"
+    },
+    {
+      "source": "V&A Schiaparelli exhibition",
+      "url": "https://www.vam.ac.uk/exhibitions/schiaparelli",
+      "scope": "Corrected the closing date from November 15 to November 8, 2026, as listed by the museum.",
+      "checked": "2026-09-18"
+    },
+    {
+      "source": "British Fashion Council",
+      "url": "https://www.britishfashioncouncil.co.uk/BFCNEWS/5094/THE-BRITISH-FASHION-COUNCIL-ANNOUNCES-PROVISIONAL-SCHEDULE-FOR-LONDON-FASHION-WEEK-SEPTEMBER-2026",
+      "scope": "Checked the September 17–21 dates in the provisional schedule; readers are directed to current organizer listings.",
+      "checked": "2026-09-18"
+    },
+    {
+      "source": "WHO M/V Hondius report",
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON604",
+      "scope": "Checked the May 27 cutoff, 13 cases (11 confirmed, two probable), three deaths and low global/moderate shipboard risk classifications.",
+      "checked": "2026-09-18"
+    }
+  ]
+}

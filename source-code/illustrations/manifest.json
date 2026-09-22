@@ -1,0 +1,924 @@
+[
+  {
+    "id": "01",
+    "article_path": "us/aml-compliance-frameworks.html",
+    "category": "bancredito",
+    "title": "What an effective bank anti-money-laundering program must do",
+    "filename": "01-aml-compliance-frameworks.png",
+    "alt": "Illustration of connected identity checks, transaction monitoring and bank records.",
+    "prompt": "Use case: illustration-story. Asset type: editorial blog hero illustration, landscape 1536 x 1024, full bleed. Create an original professional hand-painted editorial illustration for a post explaining bank anti-money-laundering compliance. A cutaway bank represented by three connected rooms: a customer identity file, a magnifying glass examining a branching transaction network, and a carefully organized reporting ledger. Present compliance as a coordinated process, not a magical shield or a claim about a particular bank. Sophisticated gouache and ink on subtly textured paper, charcoal outlines, warm ivory, restrained vermilion red and muted blue-green accents, strong clear shapes and generous breathing room. Main objects remain readable when cropped to a square thumbnail. Visibly drawn illustration, not a photograph, not a 3D render, not clip art. No words, letters, logos, numbers, watermark, identifiable people or simulated official documents.",
+    "sha256": "ab723a319b475f5f1a8fae27ac0830db7fcd51a6f951a7563af94f887a1e751f",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/01-aml-compliance-frameworks.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "02",
+    "article_path": "us/asset-recovery-strategies-financial-institutions.html",
+    "category": "bancredito",
+    "title": "How banks evaluate asset recovery and troubled-loan workouts",
+    "filename": "02-asset-recovery-strategies-financial-institutions.png",
+    "alt": "Illustration of a loan file, collateral and alternative paths for asset recovery.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A troubled-loan file on a bank desk with a small building, keys and two clearly distinct paths: a repaired bridge representing a negotiated workout and orderly asset blocks representing recovery. Balanced, methodical assessment, no promised payout. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "38a301204d75718572f71619f390093c95c002332ec1271a18785a9536e5f171",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/02-asset-recovery-strategies-financial-institutions.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "03",
+    "article_path": "bancredito/puerto-rico-banker-bribery-scandal-not-guilty-plea.html",
+    "category": "bancredito",
+    "title": "Herrera Velutini case: the pardon record changes the legal timeline",
+    "filename": "03-puerto-rico-banker-bribery-scandal-not-guilty-plea.png",
+    "alt": "Illustration of legal files and a clemency document marking a change in a case timeline.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A sequence of plain legal file folders on a desk, with a formal clemency document opening a new chapter in the sequence. Abstract document shapes and a fountain pen; no person, prison imagery, verdict or official seal. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "7cdb86994f7f2c86a5686d3079b68778182e05398aad425a14633a97da1ccba5",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/03-puerto-rico-banker-bribery-scandal-not-guilty-plea.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "04",
+    "article_path": "bancredito/bancreditointernationalbank.html",
+    "category": "bancredito",
+    "title": "Bancrédito International Bank: what the regulatory record establishes",
+    "filename": "04-bancreditointernationalbank.png",
+    "alt": "Illustration of a bank building and an open archive of regulatory records.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A Caribbean bank building behind an open regulatory archive, with a magnifying glass selecting one dated record from several folders. Emphasize documentary history rather than a current operating bank. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "ff8143b9593b2b863a18613a0f92c4092193157013a555c3bb5916e158f160df",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/04-bancreditointernationalbank.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "05",
+    "article_path": "bancredito/bancredito-holding-recover-assets-after-founder-case-dismissed.html",
+    "category": "bancredito",
+    "title": "Bancrédito Holding says it is pursuing asset-recovery claims",
+    "filename": "05-bancredito-holding-recover-assets-after-founder-case-dismissed.png",
+    "alt": "Illustration of claim documents and an incomplete path toward asset recovery.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: Two separate sets of legal claim folders across a table, between them an outlined incomplete bridge of financial assets. Emphasize a claim being pursued, not a court victory, completed recovery or guilt. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "3d47b07a066bf2902403edc7b54792a4012aedbab7e0f9c78e29a4e493a7399a",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/05-bancredito-holding-recover-assets-after-founder-case-dismissed.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "06",
+    "article_path": "bancredito/bancredito-bsa-fine-2023.html",
+    "category": "bancredito",
+    "title": "FinCEN’s $15 million Bancrédito penalty: findings and significance",
+    "filename": "06-bancredito-bsa-fine-2023.png",
+    "alt": "Illustration of a bank ledger and civil-enforcement review.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A bank ledger under a regulator’s magnifying glass, a civil-enforcement file and a weighted balance beside it. Neutral institutional accountability, no person, handcuffs, fake fine number or official insignia. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "c3c57a37b43c7c909a513722bc8fb08b2d39a213301d8859fda3199d368fa705",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/06-bancredito-bsa-fine-2023.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "07",
+    "article_path": "business/trump-says-us-close-to-iran-deal-ahead-of-busy-weekend.html",
+    "category": "business",
+    "title": "Trump’s June Iran-deal comments: optimism before an agreement",
+    "filename": "07-trump-says-us-close-to-iran-deal-ahead-of-busy-weekend.png",
+    "alt": "Illustration of an unsigned draft on a diplomatic negotiating table.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: An empty diplomatic negotiating table with two chairs, a draft document and a pen resting beside it, with a partly open doorway beyond. A proposal awaiting agreement, no handshake or signed treaty. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "77faaa7306af540135d64398f4f28776fd3fb6a01e2d6f51f268354ff8f7e067",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/07-trump-says-us-close-to-iran-deal-ahead-of-busy-weekend.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "08",
+    "article_path": "business/kremlin-claims-putin-will-travel-to-beijing-very-soon.html",
+    "category": "business",
+    "title": "Putin’s May visit to Beijing: confirmed dates and trade context",
+    "filename": "08-kremlin-claims-putin-will-travel-to-beijing-very-soon.png",
+    "alt": "Illustration of diplomatic talks and trade routes linking two city skylines.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: Rail and cargo routes connecting stylized Russian and Chinese city silhouettes around a central round diplomatic table. Suggest a state visit and trade discussions, no portraits, propaganda or flags. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "0e15680090c3f5273c980fac14439d1a2647572f0cba88e2228aaf4df104ee08",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/08-kremlin-claims-putin-will-travel-to-beijing-very-soon.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "09",
+    "article_path": "business/us-gas-prices-hit-4-dollars-highest-since-2022.html",
+    "category": "business",
+    "title": "U.S. gasoline passed $4 a gallon on March 31: what the average means",
+    "filename": "09-us-gas-prices-hit-4-dollars-highest-since-2022.png",
+    "alt": "Illustration of a fuel pump and varied price markers around an average.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A gasoline pump surrounded by several small price-marker shapes at different heights, with a central measuring dial. Represent a national average versus varied local pump prices, no digits or claims about today’s price. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "18df7c7425101d00afb5322cedfa180d2f3caacbc618d7b2268cba4b9399a94b",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/09-us-gas-prices-hit-4-dollars-highest-since-2022.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "10",
+    "article_path": "business/kosovo-poor-economy-struggles-iran-war-fuel-price-surge.html",
+    "category": "business",
+    "title": "Kosovo’s fuel-price shock: how higher transport costs spread",
+    "filename": "10-kosovo-poor-economy-struggles-iran-war-fuel-price-surge.png",
+    "alt": "Illustration of fuel costs passing through transport to a neighborhood shop.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A fuel delivery truck traveling past a Balkan hillside town and a small grocery shop, with ripples connecting fuel, transport and shopping baskets. Show cost transmission without a chart or invented figures. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "e5c8f5a2873ce842ae66e5ec6d85d74f1af0a0a0df69d075cae7e8741d22ca64",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/10-kosovo-poor-economy-struggles-iran-war-fuel-price-surge.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "11",
+    "article_path": "bancredito/uae-exits-opec-impact-global-oil-prices.html",
+    "category": "business",
+    "title": "The UAE’s OPEC departure: what changed on May 1, 2026",
+    "filename": "11-uae-exits-opec-impact-global-oil-prices.png",
+    "alt": "Illustration of an oil pipeline branching from a shared network.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: An oil pipeline branching away from a circle of storage tanks toward a stylized Gulf coastline. A structural change in producer membership, no flags, logos or prediction of prices. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "31fc532af8d90a7ef41bb48c62288a72b96728a8d51e03e96b81b4a60038984e",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/11-uae-exits-opec-impact-global-oil-prices.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "12",
+    "article_path": "business/waymo-robotaxi-expansion-us.html",
+    "category": "business",
+    "title": "Waymo added Dallas, Houston, San Antonio and Orlando in February",
+    "filename": "12-waymo-robotaxi-expansion-us.png",
+    "alt": "Illustration of an autonomous taxi within a bounded city service area.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: An unbranded autonomous electric taxi with rooftop sensors at a city street intersection, its service area marked as a bounded patch on an abstract map. Show that city launch and trip availability differ, no passenger faces. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "eb2b7bccb003548a96912c8395f22958185f021745cbdd6d44b31787f86706df",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/12-waymo-robotaxi-expansion-us.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "13",
+    "article_path": "technology/artemis-ii-crew-reunited-with-moonship-after-three-months.html",
+    "category": "technology",
+    "title": "Artemis II astronauts returned to Orion after their lunar flight",
+    "filename": "13-artemis-ii-crew-reunited-with-moonship-after-three-months.png",
+    "alt": "Illustration of four astronauts visiting a recovered lunar spacecraft.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: Four small astronauts visiting a recovered conical lunar capsule inside a spacious museum-like inspection hangar. Through a high opening, a subtle moon motif evokes the completed journey. A postflight reunion, not a new launch; no recognizable faces, labels or agency logos. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "027c6972e3a2d00def9b756a5cd99d3f4c4dc08820cd81fd10ab7f8a933aaa6c",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/13-artemis-ii-crew-reunited-with-moonship-after-three-months.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "14",
+    "article_path": "technology/why-americans-love-iphones-but-wish-they-didnt-need-them.html",
+    "category": "technology",
+    "title": "Why an iPhone can feel essential—and how to inspect your own use",
+    "filename": "14-why-americans-love-iphones-but-wish-they-didnt-need-them.png",
+    "alt": "Illustration of a phone set beside a notebook as notification ribbons fade.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A hand sets a smartphone beside an open analog notebook while ribbons of notification symbols loosen into quiet space. Thoughtful everyday technology use, no brand logo, text, app interfaces or moral panic. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "c8167504c87107852a27987cc47d81771989736aa61e7f2b83986c753ac835e4",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/14-why-americans-love-iphones-but-wish-they-didnt-need-them.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "15",
+    "article_path": "technology/wall-street-selling-ai-losers-asian-equities-neutral.html",
+    "category": "technology",
+    "title": "Reading Asia’s mixed markets after the February AI selloff",
+    "filename": "15-wall-street-selling-ai-losers-asian-equities-neutral.png",
+    "alt": "Illustration of contrasting market directions beside a computer-chip motif.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: Three distinct abstract Asian city market panels showing different rising and falling steps, with a small computer-chip motif in the foreground. Mixed outcomes across markets, no actual chart, ticker or numeric data. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "7c4542e1f99b783d2a874c2e3a6204217f45b1ed9b4070ae7db6d62caf1d2727",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/15-wall-street-selling-ai-losers-asian-equities-neutral.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "16",
+    "article_path": "technology/trump-tariffs-us-stocks-plummet-ai-losers.html",
+    "category": "technology",
+    "title": "U.S. stocks fell February 23 amid tariff uncertainty and AI concerns",
+    "filename": "16-trump-tariffs-us-stocks-plummet-ai-losers.png",
+    "alt": "Illustration of falling market blocks beside trade and AI motifs.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A stock-market screen rendered as abstract descending blocks, with two separate contextual motifs: a shipping container and a circuit board. Several possible pressures, no single causal arrow or invented market figures. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "70758de8595f8d54d8f37c2c676fa80ff3efeac7d890757f9785687b7db7b4a6",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/16-trump-tariffs-us-stocks-plummet-ai-losers.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "17",
+    "article_path": "technology/softbank-group-predicts-strong-return-on-investment-from-ai-growth.html",
+    "category": "technology",
+    "title": "SoftBank’s $30 billion OpenAI commitment: terms and investment risk",
+    "filename": "17-softbank-group-predicts-strong-return-on-investment-from-ai-growth.png",
+    "alt": "Illustration of a partly built bridge between investment capital and AI infrastructure.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A large investment bridge being assembled between a capital ledger and an AI computing center; some spans complete and others outlined. Commitments, terms and uncertainty, no money waterfall or guaranteed returns. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "0be83e0b6bf39363ff20e80d7e2f893695594273f76a668aaf2ff6b30899a716",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/17-softbank-group-predicts-strong-return-on-investment-from-ai-growth.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "18",
+    "article_path": "technology/india-joins-us-effort-safe-technologies-supply-chains.html",
+    "category": "technology",
+    "title": "India joined Pax Silica on February 20: what the initiative covers",
+    "filename": "18-india-joins-us-effort-safe-technologies-supply-chains.png",
+    "alt": "Illustration of a supply chain connecting minerals, semiconductors and computing.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A resilient supply chain linking a mineral sample, a semiconductor wafer, a chip factory and a server, with subtle Indian and American geographic outlines. Cooperative infrastructure, no flag, official seal or fictitious technical diagram. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "8af05c56c75c6b8ba5c33b20dca943ba4005bc223ec639e3b06040aaaa484ead",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/18-india-joins-us-effort-safe-technologies-supply-chains.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "19",
+    "article_path": "politics/florida-polls-open-2026-governor-race-successor-ron-desantis.html",
+    "category": "politics",
+    "title": "Donalds and Jolly won Florida’s 2026 governor primaries",
+    "filename": "19-florida-polls-open-2026-governor-race-successor-ron-desantis.png",
+    "alt": "Illustration of a Florida primary ballot leading to a later election stage.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A ballot box over the outline of Florida with two separate candidate-colored pathways leading toward a distant second ballot box. Show a primary as one stage before a general election, no names, parties, vote totals or faces. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "660c266dacaa4c201859d31295092a351ebb3e1cdd4daf404f040a1073876411",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/19-florida-polls-open-2026-governor-race-successor-ron-desantis.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "20",
+    "article_path": "politics/blanche-terminates-fund-for-trump-allies-after-gop-senators-threaten-to-block-attorney-general-bid.html",
+    "category": "politics",
+    "title": "Blanche rescinded compensation fund after Senate objections",
+    "filename": "20-blanche-terminates-fund-for-trump-allies-after-gop-senators-threaten-to-block-attorney-general-bid.png",
+    "alt": "Illustration of a closed funding proposal beside a legislative chamber.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A closed public-fund folder beside a Senate chamber silhouette and an untouched approval pen. Rescinding a proposal amid legislative objections, no actual politicians or fake official documents. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "61399959c8694a27bc2b1cb1e12ada86e0434fe376fffc6de5f7473be98d5651",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/20-blanche-terminates-fund-for-trump-allies-after-gop-senators-threaten-to-block-attorney-general-bid.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "21",
+    "article_path": "politics/iran-us-strait-of-hormuz-conflict-limits-of-escalating-bombing.html",
+    "category": "politics",
+    "title": "Hormuz standoff: why airstrikes alone do not measure shipping security",
+    "filename": "21-iran-us-strait-of-hormuz-conflict-limits-of-escalating-bombing.png",
+    "alt": "Illustration of commercial ships navigating a narrow and uncertain sea passage.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: Commercial ships approaching a narrow maritime passage between two coasts, with a navigation buoy and an interrupted safe-passage route. Focus on shipping security, no explosions, warships, bodies or attack reenactment. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "1b4c0b0266fa6e446a96fdc3e79d24768758e495d717732b82e49348825e9490",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/21-iran-us-strait-of-hormuz-conflict-limits-of-escalating-bombing.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "22",
+    "article_path": "politics/trump-republicans-communist-attacks-democrats-midterms.html",
+    "category": "politics",
+    "title": "Republicans’ “communist” label became a 2026 campaign message",
+    "filename": "22-trump-republicans-communist-attacks-democrats-midterms.png",
+    "alt": "Illustration of campaign rhetoric being compared with a policy document.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: Two campaign megaphones project oversized empty speech shapes toward a ballot, while a magnifying glass separates rhetoric from a policy document. Political labeling versus substance, no partisan caricature, slogans or text. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "a8726a7b527ff61b5f2d6041961d4ba8af1096dd3ddc8c4ae6de79f52a40da0a",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/22-trump-republicans-communist-attacks-democrats-midterms.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "23",
+    "article_path": "politics/cornyn-avoided-trump-wrath-lost-seat-anyway.html",
+    "category": "politics",
+    "title": "Cornyn’s Texas runoff defeat: nomination and Senate terms explained",
+    "filename": "23-cornyn-avoided-trump-wrath-lost-seat-anyway.png",
+    "alt": "Illustration of a Texas primary ballot, calendar and continuing legislative term.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A Texas outline behind a primary ballot box and a calendar whose pages continue beside a legislative seat. A nomination result is separate from the end of a term; no names, numbers or identifiable politicians. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "7a7f407b947e9ecc18682a4c837b78ace878926b64e0ced86b78285be2ac0420",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/23-cornyn-avoided-trump-wrath-lost-seat-anyway.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "24",
+    "article_path": "politics/republicans-show-rare-defiance-to-trump.html",
+    "category": "politics",
+    "title": "Senate Republicans challenged Trump’s compensation fund in May",
+    "filename": "24-republicans-show-rare-defiance-to-trump.png",
+    "alt": "Illustration of a public-funding proposal under legislative scrutiny.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A legislative committee table with several empty chairs and a public-spending proposal held open for scrutiny under a desk lamp. Institutional objections and oversight, no personalities or dramatized confrontation. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "8fc5481caa961ef81339465bdd30c7901fa312ce41184cf13b87df71929f179c",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/24-republicans-show-rare-defiance-to-trump.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "25",
+    "article_path": "sports/basketball-hero-jose-piculin-ortiz-passes-away-at-mourned-in-puerto-rico.html",
+    "category": "puertorico",
+    "title": "Puerto Rico remembers basketball great José “Piculín” Ortiz",
+    "filename": "25-basketball-hero-jose-piculin-ortiz-passes-away-at-mourned-in-puerto-rico.png",
+    "alt": "Illustration of a basketball on a quiet Puerto Rican court in tribute to a sporting legacy.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A worn basketball resting on an empty Puerto Rican outdoor court at warm sunset, with a respectful ribbon of light along the baseline and tropical hillside beyond. A tribute to sporting legacy, no portrait, grave, death scene or invented memorial. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "c26487fb40772aa613da3f2fde2885134386d400f6a016bc835a85f0ac9ab582",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/25-basketball-hero-jose-piculin-ortiz-passes-away-at-mourned-in-puerto-rico.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "26",
+    "article_path": "puertorico/puerto-rico-governor-signs-fetus-human-being-law.html",
+    "category": "puertorico",
+    "title": "Puerto Rico’s fetal-status law: the provision and its limits",
+    "filename": "26-puerto-rico-governor-signs-fetus-human-being-law.png",
+    "alt": "Illustration of criminal-law and medical documents kept distinct.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: An open criminal-law book beside a separate medical consultation folder, with a small Caribbean island silhouette in the background. Distinguish legal wording from medical decisions, no fetal imagery, politician, scale-of-lives metaphor or ideological symbolism. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "a4ba0b5f690172201d77e5ddd101e4f3f8ae9829b917e2c0dff72a867b2af446",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/26-puerto-rico-governor-signs-fetus-human-being-law.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "27",
+    "article_path": "puertorico/puerto-ricans-protest-reliable-water-access-governor-response.html",
+    "category": "puertorico",
+    "title": "Puerto Rico’s water outages: public complaints and documented responses",
+    "filename": "27-puerto-ricans-protest-reliable-water-access-governor-response.png",
+    "alt": "Illustration of a household tap and neighborhood water infrastructure.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A household water tap, a partly filled clear jug and visible neighborhood water pipes crossing a Puerto Rican hillside. Practical water access and infrastructure, no distressed identifiable people or invented disaster scene. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "881b5e5db66e980ca780215c62699cc556336191d32710b1da202a880078764d",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/27-puerto-ricans-protest-reliable-water-access-governor-response.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "28",
+    "article_path": "puertorico/following-a-plea-agreement-trump-will-pardon-former-puerto-rico-governor-wanda-vazquez.html",
+    "category": "puertorico",
+    "title": "Wanda Vázquez’s pardon is recorded in January 2026 clemency grants",
+    "filename": "28-following-a-plea-agreement-trump-will-pardon-former-puerto-rico-governor-wanda-vazquez.png",
+    "alt": "Illustration of a clemency record beside a closed court file.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: An orderly archive desk with a clemency document, a January calendar represented without numbers, and a closed court file. Explain a recorded pardon without implying innocence or erasing case history; no portrait or official seal. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "148f37e796941590f4bfd52c3fcb85ae9090c939446180da4bc4085fbed8a139",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/28-following-a-plea-agreement-trump-will-pardon-former-puerto-rico-governor-wanda-vazquez.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "29",
+    "article_path": "puertorico/us-military-build-up-seen-giving-puerto-rico-833-million-bump.html",
+    "category": "puertorico",
+    "title": "Puerto Rico projected $832.5 million in military-related investment",
+    "filename": "29-us-military-build-up-seen-giving-puerto-rico-833-million-bump.png",
+    "alt": "Illustration of projected infrastructure investment beside completed structures.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: An island infrastructure planning desk with a port, airport and construction blocks on a model, beside translucent projected investment blocks distinct from solid completed structures. Projected spending, no military action or weapons. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "42eac0f79a22c0be4291a5a88cf8f9447791811abf060907ccf1178de5da4ba0",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/29-us-military-build-up-seen-giving-puerto-rico-833-million-bump.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "30",
+    "article_path": "puertorico/puerto-rico-law-transparency-public-records-concerns.html",
+    "category": "puertorico",
+    "title": "Puerto Rico changed its public-records process in December 2025",
+    "filename": "30-puerto-rico-law-transparency-public-records-concerns.png",
+    "alt": "Illustration of a public-records request moving through an archive process.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A resident’s hand places a records request beside an archive cabinet, with a clock and a winding path through folders. Public access procedures and waiting time, no locked-mouth imagery or invented political accusations. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "3c03d8ea080505099fa7bb8a99596c4d70c295139d05e4e613f5dd01663cbd34",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/30-puerto-rico-law-transparency-public-records-concerns.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "31",
+    "article_path": "fashion/prada-luxury-fashion-pasta-pomodoro-milan-fashion-week.html",
+    "category": "fashion",
+    "title": "Prada’s spring 2027 menswear revisited everyday clothes",
+    "filename": "31-prada-luxury-fashion-pasta-pomodoro-milan-fashion-week.png",
+    "alt": "Illustration of everyday menswear shapes arranged in a fashion studio.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A fashion studio still life of everyday menswear: a work jacket, a soft shirt, rolled trousers and a practical bag, rendered as expressive clothing studies on a rail. Conceptual collection discussion, not copies of specific runway looks; no logos. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "23928a751ffa031469753a6e203475ff1252c2aa6bd9cc35bd489763f95035e9",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/31-prada-luxury-fashion-pasta-pomodoro-milan-fashion-week.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "32",
+    "article_path": "fashion/met-gala-next-dress-code-fashion-is-art-revealed.html",
+    "category": "fashion",
+    "title": "“Fashion is Art”: the 2026 Met Gala dress code explained",
+    "filename": "32-met-gala-next-dress-code-fashion-is-art-revealed.png",
+    "alt": "Illustration connecting a sculptural garment with a framed artwork.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A sculptural dress on a museum mannequin beside a framed abstract painting, with a flowing fabric fold connecting them. Fashion treated as art; original imaginary garment, no recreation of a celebrity outfit or museum artwork. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "7624e9a26be20a4211da65a5aa87331eabcda4366c95542461e544de05221fdd",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/32-met-gala-next-dress-code-fashion-is-art-revealed.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "33",
+    "article_path": "fashion/fashion-week-siriano-inaugural-collection-fantasy-surrealism.html",
+    "category": "fashion",
+    "title": "Christian Siriano’s fall 2026 show explored surrealism and fantasy",
+    "filename": "33-fashion-week-siriano-inaugural-collection-fantasy-surrealism.png",
+    "alt": "Illustration of a sculptural evening gown and surreal fabric forms.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: An imaginative evening gown on a mannequin with sweeping sculptural folds and a surreal floating fabric arc inside a fashion atelier. Original conceptual garment, not an exact designer look; no celebrity, label or text. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "df6c430d07b8ea9d64f68688f68ed111dc544a6483ebff66c3eaaf68774e60c2",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/33-fashion-week-siriano-inaugural-collection-fantasy-surrealism.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "34",
+    "article_path": "fashion/london-fashion-week-september-2026-guide.html",
+    "category": "fashion",
+    "title": "London Fashion Week runs September 17–21: how to follow the schedule",
+    "filename": "34-london-fashion-week-september-2026-guide.png",
+    "alt": "Illustration of a fashion schedule book beside a garment sketch in London.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A London fashion-week planning scene: a schedule book with blank colored blocks, a garment sketch and a small London city silhouette beyond a studio window. Practical visitor planning, no fake event times, labels or logos. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "5f88637ea53672997a3f4eb2da19ec96de642cb85219914260a68e8d6e0618cd",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/34-london-fashion-week-september-2026-guide.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "35",
+    "article_path": "fashion/new-york-fashion-week-spring-2027-recap.html",
+    "category": "fashion",
+    "title": "New York’s spring 2027 collections put color and movement in focus",
+    "filename": "35-new-york-fashion-week-spring-2027-recap.png",
+    "alt": "Illustration of colorful flowing silhouettes on a New York-inspired runway.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: Three original flowing garment silhouettes in vivid but restrained colors crossing an abstract New York runway, showing movement and texture. Conceptual fashion illustration, not replicas of named designer looks, no faces or labels. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "501517a1ab22a854efec9b4c032ccc27e2e7f56e5b33f6c21140e46e5500c269",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/35-new-york-fashion-week-spring-2027-recap.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "36",
+    "article_path": "fashion/schiaparelli-va-exhibition-2026-guide.html",
+    "category": "fashion",
+    "title": "Schiaparelli at the V&A: fashion, surrealism and a visitor’s guide",
+    "filename": "36-schiaparelli-va-exhibition-2026-guide.png",
+    "alt": "Illustration of surrealist fashion forms in an arched museum gallery.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A museum fashion display with an original surrealist-inspired sculptural jacket, a golden abstract eye ornament and a draped mannequin within an arched gallery. Conceptual interpretation, not a copy of any specific exhibited work, no labels. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "d2fb4fe06984b09eb8f7d886ed7ddf040a8be45e6b40bf655d9e9d05889d00eb",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/36-schiaparelli-va-exhibition-2026-guide.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "37",
+    "article_path": "sports/police-investigate-death-of-south-africa-world-cup-footballer-jayden-adams.html",
+    "category": "sports",
+    "title": "Jayden Adams’s death: what officials confirmed in July",
+    "filename": "37-police-investigate-death-of-south-africa-world-cup-footballer-jayden-adams.png",
+    "alt": "Illustration of football boots and a folded jersey beside a quiet pitch.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: An empty football pitch with a single pair of boots and a folded neutral jersey on a bench in soft morning light. Dignified remembrance of a footballer; no person, crime scene, grave, police tape or suggestion about cause of death. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "10886b110a081093b8633fefc3c85e5d4130e4e8378eba1c364fd21f7dcb3d9f",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/37-police-investigate-death-of-south-africa-world-cup-footballer-jayden-adams.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "38",
+    "article_path": "sports/mexico-vs-ecuador-2-0-round-of-16-2026-world-cup.html",
+    "category": "sports",
+    "title": "Mexico beat Ecuador 2–0 to reach the World Cup round of 16",
+    "filename": "38-mexico-vs-ecuador-2-0-round-of-16-2026-world-cup.png",
+    "alt": "Illustration of a football crossing a goal line between contrasting team colors.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A football rolling across a goal line with abstract green and yellow team-color ribbons moving in opposite directions across a pitch. A retrospective match illustration, no real players, invented score, exact uniforms or sponsor logos. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "86207a9c2eba000c76dd2a5ec2b0fd7df46f57e2e645d4a8a145ab80f3e4f796",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/38-mexico-vs-ecuador-2-0-round-of-16-2026-world-cup.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "39",
+    "article_path": "world/world-cup-2026-what-to-know-where-to-watch-schedules-and-more.html",
+    "category": "sports",
+    "title": "World Cup 2026: dates, format and where to find the match record",
+    "filename": "39-world-cup-2026-what-to-know-where-to-watch-schedules-and-more.png",
+    "alt": "Illustration of a football on an open match-record book in front of a stadium.",
+    "prompt": "Edit this gouache-and-ink football illustration. Preserve the football, open blank match-record book, warm paper texture and sophisticated red/blue-green palette. Remove all three recognizable city landmarks and replace that upper background with a single softly painted generic football stadium and abstract crowd. No recognizable cities, buildings, flags, words, letters, numbers, brands or trophy replicas. The image should suggest consulting the match record, without implying any host country or being a literal tournament diagram. Keep landscape 1536x1024 and the hand-painted editorial illustration style.",
+    "sha256": "91b2195f19c0c33206b38ced1f7da70e93a9524ce6f79bb4a68f86008307a889",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/39-world-cup-2026-what-to-know-where-to-watch-schedules-and-more.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true,
+    "initial_prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A football resting on an open match-record book with a tournament bracket of blank connected circles and three host-city skyline hints behind it. Retrospective tournament reference, no fake fixture times, scores, trophy replica or logos. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "edit_reason": "Removed inaccurate host-city landmarks from the conceptual World Cup artwork."
+  },
+  {
+    "id": "40",
+    "article_path": "sports/usa-defeats-canada-olympic-mens-hockey-gold-hughes-overtime.html",
+    "category": "sports",
+    "title": "Jack Hughes’s overtime goal gave U.S. men Olympic hockey gold",
+    "filename": "40-usa-defeats-canada-olympic-mens-hockey-gold-hughes-overtime.png",
+    "alt": "Illustration of a hockey puck crossing the goal line after a sweeping skate trail.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: An ice-hockey puck crossing a goal line on a clean rink, with a sweeping skate trail and a small gold-medal motif. A conceptual overtime-winning moment, no identifiable player, false jersey number, Olympic rings or exact event reenactment. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "4907b24f52afb126939ed855d3d6b01c5a00fb77747ee8f6647a57457afbfab1",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/40-usa-defeats-canada-olympic-mens-hockey-gold-hughes-overtime.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "41",
+    "article_path": "sports/milan-cortina-most-watched-winter-games-since-2014.html",
+    "category": "sports",
+    "title": "NBCUniversal reported 23.5 million viewers for Milan Cortina",
+    "filename": "41-milan-cortina-most-watched-winter-games-since-2014.png",
+    "alt": "Illustration of winter-sport viewing across a television and tablet.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: An alpine winter-sport scene framed inside a television screen beside a tablet, surrounded by small abstract viewer dots. Cross-platform audience measurement, no actual broadcast logos, audience numbers or invented chart. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "545b45822144f491c245a10432c77aaa3a4aecaf3e96a612a40af6a7d4b05738",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/41-milan-cortina-most-watched-winter-games-since-2014.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "42",
+    "article_path": "sports/cristiano-ronaldo-spanish-club-investment.html",
+    "category": "sports",
+    "title": "Cristiano Ronaldo acquired a 25% stake in UD Almería",
+    "filename": "42-cristiano-ronaldo-spanish-club-investment.png",
+    "alt": "Illustration of a football stadium beside a one-quarter ownership diagram.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A small Spanish football stadium seen from above beside an ownership pie made of four equal pieces, one piece separated in accent color. Minority investment in a club, no portrait, club crest, money rain or sole-owner symbolism. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "307ff70e509344100a6e53a23e9d2f83be38a3e1a556dc8554503c13ead2daed",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/42-cristiano-ronaldo-spanish-club-investment.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "43",
+    "article_path": "us/southern-california-officials-trying-to-prevent-explosion-or-leak-from-damaged-chemical-tank.html",
+    "category": "us",
+    "title": "Garden Grove chemical incident: evacuations ended, recovery continues",
+    "filename": "43-southern-california-officials-trying-to-prevent-explosion-or-leak-from-damaged-chemical-tank.png",
+    "alt": "Illustration of an industrial tank inspection during recovery.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: An industrial storage tank behind a safety barrier, with inspection tools and a neighborhood reopening in the distance under a clear sky. Recovery and monitoring after an incident, no explosion, plume, injury or false active emergency. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "261e7a5627247b8e587e94cbf55212658c65387f152ec1726c64fbd680dce50f",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/43-southern-california-officials-trying-to-prevent-explosion-or-leak-from-damaged-chemical-tank.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "44",
+    "article_path": "us/us-supreme-court-hear-exxon-suncor-bid-toss-boulders-climate-suit.html",
+    "category": "us",
+    "title": "Supreme Court review of Boulder climate suit: the questions before the justices",
+    "filename": "44-us-supreme-court-hear-exxon-suncor-bid-toss-boulders-climate-suit.png",
+    "alt": "Illustration of a courthouse, climate context and two legal case files.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A courthouse facade reflected in a landscape that includes mountain foothills and an urban neighborhood, with two separate legal folders on a desk in front. A procedural climate-litigation question, no verdict, company logo or claim of proven liability. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "799948417ad70eef30bf281f32e444f8b6839e65c7f1e34e6925f3b8e6a7fb4c",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/44-us-supreme-court-hear-exxon-suncor-bid-toss-boulders-climate-suit.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "45",
+    "article_path": "us/northeast-us-recovers-severe-storm-flight-delays-school-closures.html",
+    "category": "us",
+    "title": "The February 22–23 Northeast blizzard: reading the official storm record",
+    "filename": "45-northeast-us-recovers-severe-storm-flight-delays-school-closures.png",
+    "alt": "Illustration of a snow-covered town beside a historical weather log.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A snow-covered northeastern town beneath sweeping winter weather bands, with an open historical weather log in the foreground. A past storm record, no current forecast map, fake totals or emergency warning. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "34604f6d0da368b8abf43527678636a269a33154b4e528e0a4adce3c7ab76f67",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/45-northeast-us-recovers-severe-storm-flight-delays-school-closures.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "46",
+    "article_path": "us/fact-focus-us-israel-strike-iran-false-images-circulate.html",
+    "category": "us",
+    "title": "Old images can mislead during war: how to check a viral claim",
+    "filename": "46-fact-focus-us-israel-strike-iran-false-images-circulate.png",
+    "alt": "Illustration of checking an image’s source and date across layered frames.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A magnifying glass examining the corner of an image within several layered picture frames and a calendar tile, revealing that one frame belongs to another time. Visual verification and provenance, no actual war footage, graphic harm or fake evidence. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "5035b2c7c04111a7ecd2ed92248301537e458f21511f624af1b48439f6d456bd",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/46-fact-focus-us-israel-strike-iran-false-images-circulate.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "47",
+    "article_path": "us/blizzard-prompts-boston-globe-halt-printing-first-time-153-years.html",
+    "category": "us",
+    "title": "Boston Globe canceled February 24 print delivery during the blizzard",
+    "filename": "47-blizzard-prompts-boston-globe-halt-printing-first-time-153-years.png",
+    "alt": "Illustration of snow interrupting newspaper delivery while a digital screen remains lit.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A newspaper delivery bicycle beside neatly bundled unprinted papers in deep snow, while a small warm-lit screen glows through a nearby window. Disruption of physical delivery during a past blizzard, no newspaper name or invented front-page text. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "df2d0441417cbc25dea60d3e3ca57fb79d259afdd40a637770dc13dbdcecd69d",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/47-blizzard-prompts-boston-globe-halt-printing-first-time-153-years.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "48",
+    "article_path": "us/trump-gives-iran-10-15-days-deadline-agreement.html",
+    "category": "us",
+    "title": "Trump’s February Iran deadline: what the 10-to-15-day statement meant",
+    "filename": "48-trump-gives-iran-10-15-days-deadline-agreement.png",
+    "alt": "Illustration of an hourglass and an unsigned diplomatic proposal.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: An hourglass beside an unsigned diplomatic document and two empty chairs, with a short row of blank calendar tiles receding behind it. A political negotiating deadline, no countdown numbers, war scene or claimed agreement. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "7d2b6f6d523f0a356f78a2677808dff2995f25c1864cf922f5ae21599b2cc961",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/48-trump-gives-iran-10-15-days-deadline-agreement.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "49",
+    "article_path": "world/initial-deal-to-end-us-iran-war-moves-toward-formal-signing-despite-lingering-questions.html",
+    "category": "world",
+    "title": "June U.S.–Iran preliminary deal left implementation questions open",
+    "filename": "49-initial-deal-to-end-us-iran-war-moves-toward-formal-signing-despite-lingering-questions.png",
+    "alt": "Illustration of a preliminary agreement with unfinished implementation steps.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A preliminary diplomatic document bridging two shores, with several tabs and unfinished connections still visible beneath it. A framework needing implementation, no celebratory handshake or claim of settled peace. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "873aef72bd31c6c0c533f0e18afcce0d77b74b1859563532333f4e5ae17fdad9",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/49-initial-deal-to-end-us-iran-war-moves-toward-formal-signing-despite-lingering-questions.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "50",
+    "article_path": "world/cuba-speedboat-shooting-victims-illegal-entry-claim.html",
+    "category": "world",
+    "title": "Cuba reported four deaths in February speedboat confrontation",
+    "filename": "50-cuba-speedboat-shooting-victims-illegal-entry-claim.png",
+    "alt": "Illustration of a coastal boat and records awaiting verification.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A small unoccupied speedboat near a Caribbean coast viewed from a distance, with a plain evidence folder and a magnifying glass in the foreground. Separate an official account from independent verification; no gunfire, victims or simulated event evidence. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "460f023f4f12180cd426091af9946bd8822545c476ab00770aaa19cfbe6a23bd",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/50-cuba-speedboat-shooting-victims-illegal-entry-claim.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "51",
+    "article_path": "technology/love-my-woke-pope-leo-first-encyclical-viral-papal-approach.html",
+    "category": "world",
+    "title": "Leo XIV’s first encyclical puts human dignity at the center of the AI debate",
+    "filename": "51-love-my-woke-pope-leo-first-encyclical-viral-papal-approach.png",
+    "alt": "Illustration of human-centered ideas meeting AI circuit patterns in an open book.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: An open philosophical book with a warm human hand on one page and branching circuit patterns on the other, beneath gentle architectural arches. Human dignity, work and AI in Catholic social thought; no papal portrait, official emblem or fabricated quotation. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "f2c9fdbd470fc6fd3a54405e9810371dabbb435ffb4286a08f5662e54579a49f",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/51-love-my-woke-pope-leo-first-encyclical-viral-papal-approach.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "52",
+    "article_path": "world/hantavirus-cruise-ship-passengers-depart-after-first-fatality.html",
+    "category": "world",
+    "title": "Hondius hantavirus outbreak: what WHO’s May report established",
+    "filename": "52-hantavirus-cruise-ship-passengers-depart-after-first-fatality.png",
+    "alt": "Illustration of a passenger ship beside a dated public-health assessment.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A passenger ship silhouette beside a public-health report, a magnifying glass and a small bounded cluster of abstract dots. A dated outbreak assessment, not a medical diagram; no sufferers, frightening virus monster or suggestion of current universal danger. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "ef2c10822a3e6b22363d478ae67c0dc193407f66e463bc36aac3dd9e0e97adcc",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/52-hantavirus-cruise-ship-passengers-depart-after-first-fatality.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "53",
+    "article_path": "world/Iran-drafts-transit-toll-law-amid-Hormuz-tensions.html",
+    "category": "world",
+    "title": "Iran’s proposed Hormuz toll: a draft is different from an accepted transit rule",
+    "filename": "53-Iran-drafts-transit-toll-law-amid-Hormuz-tensions.png",
+    "alt": "Illustration of a proposed toll gate beside a shipping passage and draft law.",
+    "prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A draft law scroll without words beside a narrow shipping passage, with a proposed toll gate drawn as a light incomplete outline. Distinguish a proposal from an accepted navigation rule, no actual tariff figures or endorsed blockade. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "sha256": "c865ec50a4f04b390c7819356fe9353f4182b046f37eeeab7e6b0b1dd5a102c0",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/53-Iran-drafts-transit-toll-law-amid-Hormuz-tensions.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true
+  },
+  {
+    "id": "54",
+    "article_path": "puertorico/irans-ambassador-alleges-strikes-targeted-natanz-nuclear-facility.html",
+    "category": "world",
+    "title": "Natanz: March assessments distinguished entrance damage from radiological impact",
+    "filename": "54-irans-ambassador-alleges-strikes-targeted-natanz-nuclear-facility.png",
+    "alt": "Illustration separating a facility entrance inspection from environmental monitoring.",
+    "prompt": "Edit this gouache-and-ink editorial illustration. Its subject is a conceptual discussion of an underground uranium enrichment facility, NOT a nuclear power reactor. Replace the domed reactor and smokestack with low rectangular industrial service buildings and a concrete entrance set into an arid rocky plateau. Remove the lake, forests and lush vegetation; use dry ochre desert hills. Retain the circular close-up showing an intact industrial entrance and the separate generic monitoring instrument as conceptual symbols of different assessment questions. Do not show explosions, smoke, contamination or numerical instrument readings. No suggestion of measured radiation, no identifiable actual facility layout. Preserve landscape 1536x1024, warm textured gouache, ink outlines, restrained vermilion and muted blue-green accents, professional editorial illustration. No words or labels.",
+    "sha256": "178250d124b8c1eaffd5a26f9f5287e4f62e0795309cbff2d5d00c0eb6b89a16",
+    "tool": "Built-in image_gen",
+    "asset_path": "site/img/illustrations/54-irans-ambassador-alleges-strikes-targeted-natanz-nuclear-facility.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "conceptual": true,
+    "initial_prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A remote industrial facility seen in restrained isometric illustration, with an inspection lens focused on an entrance while a separate environmental monitoring instrument stands nearby. Distinguish structural assessment from radiological measurement, no mushroom cloud, explosion or invented contamination map. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+    "edit_reason": "Replaced reactor-like structures and lush terrain with a conceptual enrichment-facility entrance on an arid plateau."
+  }
+]

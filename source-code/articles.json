@@ -1,0 +1,1600 @@
+[
+  {
+    "path": "us/aml-compliance-frameworks.html",
+    "category": "us",
+    "date": "2026-05-06T11:03:00+00:00",
+    "title": "What an effective bank anti-money-laundering program must do",
+    "description": "A practical guide to internal controls, customer checks, independent testing and accountability, informed by federal examination standards.",
+    "image": "https://www.journopulse.com/img/financial-us.jpg",
+    "body": "An anti-money-laundering program is a system for detecting and responding to financial-crime risk. A policy document alone does not demonstrate that the system works. Federal banking examiners assess the controls a bank actually operates, including how it identifies customers and reviews unusual transactions.\n## The core controls\nThe FFIEC examination manual identifies internal controls, independent testing, a responsible compliance officer and staff training as core program components. Customer identification and ongoing, risk-based customer due diligence support those controls. A bank should understand the purpose of a customer relationship and investigate activity that does not fit it.\n## What meaningful evidence looks like\nUseful questions for an oversight committee include: Are alerts being resolved promptly? Can reviewers explain why an unusual transaction was escalated or closed? Did independent testing identify recurring failures? Who owns each corrective action, and what evidence shows it was completed?\nThose questions distinguish an operating control from a promise to improve. They also make broad claims about a bank's compliance easier to evaluate.\n## Applying the lesson to Bancrédito\nFinCEN's 2023 enforcement announcement identified weaknesses in suspicious-activity reporting and correspondent-account due diligence at Bancrédito. This explainer does not establish that the bank subsequently rebuilt its compliance program; that would require current, institution-specific evidence.\n## Follow one alert through the system\nConsider an unusual payment that triggers a review. The useful record connects the customer information, the reason for the alert, the reviewer’s decision and any follow-up. Counting alerts without examining those steps says little about the quality of the control.",
+    "links": [],
+    "group": "bancredito",
+    "sources": [
+      {
+        "label": "FFIEC: BSA/AML program and enforcement guidance",
+        "url": "https://bsaaml.ffiec.gov/manual/Appendices/19",
+        "type": "Primary source"
+      },
+      {
+        "label": "FinCEN: Bancrédito enforcement announcement",
+        "url": "https://www.fincen.gov/news/news-releases/fincen-announces-15-million-civil-money-penalty-against-bancredito-international",
+        "type": "Primary source"
+      }
+    ],
+    "note": "Replaced unrelated private-credit and climate-litigation passages. Removed the unsupported claim that Bancrédito had rebuilt its compliance infrastructure.",
+    "kind": "Explainer",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Follow one alert through the system”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "01"
+  },
+  {
+    "path": "us/asset-recovery-strategies-financial-institutions.html",
+    "category": "us",
+    "date": "2026-05-05T11:03:00+00:00",
+    "title": "How banks evaluate asset recovery and troubled-loan workouts",
+    "description": "Recovery depends on repayment prospects, documentation and costs—not simply the face value of a claim.",
+    "image": "https://www.journopulse.com/img/business-insider.webp",
+    "body": "When a loan becomes troubled, a bank must decide which course offers a realistic route to repayment. The Office of the Comptroller of the Currency describes several possible workouts: extending a loan, supplying additional credit, restructuring terms or foreclosing on collateral.\n## Compare the alternatives\nA recovery assessment should separate the amount owed from the amount likely to be collected. A valuable asset may still be difficult to sell, subject to another creditor's claim or expensive to maintain. A borrower that can resume payments may produce a different outcome from an immediate sale.\nThe OCC's guidance emphasizes maximizing recovery while limiting risk. Its refinance-risk bulletin also directs attention to repayment needs, project performance, maturity dates, market liquidity and financing costs.\n## Questions that make a recovery claim useful\nReaders should look for the legal owner of the asset, the basis of the claim, the process being used and evidence of money actually recovered. A lawsuit seeking damages is different from a judgment; a judgment is different from cash received.\n## Relevance to banking disputes\nThese distinctions provide context for asset-recovery announcements involving institutions such as Bancrédito. They do not prove a particular claimant is entitled to an asset or forecast the outcome of litigation. Reliable reporting should attach amounts and dates to the relevant filing or financial statement.\n## Compare net recovery, not the headline amount\nA simple hypothetical makes the distinction clear: collecting 100 units while spending 20 on enforcement leaves 80 before other costs. Timing matters too. Comparing alternatives requires the expected proceeds, costs and uncertainty of each route, rather than the largest stated claim.",
+    "links": [],
+    "group": "bancredito",
+    "sources": [
+      {
+        "label": "OCC: Problem loans",
+        "url": "https://www.occ.treas.gov/topics/supervision-and-examination/credit/commercial-credit/problem-loans.html",
+        "type": "Primary source"
+      },
+      {
+        "label": "OCC: Commercial lending and refinance risk",
+        "url": "https://occ.treas.gov/news-issuances/bulletins/2024/bulletin-2024-29.html",
+        "type": "Primary source"
+      }
+    ],
+    "note": "Rewritten as a banking explainer. Unrelated climate-litigation material and unsupported claims of widespread fund withdrawals were removed.",
+    "kind": "Explainer",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Compare net recovery, not the headline amount”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "02"
+  },
+  {
+    "path": "bancredito/puerto-rico-banker-bribery-scandal-not-guilty-plea.html",
+    "category": "bancredito",
+    "date": "2026-03-19T11:03:00+00:00",
+    "title": "Herrera Velutini case: the pardon record changes the legal timeline",
+    "description": "The January 2026 clemency warrants provide a clearer timeline for the individual case, separate from the bank’s regulatory history.",
+    "image": "https://www.journopulse.com/img/PuertoRico-%20banker.webp",
+    "body": "The Justice Department's clemency register records two January 2026 actions concerning Julio Herrera Velutini: a pardon dated January 15, 2026, followed by an amended pardon on January 20 concerning a foreign-national contribution offense.\n## Read the procedural stages separately\nAn allegation, a plea, a disposition and a pardon are different legal events. Repeating an early account without the later record can mislead readers about what remains pending. The official clemency register links to the individual warrants, which are the appropriate starting point for checking the scope of the grants.\nA pardon should not be described as a jury acquittal. Nor does a listing of offenses in a clemency register, on its own, establish that each listed accusation resulted in a conviction.\n## The bank is a separate subject\nFinCEN's civil enforcement action against Bancrédito concerned the institution's Bank Secrecy Act obligations. Readers should distinguish that regulatory matter from an individual's criminal case and from subsequent commercial litigation.\nPersonal clemency and the resolution of a corporate dispute must each be established from the records relevant to that matter.\n## Build a document-by-document timeline\nKeep the January grant and its amendment as separate entries, then identify which court matter each document covers. That makes it easier to evaluate a later headline without merging the individual’s case, the bank’s regulatory history and unrelated civil claims.",
+    "links": [],
+    "group": "bancredito",
+    "sources": [
+      {
+        "label": "DOJ: Official clemency register and warrants",
+        "url": "https://www.justice.gov/pardon/clemency-grants-president-donald-j-trump-2025-present",
+        "type": "Primary source"
+      },
+      {
+        "label": "FinCEN: Separate civil enforcement action",
+        "url": "https://www.fincen.gov/news/news-releases/fincen-announces-15-million-civil-money-penalty-against-bancredito-international",
+        "type": "Primary source"
+      }
+    ],
+    "note": "Corrected the stale legal-status description. This page no longer presents a historical not-guilty plea as the latest case development.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Build a document-by-document timeline”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "03"
+  },
+  {
+    "path": "bancredito/bancreditointernationalbank.html",
+    "category": "bancredito",
+    "date": "2026-03-19T11:03:00+00:00",
+    "title": "Bancrédito International Bank: what the regulatory record establishes",
+    "description": "The bank, its shareholder and its founder are distinct subjects. The consent order provides a documented institutional history.",
+    "image": "https://www.journopulse.com/img/bancredito-international-bank.jpg",
+    "body": "Bancrédito International Bank and Trust Corporation was a Puerto Rico international banking entity. FinCEN's September 2023 consent order describes a business that included U.S.-dollar correspondent accounts for foreign financial institutions, with relationships in Central America and the Caribbean.\n## Liquidation and oversight\nAccording to the order, Puerto Rico's Office of the Commissioner of Financial Institutions appointed a receiver in January 2023 to complete the bank's liquidation and administer its assets. That historical record does not support presenting Bancrédito as an ordinary operating bank currently accepting new customers.\nThe order also describes the bank's exposure to elevated money-laundering risks and failures to meet applicable controls. Its findings concern a defined period and should be read in that context.\n## Keep the entities distinct\nThe bank is not interchangeable with Bancrédito Holding Corporation or an individual shareholder. A corporate claim about asset management needs its own evidence; a founder's legal development does not automatically establish the bank's regulatory position.\nFor readers researching the institution, the most useful documents are the consent order, receivership records and any subsequent court orders. A promotional biography or undated company description cannot substitute for those records. This profile avoids claims about present services, ownership changes or regulatory clearance that the cited record does not establish.\n## Use the legal name when researching\nStart with the bank’s full legal name and the date of the record. Then note whether each document concerns the banking entity, a holding company or a person. This small distinction prevents an announcement about one subject from becoming an unsupported claim about another.",
+    "links": [
+      "https://www.journopulse.com/",
+      "https://www.journopulse.com/",
+      "https://www.journopulse.com/"
+    ],
+    "group": "bancredito",
+    "sources": [
+      {
+        "label": "FinCEN: Bancrédito consent order, especially institutional history",
+        "url": "https://www.fincen.gov/system/files/enforcement_action/2023-09-15/Bancredito_Consent_FINAL_091523_508C.pdf",
+        "type": "Primary source"
+      }
+    ],
+    "note": "Replaced promotional and mixed-topic material with a bounded institutional profile. The cited order establishes historical facts, not a current authorization to operate.",
+    "kind": "Background",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Use the legal name when researching”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "04"
+  },
+  {
+    "path": "bancredito/bancredito-holding-recover-assets-after-founder-case-dismissed.html",
+    "category": "bancredito",
+    "date": "2026-03-19T11:03:00+00:00",
+    "title": "Bancrédito Holding says it is pursuing asset-recovery claims",
+    "description": "A March 2026 announcement sets out the shareholder’s position; it does not establish that assets have been recovered or liability decided.",
+    "image": "https://www.journopulse.com/img/bancredito-holding-seeks.webp",
+    "body": "A March 3, 2026 release distributed by MP Publishing on PR Newswire said Bancrédito Holding Corporation was pursuing proceedings concerning the handling of Bancrédito International Bank's assets and legal advice associated with its FinCEN negotiations.\nThe release identified the holding company as the bank's sole shareholder and attributed the recovery effort to its leadership. These are statements from the announcement, not findings independently established by this article.\n## What is claimed, and what is proved\nThe announcement described malpractice allegations and disputes surrounding liquidation. It did not provide a final judgment awarding damages or a verified accounting of recovered funds. Filing a claim establishes that a dispute has been brought; it does not establish that the allegations are correct.\nFinCEN's consent order supplies separate regulatory background, including the appointment of a receiver in 2023. It should be read alongside, rather than replaced by, a claimant's description of events.\n## What would change the picture\nSubstantive updates would include a filed complaint with an identifiable case number, a response from defendants, a court ruling or documented distributions. Until those records support a particular outcome, descriptions such as “assets returned” or “regulatory action overturned” would go beyond the evidence cited here.\n## Separate the request from the result\nIn a claim announcement, identify who is asking for what and which forum will decide it. Keep any amount sought separate from an award or distribution. The useful follow-up is a document showing that the procedural or financial position actually changed.",
+    "links": [
+      "/bancredito/bancreditointernationalbank",
+      "/us/aml-compliance-frameworks",
+      "/us/asset-recovery-strategies-financial-institutions",
+      "/bancredito/bancreditointernationalbank",
+      "/bancredito/bancreditointernationalbank",
+      "/us/aml-compliance-frameworks"
+    ],
+    "group": "bancredito",
+    "sources": [
+      {
+        "label": "MP Publishing release via PR Newswire, 3 March 2026",
+        "url": "https://www.prnewswire.com/news-releases/bancredito-holding-seeks-to-recover-assets-and-establish-accountability-following-closure-of-case-against-its-founder-302702000.html",
+        "type": "Interested-party announcement"
+      },
+      {
+        "label": "FinCEN: Regulatory background",
+        "url": "https://www.fincen.gov/system/files/enforcement_action/2023-09-15/Bancredito_Consent_FINAL_091523_508C.pdf",
+        "type": "Primary source"
+      }
+    ],
+    "note": "Attributed the recovery claims to their source and removed language suggesting a proven court victory or completed recovery.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Separate the request from the result”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "05"
+  },
+  {
+    "path": "bancredito/bancredito-bsa-fine-2023.html",
+    "category": "bancredito",
+    "date": "2026-03-04T11:03:00+00:00",
+    "title": "FinCEN’s $15 million Bancrédito penalty: findings and significance",
+    "description": "The September 2023 civil enforcement action addressed Bank Secrecy Act failures, including reporting and due-diligence shortcomings.",
+    "image": "https://www.journopulse.com/img/legal_funding.webp",
+    "body": "FinCEN announced a $15 million civil money penalty against Bancrédito International Bank and Trust Corporation on September 15, 2023 for willful violations of the Bank Secrecy Act and implementing regulations.\n## What the agency found\nIts announcement identified suspicious-activity reporting failures, inadequate due diligence for foreign correspondent accounts and deficiencies in the bank's anti-money-laundering program. FinCEN described it as its first enforcement action against a Puerto Rican international banking entity and its first enforcement of the relevant AML “Gap Rule” requirement.\n## Why the distinction matters\nA civil money penalty against a bank is different from a criminal sentence imposed on a person. The date also matters: this was a 2023 action, even though the original JournoPulse page was dated March 2026.\nThe consent order is the detailed record for assessing the findings, the relevant period and the institution's commitments. Readers should use that document when evaluating later assertions that the penalty was mistaken, settled differently or set aside.\n## What this article does not establish\nThe linked materials do not document a subsequent cancellation of the penalty. A separate pardon or private lawsuit should not be treated as evidence that the regulatory order ceased to apply. Any such change needs an identifiable official decision.\n## Three dates to keep together\nRecord the period examined, the date of the enforcement order and the date of the post discussing it. They answer different questions. A newly published commentary on an older order does not make the underlying violations newly occurring events.",
+    "links": [],
+    "group": "bancredito",
+    "sources": [
+      {
+        "label": "FinCEN: Penalty announcement, 15 September 2023",
+        "url": "https://www.fincen.gov/news/news-releases/fincen-announces-15-million-civil-money-penalty-against-bancredito-international",
+        "type": "Primary source"
+      },
+      {
+        "label": "FinCEN: Full consent order",
+        "url": "https://www.fincen.gov/system/files/enforcement_action/2023-09-15/Bancredito_Consent_FINAL_091523_508C.pdf",
+        "type": "Primary source"
+      }
+    ],
+    "note": "Clarified the enforcement date and the distinction between corporate civil enforcement and personal criminal proceedings.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Three dates to keep together”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "06"
+  },
+  {
+    "path": "business/trump-says-us-close-to-iran-deal-ahead-of-busy-weekend.html",
+    "category": "business",
+    "date": "2026-06-12T11:03:00+00:00",
+    "title": "Trump’s June Iran-deal comments: optimism before an agreement",
+    "description": "The June 12 remarks described negotiating progress. They should not be read as proof that a durable settlement had been reached.",
+    "image": "https://www.journopulse.com/img/trump-again-claim-deal.webp",
+    "body": "President Donald Trump expressed optimism on June 12, 2026 about reaching an agreement with Iran. CNN's contemporaneous reporting described continuing negotiations and differing public signals, rather than a fully implemented settlement.\n## Why markets distinguish words from terms\nFor businesses, a declaration that a deal is close leaves essential questions unanswered. Which restrictions would change? When would they change? What monitoring arrangements would apply? Would commercial shipping resume safely? Those details affect contracts, insurance and delivery plans.\nA statement by one negotiating party is evidence of that party's position. It is not, by itself, confirmation that the other side accepts the same terms.\n## The subsequent record\nAn Associated Press report on June 15 described movement toward formalizing a ceasefire arrangement while nuclear questions and fighting in Lebanon remained unresolved. That later development helps place the June 12 remarks in their proper sequence.\n## How to read this report\nThis is a dated account of the June negotiation phase, not a live update on today's diplomatic position. It does not attribute a particular stock-market or oil-price movement to the remarks without a named dataset and trading period. For operational decisions, the relevant evidence is the published agreement and the measures actually implemented.\n## Read the next announcement against the draft\nA practical comparison asks whether the next statement adds an agreed obligation, a start date or a verification mechanism. Repeated optimism without those details may change the tone of negotiations while leaving the practical position of a business unchanged.",
+    "links": [],
+    "group": "business",
+    "sources": [
+      {
+        "label": "CNN: 12 June 2026 reporting transcript",
+        "url": "https://transcripts.cnn.com/show/cg/date/2026-06-12/segment/01",
+        "type": "Contemporaneous reporting"
+      },
+      {
+        "label": "AP: 15 June ceasefire negotiations",
+        "url": "https://apnews.com/article/77406473da38c6c126818610a219dc20",
+        "type": "Independent reporting"
+      }
+    ],
+    "note": "Removed the stale live label, an unsupported extended quotation and unmeasured claims about market reaction. Corrected Trump’s title for the event date.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Read the next announcement against the draft”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "07"
+  },
+  {
+    "path": "business/kremlin-claims-putin-will-travel-to-beijing-very-soon.html",
+    "category": "business",
+    "date": "2026-05-15T11:03:00+00:00",
+    "title": "Putin’s May visit to Beijing: confirmed dates and trade context",
+    "description": "The May 19–20 visit provides a case study in separating diplomatic announcements from measurable trade commitments.",
+    "image": "https://www.journopulse.com/img/putin-set-visit.webp",
+    "body": "Vladimir Putin's May 2026 visit to China moved beyond an unspecified “very soon” announcement. China's foreign ministry said on May 16 that the Russian president would visit on May 19–20 at Xi Jinping's invitation. A subsequent ministry account recorded their meeting with the press in Beijing on May 20.\n## What the official record establishes\nThe announcements identify the dates, participants and diplomatic format. They establish that the meeting occurred. Descriptions of its success or of the bilateral relationship remain the issuing government's presentation of events.\n## Why businesses follow the relationship\nGovernment meetings can signal priorities for trade, energy and investment. But a summit statement is not equivalent to a signed commercial contract, a financing commitment or a change in sanctions rules.\nReaders assessing business implications should look for named agreements, the parties responsible for delivering them, the value and timing of any commitments, and the legal conditions attached. Where those details are absent, forecasts of a trade surge are premature.\n## From a visit to an outcome\nThe confirmed visit provides a dated point of reference. Assessing its economic consequences requires the agreements and subsequent activity that followed it.\n## From summit language to a business commitment\nWhen a joint statement mentions cooperation, look for the next document that assigns a task to a named organization. A project with an identified operator and delivery timetable provides a different kind of evidence from a broad diplomatic expression of support.",
+    "links": [],
+    "group": "business",
+    "sources": [
+      {
+        "label": "China MFA: State-visit announcement, 16 May 2026",
+        "url": "https://www.fmprc.gov.cn/mfa_eng/xw/wsrc/202605/t20260516_11911672.html",
+        "type": "Official government statement"
+      },
+      {
+        "label": "China MFA: Joint press appearance, 20 May 2026",
+        "url": "https://www.fmprc.gov.cn/eng/xw/zyxw/202605/t20260520_11914662.html",
+        "type": "Official government statement"
+      }
+    ],
+    "note": "Updated the advance story with the confirmed visit dates and explicitly distinguished official messaging from economic outcomes.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “From summit language to a business commitment”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "08"
+  },
+  {
+    "path": "business/us-gas-prices-hit-4-dollars-highest-since-2022.html",
+    "category": "business",
+    "date": "2026-03-31T11:03:00+00:00",
+    "title": "U.S. gasoline passed $4 a gallon on March 31: what the average means",
+    "description": "The historical national average was about $4.02 for regular gasoline. Local prices and current prices are different measures.",
+    "image": "https://www.journopulse.com/img/average-price-of.webp",
+    "body": "The U.S. national average for regular gasoline rose above $4 a gallon on March 31, 2026. Associated Press reporting, citing AAA, put it at about $4.02 and described it as the first national reading above that threshold since 2022.\n## A national measure, not every station’s price\nThe figure is an average for a specified fuel grade and date. It does not mean every driver paid the same amount, and it should not be displayed as today's price. State taxes, regional supply conditions and local competition contribute to differences at the pump.\nThe U.S. Energy Information Administration explains that gasoline prices reflect crude oil, refining, distribution, marketing and taxes. A crude-price change is therefore only part of the retail price a driver sees.\n## Translate the change into a household cost\nA rise of $1 per gallon adds $15 to a 15-gallon purchase. That is an illustration, not an estimate of every household's weekly spending: mileage, vehicle efficiency and the number of fill-ups change the result.\nFor a useful comparison, check the same fuel grade, location and date. Mixing a national regular-gasoline average with a local premium price can exaggerate or obscure the change.\n## Compare the same purchase\nFor a household comparison, use the same number of gallons and fuel grade on both dates. Multiply the price difference by the amount purchased. This keeps the calculation tied to a defined purchase instead of treating an average pump price as a complete cost-of-living measure.",
+    "links": [],
+    "group": "business",
+    "sources": [
+      {
+        "label": "AP: AAA-based price report, 31 March 2026",
+        "url": "https://apnews.com/article/de8b7ccea254a1585cab86f336db57a6",
+        "type": "Independent reporting"
+      },
+      {
+        "label": "EIA: Factors affecting gasoline prices",
+        "url": "https://www.eia.gov/energyexplained/gasoline/factors-affecting-gasoline-prices.php",
+        "type": "Primary source"
+      }
+    ],
+    "note": "Removed unrelated Puerto Rico banking allegations and added a date, fuel grade and explanation of the national average.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Compare the same purchase”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "09"
+  },
+  {
+    "path": "business/kosovo-poor-economy-struggles-iran-war-fuel-price-surge.html",
+    "category": "business",
+    "date": "2026-03-30T11:03:00+00:00",
+    "title": "Kosovo’s fuel-price shock: how higher transport costs spread",
+    "description": "March reporting documented pressure from rising fuel costs. The wider effect depends on how households and businesses absorb those costs.",
+    "image": "https://www.journopulse.com/img/kosovo-europe-countries.webp",
+    "body": "Higher fuel prices associated with the Iran war were putting pressure on businesses and households in Kosovo in March 2026, according to Associated Press reporting from Pristina. The story illustrated how an international energy disruption can reach an economy far from the fighting.\n## The cost passes through several channels\nFuel is both a household purchase and a business input. A transport operator faces the immediate cost of filling vehicles. A shop can face higher delivery charges even if it uses little fuel directly. The eventual effect on customers depends on how much businesses can absorb through their margins and how much they pass on.\nThis is an explanation of the cost mechanism, not a measured estimate of Kosovo's inflation or a claim that every business raised prices.\n## What to look for in a policy response\nUseful evidence includes dated retail fuel prices, changes in tax treatment, the scope of any price limits and who qualifies for assistance. An announced measure should be distinguished from one that has taken effect.\n## Measure the effect over time\nDated price observations and business accounts can help show how costs changed. The effect of a response also depends on its timing and reach; a policy announcement alone cannot establish what households ultimately paid.\n## Trace one product’s journey\nConsider a shop receiving goods by road. The supplier, haulier and shop may each absorb part of a fuel increase or pass it onward. Asking where the extra cost appears helps explain why two shops can respond differently to the same energy shock.",
+    "links": [],
+    "group": "business",
+    "sources": [
+      {
+        "label": "AP: Reporting from Kosovo, 30 March 2026",
+        "url": "https://apnews.com/article/63d431a82c5fe28b967e41308a382662",
+        "type": "Independent reporting"
+      },
+      {
+        "label": "EIA: How fuel costs are formed",
+        "url": "https://www.eia.gov/energyexplained/gasoline/factors-affecting-gasoline-prices.php",
+        "type": "Primary source"
+      }
+    ],
+    "note": "Removed unrelated Bancrédito material, broken placeholders and unsupported economic predictions.",
+    "kind": "Report & context",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Trace one product’s journey”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "10"
+  },
+  {
+    "path": "bancredito/uae-exits-opec-impact-global-oil-prices.html",
+    "category": "bancredito",
+    "date": "2026-03-19T11:03:00+00:00",
+    "title": "The UAE’s OPEC departure: what changed on May 1, 2026",
+    "description": "The UAE left OPEC on May 1, 2026. Understanding the effects means separating membership, production capacity and actual supply.",
+    "image": "https://www.journopulse.com/img/asian-stocks.webp",
+    "body": "The United Arab Emirates announced on April 28, 2026 that it would leave OPEC effective May 1. The U.S. Energy Information Administration subsequently examined how the departure reduced the OPEC+ group's share of crude-oil production and capacity.\nThe decision was announced in April and took effect in May. The March 19 publication date retained from the original site is earlier than those events; the revision note records this chronology issue.\n## What changed\nLeaving the group changed the UAE's participation in collective production coordination. Production capacity, however, is not the same as actual output or exports. The amount delivered to buyers also depends on operating decisions, infrastructure and access to shipping routes.\n## Why a price forecast needs more evidence\nAn increase in available supply can affect prices, but demand, inventories and disruptions elsewhere matter too. A membership announcement alone cannot establish whether prices will fall, by how much, or on what date.\nReaders should therefore distinguish the verified institutional change from predictions about its market impact. The EIA analysis is useful for production and capacity context; the April announcement establishes the decision's timing. Neither justifies an unconditional forecast for fuel prices at a local filling station.\n## Capacity, output and exports are separate\nCapacity describes what could be produced; output describes what is produced; exports describe what reaches buyers abroad. Comparing those measures over the same period is more informative than assuming a change in group membership immediately changes supply at a filling station.",
+    "links": [
+      "/us/aml-compliance-frameworks",
+      "/bancredito/bancreditointernationalbank",
+      "/us/aml-compliance-frameworks",
+      "/bancredito/bancreditointernationalbank"
+    ],
+    "group": "business",
+    "sources": [
+      {
+        "label": "AP: UAE announcement, 28 April 2026",
+        "url": "https://apnews.com/article/4966108c3fafacb67181152216deda14",
+        "type": "Independent reporting"
+      },
+      {
+        "label": "EIA: UAE exit and OPEC+ production capacity",
+        "url": "https://www.eia.gov/todayinenergy/detail.php?id=67804",
+        "type": "Primary source"
+      }
+    ],
+    "note": "Corrected the event date, removed unrelated bank material and moved this story from Bancrédito to Business.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Capacity, output and exports are separate”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "11"
+  },
+  {
+    "path": "business/waymo-robotaxi-expansion-us.html",
+    "category": "business",
+    "date": "2026-02-19T11:03:00+00:00",
+    "title": "Waymo added Dallas, Houston, San Antonio and Orlando in February",
+    "description": "The rollout began with limited rider access. Service areas and availability should be checked in Waymo’s current app and official updates.",
+    "image": "https://www.journopulse.com/img/texas-new-launch.webp",
+    "body": "Waymo announced the introduction of public driverless rides in Dallas, Houston, San Antonio and Orlando in February 2026. Its launch materials described an initial rollout rather than immediate, unrestricted service for every resident in each metropolitan area.\n## What an expansion announcement means\nA city appearing on a service list does not mean every neighborhood, airport or route is covered. Ride availability depends on the service boundary, rider access and operating conditions. Waymo's help notice dated February 24 provides the contemporaneous launch reference.\nThe original JournoPulse publication date precedes that notice. This revision identifies the announcement timing rather than implying the rollout had already happened on February 19.\n## Before planning a trip\nEnter the actual pickup and destination in the official app. Check whether a ride can be requested and review the quoted fare before relying on it for a time-sensitive journey. Current city availability belongs in the live service information, not in an old launch article.\n## What remains separate\nGeographic expansion is evidence of a broader operating footprint. It does not, by itself, establish profitability, universal accessibility or superior safety. Those claims require separate financial, accessibility or safety evidence with a clear comparison period.\n## Check the whole journey\nA useful trip check covers both pickup and destination, the intended travel time and any accessibility requirements. Confirm the return journey separately. A service-area map can help orient a rider, while the actual booking flow determines whether the requested trip is available.",
+    "links": [],
+    "group": "business",
+    "sources": [
+      {
+        "label": "Waymo: Four-city launch announcement",
+        "url": "https://careers.withwaymo.com/blogs/89e712be-5d4a-48b3-a945-b60090823408/ready-to-ride-dallas-houston-san-antonio-and-orlando",
+        "type": "Company statement"
+      },
+      {
+        "label": "Waymo Help: Launch notice, 24 February 2026",
+        "url": "https://support.google.com/waymo/answer/16929147?hl=en",
+        "type": "Company service notice"
+      },
+      {
+        "label": "Waymo: Current city updates",
+        "url": "https://waymo.com/updates/",
+        "type": "Company service information"
+      }
+    ],
+    "note": "Added the named cities and rollout limits; flagged the original publication date’s mismatch with the February launch notice.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Check the whole journey”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "12"
+  },
+  {
+    "path": "technology/artemis-ii-crew-reunited-with-moonship-after-three-months.html",
+    "category": "technology",
+    "date": "2026-07-09T11:03:00+00:00",
+    "title": "Artemis II astronauts returned to Orion after their lunar flight",
+    "description": "The July reunion at Kennedy Space Center followed the crew’s April mission. It was a postflight visit, not another launch.",
+    "image": "https://www.journopulse.com/img/artemis-astronauts.webp",
+    "body": "The Artemis II crew revisited their Orion capsule at NASA's Kennedy Space Center on July 8, 2026, three months after their lunar flight, according to Associated Press reporting. The visit brought the astronauts back to the hardware that carried them beyond Earth orbit.\n## The crew and mission\nNASA identifies the crew as commander Reid Wiseman, pilot Victor Glover, mission specialist Christina Koch and Canadian Space Agency astronaut Jeremy Hansen. Its mission-return announcement documents the spacecraft's splashdown and the conclusion of the flight.\nThe crew's return to the capsule should not be confused with a new mission milestone such as a launch, landing or certification for another flight.\n## Why postflight work matters\nReturned hardware allows engineers to compare physical evidence with flight measurements. Inspections can help identify wear and areas for further analysis. A ceremonial reunion, however, is not a technical report establishing that every system performed perfectly.\nReaders looking for engineering conclusions should use NASA's published test findings and mission assessments, with their dates and qualifications. A future launch schedule needs its own dated mission announcement.\n## Distinguish the hardware visit from the mission\nThe April flight and the July reunion answer different questions. The mission record describes the journey; the later visit reconnects the crew with the returned capsule. Engineering claims should be traced to a technical assessment rather than inferred from a reunion photograph.",
+    "links": [],
+    "group": "technology",
+    "sources": [
+      {
+        "label": "AP: Crew reunion, 8 July 2026",
+        "url": "https://apnews.com/article/c2000e3659f02138511f5542bbf40309",
+        "type": "Independent reporting"
+      },
+      {
+        "label": "NASA: Artemis II mission return",
+        "url": "https://www.nasa.gov/news-release/nasa-welcomes-record-setting-artemis-ii-moonfarers-back-to-earth/",
+        "type": "Primary source"
+      }
+    ],
+    "note": "Removed an unattributed quotation and unsupported claims about completed technical assessments and future mission scheduling.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Distinguish the hardware visit from the mission”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "13"
+  },
+  {
+    "path": "technology/why-americans-love-iphones-but-wish-they-didnt-need-them.html",
+    "category": "technology",
+    "date": "2026-05-13T11:03:00+00:00",
+    "title": "Why an iPhone can feel essential—and how to inspect your own use",
+    "description": "Smartphones combine useful everyday tools with persistent interruptions. Screen Time makes that trade-off easier to examine.",
+    "image": "https://www.journopulse.com/img/american-lifestyle.webp",
+    "body": "An Associated Press feature in May 2026 explored Americans' mixed feelings about the iPhone: a device used for everyday tasks that can also make it difficult to disengage. That feature was an account of experiences and habits, not a population-wide diagnosis of addiction.\n## Start with your own evidence\nApple's Screen Time tools can report time spent in apps, pickups and notifications. Reviewing those categories helps distinguish intentional use—such as directions or a call—from repeated checking that does not serve a clear purpose.\nThe useful comparison is your own pattern over time. A large daily total may include work, reading or accessibility needs, so hours alone do not explain whether use is helpful or disruptive.\n## Change one setting at a time\nApple provides app limits and scheduled downtime. A practical approach is to review the most interruptive apps, adjust the relevant limit or notification setting, and see whether the change improves the part of the day that matters to you.\nMenu names and options can vary with the iOS version; use the official guide for your device. This is a guide to inspecting phone use, not medical advice or proof that a particular feature treats a health condition.\n## Try a small, measurable change\nChoose one interruption you would like to reduce, such as repeated checks during a meal. Adjust one setting and compare the same part of your day afterward. The aim is a pattern that serves your needs, rather than an arbitrary target for total screen time.",
+    "links": [],
+    "group": "technology",
+    "sources": [
+      {
+        "label": "AP: iPhone use feature, 12 May 2026",
+        "url": "https://apnews.com/article/236e6ead01e1bc5e39ba99eb33aae95d",
+        "type": "Independent reporting"
+      },
+      {
+        "label": "Apple: Screen Time on iPhone",
+        "url": "https://support.apple.com/en-kw/guide/iphone/iphbfa595995/ios",
+        "type": "Primary source"
+      }
+    ],
+    "note": "Replaced broad claims about all Americans with a clearly attributed feature and practical, documented settings.",
+    "kind": "Explainer",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Try a small, measurable change”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "14"
+  },
+  {
+    "path": "technology/wall-street-selling-ai-losers-asian-equities-neutral.html",
+    "category": "technology",
+    "date": "2026-03-03T11:03:00+00:00",
+    "title": "Reading Asia’s mixed markets after the February AI selloff",
+    "description": "Different indexes and trading sessions can move in different directions. Here is how to read the February market reports.",
+    "image": "https://www.journopulse.com/img/asian-shares.webp",
+    "body": "Asian stock markets traded unevenly on February 24, 2026 after a U.S. session marked by concern about businesses exposed to artificial-intelligence disruption, according to contemporaneous Associated Press reporting.\n## Why “mixed” matters\nRegional summaries combine markets with different companies, currencies and trading hours. One index can rise while another falls. Describing the region as “neutral” can obscure those differences and imply a single investor view that the price data do not establish.\nThe U.S. and Asian sessions also occur at different times. A responsible comparison names the date and distinguishes an intraday reading from a closing value.\n## The broader technology context\nS&P Global's February review described pressure on software and insurance companies amid concern that AI could disrupt existing services. That is different from saying all companies developing AI were sold indiscriminately.\n## What readers can conclude\nThe reports document market repricing and contemporary explanations for it. They do not prove that the affected businesses will fail or that share-price changes measure the technology's social value.\nThe February reports provide a record of that period’s market discussion. Later trading sessions and company results need to be assessed on their own dates.\n## Make a like-for-like market comparison\nWrite down the index, local date, currency and whether the figure is a close or an intraday reading. That basic comparison can reveal whether two apparently conflicting headlines simply describe different markets or different points in the trading day.",
+    "links": [],
+    "group": "technology",
+    "sources": [
+      {
+        "label": "AP via KSAT: Asian session, 24 February 2026",
+        "url": "https://www.ksat.com/gallery/news/2026/02/24/asian-shares-are-mixed-after-heavy-selling-of-potential-ai-losers-hits-wall-street/",
+        "type": "Independent reporting"
+      },
+      {
+        "label": "S&P Global: February market review",
+        "url": "https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/3/s-p-500-dips-0-9-in-february-99237728",
+        "type": "Market analysis"
+      }
+    ],
+    "note": "Corrected “neutral” to “mixed,” identified the trading date and removed the unrelated Mayors Challenge story.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Make a like-for-like market comparison”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "15"
+  },
+  {
+    "path": "technology/trump-tariffs-us-stocks-plummet-ai-losers.html",
+    "category": "technology",
+    "date": "2026-03-03T11:03:00+00:00",
+    "title": "U.S. stocks fell February 23 amid tariff uncertainty and AI concerns",
+    "description": "Reuters recorded declines across the major indexes; the report identified several pressures, not a single proven cause.",
+    "image": "https://www.journopulse.com/img/tech-bird.webp",
+    "body": "U.S. stocks fell on February 23, 2026 as tariff uncertainty and concerns about AI-driven disruption weighed on sentiment, Reuters reported. At the close, the S&P 500 was down 1.04%, the Dow Jones Industrial Average 1.66% and the Nasdaq Composite 1.13%.\n## What investors were reacting to\nThe report linked the unsettled session to changing trade-policy signals after a Supreme Court tariff ruling and to concern about how AI might affect existing businesses. Those were contemporaneous explanations for the move, not an experiment isolating the effect of one announcement.\n## Avoid confusing different kinds of exposure\nA company supplying AI hardware may face different risks from a software or service business that investors think could be disrupted by AI. Calling every declining technology stock an “AI loser” hides that distinction.\n## Read a dated market report correctly\nThese percentages describe one completed trading session. They are not current quotes and do not predict the next session. To assess a company's position, price movements need to be considered alongside revenue, margins, cash requirements and the specific business model.\nExplaining one session is different from establishing a lasting change in investor positions. That broader question requires evidence over a defined period.\n## Index moves and individual businesses\nAn index summarizes a group of companies. A decline in that index does not show that each member faced the same problem. To understand an individual business, connect the reported concern with how it earns revenue and what costs it bears.",
+    "links": [],
+    "group": "technology",
+    "sources": [
+      {
+        "label": "Reuters: 23 February closing report, via Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-dip-as-tariff-doubts-hit-risk-appetite-4518016",
+        "type": "Independent reporting"
+      }
+    ],
+    "note": "Added dated closing figures and replaced single-cause certainty with the source’s account of multiple market pressures.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Index moves and individual businesses”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "16"
+  },
+  {
+    "path": "technology/softbank-group-predicts-strong-return-on-investment-from-ai-growth.html",
+    "category": "technology",
+    "date": "2026-03-03T11:03:00+00:00",
+    "title": "SoftBank’s $30 billion OpenAI commitment: terms and investment risk",
+    "description": "The February agreement described a planned investment subject to closing conditions. It did not guarantee a return.",
+    "image": "https://www.journopulse.com/img/soft-bank.webp",
+    "body": "SoftBank Group announced on February 27, 2026 that it had entered an agreement for $30 billion in additional investment in OpenAI through SoftBank Vision Fund 2. The company said completion would bring its cumulative investment to $64.6 billion and its ownership interest to approximately 13%.\n## Commitment is different from completion\nThe announcement made the investment subject to customary closing conditions. A planned contribution, cash actually paid and the value later assigned to an investment are separate measures. Readers should not substitute one for another when assessing the scale of the commitment.\n## Why the return is uncertain\nAn investment can rise in estimated value before the investor receives cash from a sale or distribution. Future returns depend on business performance, financing terms and eventual opportunities to realize value. Strong demand for a technology does not guarantee a particular shareholder outcome.\n## How to follow the position\nThe relevant evidence is SoftBank's transaction disclosures and subsequent financial reporting, including the distinction between realized proceeds and valuation changes. The company's February announcement establishes its stated commitment; it does not establish that the entire sum had already been paid on that date or promise a profitable exit.\n## Read the planned funding schedule\nThe February disclosure divided the additional investment into three planned $10 billion tranches, scheduled for April 1, July 1 and October 1 in Japan time. Those were disclosed plans subject to conditions; completion must be checked in subsequent transaction updates.",
+    "links": [],
+    "group": "technology",
+    "sources": [
+      {
+        "label": "SoftBank Group: Follow-on investment announcement, 27 February 2026",
+        "url": "https://group.softbank/en/news/press/20260227",
+        "type": "Company financial disclosure"
+      }
+    ],
+    "note": "Replaced an unsupported “strong returns” prediction and anonymous executive quotation with the disclosed transaction terms.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Read the planned funding schedule”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "17"
+  },
+  {
+    "path": "technology/india-joins-us-effort-safe-technologies-supply-chains.html",
+    "category": "technology",
+    "date": "2026-03-03T11:03:00+00:00",
+    "title": "India joined Pax Silica on February 20: what the initiative covers",
+    "description": "The technology partnership concerns secure supply chains. Signing a declaration does not itself deliver new factories or production capacity.",
+    "image": "https://www.journopulse.com/img/india-ioins-us-led.webp",
+    "body": "India joined the Pax Silica initiative on February 20, 2026 at the India AI Impact Summit in New Delhi, according to India's Press Information Bureau. The announcement placed the move within technology cooperation with the United States.\n## The supply-chain objective\nThe initiative concerns resilient technology supply chains, including the inputs and infrastructure supporting advanced technologies. The practical issue is continuity: access to materials, components and capabilities can be disrupted by concentrated supply, transport interruptions or changing policy.\nParticipation records a government's commitment to cooperate. It is not equivalent to a completed semiconductor plant, a guaranteed supply contract or an immediate reduction in dependence on a particular supplier.\n## What would demonstrate progress\nConcrete developments would include identifiable projects, financing, procurement agreements, production milestones and implementation rules. Those are more informative than unqualified predictions about jobs or growth.\n## The declaration as a starting point\nThe February announcement identifies the initiative and the governments involved. It provides a starting point for following implementation, while the delivery of facilities, contracts and other outcomes requires subsequent evidence.\n## Locate the link in the chain\nA supply-chain announcement becomes easier to assess when it identifies the activity involved: materials, chip production, equipment or computing infrastructure. Cooperation across those activities can have different milestones, so a single headline should not stand in for the progress of every project.",
+    "links": [],
+    "group": "technology",
+    "sources": [
+      {
+        "label": "Government of India: Pax Silica announcement, 20 February 2026",
+        "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2230648",
+        "type": "Primary source"
+      },
+      {
+        "label": "AP: India joins technology initiative",
+        "url": "https://apnews.com/article/994d1cea76275cae7649fb8dcec13125",
+        "type": "Independent reporting"
+      }
+    ],
+    "note": "Named the initiative and signing date; removed the unverified unnamed quotation and guaranteed-growth language.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Locate the link in the chain”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "18"
+  },
+  {
+    "path": "politics/florida-polls-open-2026-governor-race-successor-ron-desantis.html",
+    "category": "politics",
+    "date": "2026-08-18T11:03:00+00:00",
+    "title": "Donalds and Jolly won Florida’s 2026 governor primaries",
+    "description": "The August primary results selected nominees. Understanding the totals means keeping the two contests and the general election distinct.",
+    "image": "https://www.journopulse.com/img/polling-place.webp",
+    "body": "Byron Donalds won Florida's Republican primary for governor and David Jolly won the Democratic primary held on August 18, 2026. The Florida Department of State's official election-results page provides the statewide totals.\n## What the results show\nDonalds received 811,131 votes, or 47.79%, in the Republican contest. The Democratic listing for David Jolly and Gwen Graham recorded 762,160 votes, or 60.95%. These are primary results, not the outcome of the November general election.\nThe two contests choose party nominees. Their vote totals come from different electorates, so comparing the raw totals is not a direct forecast of how the nominees will perform against one another.\n## What voters should check next\nUse the state's election information and your county supervisor of elections for registration, polling-place and ballot details. A news page published on primary day cannot establish today's polling hours or voting location.\n## Why the distinction matters\nRon DeSantis's succession contest moves through separate nomination and general-election stages. A primary victory puts a candidate on the next ballot; it does not elect that candidate governor. The official record supplies the completed primary outcome.\n## Treat the two primaries as separate contests\nThe Republican and Democratic totals describe participation in their respective nomination contests. They are useful for understanding those results, but they are not a head-to-head statewide poll. The general-election ballot and its eventual result provide the next distinct comparison.",
+    "links": [],
+    "group": "politics",
+    "sources": [
+      {
+        "label": "Florida Department of State: Official gubernatorial primary results",
+        "url": "https://floridaelectionwatch.gov/StateOffices/Governor",
+        "type": "Primary source"
+      },
+      {
+        "label": "Florida: 2026 election dates",
+        "url": "https://files.floridados.gov/media/708746/2025-2026-election-dates-activities-calendar-binder1-rev-20250114.pdf",
+        "type": "Primary source"
+      }
+    ],
+    "note": "Replaced a stale live-update headline with official primary results; distinguished nomination from election to office.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Treat the two primaries as separate contests”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "19"
+  },
+  {
+    "path": "politics/blanche-terminates-fund-for-trump-allies-after-gop-senators-threaten-to-block-attorney-general-bid.html",
+    "category": "politics",
+    "date": "2026-08-03T11:03:00+00:00",
+    "title": "Blanche rescinded compensation fund after Senate objections",
+    "description": "The August 3 development concerned a Justice Department fund and support for Blanche’s nomination.",
+    "image": "https://www.journopulse.com/img/politics-behance.webp",
+    "body": "Todd Blanche moved to rescind the Justice Department's “Anti-Weaponization Fund” after objections from Republican senators John Cornyn and Thom Tillis, according to August 3, 2026 reporting by ABC News and the Associated Press.\nThe proposed fund, described at roughly $1.8 billion, was intended to compensate people who said they had been wrongly targeted by government action. The senators' objections became a barrier to Blanche's confirmation as attorney general.\n## What changed on August 3\nThe reporting said the two senators would support the nomination following the decision to revoke the fund's establishment. That development concerned their stated position at that stage of the confirmation process. It should not be described as the full Senate's final vote.\n## Why the terms matter\nEnding a specific fund is different from eliminating every legal route through which someone might seek compensation from the government. Likewise, a senator's promise of support is different from a recorded committee or floor vote.\nFor readers following the issue, the key documents are the rescission order and the Senate's subsequent proceedings. The article's scope is the August 3 agreement, with the participants and the purpose of the fund identified explicitly.\n## Keep the fund and the nomination on separate tracks\nOne timeline records decisions about the proposed fund; another records committee and Senate action on the nomination. Keeping both visible prevents a change in senators’ stated support from being mistaken for a completed confirmation or a payment to a claimant.",
+    "links": [],
+    "group": "politics",
+    "sources": [
+      {
+        "label": "ABC News: Fund rescission, 3 August 2026",
+        "url": "https://abcnews.com/US/blanche-rescinds-trumps-anti-weaponization-fund-amid-ag/story?id=135315931",
+        "type": "Independent reporting"
+      },
+      {
+        "label": "AP: Cornyn and Tillis announce support",
+        "url": "https://apnews.com/article/a38decfc7f20e4f73a181914d53111da",
+        "type": "Independent reporting"
+      }
+    ],
+    "note": "Corrected the confused headline and identified the fund, senators and procedural stage.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Keep the fund and the nomination on separate tracks”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "20"
+  },
+  {
+    "path": "politics/iran-us-strait-of-hormuz-conflict-limits-of-escalating-bombing.html",
+    "category": "politics",
+    "date": "2026-07-21T11:03:00+00:00",
+    "title": "Hormuz standoff: why airstrikes alone do not measure shipping security",
+    "description": "The July confrontation linked military action with a crucial trade route. Safe commercial passage requires separate evidence.",
+    "image": "https://www.journopulse.com/img/us-iran-war-new.avif",
+    "body": "The July 2026 confrontation between the United States and Iran continued to place the Strait of Hormuz at the center of military and economic concerns. Contemporary reporting described ongoing strikes and threats to shipping; those developments did not establish that normal commercial transit had resumed.\n## Why this route matters\nThe U.S. Energy Information Administration estimated that about 20 million barrels a day of oil passed through Hormuz in 2024, equivalent to roughly one-fifth of global petroleum-liquids consumption. That is a historical baseline, not a measurement of traffic during the 2026 conflict.\n## Military activity and commercial access\nA strike can damage a target without demonstrating that a shipping lane is safe. Shipowners also consider threats along the route, crew safety, insurance and the ability to reach a port. These factors help explain why military announcements should be assessed separately from actual transit data.\n## Evidence of improvement\nSustained ship movements, reliable access notices and a reduction in documented attacks would be more informative than a declaration of success alone. Diplomatic proposals also need to be distinguished from agreements that are being implemented.\nThis account concerns the July standoff and its strategic context. It is not a present-day navigation advisory or a claim that a particular military outcome is inevitable.\n## Follow a voyage, not just a declaration\nA useful shipping assessment follows the route from departure to arrival: access to the passage, transit and port entry. Evidence at one point does not automatically settle the others. That is why commercial operating notices and observed movements matter alongside military statements.",
+    "links": [],
+    "group": "politics",
+    "sources": [
+      {
+        "label": "AP: 21 July reporting on the Iran conflict",
+        "url": "https://apnews.com/article/08d075c3d9cd01653b99149a8dd51adb",
+        "type": "Independent reporting"
+      },
+      {
+        "label": "EIA: Hormuz oil flows and chokepoint context",
+        "url": "https://www.eia.gov/todayinenergy/detail.php?id=65504",
+        "type": "Primary source"
+      }
+    ],
+    "note": "Removed an unattributed analyst quotation and unsupported assurances about normal commercial shipping.",
+    "kind": "Analysis",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Follow a voyage, not just a declaration”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "21"
+  },
+  {
+    "path": "politics/trump-republicans-communist-attacks-democrats-midterms.html",
+    "category": "politics",
+    "date": "2026-07-03T11:03:00+00:00",
+    "title": "Republicans’ “communist” label became a 2026 campaign message",
+    "description": "Reporting documented the rhetoric; a political label is not a substitute for examining a candidate’s stated policies.",
+    "image": "https://www.journopulse.com/img/trump-and-republicans-return-to-communist.webp",
+    "body": "President Donald Trump and other Republican leaders intensified references to communism as a campaign argument against Democrats in early July 2026. Reuters reported on July 8 that Trump's political team was testing the message ahead of the midterm elections.\n## What was being argued\nAssociated Press reporting described the rhetoric following primary successes by candidates on the Democratic left. The label was an attack made by political opponents, not an independently established description of the Democratic Party as a whole.\nDemocratic socialism and communism are not interchangeable labels. Candidates using one term can propose different policies, and those policies should be examined directly rather than inferred from an opponent's description.\n## How to evaluate the claim\nIdentify the named candidate, locate the actual proposal and compare it with the criticism. A tax increase, an expansion of public services and the elimination of private ownership are distinct propositions. A useful report explains which one is being discussed.\n## What the coverage establishes\nDocumented speeches and posts show a campaign's language. They do not, without polling or election evidence, demonstrate that the message persuades undecided voters. This article reports the strategy without claiming it will determine the election outcome.\n## Translate a label into a testable claim\nAsk what specific policy the label is intended to describe. Then compare the criticism with the candidate’s own proposal, including its limits and funding. This creates a clearer political discussion than treating one loaded word as a complete description of a platform.",
+    "links": [],
+    "group": "politics",
+    "sources": [
+      {
+        "label": "Reuters: Campaign rhetoric, 8 July 2026",
+        "url": "https://www.investing.com/news/politics-news/trump-team-tests-anticommunist-message-for-midterms-as-rhetoric-intensifies-4781026",
+        "type": "Independent reporting"
+      },
+      {
+        "label": "AP: Campaign rhetoric, 2 July 2026",
+        "url": "https://apnews.com/article/103c6f6141b64a0c5f4d3cf8d1782548",
+        "type": "Independent reporting"
+      }
+    ],
+    "note": "Clarified that the label is campaign rhetoric and removed unsupported polling claims.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Translate a label into a testable claim”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "22"
+  },
+  {
+    "path": "politics/cornyn-avoided-trump-wrath-lost-seat-anyway.html",
+    "category": "politics",
+    "date": "2026-05-27T11:03:00+00:00",
+    "title": "Cornyn’s Texas runoff defeat: nomination and Senate terms explained",
+    "description": "Ken Paxton won the May 26 runoff. The result decided the Republican nomination, with the general election still a separate stage.",
+    "image": "https://www.journopulse.com/img/cornyn-went-lengths-size.webp",
+    "body": "Ken Paxton defeated incumbent John Cornyn in the Republican primary runoff for the U.S. Senate in Texas on May 26, 2026, according to Ballotpedia's election report. Donald Trump endorsed Paxton on May 19, a week before the runoff.\n## What the result decided\nThe runoff selected the Republican nominee for the general election. It did not immediately remove Cornyn from the Senate or determine which party would win the seat in November.\nThe verified result was the loss of the party nomination. The timing of any transition in office belongs to the separate general-election and term calendar.\n## What the result does not prove\nAn endorsement can be relevant to a campaign without establishing, by itself, why every voter chose a candidate. A causal claim about the result would need additional evidence, such as polling, voter interviews or an analysis of turnout and vote changes.\n## Reading the next stage\nThe general-election result and the transition between Senate terms should be reported separately. Readers checking Cornyn's status should use the date of the election event, rather than treating a primary-night headline as a statement about the current holder of the office.\n## Keep three outcomes separate\nNomination, election to office and the end of a term occur at different stages. A reader checking an incumbent’s position should record which stage a report covers. This is especially useful when a headline from primary night is recirculated months later.",
+    "links": [],
+    "group": "politics",
+    "sources": [
+      {
+        "label": "Ballotpedia: Texas Republican runoff result, 27 May 2026",
+        "url": "https://news.ballotpedia.org/2026/05/27/ken-paxton-r-defeated-incumbent-john-cornyn-r-in-the-republican-primary-runoff-for-u-s-senate-in-texas-on-may-26-2026/",
+        "type": "Election reporting"
+      }
+    ],
+    "note": "Corrected the central error: Cornyn lost a nomination, not his Senate seat on primary day.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Keep three outcomes separate”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "23"
+  },
+  {
+    "path": "politics/republicans-show-rare-defiance-to-trump.html",
+    "category": "politics",
+    "date": "2026-05-22T11:03:00+00:00",
+    "title": "Senate Republicans challenged Trump’s compensation fund in May",
+    "description": "The dispute centered on who might receive payments and the safeguards governing a proposed $1.8 billion fund.",
+    "image": "https://www.journopulse.com/img/trump-republicans.webp",
+    "body": "Republican objections to a proposed Justice Department compensation fund became a visible dispute with President Donald Trump in May 2026. ABC News reported on May 22 that lawmakers including Senator Thom Tillis criticized the roughly $1.8 billion “Anti-Weaponization Fund.”\n## The concrete issue\nThe proposed payments concerned people who alleged they had been wrongly targeted under the previous administration. Questions about eligibility and whether people involved in the January 6 Capitol attack could benefit helped drive the controversy.\nThe episode was a specific disagreement over a mechanism for government payments. It was not proof that Republican lawmakers had rejected every part of the administration's agenda.\n## Why oversight matters\nFor any public compensation scheme, readers need to know the legal authority, source of funding, eligibility rules and review process. A headline about party disunity can obscure those practical questions.\n## Subsequent development\nAugust 3 reporting described Blanche's decision to rescind the fund after objections from Cornyn and Tillis. That later event was a separate step in the timeline.\nThe dispute illustrates how lawmakers can use support for nominations or legislation to press for changes in an executive-branch proposal.\n## Ask who would decide a claim\nEligibility alone does not explain how a compensation scheme operates. The decision-maker, evidence standard and review mechanism are also worth examining. These questions make the policy debate more concrete than measuring the dispute only through statements about party loyalty.",
+    "links": [],
+    "group": "politics",
+    "sources": [
+      {
+        "label": "ABC News: Republican objections, 22 May 2026",
+        "url": "https://abcnews.com/amp/Politics/trump-lashes-republicans-amid-revolt-18b-anti-weaponization/story?id=133220270",
+        "type": "Independent reporting"
+      },
+      {
+        "label": "ABC News: Subsequent rescission, 3 August 2026",
+        "url": "https://abcnews.com/US/blanche-rescinds-trumps-anti-weaponization-fund-amid-ag/story?id=135315931",
+        "type": "Independent reporting"
+      }
+    ],
+    "note": "Replaced a generic party-conflict story with the identifiable fund dispute and a dated follow-up.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Ask who would decide a claim”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "24"
+  },
+  {
+    "path": "sports/basketball-hero-jose-piculin-ortiz-passes-away-at-mourned-in-puerto-rico.html",
+    "category": "sports",
+    "date": "2026-05-11T11:03:00+00:00",
+    "title": "Puerto Rico remembers basketball great José “Piculín” Ortiz",
+    "description": "The FIBA Hall of Famer died in May 2026. His international career forms a central part of Puerto Rico’s basketball history.",
+    "image": "https://www.journopulse.com/img/puerto-rico-site.webp",
+    "body": "José “Piculín” Ortiz, one of Puerto Rico's best-known basketball players, died at 62 in May 2026. The Associated Press reported his death on May 5, and FIBA published a tribute to the Hall of Famer.\n## An international legacy\nOrtiz was inducted into the FIBA Hall of Fame in 2019. FIBA's career profile also records his domestic success: after joining the Santurce Crabbers in 1997, he helped the club win five national championships in six years. He finished his playing career with the Arecibo Captains, retiring in 2006 at 43.\nThose milestones connect his international reputation with the Puerto Rican clubs and supporters who followed his career at home. Together, the records show how his career extended across both international and domestic basketball.\n## Remembering the person responsibly\nAn athlete's death is also a family's loss. This account does not speculate about private medical details or attribute tributes to unnamed teammates.\nReaders who want a fuller sporting history can use FIBA's official remembrance and its separate career profile. The original JournoPulse page was published later than the May 5 death report; that publication date should not be mistaken for the date the death was announced.\n## Follow the career across settings\nAn athlete’s legacy can be explored through club seasons, international competition and the communities that watched them play. Comparing those records gives a fuller sporting portrait than a single accolade, while leaving private family matters outside the scope of a career tribute.",
+    "links": [],
+    "group": "puertorico",
+    "sources": [
+      {
+        "label": "FIBA: Official remembrance of José Ortiz",
+        "url": "https://www.fiba.basketball/en/news/fiba-hall-of-famer-jose-piculin-ortiz-of-puerto-rico-passes-away",
+        "type": "Primary source"
+      },
+      {
+        "label": "AP: Death reported 5 May 2026",
+        "url": "https://apnews.com/article/1873e62b190ec6883bced98ed8e45b71",
+        "type": "Independent reporting"
+      },
+      {
+        "label": "FIBA: Career profile",
+        "url": "https://www.fiba.basketball/en/news/n-ortiz",
+        "type": "Primary source"
+      }
+    ],
+    "note": "Added dated career details and filed the story under Puerto Rico’s sporting heritage.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Follow the career across settings”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "25"
+  },
+  {
+    "path": "puertorico/puerto-rico-governor-signs-fetus-human-being-law.html",
+    "category": "puertorico",
+    "date": "2026-03-09T11:03:00+00:00",
+    "title": "Puerto Rico’s fetal-status law: the provision and its limits",
+    "description": "The February 2026 amendment concerned specified Penal Code provisions. Its implications should be assessed from the law’s text.",
+    "image": "https://www.journopulse.com/img/puerto-rico-governor.webp",
+    "body": "Governor Jenniffer González-Colón signed Senate Bill 923 in February 2026, changing Puerto Rico's Penal Code treatment of an unborn conceived child for specified provisions. An official-government release reproduced by LegiStorm identifies the signing date as February 12.\n## Read the scope carefully\nThe announcement refers to subsections (g) and (h) of Article 93 and the definition in Article 92. That specificity matters: a change to a named provision should not be described as automatically resolving every question in criminal, civil or medical law.\nAssociated Press reporting recorded concerns from doctors and legal experts about possible consequences. Those concerns are part of the public debate, distinct from a court's interpretation of a particular case.\n## What readers should verify\nCheck which statute was amended, when the amendment took effect and whether later regulations or court rulings address the situation being discussed. Puerto Rico also has separate civil-law provisions; combining them into a single undifferentiated claim can misstate the legal position.\nThe enactment itself does not establish the outcome of an individual patient's medical decision or a future prosecution. For those questions, the applicable legal text and case-specific professional advice matter more than a headline.\n## Keep the legal texts side by side\nWhen a discussion refers to both civil status and a criminal-law provision, identify the text supporting each claim. A useful summary states the particular change and its context. Questions about how it applies to an individual situation need a separate, case-specific assessment.",
+    "links": [],
+    "group": "puertorico",
+    "sources": [
+      {
+        "label": "Government release reproduced by LegiStorm, 12 February 2026",
+        "url": "https://www.legistorm.com/stormfeed/view_rss/7027887/organization/45271/title/governor-gonzlez-coln-signs-into-law-bill-recognizing-the-unborn-conceived-as-a-human-being.html",
+        "type": "Official statement reproduction"
+      },
+      {
+        "label": "Puerto Rico: Penal Code text",
+        "url": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/2-ingles/146-2012.pdf",
+        "type": "Primary source"
+      },
+      {
+        "label": "AP: Enactment and concerns",
+        "url": "https://apnews.com/article/9d2f1fb895a17511a920cc42d480668e",
+        "type": "Independent reporting"
+      }
+    ],
+    "note": "Added the signing date and statutory scope; removed sweeping claims about legal effects.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Keep the legal texts side by side”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "26"
+  },
+  {
+    "path": "puertorico/puerto-ricans-protest-reliable-water-access-governor-response.html",
+    "category": "puertorico",
+    "date": "2026-03-04T11:03:00+00:00",
+    "title": "Puerto Rico’s water outages: public complaints and documented responses",
+    "description": "Official records show infrastructure failures and scrutiny of recurring interruptions. Individual service conditions vary by community.",
+    "image": "https://www.journopulse.com/img/wanda-vazquez.webp",
+    "body": "Puerto Rico's water-service problems have prompted demands for explanations and repairs. Official records provide more concrete detail than a general claim that the government has done nothing.\nOn June 11, 2026, La Fortaleza reported a failure in a 72-inch Superaqueduct pipe in Bayamón, warning of interruptions in metropolitan and nearby municipalities. The announcement described response measures and customer credits. These were the government's stated actions, not independent proof that every affected household had service restored.\n## A recurring problem under scrutiny\nThe legislature's budget office also evaluated a resolution calling for an investigation into repeated water interruptions in San Juan communities, including outages reported since July 2025. That record helps distinguish a recurring service issue from one isolated pipe failure.\n## Useful information for residents\nWhen checking an outage, record the municipality, neighborhood, start time and utility case number. Compare notices for the same service area; a restoration notice elsewhere does not establish that your connection is working.\nCurrent water-safety and service instructions must come from the responsible local agencies. This dated account cannot establish whether a particular supply is safe to drink today.\n## Separate supply restoration from water-quality advice\nAn update that water has returned and an instruction about water quality answer different questions. Follow the notice for the specific service area and its date. Keeping both records helps residents avoid treating a general restoration announcement as advice about every household connection.",
+    "links": [],
+    "group": "puertorico",
+    "sources": [
+      {
+        "label": "La Fortaleza: Superaqueduct failure and response, 11 June 2026",
+        "url": "https://www.fortaleza.pr.gov/prensa/gobernadora-anuncia-creditos-a-abonados-afectados-por-averia-en-el-superacueducto-y-activa-medidas-adicionales-de-respuesta",
+        "type": "Official government statement"
+      },
+      {
+        "label": "OPAL: Review of investigation into recurring San Juan outages",
+        "url": "https://www.opal.pr.gov/informes/informe-2026-585-rs-289",
+        "type": "Primary source"
+      }
+    ],
+    "note": "The original March page did not substantiate its protest timeline. Replaced it with dated official records; later developments are identified.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Separate supply restoration from water-quality advice”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "27"
+  },
+  {
+    "path": "puertorico/following-a-plea-agreement-trump-will-pardon-former-puerto-rico-governor-wanda-vazquez.html",
+    "category": "puertorico",
+    "date": "2026-03-04T11:03:00+00:00",
+    "title": "Wanda Vázquez’s pardon is recorded in January 2026 clemency grants",
+    "description": "The January clemency grant and amendment show why the warrant matters when reading a legal timeline.",
+    "image": "https://www.journopulse.com/img/wanda-vazquez.webp",
+    "body": "The Justice Department's clemency register lists a January 15, 2026 pardon for former Puerto Rico governor Wanda Vázquez Garced and a January 20 amended pardon concerning a foreign-national contribution offense.\n## What the record provides\nThe register links to the individual warrants and identifies the district and offenses covered. It supplies direct evidence of presidential action, which is stronger than an article predicting that clemency may occur.\nThe January actions precede the March publication date retained on this page. The warrants identify the clemency dates and the scope of each instrument.\n## A distinct legal event\nClemency should not be described as a jury verdict or treated as a substitute for the full court record. The Justice Department's guidance explains the separate function of the pardon process. A precise chronology distinguishes original allegations, subsequent proceedings and the clemency instrument.\n## Checking the scope\nStart with the warrant when checking the grant. Use court records for the disposition of a case, and separate those records from political reactions or claims about a prosecution's motives.\nThis account does not infer that a personal pardon resolved corporate regulatory matters or private civil claims involving other entities.\n## Read the amendment with the original warrant\nWhere the register links an initial grant and an amended instrument, read both rather than treating the first headline as the entire record. The scope of clemency is a documentary question; explanations of political significance should be identified separately.",
+    "links": [],
+    "group": "puertorico",
+    "sources": [
+      {
+        "label": "DOJ: Clemency register and individual warrants",
+        "url": "https://www.justice.gov/pardon/clemency-grants-president-donald-j-trump-2025-present",
+        "type": "Primary source"
+      },
+      {
+        "label": "DOJ: Pardon process and legal distinctions",
+        "url": "https://www.justice.gov/pardon/frequently-asked-questions",
+        "type": "Primary source"
+      }
+    ],
+    "note": "Changed the future-tense headline to the documented January pardon and amendment.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Read the amendment with the original warrant”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "28"
+  },
+  {
+    "path": "puertorico/us-military-build-up-seen-giving-puerto-rico-833-million-bump.html",
+    "category": "puertorico",
+    "date": "2026-03-03T11:03:00+00:00",
+    "title": "Puerto Rico projected $832.5 million in military-related investment",
+    "description": "The Planning Board’s fiscal-2026 figures are estimates of spending and economic effects, not cash already received.",
+    "image": "https://www.journopulse.com/img/us-militory.webp",
+    "body": "Puerto Rico's Planning Board projected $832.5 million in military-related investment for fiscal year 2026, combining operational budgets with infrastructure and construction activity linked to military installations.\nThe board's published summary estimated a total effect of $2,036.5 million in local production, 12,346 jobs and $254.6 million in wages, including direct, indirect and induced effects.\n## Do not add unlike measures\nThe roughly $833 million spending figure and the roughly $2 billion economic-impact figure describe different things. The latter includes modeled effects as money circulates through suppliers and household spending. Adding the two together would double-count parts of the same activity.\nLikewise, estimated jobs are not automatically a count of people newly hired into permanent positions. The study's definitions and time period are necessary to interpret the figure properly.\n## What would confirm delivery\nBudget appropriations, contract awards, project completion and actual expenditures provide different checkpoints. A projection can be useful for planning without guaranteeing that each project will be delivered on schedule.\nReaders should compare later outcomes with the original assumptions rather than present the forecast as realized growth. The fiscal-year label should also be retained; it is not interchangeable with calendar-year spending.\n## Compare forecasts with the matching outcome\nMatch an investment forecast with expenditure, an employment estimate with the study’s employment measure, and a production estimate with the corresponding output measure. Keeping the period and definitions constant makes it possible to assess delivery without adding unlike figures together.",
+    "links": [],
+    "group": "puertorico",
+    "sources": [
+      {
+        "label": "Puerto Rico Planning Board: Military economic-impact announcement",
+        "url": "https://www.jp.pr.gov/noticias-comunicados",
+        "type": "Primary source"
+      },
+      {
+        "label": "Metro Puerto Rico: Study details, 3 February 2026",
+        "url": "https://www.metro.pr/noticias/2026/02/03/presencia-militar-generara-impacto-economico-de-mas-de-2036-millones-en-el-ano-fiscal-2026",
+        "type": "Independent reporting"
+      }
+    ],
+    "note": "Distinguished direct investment from modeled total impact and identified the forecasting body.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Compare forecasts with the matching outcome”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "29"
+  },
+  {
+    "path": "puertorico/puerto-rico-law-transparency-public-records-concerns.html",
+    "category": "puertorico",
+    "date": "2026-02-19T11:03:00+00:00",
+    "title": "Puerto Rico changed its public-records process in December 2025",
+    "description": "Law 156-2025 amended the transparency framework. Requesters should use the amended law and keep a dated record of correspondence.",
+    "image": "https://www.journopulse.com/img/puerto-rico.webp",
+    "body": "Puerto Rico's Law 156-2025, approved December 13, 2025, amended the territory's transparency and public-records procedures. The official English text identifies the provisions of Law 141-2019 that were changed and is the primary reference for the amended framework.\n## Why the procedure matters\nA right to request records depends in practice on how requests are submitted, processed and answered. Longer response periods or additional procedural steps can affect how quickly a journalist or resident obtains material, even when access remains available in law.\nJURIST's December reporting described concerns about the changes and noted longer response deadlines. The enacted text, rather than a summary headline, should control any calculation for a particular request.\n## Make a request easier to track\nIdentify the records and the agency likely to hold them. Keep the submitted request, its date, any acknowledgment and the agency's response. Those records help clarify what was requested and whether an answer addresses it.\nPuerto Rico's Department of Justice publishes information about its own transparency process and designated access arrangements. An individual agency's page is useful for contact details, but requesters should also check the amended statute and any applicable current rules before relying on a deadline.\n## Create a simple request log\nA useful log contains the agency, records sought, submission date, acknowledgment and latest response. Save the correspondence alongside it. The log helps identify the next procedural question while leaving the calculation of an applicable legal deadline to the relevant current rules.",
+    "links": [],
+    "group": "puertorico",
+    "sources": [
+      {
+        "label": "Puerto Rico: Law 156-2025, official English text",
+        "url": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/2-ingles/0156-2025.pdf",
+        "type": "Primary source"
+      },
+      {
+        "label": "JURIST: Analysis of the amendment",
+        "url": "https://www.jurist.org/news/2025/12/new-puerto-rico-law-alters-government-transparency-framework/",
+        "type": "Legal reporting"
+      },
+      {
+        "label": "Puerto Rico DOJ: Public-information access",
+        "url": "https://www.justicia.pr.gov/secretarias-y-oficinas/ley-de-transparencia-y-procedimiento-expedito-para-el-acceso-a-la-informacion-publica/",
+        "type": "Primary source"
+      }
+    ],
+    "note": "Named the enacted law and approval date, added the primary text and removed vague claims about unspecified legislation.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Create a simple request log”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "30"
+  },
+  {
+    "path": "fashion/prada-luxury-fashion-pasta-pomodoro-milan-fashion-week.html",
+    "category": "fashion",
+    "date": "2026-07-15T11:03:00+00:00",
+    "title": "Prada’s spring 2027 menswear revisited everyday clothes",
+    "description": "Miuccia Prada and Raf Simons used familiar garments as the starting point for a tightly defined collection shown in June 2026.",
+    "image": "https://www.journopulse.com/img/prada-serves-fashion.webp",
+    "body": "Prada presented its spring/summer 2027 menswear collection on June 21, 2026. The house's show notes named Miuccia Prada and Raf Simons and described a collection built around deliberate choices, controlled silhouettes and the reconsideration of familiar clothes.\n## The clothes behind the idea\nJeans, jean jackets and T-shirts formed part of that vocabulary. Associated Press coverage described slim, cropped jackets and five-pocket trousers, with familiar shapes reconsidered through materials including leather and technical fabrics.\nThe “pasta pomodoro” comparison came from Simons's pre-show comments about simplicity. It was an analogy for the design approach, not the collection's official title or a universal verdict from fashion critics.\n## How to assess the collection\nA useful way to read the looks is to compare shape, proportion and material separately. A garment can resemble an everyday basic while changing how it sits on the body or how its surface catches light.\nThe runway presentation demonstrates the designers' proposal for a season. It does not establish sales, customer demand or which pieces will reach shops unchanged.\nThe show took place in June; the July date retained on this page is the original site's publication date, not the date of the presentation.\n## Look at one garment twice\nFirst consider its familiar outline; then examine the material and how it hangs. A recognizably ordinary jacket can look quite different when either changes. This is a useful way to engage with a collection’s design ideas without turning a runway observation into a purchase recommendation.",
+    "links": [],
+    "group": "fashion",
+    "sources": [
+      {
+        "label": "Prada Group: Spring/summer 2027 show notes",
+        "url": "https://www.pradagroup.com/content/dam/pradagroup/documents/2026/Giugno/inglese/Prada-Spring-Summer-2027-Menswear-show-PR.pdf",
+        "type": "Designer’s primary statement"
+      },
+      {
+        "label": "AP: Prada presentation, 21 June 2026",
+        "url": "https://apnews.com/article/39399c1307729c96f26f2d1cc1d5f465",
+        "type": "Independent reporting"
+      }
+    ],
+    "note": "Identified the season, designers and actual show date; removed invented praise and a unverified quotation.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Look at one garment twice”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "31"
+  },
+  {
+    "path": "fashion/met-gala-next-dress-code-fashion-is-art-revealed.html",
+    "category": "fashion",
+    "date": "2026-03-04T11:03:00+00:00",
+    "title": "“Fashion is Art”: the 2026 Met Gala dress code explained",
+    "description": "The dress code accompanied Costume Art, an exhibition pairing garments with works from the museum’s collections.",
+    "image": "https://www.journopulse.com/img/met-gala-gusts.webp",
+    "body": "The Metropolitan Museum of Art announced “Fashion is Art” as the dress code for its May 4, 2026 Costume Institute Benefit. It accompanied the exhibition Costume Art, which the museum scheduled from May 10, 2026 through January 10, 2027.\n## Dress code and exhibition are different\nThe gala's dress code was an invitation to attendees to interpret a theme. Costume Art is the museum exhibition: nearly 400 objects juxtaposing clothing with other artworks to explore the dressed body.\nThe museum identified Beyoncé, Nicole Kidman, Venus Williams and Anna Wintour as gala co-chairs. The exhibition also inaugurated new galleries adjacent to the Great Hall.\n## What visitors can do\nThe gala is a fundraising event; visiting the public exhibition is a separate experience. Readers interested in the curatorial ideas should consult the museum's exhibition information rather than assume red-carpet attendance or gala access comes with admission.\nCheck current opening hours, entry arrangements and accessibility information directly with the museum before visiting. The published exhibition closing date provides a planning reference, but ticket availability is a live matter.\nThe theme connects fashion with visual art through the body, rather than asking every guest or visitor to copy a particular painting.\n## A way into the exhibition\nChoose one garment-and-artwork pairing and compare shape, posture and material before reading the interpretation. That turns a broad theme into a concrete looking exercise. It also keeps the public exhibition experience distinct from the separate spectacle of the gala.",
+    "links": [],
+    "group": "fashion",
+    "sources": [
+      {
+        "label": "The Met: Official gala and exhibition announcement",
+        "url": "https://www.metmuseum.org/ja/press-releases/costume-institute-spring-2026",
+        "type": "Primary source"
+      }
+    ],
+    "note": "Replaced “next” with the named year and distinguished gala access from the public exhibition.",
+    "kind": "Guide",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “A way into the exhibition”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "32"
+  },
+  {
+    "path": "fashion/fashion-week-siriano-inaugural-collection-fantasy-surrealism.html",
+    "category": "fashion",
+    "date": "2026-03-04T11:03:00+00:00",
+    "title": "Christian Siriano’s fall 2026 show explored surrealism and fantasy",
+    "description": "The New York presentation reworked red-carpet silhouettes; it was a seasonal collection, not the designer’s debut.",
+    "image": "https://www.journopulse.com/img/fashion.webp",
+    "body": "Christian Siriano presented his fall 2026 collection during New York Fashion Week in February. Associated Press coverage described the designer's interest in a surreal, dreamlike atmosphere and garments with dramatic asymmetric necklines, tulle sleeves and exaggerated peplums.\n## A seasonal presentation\nThe collection belongs to the fall 2026 season. It was a seasonal presentation by an established designer. Siriano's own collection archive provides a direct visual reference for the season's looks.\n## Reading the design\nThe relevant contrast is between familiar eveningwear forms and changes in volume or proportion. An asymmetric neckline redirects attention across the body; a large sleeve or peplum changes the outline. Those are observable design choices, while descriptions such as “dreamlike” remain interpretations.\n## Runway ideas and everyday use\nA runway show presents a concentrated creative proposition. It need not be a literal wardrobe plan. Readers can examine an element—shape, texture or proportion—without assuming the complete look will suit every occasion or become a retail trend.\nThe official archive provides the looks themselves, while the contemporary report places the presentation in its fashion-week setting.\n## Borrow an idea rather than a complete look\nA dramatic runway silhouette can be studied through one feature, such as an off-center neckline or an enlarged sleeve. Comparing that feature with a simpler garment makes the design decision easier to see, without assuming an entire show look belongs in everyday dress.",
+    "links": [],
+    "group": "fashion",
+    "sources": [
+      {
+        "label": "Christian Siriano: Fall 2026 collection archive",
+        "url": "https://christiansiriano.com/collections/fw26",
+        "type": "Designer’s collection archive"
+      },
+      {
+        "label": "AP: Siriano’s February show",
+        "url": "https://apnews.com/article/a2a975c0ee6290c38a59b405a51577de",
+        "type": "Independent reporting"
+      }
+    ],
+    "note": "Corrected the “inaugural” characterization and added an identifiable collection and visual reference.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Borrow an idea rather than a complete look”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "33"
+  },
+  {
+    "path": "fashion/london-fashion-week-september-2026-guide.html",
+    "category": "fashion",
+    "group": "fashion",
+    "date": "2026-09-17T00:00:00+00:00",
+    "title": "London Fashion Week runs September 17–21: how to follow the schedule",
+    "description": "The British Fashion Council’s September calendar brings runway shows, presentations and digital coverage into focus.",
+    "body": "London Fashion Week is scheduled for September 17–21, 2026, according to the British Fashion Council. The organizer's year-round digital platform provides the schedule and collection information for media, retailers and the public.\n## Start with the current calendar\nThe BFC published a provisional schedule in July. Provisional listings can change, so the live schedule is the better reference for a specific designer, format or time. Check the date and time zone when following from outside the United Kingdom.\n## A listing is not an admission ticket\nDifferent events have different access arrangements. A show appearing on the calendar does not establish that it is open to walk-in visitors. Use the organizer's or designer's official event information to confirm whether access is by invitation, registration, ticket or online coverage.\n## What to watch in a new collection\nCompare the designer's stated idea with the clothes actually shown. Silhouette, fabric, construction and styling can each carry a different part of the story. A runway image also does not establish a retail price or delivery date.\nFor readers following fashion week remotely, the official calendar offers a reliable starting point and a way to distinguish scheduled presentations from unrelated events using the fashion-week name.\n## Make a personal viewing plan\nSelect a small number of presentations, note the published time zone and check the official listing again on the day. Leave room for schedule changes. For remote viewing, confirm whether the listing offers a stream, a later film or collection images.",
+    "sources": [
+      {
+        "label": "British Fashion Council: September 2026 announcement",
+        "url": "https://www.britishfashioncouncil.co.uk/BFCNEWS/5094/THE-BRITISH-FASHION-COUNCIL-ANNOUNCES-PROVISIONAL-SCHEDULE-FOR-LONDON-FASHION-WEEK-SEPTEMBER-2026",
+        "type": "Primary source"
+      },
+      {
+        "label": "London Fashion Week: Current schedule",
+        "url": "https://londonfashionweek.co.uk/schedule",
+        "type": "Primary source"
+      }
+    ],
+    "note": "New article added on 17 September 2026.",
+    "kind": "Guide",
+    "updated": "2026-09-17",
+    "new": true,
+    "image": "",
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Make a personal viewing plan”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "34"
+  },
+  {
+    "path": "fashion/new-york-fashion-week-spring-2027-recap.html",
+    "category": "fashion",
+    "group": "fashion",
+    "date": "2026-09-17T00:00:00+00:00",
+    "title": "New York’s spring 2027 collections put color and movement in focus",
+    "description": "The September shows offered a range of approaches to spring dressing. Runway trends remain proposals, not a shopping requirement.",
+    "body": "A September 16 Associated Press review of New York Fashion Week highlighted designers' approaches to color, movement and contrasts for spring/summer 2027, citing labels including Tory Burch, Ralph Lauren and Eckhaus Latta.\n## Which season was on show?\nThe CFDA's official preliminary calendar placed the spring/summer 2027 season on September 10–15, 2026. It named Henry Zankov's debut as artistic director at Diane von Furstenberg as the opening and Thom Browne as the closing presentation.\nThe season label refers to the collection's intended fashion cycle, not the month in which the show took place. That distinction helps readers follow a calendar that often presents clothes months before the named season.\n## Turn a trend report into a useful comparison\nLook at several collections before treating one look as a wider movement. Ask whether a common feature concerns color, silhouette, fabric or styling. Those categories can suggest different ways of interpreting a design, including using clothes already owned.\nA trend report does not establish which looks will sell, how widely they will be produced or whether a particular purchase is necessary. The most useful follow-up is the designer's own collection information and any confirmed retail details.\n## Compare collections with a consistent lens\nPick one feature, such as movement, and look at how several designers achieve it through cut, fabric or styling. Similar visual effects can come from different techniques. That comparison produces a more useful reading of the season than treating every recurring color as a requirement.",
+    "sources": [
+      {
+        "label": "CFDA: Official preliminary September 2026 schedule",
+        "url": "https://cfda.com/news/view-the-preliminary-september-2026-official-nyfw-schedule/",
+        "type": "Primary source"
+      },
+      {
+        "label": "AP: Spring 2027 collection review, 16 September 2026",
+        "url": "https://apnews.com/article/7d5276bf994e682e691ea34b242b943e",
+        "type": "Independent reporting"
+      }
+    ],
+    "note": "New article added on 17 September 2026.",
+    "kind": "Guide",
+    "updated": "2026-09-17",
+    "new": true,
+    "image": "",
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Compare collections with a consistent lens”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "35"
+  },
+  {
+    "path": "fashion/schiaparelli-va-exhibition-2026-guide.html",
+    "category": "fashion",
+    "group": "fashion",
+    "date": "2026-09-17T00:00:00+00:00",
+    "title": "Schiaparelli at the V&A: fashion, surrealism and a visitor’s guide",
+    "description": "The London exhibition traces the house from Elsa Schiaparelli’s work to Daniel Roseberry’s contemporary designs.",
+    "body": "Schiaparelli: Fashion Becomes Art is on view at the V&A South Kensington, with a published closing date of November 8, 2026. The museum describes it as the United Kingdom's first exhibition devoted to Elsa Schiaparelli, spanning the 1920s to the present.\n## What the exhibition connects\nThe display traces the fashion house's origins and its development under Daniel Roseberry. Listed highlights include works associated with Schiaparelli's collaborations with Salvador Dalí and Jean Cocteau, alongside contemporary couture.\nSeeing historical and recent objects together invites a useful comparison: which ideas belong to an individual garment, and which recur across the house's history? Shape, unexpected imagery and the relationship between clothing and the body offer ways into that question.\n## Plan the visit\nThe museum lists the Sainsbury Gallery at its Cromwell Road site and recommends advance booking. Check the official page for current prices, concessions, available slots and accessibility arrangements rather than relying on an undated resale listing.\nA large-print exhibition guide is also available online. It provides a useful resource for preparation or for readers who want to explore the exhibition's contents remotely.\nExhibition admission and separately listed talks or courses have their own booking arrangements.\n## Use the guide before and after a visit\nThe museum’s large-print guide can help identify themes to look for and revisit details afterward. Keep exhibition entry separate from related talks or courses when planning. Their times, access arrangements and availability should be checked against the relevant booking information.",
+    "sources": [
+      {
+        "label": "V&A: Exhibition and visitor information",
+        "url": "https://www.vam.ac.uk/exhibitions/schiaparelli",
+        "type": "Primary source"
+      },
+      {
+        "label": "V&A: Exhibition large-print guide",
+        "url": "https://www.vam.ac.uk/info/schiaparelli-fashion-becomes-art-exhibition-large-print-guide",
+        "type": "Primary source"
+      }
+    ],
+    "note": "New article added on 17 September 2026.",
+    "kind": "Guide",
+    "updated": "2026-09-17",
+    "new": true,
+    "image": "",
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Use the guide before and after a visit”. Replaced the article photograph with a labeled conceptual illustration. Corrected the exhibition closing date to November 8, 2026, using the V&A listing checked September 18.",
+    "illustration_id": "36"
+  },
+  {
+    "path": "sports/police-investigate-death-of-south-africa-world-cup-footballer-jayden-adams.html",
+    "category": "sports",
+    "date": "2026-07-13T11:03:00+00:00",
+    "title": "Jayden Adams’s death: what officials confirmed in July",
+    "description": "The South African footballer died at 25. Police announced an inquest; the initial reports did not establish a cause of death.",
+    "image": "https://www.journopulse.com/img/soccer-player.webp",
+    "body": "South African footballer Jayden Adams died at 25 in July 2026. A July 11 statement from the Western Cape government described his career at Stellenbosch FC and his move to Mamelodi Sundowns in 2025.\nAssociated Press reporting on July 13 said Cape Town police had opened an inquest after his body was discovered at a property in the city. Authorities had not announced a cause of death in that report.\n## Confirmed facts and unanswered questions\nAn inquest is an investigative step. Its existence does not, by itself, establish criminal conduct or explain how someone died. Early reports should not be expanded into claims about suspects, arrests or medical findings that officials have not released.\n## The sporting context\nAdams represented South Africa at the 2026 World Cup. The government's remembrance places his rise through club football alongside that international achievement, while recognizing the loss to his family and community.\n## Following later developments\nAny subsequent account should identify the date and source of a police statement, medical finding or family announcement. This article summarizes the July statements cited below and does not imply that an initial lack of information is a final conclusion about the case.\n## A respectful way to follow the story\nUse official sporting records to explore a player’s career and dated public statements for developments in an investigation. A tribute and an investigative finding serve different purposes. Neither should be used to fill gaps in the other with speculation.",
+    "links": [],
+    "group": "sports",
+    "sources": [
+      {
+        "label": "Western Cape Government: Remembrance, 11 July 2026",
+        "url": "https://www.westerncape.gov.za/cas/article/media-release-we-mourn-loss-young-life-jayden-adams",
+        "type": "Primary source"
+      },
+      {
+        "label": "AP: Police inquest report, 13 July 2026",
+        "url": "https://apnews.com/article/38f190390d7b1e264aa73fc7e1ed171a",
+        "type": "Independent reporting"
+      }
+    ],
+    "note": "Removed unsupported references to arrests, witness interviews and unnamed tributes; bounded the account to dated official statements.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “A respectful way to follow the story”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "37"
+  },
+  {
+    "path": "sports/mexico-vs-ecuador-2-0-round-of-16-2026-world-cup.html",
+    "category": "sports",
+    "date": "2026-07-01T11:03:00+00:00",
+    "title": "Mexico beat Ecuador 2–0 to reach the World Cup round of 16",
+    "description": "Mexico’s 2–0 win came in the round of 32. The expanded bracket explains how the team advanced to the last 16.",
+    "image": "https://www.journopulse.com/img/mexico-ends-40-year.webp",
+    "body": "Mexico defeated Ecuador 2–0 at Mexico City Stadium on June 30, 2026 to advance to the World Cup's round of 16. Concacaf's match report identifies the game as a round-of-32 fixture.\n## The result in context\nThe Asian Football Confederation's report also records the 2–0 result and describes an hour-long delay caused by stormy weather. The win ended Mexico's long wait for a World Cup knockout victory, stretching back to the 1986 tournament.\nThe match date may appear as July 1 in reports using a time zone ahead of Mexico. That is a reporting-time distinction, not evidence of a second match.\n## Why the round matters\nThe expanded 2026 tournament included a round of 32 before the round of 16. Winning this fixture took Mexico into the last 16; it did not send the team directly into the quarterfinals.\nThat distinction affects the bracket and the number of games still required to progress. The result should therefore be described with both the stage played and the stage reached.\nThis account records the completed match. Later-round results belong to separate match reports, and the victory alone does not establish how far Mexico ultimately progressed.\n## Read the bracket as well as the score\nRecord the opponent, match date, round played and round reached. Together those details show where a win fits in a tournament. The same final score carries a different meaning in a group match, a round-of-32 tie or a later knockout round.",
+    "links": [],
+    "group": "sports",
+    "sources": [
+      {
+        "label": "Concacaf: Mexico advances to round of 16",
+        "url": "https://www.concacaf.com/competitions/fifa-world-cup/news/mexico-continues-winning-streak-against-ecuador-to-advance-into-round-of-16",
+        "type": "Primary source"
+      },
+      {
+        "label": "AFC: Round-of-32 match report",
+        "url": "https://www.the-afc.com/en/national/fifa_world_cup.html/news/r32-mexico-2-0-ecuador",
+        "type": "Primary source"
+      }
+    ],
+    "note": "Corrected the round from “round of 16” to “round of 32.” The existing URL is retained so previously shared links keep working.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Read the bracket as well as the score”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "38"
+  },
+  {
+    "path": "world/world-cup-2026-what-to-know-where-to-watch-schedules-and-more.html",
+    "category": "world",
+    "date": "2026-06-11T11:03:00+00:00",
+    "title": "World Cup 2026: dates, format and where to find the match record",
+    "description": "The tournament ran June 11–July 19 across three host countries. Official results now replace pre-tournament schedule speculation.",
+    "image": "https://www.journopulse.com/img/world-cup-fifa.webp",
+    "body": "The 2026 FIFA World Cup ran from June 11 to July 19 across Canada, Mexico and the United States. FIFA's published schedule covered 48 teams, 104 matches and 16 host cities.\n## How the expanded tournament differed\nThe larger field added a round of 32 to the knockout phase. Readers following a team's path should distinguish the group stage from each knockout round rather than assume the format was unchanged from earlier editions.\nFIFA's official match page brings fixtures, venues and results together. It is the appropriate reference for a specific game's date, score and location.\n## Watching after the tournament\nThis page is no longer a guide to an upcoming live event. For highlights or replays, start with FIFA's official match coverage or the authorized broadcaster serving your territory. Availability can differ by country and platform, and a former live-broadcast listing does not guarantee continued replay access.\n## Check the clock and the source\nMatch times can be shown in a viewer's local time rather than the host city's time. That can change the displayed calendar date for late games. Use one time-zone convention when comparing schedules.\nAvoid pages claiming the fixture list is still awaiting release: the tournament has concluded, and the official record is available.\n## Build a team’s tournament timeline\nStart with the official fixtures and list each completed match in order, preserving the round and venue. This makes it easier to follow progression through the expanded format and to distinguish an old preview from a result or a retrospective account.",
+    "links": [],
+    "group": "sports",
+    "sources": [
+      {
+        "label": "FIFA: Match schedule, fixtures and results",
+        "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+        "type": "Primary source"
+      },
+      {
+        "label": "FIFA: Tournament dates and host information",
+        "url": "https://gpcustomersupportfwc2026.tickets.fifa.com/hc/en-gb/articles/28783291386653-1-When-and-where-is-the-FIFA-World-Cup-2026-being-held",
+        "type": "Primary source"
+      }
+    ],
+    "note": "Replaced obsolete future-tense claims and schedule speculation with completed-tournament information; moved the story to Sports.",
+    "kind": "Guide",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Build a team’s tournament timeline”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "39"
+  },
+  {
+    "path": "sports/usa-defeats-canada-olympic-mens-hockey-gold-hughes-overtime.html",
+    "category": "sports",
+    "date": "2026-03-04T11:03:00+00:00",
+    "title": "Jack Hughes’s overtime goal gave U.S. men Olympic hockey gold",
+    "description": "The United States beat Canada 2–1 on February 22, 2026, securing its first men’s Olympic hockey title since 1980.",
+    "image": "https://www.journopulse.com/img/hughes-scores-overtime.webp",
+    "body": "Jack Hughes scored in overtime as the United States defeated Canada 2–1 in the men's Olympic hockey final on February 22, 2026. USA Hockey's official report identifies the victory as the American men's first Olympic gold in 46 years.\n## The deciding moment\nThe International Ice Hockey Federation records the winning goal at 1 minute 41 seconds of overtime. The game was played at Milano Santagiulia Ice Hockey Arena during the Milan Cortina Winter Olympics.\nBecause the final was tied after regulation, the deciding goal came in the additional period. A 2–1 final score on its own does not capture that sequence; the overtime designation is an essential part of the result.\n## Why it was a milestone\nThe comparison with 1980 concerns the U.S. men's team. It should not be read as a claim that no U.S. hockey team had won Olympic gold in the intervening years.\n## The official record\nUSA Hockey and the IIHF provide direct accounts of the final. Their match reports are the useful references for the score, scorer, timing and competition, avoiding confusion with other U.S.–Canada games or the separate women's tournament.\n## What to notice in a replay\nFollow the transition from the end of regulation to overtime, then locate the winning goal in the official sequence. Keeping the competition and team designation visible avoids mixing this men’s final with another Olympic meeting between the two countries.",
+    "links": [],
+    "group": "sports",
+    "sources": [
+      {
+        "label": "USA Hockey: Official gold-medal report",
+        "url": "https://teamusa.usahockey.com/news_article/show/1356118",
+        "type": "Primary source"
+      },
+      {
+        "label": "IIHF: Final report and overtime timing",
+        "url": "https://www.iihf.com/en/events/2026/olympic-m/news/72235/gmg",
+        "type": "Primary source"
+      }
+    ],
+    "note": "Added the match date, score and overtime time; clarified that the historical comparison concerns men’s hockey.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “What to notice in a replay”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "40"
+  },
+  {
+    "path": "sports/milan-cortina-most-watched-winter-games-since-2014.html",
+    "category": "sports",
+    "date": "2026-03-04T11:03:00+00:00",
+    "title": "NBCUniversal reported 23.5 million viewers for Milan Cortina",
+    "description": "The broadcaster’s U.S. audience measure combined platforms and viewing windows. It was not a worldwide audience count.",
+    "image": "https://www.journopulse.com/img/milan-cortina-oly.webp",
+    "body": "NBCUniversal said its 2026 Milan Cortina Olympics coverage averaged 23.5 million viewers in the United States, its largest Winter Games audience since 2014. Associated Press reporting described the figure as 96% above the corresponding Beijing Games measure.\n## What the number includes\nThe company said its calculation combined audiences across NBC, Peacock, CNBC, USA Network and other digital platforms, using its specified afternoon and primetime coverage windows.\nThe figure should therefore be labeled as NBCUniversal's U.S. audience measure. It is not a count of every person worldwide who watched the Olympics, nor necessarily the number watching one event simultaneously.\n## Make comparisons on the same basis\nAudience totals can vary with platforms, time windows and measurement methods. A comparison is most informative when those definitions are consistent. A cumulative reach figure, a streaming total and an average audience measure answer different questions.\n## What the result suggests\nThe reported increase shows stronger viewing under the broadcaster's chosen measure. It does not, by itself, explain which event, athlete or distribution change caused the improvement. The company's release is the primary source for the methodology; independent reporting supplies context for the headline number.\n## Average audience and reach answer different questions\nAn average describes the audience under a defined measurement window; reach describes how many people were counted over a period. Before comparing two headline numbers, identify which question each is answering and which platforms were included.",
+    "links": [],
+    "group": "sports",
+    "sources": [
+      {
+        "label": "NBCUniversal: Closing audience announcement",
+        "url": "https://www.nbcuniversal.com/article/nbcuniversals-presentation-milan-cortina-olympics-dominates-media-landscape-delivers-largest-winter",
+        "type": "Broadcaster’s measurement claim"
+      },
+      {
+        "label": "AP: Audience comparison",
+        "url": "https://apnews.com/article/02f7dd1a3710e4508a397f34169ee44c",
+        "type": "Independent reporting"
+      }
+    ],
+    "note": "Specified the country, broadcaster and measurement scope instead of presenting the figure as global viewership.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Average audience and reach answer different questions”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "41"
+  },
+  {
+    "path": "sports/cristiano-ronaldo-spanish-club-investment.html",
+    "category": "sports",
+    "date": "2026-02-19T11:03:00+00:00",
+    "title": "Cristiano Ronaldo acquired a 25% stake in UD Almería",
+    "description": "The Spanish club identified CR7 Sports Investments as the investment vehicle. A minority holding is different from sole ownership.",
+    "image": "https://www.journopulse.com/img/cristiano-ronaldo.webp",
+    "body": "UD Almería announced that Cristiano Ronaldo acquired 25% of the club's shares through CR7 Sports Investments, a subsidiary of CR7 S.A. The club described the investment within its ownership consortium led by SMC Group.\n## What was announced\nThe percentage and investment vehicle provide the concrete terms disclosed in the club statement. They do not mean Ronaldo bought the entire club, became its coach or committed to playing for the team.\nIndependent reporting dated the announcement to February 26, 2026. The original JournoPulse page carried a February 19 publication date; that earlier date should not be used as the event date.\n## What a stake does not tell us\nThe ownership percentage alone does not disclose the full purchase price, voting arrangements, board rights or future spending plans. Those details need separate documentation.\nFor supporters, the practical questions concern governance and resources: who makes football decisions, what commitments are funded and how the club's plans change. A famous shareholder can attract attention without guaranteeing promotion, trophies or a particular transfer budget.\nThe official club announcement is the starting point for checking the transaction, with later club statements needed for any subsequent developments.\n## Ownership share is the beginning of the explanation\nA percentage states an economic stake, while governance depends on the accompanying arrangements. For supporters, subsequent decisions about management, funded plans and club operations provide a more useful follow-up than assuming a famous investor determines every football decision.",
+    "links": [],
+    "group": "sports",
+    "sources": [
+      {
+        "label": "UD Almería: Official investment announcement",
+        "url": "https://www.udalmeriasad.com/noticias/cristiano-ronaldo-invierte-en-la-ud-almeria-como-parte-del-consorcio-propietario-del-club-liderado-por-smc-group",
+        "type": "Club statement"
+      },
+      {
+        "label": "El País: Announcement dated 26 February 2026",
+        "url": "https://elpais.com/deportes/futbol/2026-02-26/cristiano-ronaldo-compra-el-25-de-las-acciones-de-la-ud-almeria.html",
+        "type": "Independent reporting"
+      }
+    ],
+    "note": "Added the club, stake and investment vehicle; flagged the publication-date discrepancy and removed unsupported performance predictions.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Ownership share is the beginning of the explanation”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "42"
+  },
+  {
+    "path": "us/southern-california-officials-trying-to-prevent-explosion-or-leak-from-damaged-chemical-tank.html",
+    "category": "us",
+    "date": "2026-05-25T11:03:00+00:00",
+    "title": "Garden Grove chemical incident: evacuations ended, recovery continues",
+    "description": "The May emergency displaced residents. A September city update describes a proposed compensation program, with details still pending.",
+    "image": "https://www.journopulse.com/img/southern-california.webp",
+    "body": "A hazardous-materials emergency at GKN Aerospace in Garden Grove led to evacuation orders in May 2026. Officials repeatedly changed the affected area as crews worked to stabilize and remove material from a damaged tank. Those May notices should not be read as current evacuation instructions.\n## From response to recovery\nOrange County's education office reported that all evacuation orders were lifted on May 26, allowing affected schools to reopen. Garden Grove's incident page now also provides resident and business recovery resources.\nIn its September 15 update, the city said GKN planned a claims program of up to $100 million for losses and expenses connected to the evacuation. Eligibility rules and application details had not yet been finalized. Community events were planned beginning in October.\n## What affected residents can use\nThe city's incident page links to GKN's community updates and local assistance resources. An announced program is not the same as an approved individual claim or a payment guarantee. Residents considering a claim should use the program's published eligibility and application instructions when available.\nKeep dated records of evacuation-related expenses and correspondence so that a future application can be supported. For any new emergency, follow current local alerts rather than circulating maps from the May incident.\n## Organize records before a claims process opens\nKeep receipts, the dates and locations of disruption, and relevant correspondence together. That makes later published requirements easier to compare with the records available. Preparing records does not establish eligibility, which depends on the eventual program rules.",
+    "links": [],
+    "group": "us",
+    "sources": [
+      {
+        "label": "City of Garden Grove: Incident history and 15 September recovery update",
+        "url": "https://ggcity.org/hazmat-incident",
+        "type": "Primary source"
+      },
+      {
+        "label": "Orange County Department of Education: Evacuations lifted and schools reopening",
+        "url": "https://newsroom.ocde.us/several-garden-grove-unified-campuses-closed-following-chemical-leak-response/",
+        "type": "Primary source"
+      }
+    ],
+    "note": "Updated the May emergency account with dated recovery information. Removed the implication that old evacuation orders remain in force.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Organize records before a claims process opens”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "43"
+  },
+  {
+    "path": "us/us-supreme-court-hear-exxon-suncor-bid-toss-boulders-climate-suit.html",
+    "category": "us",
+    "date": "2026-03-19T11:03:00+00:00",
+    "title": "Supreme Court review of Boulder climate suit: the questions before the justices",
+    "description": "The court agreed to consider a challenge to state-law climate claims and asked for briefing on its own jurisdiction.",
+    "image": "https://www.journopulse.com/img/supreme-court-agree.webp",
+    "body": "The U.S. Supreme Court granted review in Suncor Energy (U.S.A.) Inc. v. County Commissioners of Boulder County on February 23, 2026. The case involves a challenge by energy companies to climate-related claims brought under state law.\n## More than a choice of courtroom\nThe petition concerns whether federal law precludes the state-law claims. That question is broader than simply deciding whether a lawsuit belongs in a state or federal courtroom. The justices also directed the parties to address whether the Supreme Court has statutory and Article III jurisdiction to hear this case.\n## What the order did—and did not—decide\nGranting review puts legal questions before the court. It does not itself establish the defendants' liability, dismiss every climate lawsuit or award damages to Boulder. Arguments in the companies' briefs and in the government's supporting submission are positions advanced by those parties, not rulings.\n## Following the record\nThe official docket records the grant, briefing schedule and subsequent filings. It is the appropriate source for checking procedural developments. The scope of any eventual decision must be assessed from the court's opinion, including its reasoning and any limits, rather than inferred from the decision to take the case.\n## Identify the document before reading the conclusion\nAn order, a party’s brief and a court opinion carry different weight. Note who wrote the document and what procedural step it addresses. This helps a reader distinguish a requested outcome from a decision the court has actually made.",
+    "links": [],
+    "group": "us",
+    "sources": [
+      {
+        "label": "Supreme Court: Docket 25-170",
+        "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-170.html",
+        "type": "Primary source"
+      },
+      {
+        "label": "Justice Department: Government brief, 21 May 2026",
+        "url": "https://www.justice.gov/osg/brief/suncor-energy-usa-inc-v-county-commissioners-boulder-county",
+        "type": "Primary source"
+      }
+    ],
+    "note": "Corrected the description of the legal questions and distinguished a grant of review from a merits ruling.",
+    "kind": "Explainer",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Identify the document before reading the conclusion”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "44"
+  },
+  {
+    "path": "us/northeast-us-recovers-severe-storm-flight-delays-school-closures.html",
+    "category": "us",
+    "date": "2026-03-04T11:03:00+00:00",
+    "title": "The February 22–23 Northeast blizzard: reading the official storm record",
+    "description": "National Weather Service reports document a past storm. Travel and school information needs a separate, current check.",
+    "image": "https://www.journopulse.com/img/northest-us-digs.webp",
+    "body": "The February 22–23, 2026 storm brought blizzard conditions to parts of the northeastern United States. The National Weather Service's New York office documented the event across its forecast area, including New York City, Long Island and nearby portions of Connecticut and New Jersey.\n## Why the local record matters\nA regional storm headline can conceal substantial differences between places. The Weather Service's event summary provides local observations and maps, allowing readers to distinguish a measurement at a particular station from a claim about the entire Northeast.\nBlizzard conditions concern wind and reduced visibility as well as snow. A snowfall total alone therefore does not describe every hazard encountered during the storm.\n## Recovery information expires quickly\nSchool closures, flight cancellations and transit changes are tied to particular dates and services. A historical article cannot establish whether a school is closed or a flight is operating today. For those decisions, check the school district, carrier or transport operator directly, alongside current local weather alerts.\nThis account concerns the February event. The original page's March publication date is retained in the metadata, but it does not turn the storm into a March forecast. The linked Weather Service record provides the underlying meteorological context.\n## Match each measurement to its place\nRecord the observation site, time interval and type of measurement when comparing storm accounts. A local snowfall observation and a regional description of wind or visibility provide different pieces of the same event, rather than competing versions of one universal total.",
+    "links": [],
+    "group": "us",
+    "sources": [
+      {
+        "label": "National Weather Service, New York: February 22–23 blizzard summary",
+        "url": "https://www.weather.gov/okx/20260222_23",
+        "type": "Primary source"
+      }
+    ],
+    "note": "Replaced undated disruption claims with an explicitly dated storm account and official observations.",
+    "kind": "Background",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Match each measurement to its place”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "45"
+  },
+  {
+    "path": "us/fact-focus-us-israel-strike-iran-false-images-circulate.html",
+    "category": "us",
+    "date": "2026-03-04T11:03:00+00:00",
+    "title": "Old images can mislead during war: how to check a viral claim",
+    "description": "A real image can still be false evidence when its date, place or caption is wrong.",
+    "image": "https://www.journopulse.com/img/education-department.webp",
+    "body": "During the Iran war, the Associated Press identified online images being presented with misleading descriptions. Its March 2 fact check included footage of a sinking vessel that had appeared online years before the conflict. An authentic old recording cannot establish that the depicted event happened in a new war.\n## Check the claim before the pixels\nStart with the caption: what location, date and event does it assert? Save the original post's address and publication time. A repost may omit the caveats or credit that accompanied the first upload.\nNext, search for earlier copies of the image or key frames from a video. An older matching version can disprove a claim that footage is new. It does not automatically identify the true location or explain every detail of the original incident.\n## Seek independent confirmation\nCompare the claimed event with named reporting and relevant official statements. Look for independently established landmarks, dates and context. Several accounts repeating one unsourced upload are not several independent confirmations.\nVisual oddities alone do not reliably establish whether media was generated by AI. Compression, editing and poor resolution can also alter appearances. If the underlying event remains unverified, describe the uncertainty and avoid circulating the image as evidence.\n## Preserve what you can verify\nKeep the original link, the asserted date and place, and any earlier matching version together. Write down which part of the claim the evidence supports or contradicts. If the first source remains unknown, say so rather than replacing one uncertain caption with another.",
+    "links": [],
+    "group": "us",
+    "sources": [
+      {
+        "label": "Associated Press: Misrepresented images circulating during the Iran war, 2 March 2026",
+        "url": "https://apnews.com/article/787b6a21a4fef4cc32ccca9bc59980f0",
+        "type": "Independent fact-checking"
+      }
+    ],
+    "note": "Removed unrelated material and unsupported image claims; added a practical verification process.",
+    "kind": "Guide",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Preserve what you can verify”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "46"
+  },
+  {
+    "path": "us/blizzard-prompts-boston-globe-halt-printing-first-time-153-years.html",
+    "category": "us",
+    "date": "2026-03-04T11:03:00+00:00",
+    "title": "Boston Globe canceled February 24 print delivery during the blizzard",
+    "description": "The February disruption shows how a severe storm can interrupt print production and delivery while other publishing operations remain separate.",
+    "image": "https://www.journopulse.com/img/blizzard-prompts-boston.webp",
+    "body": "The Boston Globe canceled print production and delivery for its February 24, 2026 edition during a major winter storm. Associated Press reporting described it as the first time in the newspaper's 153-year history that management had made that decision.\n## A narrower historical distinction\nThat account is different from saying the Globe had never previously stopped printing. Labor strikes in the 1950s and 1960s had interrupted publication. The distinction matters because a dramatic headline can erase the qualification that makes a historical claim accurate.\n## The storm context\nThe National Weather Service documented the February 22–23 blizzard and its regional effects. The newspaper's decision illustrates how severe weather can disrupt the physical steps between reporting a story and delivering a printed edition.\nPrinting, distribution and digital publication are separate operations. A cancellation affecting one format should not be treated as proof that every newsroom activity ceased.\nFor readers examining the episode later, the relevant date is the affected February edition. It is a historical disruption, not a standing cancellation notice. Future delivery information should come from the newspaper's current subscriber communications.\n## Separate the story from its delivery\nA printed edition depends on production and distribution as well as the reporting itself. Examining which step was interrupted explains the effect on readers more precisely than saying an entire newspaper stopped operating. The publication’s current service notice is the place to check present delivery.",
+    "links": [],
+    "group": "us",
+    "sources": [
+      {
+        "label": "Associated Press: Globe printing decision and historical qualification",
+        "url": "https://apnews.com/article/308125075384641529d615f31d9ff14b",
+        "type": "Independent reporting"
+      },
+      {
+        "label": "National Weather Service: February 22–23 storm record",
+        "url": "https://www.weather.gov/okx/20260222_23",
+        "type": "Primary source"
+      }
+    ],
+    "note": "Corrected the overbroad “first printing halt in 153 years” claim and identified the affected edition.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Separate the story from its delivery”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "47"
+  },
+  {
+    "path": "us/trump-gives-iran-10-15-days-deadline-agreement.html",
+    "category": "us",
+    "date": "2026-03-03T11:03:00+00:00",
+    "title": "Trump’s February Iran deadline: what the 10-to-15-day statement meant",
+    "description": "The statement was a negotiating ultimatum at a particular moment, not a deadline that remains open today.",
+    "image": "https://www.journopulse.com/img/trump-election-court.webp",
+    "body": "President Donald Trump said in February 2026 that Iran had 10 to 15 days to reach an agreement with the United States over its nuclear program. Semafor's February 20 account reported the remarks as the administration considered possible military action and pursued indirect talks.\n## A statement, not an agreement\nA publicly announced deadline describes one side's position. It does not establish that the other side accepted the timetable, that negotiators agreed on terms or that a specific military operation had been authorized.\nThe reporting at that point described options under consideration. Predictions about which option would be chosen should be distinguished from a documented decision.\n## What readers should compare\nFor a negotiating proposal, look for the parties involved, the obligations each would undertake and the mechanism for verifying compliance. An announcement of talks is different from an agreed text; an agreed text is different from implementation.\n## Keep the timeline visible\nThis article records the February statement. The 10-to-15-day interval has passed and must not be presented as a current countdown. Later developments require their own dated reporting. Retaining the original publication date while stating the event's timing helps readers understand which stage of diplomacy the account describes.\n## Track statements and actions separately\nPut the date of an ultimatum on one line and any later documented agreement or action on another. A passage of time alone does not establish which decision followed. This simple timeline prevents an expired deadline from being recycled as a present warning.",
+    "links": [],
+    "group": "us",
+    "sources": [
+      {
+        "label": "Semafor: Trump deadline reported on 20 February 2026",
+        "url": "https://www.semafor.com/article/02/20/2026/trump-gives-iran-a-15-day-deadline-as-strikes-eyed",
+        "type": "Independent reporting"
+      }
+    ],
+    "note": "Reframed the expired deadline as a historical account and removed unsupported predictions.",
+    "kind": "Background",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Track statements and actions separately”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "48"
+  },
+  {
+    "path": "world/initial-deal-to-end-us-iran-war-moves-toward-formal-signing-despite-lingering-questions.html",
+    "category": "world",
+    "date": "2026-06-16T11:03:00+00:00",
+    "title": "June U.S.–Iran preliminary deal left implementation questions open",
+    "description": "Reports of a framework and plans for a signing did not establish that every issue in the conflict had been settled.",
+    "image": "https://www.journopulse.com/img/us-iran-war-moves.webp",
+    "body": "June 15, 2026 reporting described movement toward a preliminary U.S.–Iran agreement and a formal signing. Associated Press coverage also identified unresolved questions, including nuclear issues and the relationship between the agreement and fighting involving Lebanon.\n## Separate the stages of diplomacy\nA preliminary framework can establish a basis for negotiations without resolving each side's detailed obligations. A planned signing is a future event until it happens; a signed document still needs implementation.\nThe useful questions are concrete: What actions are required? On what timetable? Who checks compliance? What happens if a party disputes whether an obligation has been met?\n## Claims need named attribution\nStatements by leaders about the prospects for peace express their assessment or negotiating position. They should be compared with the text of an agreement and with independently documented actions on the ground.\nA ceasefire's geographic scope also matters. A claim about one theatre of conflict cannot automatically establish that hostilities ended everywhere.\n## Scope of this account\nThis article describes the June negotiating stage. It does not establish that the proposed ceremony occurred as planned, a final nuclear settlement was reached or all fighting ceased. Those are separate developments requiring their own evidence.\n## Use an implementation checklist\nFor each announced obligation, note the responsible party, timing and evidence that it was carried out. Leave unresolved terms visibly unresolved. A framework can be an important diplomatic step while still requiring separate evidence for claims about its practical effects.",
+    "links": [],
+    "group": "world",
+    "sources": [
+      {
+        "label": "Associated Press via WTOP: Preliminary deal and outstanding questions, 15 June 2026",
+        "url": "https://wtop.com/world/2026/06/defense-minister-says-israel-wont-withdraw-from-land-seized-in-lebanon-syria-and-gaza/",
+        "type": "Independent reporting"
+      }
+    ],
+    "note": "Removed unsupported claims of a completed comprehensive peace agreement and distinguished the framework, signing and implementation stages.",
+    "kind": "Background",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Use an implementation checklist”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "49"
+  },
+  {
+    "path": "world/cuba-speedboat-shooting-victims-illegal-entry-claim.html",
+    "category": "world",
+    "date": "2026-06-04T11:03:00+00:00",
+    "title": "Cuba reported four deaths in February speedboat confrontation",
+    "description": "The government’s account of armed infiltration remained an allegation; contemporaneous reporting could not independently verify key details.",
+    "image": "https://www.journopulse.com/img/cuba-says-speedboat.webp",
+    "body": "Cuba said its forces killed four people and wounded six aboard a Florida-registered speedboat on February 25, 2026. The government alleged that the occupants entered Cuban waters, fired first and injured an officer. It described the group as seeking to infiltrate the island.\nAssociated Press reporting attributed those assertions to Cuban authorities and said it could not immediately independently verify the government's account. U.S. officials were gathering information about the incident.\n## What remains distinct\nThe reported deaths, the sequence of the shooting and the alleged purpose of the voyage are separate factual questions. Evidence supporting one does not necessarily establish the others. Calling the occupants terrorists or describing the deaths as murder would adopt conclusions that the contemporaneous record did not independently establish.\n## How to read later updates\nUseful evidence would include verified identities, navigational records, examination of the vessel and corroborated witness accounts. Official statements should retain their attribution even when they are the first available account.\nThis article concerns the February confrontation. Its retained June publication date comes from the original site and is not the incident date. Later investigative findings require their own evidence.\n## Attribute each disputed detail\nWhen comparing accounts, record the source for the location, sequence of events and alleged purpose of the voyage separately. Agreement about one detail does not resolve the others. This keeps uncertainty attached to the claim that remains unverified.",
+    "links": [],
+    "group": "world",
+    "sources": [
+      {
+        "label": "Associated Press via KSAT: February 25 report, updated February 26",
+        "url": "https://www.ksat.com/news/world/2026/02/25/cuba-says-4-killed-in-speedboat-shooting-were-attempting-to-infiltrate-the-country/",
+        "type": "Independent reporting"
+      }
+    ],
+    "note": "Attributed disputed allegations, restored the incident date and removed unsupported accounts of protests and relatives’ reactions.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Attribute each disputed detail”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "50"
+  },
+  {
+    "path": "technology/love-my-woke-pope-leo-first-encyclical-viral-papal-approach.html",
+    "category": "technology",
+    "date": "2026-06-02T11:03:00+00:00",
+    "title": "Leo XIV’s first encyclical puts human dignity at the center of the AI debate",
+    "description": "Magnifica Humanitas links technological change with work, social responsibility and the Catholic social tradition.",
+    "image": "https://www.journopulse.com/img/love-my-woke-pop.webp",
+    "body": "Pope Leo XIV's first encyclical, Magnifica Humanitas, is dated May 15, 2026 and was presented on May 25. The Vatican published the full text and the pope's presentation, providing a direct basis for assessing its themes.\n## The argument in context\nThe letter places the human person at the center of economic and technological change. It addresses artificial intelligence alongside broader questions about work, social relationships and responsibility. Its reference to the Catholic social tradition connects contemporary change with earlier debates over industrial society.\nThe date also marks 135 years since Leo XIII's Rerum Novarum, the 1891 encyclical on the condition of workers. That connection helps explain the letter's interest in the effects of technology on people's lives.\n## Read beyond a political label\nDescribing the pope as “woke” or presenting an online slogan as the document's central message substitutes a partisan label for the text. More useful questions concern the duties the letter proposes and how its account of human dignity applies to technological systems.\nThe encyclical is a religious and ethical contribution, not a technical standard or national AI law. Claims about its political reception or popularity online need separate evidence.\n## Turn an ethical theme into a reading question\nChoose a passage about work or technology and ask who bears responsibility and whose interests it puts first. Then separate that ethical argument from a claim about what a particular AI system can do. The two questions require different kinds of evidence.",
+    "links": [],
+    "group": "world",
+    "sources": [
+      {
+        "label": "Vatican: Full text of Magnifica Humanitas",
+        "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+        "type": "Primary source"
+      },
+      {
+        "label": "Vatican: Presentation, 25 May 2026",
+        "url": "https://www.vatican.va/content/leo-xiv/en/speeches/2026/may/documents/20260525-presentazione-enciclica.html",
+        "type": "Primary source"
+      }
+    ],
+    "note": "Replaced an unsupported viral framing with the document’s title, dates and substantive themes. Moved to World.",
+    "kind": "Explainer",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Turn an ethical theme into a reading question”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "51"
+  },
+  {
+    "path": "world/hantavirus-cruise-ship-passengers-depart-after-first-fatality.html",
+    "category": "world",
+    "date": "2026-05-07T11:03:00+00:00",
+    "title": "Hondius hantavirus outbreak: what WHO’s May report established",
+    "description": "The May 27 count was 13 cases, including three deaths. WHO distinguished the outbreak’s risks from risk to the wider population.",
+    "image": "https://www.journopulse.com/img/hantavirus-russia.webp",
+    "body": "The World Health Organization's May 28, 2026 report documented an Andes hantavirus outbreak linked to the cruise ship M/V Hondius. As of May 27, it counted 13 cases: 11 laboratory-confirmed and two probable, including three deaths. All reported cases were passengers or crew.\n## Why the categories matter\nConfirmed and probable cases are different classifications. A number without its date or definition makes later changes difficult to interpret. WHO noted that an earlier inconclusive result had subsequently tested negative and was removed from the count.\n## Transmission and risk\nWHO's working hypothesis was that the first case acquired the infection on land before boarding, with subsequent transmission between people aboard the ship. It assessed risk to the global population as low, and risk to passengers and crew who had been aboard as moderate.\n## A dated public-health account\nThose figures and assessments describe the May report, not a live September case total. A low global risk does not mean a known exposed person should disregard public-health instructions.\nPeople contacted in an outbreak investigation should follow their health authority's instructions. The linked WHO report explains the investigation and response; new personal exposure or symptom questions require current professional advice.\n## Read a case count with its date and definition\nKeep the reporting cutoff, confirmed or probable classification, and affected population together. A later total may change because of new evidence or reclassification. Comparing those definitions is more useful than treating two dated totals as automatically contradictory.",
+    "links": [],
+    "group": "world",
+    "sources": [
+      {
+        "label": "WHO: Disease Outbreak News, 28 May 2026",
+        "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON604",
+        "type": "Primary source"
+      }
+    ],
+    "note": "Removed the unverified named quotation, corrected the case context and added the dated WHO update. This is historical outbreak coverage.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Read a case count with its date and definition”. Replaced the article photograph with a labeled conceptual illustration. Specified the moderate shipboard risk classification in the dated WHO report.",
+    "illustration_id": "52"
+  },
+  {
+    "path": "world/Iran-drafts-transit-toll-law-amid-Hormuz-tensions.html",
+    "category": "world",
+    "date": "2026-03-26T11:03:00+00:00",
+    "title": "Iran’s proposed Hormuz toll: a draft is different from an accepted transit rule",
+    "description": "March reporting on a legislative proposal raised questions about shipping access. The IMO opposed charging for passage.",
+    "image": "https://www.journopulse.com/img/iran-and-us-harden.webp",
+    "body": "In March 2026, Associated Press reporting described an Iranian proposal to charge vessels passing through the Strait of Hormuz. The account cited a lawmaker's statements carried by Iranian media about legislation being prepared.\n## Four different questions\nAn announced proposal, an enacted domestic law, enforcement in practice and international recognition are distinct stages. A report about a draft does not establish that every vessel must legally pay a new fee or that shipping companies have agreed to do so.\n## The maritime organization’s position\nIn remarks to an April 17 summit on freedom of navigation, the International Maritime Organization's secretary-general opposed tolls or fees for passage and discriminatory treatment of ships. The statement framed safe, unimpeded transit as a central concern.\nThat position explains why a domestic toll proposal would be contested. It is not evidence that the dispute was resolved or that a particular route was safe on a particular day.\n## Reading shipping developments\nHeadlines should specify the date, the measure actually adopted and who is enforcing it. The proposal alone cannot establish a voyage's eventual cost, an insurer's conditions or an agreed international navigation regime. Those require separate, current documentation.\n## Trace a proposal through its stages\nA useful record distinguishes introduction, adoption, enforcement and the responses of affected parties. Note the source and date for each stage. This approach keeps a lawmaker’s proposal from becoming an unsupported statement about a ship’s current obligations.",
+    "links": [],
+    "group": "world",
+    "sources": [
+      {
+        "label": "Associated Press: Draft toll legislation reported in March 2026",
+        "url": "https://apnews.com/article/de5159966cde7de7b964b3c2c67eec07",
+        "type": "Independent reporting"
+      },
+      {
+        "label": "IMO: Secretary-general’s statement to the 17 April summit",
+        "url": "https://www.imo.org/en/mediacentre/secretarygeneral/pages/statement-summit-uk-france-strait-of-hormuz.aspx",
+        "type": "Primary source"
+      }
+    ],
+    "note": "Distinguished a proposed law from enactment and international acceptance; added the IMO’s position.",
+    "kind": "Explainer",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Trace a proposal through its stages”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "53"
+  },
+  {
+    "path": "puertorico/irans-ambassador-alleges-strikes-targeted-natanz-nuclear-facility.html",
+    "category": "puertorico",
+    "date": "2026-03-04T11:03:00+00:00",
+    "title": "Natanz: March assessments distinguished entrance damage from radiological impact",
+    "description": "Reports of damage at the nuclear site did not by themselves establish a radioactive release or the destruction of enrichment capacity.",
+    "image": "https://www.journopulse.com/img/iranes-nuclear-ambassador.webp",
+    "body": "After Iran alleged that strikes targeted the Natanz nuclear facility, March 3, 2026 reporting described damage to entrance buildings. Associated Press coverage cited the International Atomic Energy Agency's assessment that radiological consequences were not expected.\nThe World Health Organization's March 11 regional situation report also recorded the IAEA's confirmation of damage at Natanz. These dated assessments provide firmer context than an allegation alone.\n## What the evidence can establish\nDamage to an entrance building is a physical observation. Whether radioactive material was released is a separate question requiring appropriate monitoring and technical assessment. The operational condition of underground equipment is another question again.\nSatellite imagery can help locate visible changes to structures. It cannot, by itself, establish every condition inside a facility or measure a person's radiation exposure.\n## Keep the time and scope clear\nThe cited assessments concern the early-March incident. They should not be generalized into a claim that no later damage occurred or every part of the facility was unaffected.\nFor residents, structural-damage reporting cannot replace current emergency instructions. For reporting, the key is identifying which authority assessed which effect and when, without turning a limited observation into a sweeping conclusion.\n## Ask which effect was measured\nFor each assessment, identify whether it concerns visible damage, operating capability or environmental conditions. Those findings may require different instruments and access. Keeping the measurement attached to the conclusion prevents a limited inspection from becoming a claim about the entire facility.",
+    "links": [],
+    "group": "world",
+    "sources": [
+      {
+        "label": "Associated Press: Natanz damage assessment, 3 March 2026",
+        "url": "https://apnews.com/article/e42a4711f6d350d14c10e5f9981eca46",
+        "type": "Independent reporting"
+      },
+      {
+        "label": "WHO Eastern Mediterranean: Situation report, 11 March 2026",
+        "url": "https://www.emro.who.int/images/stories/eha/ME-Sitrep-1-11-March-26.pdf",
+        "type": "Primary source"
+      }
+    ],
+    "note": "Added the subsequent agency assessment, separated physical damage from radiological effects and moved the article to World.",
+    "kind": "Report",
+    "updated": "2026-09-17",
+    "new": false,
+    "content_pass_date": "2026-09-18",
+    "content_pass_note": "Improved the explanation and added the section “Ask which effect was measured”. Replaced the article photograph with a labeled conceptual illustration.",
+    "illustration_id": "54"
+  }
+]

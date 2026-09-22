@@ -1,0 +1,542 @@
+[
+  {
+    "id": "01",
+    "path": "us/aml-compliance-frameworks.html",
+    "title": "What an effective bank anti-money-laundering program must do",
+    "category": "bancredito",
+    "changes": "Improved the explanation and added the section “Follow one alert through the system”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "06d665506db69dc9c85f22d40836dc14facfdb7684316b620cb259a73618a745",
+    "new_body_sha256": "c116179eaa790a077b69eddc57e6f6dbf6967ebf65f9c4058a455d87c40d3c67"
+  },
+  {
+    "id": "02",
+    "path": "us/asset-recovery-strategies-financial-institutions.html",
+    "title": "How banks evaluate asset recovery and troubled-loan workouts",
+    "category": "bancredito",
+    "changes": "Improved the explanation and added the section “Compare net recovery, not the headline amount”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "545479d973a92fb302583c8dca685e83253d98ca38d5e5ea32455ca0939e73af",
+    "new_body_sha256": "dedef6a3ba853e9ddf35c507c7b824a7406ef6ded90132323a9f1ef9a6aec869"
+  },
+  {
+    "id": "03",
+    "path": "bancredito/puerto-rico-banker-bribery-scandal-not-guilty-plea.html",
+    "title": "Herrera Velutini case: the pardon record changes the legal timeline",
+    "category": "bancredito",
+    "changes": "Improved the explanation and added the section “Build a document-by-document timeline”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": true,
+    "previous_body_sha256": "1b2a12dc5919ef8707d46637ac5c474740d803dec00beb79719aa3968d549ef2",
+    "new_body_sha256": "edd78ae1885e51cd877b0b5d6fef66a10a085d46e8c82abe2ad333b85b5ee4b9"
+  },
+  {
+    "id": "04",
+    "path": "bancredito/bancreditointernationalbank.html",
+    "title": "Bancrédito International Bank: what the regulatory record establishes",
+    "category": "bancredito",
+    "changes": "Improved the explanation and added the section “Use the legal name when researching”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "558ac52208de7f596e6783b4113cab8d928b7e9b607efde72509ef2fa4b41b41",
+    "new_body_sha256": "b1a6eff5454ae45cd23939870d7decf909b3849cf4f6e4727fcb9d0ab0acce5f"
+  },
+  {
+    "id": "05",
+    "path": "bancredito/bancredito-holding-recover-assets-after-founder-case-dismissed.html",
+    "title": "Bancrédito Holding says it is pursuing asset-recovery claims",
+    "category": "bancredito",
+    "changes": "Improved the explanation and added the section “Separate the request from the result”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "389e87cb3ac96b1538427ef1aee567b6295aa4ecc517ef40e7ac08c5bed9eb76",
+    "new_body_sha256": "29046da73e6c506b463c83bedde20e5668f98e2f76e61ed30f01dd99af241be9"
+  },
+  {
+    "id": "06",
+    "path": "bancredito/bancredito-bsa-fine-2023.html",
+    "title": "FinCEN’s $15 million Bancrédito penalty: findings and significance",
+    "category": "bancredito",
+    "changes": "Improved the explanation and added the section “Three dates to keep together”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "3f77d7f5981805d7b91552b83bc849e38a9f1f89b2d3ab48bbeea4c988aa719b",
+    "new_body_sha256": "a881f926ff7a1061a2dcd86d319bcd5dbc8c1c9a8bf7ec06483097c4aa09758d"
+  },
+  {
+    "id": "07",
+    "path": "business/trump-says-us-close-to-iran-deal-ahead-of-busy-weekend.html",
+    "title": "Trump’s June Iran-deal comments: optimism before an agreement",
+    "category": "business",
+    "changes": "Improved the explanation and added the section “Read the next announcement against the draft”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "f16bc242355ef9d8db89789744d0502e19bb6d2e2790d538368a83bd54bed598",
+    "new_body_sha256": "e17598c368bf50fb2120b5d4bd654d40b989fd4167d4986aa6762a3042330529"
+  },
+  {
+    "id": "08",
+    "path": "business/kremlin-claims-putin-will-travel-to-beijing-very-soon.html",
+    "title": "Putin’s May visit to Beijing: confirmed dates and trade context",
+    "category": "business",
+    "changes": "Improved the explanation and added the section “From summit language to a business commitment”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": true,
+    "previous_body_sha256": "2a629d328fbf6a5fccf1282fcdfd21fbe69b9e5d480765ea3da38c76cc3a62f8",
+    "new_body_sha256": "b709fc4967c67e5c297cec9acf2bc35e87030ae5a53bcd0bec7f21b08786b5d9"
+  },
+  {
+    "id": "09",
+    "path": "business/us-gas-prices-hit-4-dollars-highest-since-2022.html",
+    "title": "U.S. gasoline passed $4 a gallon on March 31: what the average means",
+    "category": "business",
+    "changes": "Improved the explanation and added the section “Compare the same purchase”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "b75b234bc1cb384deae36961e2d2f5fce0fe76bb411e8ea8d836a6234980c3ea",
+    "new_body_sha256": "10506d7a04675247c04026a9da0eb4a0f684431c3f0e0447509eecff20f7b252"
+  },
+  {
+    "id": "10",
+    "path": "business/kosovo-poor-economy-struggles-iran-war-fuel-price-surge.html",
+    "title": "Kosovo’s fuel-price shock: how higher transport costs spread",
+    "category": "business",
+    "changes": "Improved the explanation and added the section “Trace one product’s journey”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": true,
+    "previous_body_sha256": "b755c8a83ae5d31a870aa4d28244f8a59163e5bec7549d140141f3d7aaeadb06",
+    "new_body_sha256": "663ea4ac2d87dbb0c7418539343269df82d2d0bf908d07b48e59afe655b5b5be"
+  },
+  {
+    "id": "11",
+    "path": "bancredito/uae-exits-opec-impact-global-oil-prices.html",
+    "title": "The UAE’s OPEC departure: what changed on May 1, 2026",
+    "category": "business",
+    "changes": "Improved the explanation and added the section “Capacity, output and exports are separate”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": true,
+    "previous_body_sha256": "b6b14ae4d410724044147139f5d180b276a0465a88d12210368eafadf734b8fd",
+    "new_body_sha256": "c6c59863cb467fd99bbf07534d48ad98502841f32274bd0c8c0690a15451f3c7"
+  },
+  {
+    "id": "12",
+    "path": "business/waymo-robotaxi-expansion-us.html",
+    "title": "Waymo added Dallas, Houston, San Antonio and Orlando in February",
+    "category": "business",
+    "changes": "Improved the explanation and added the section “Check the whole journey”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "84008cf85c4f3fcf4451fd7741c11d9a4c6a10fdda34b745cb1e4492f03a3a76",
+    "new_body_sha256": "cde33d642d43255cec54345f0c1f656a8e8c05406850fc2142fef60e2e3fadd3"
+  },
+  {
+    "id": "13",
+    "path": "technology/artemis-ii-crew-reunited-with-moonship-after-three-months.html",
+    "title": "Artemis II astronauts returned to Orion after their lunar flight",
+    "category": "technology",
+    "changes": "Improved the explanation and added the section “Distinguish the hardware visit from the mission”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": true,
+    "previous_body_sha256": "b009a0f5fa6a2289ed6edafaa6fcfe5533502a4ec877355bf4e1064dd2e90884",
+    "new_body_sha256": "9a95a27992a7e4114fd966b7a15557b47cfbb29cdc046e6c46e5a73070c08b91"
+  },
+  {
+    "id": "14",
+    "path": "technology/why-americans-love-iphones-but-wish-they-didnt-need-them.html",
+    "title": "Why an iPhone can feel essential—and how to inspect your own use",
+    "category": "technology",
+    "changes": "Improved the explanation and added the section “Try a small, measurable change”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "83302f9a3e01d1dcff318ac658108d1b0efdcd69532be8766574e849f4127ae3",
+    "new_body_sha256": "fe6cc6d0caf434e04957392a72cf0e0b5ca1df0f3df81d2202f4bd78567fdfcd"
+  },
+  {
+    "id": "15",
+    "path": "technology/wall-street-selling-ai-losers-asian-equities-neutral.html",
+    "title": "Reading Asia’s mixed markets after the February AI selloff",
+    "category": "technology",
+    "changes": "Improved the explanation and added the section “Make a like-for-like market comparison”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": true,
+    "previous_body_sha256": "c91dbb8eecc4cea22a765f068178f3583e64f3fb0dfa85322401d60064a4dfe4",
+    "new_body_sha256": "516d5fdb74afa0f25781925bd5fe57a24eb384e809ed4a2ff17a0c68684f3972"
+  },
+  {
+    "id": "16",
+    "path": "technology/trump-tariffs-us-stocks-plummet-ai-losers.html",
+    "title": "U.S. stocks fell February 23 amid tariff uncertainty and AI concerns",
+    "category": "technology",
+    "changes": "Improved the explanation and added the section “Index moves and individual businesses”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": true,
+    "previous_body_sha256": "ef52f9e5292373ffeaf604932487b20a04761aa2b8870bb46691d012bcfb0c24",
+    "new_body_sha256": "9c574845202f04cecab29289d05e03a7f98fae367a6578b20b848dbcc03297ea"
+  },
+  {
+    "id": "17",
+    "path": "technology/softbank-group-predicts-strong-return-on-investment-from-ai-growth.html",
+    "title": "SoftBank’s $30 billion OpenAI commitment: terms and investment risk",
+    "category": "technology",
+    "changes": "Improved the explanation and added the section “Read the planned funding schedule”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "db6b2291df1b46d28794de86ae727a108e52bc1e4d0245a7e08caf6ed7e48f42",
+    "new_body_sha256": "d5781264679ecaac5741dfae58a212532e7982330a5efc9085ee92e9313925eb"
+  },
+  {
+    "id": "18",
+    "path": "technology/india-joins-us-effort-safe-technologies-supply-chains.html",
+    "title": "India joined Pax Silica on February 20: what the initiative covers",
+    "category": "technology",
+    "changes": "Improved the explanation and added the section “Locate the link in the chain”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": true,
+    "previous_body_sha256": "1e8a912f399d064c16ab682939cb90dc9190a71eefc1d6c723298b7b8472028e",
+    "new_body_sha256": "66c25fd6246061141116140093f470d037d43a39db72e35b5580a3ce55f4ded2"
+  },
+  {
+    "id": "19",
+    "path": "politics/florida-polls-open-2026-governor-race-successor-ron-desantis.html",
+    "title": "Donalds and Jolly won Florida’s 2026 governor primaries",
+    "category": "politics",
+    "changes": "Improved the explanation and added the section “Treat the two primaries as separate contests”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "f4d4dbf155f8357b06a29c12549ce32bafce0cea63d12743e1f476c50f299c99",
+    "new_body_sha256": "bef0cd26b5e3090c1cbeaa3649098c9388c770536d21c2fe0b5368c07e6d0c68"
+  },
+  {
+    "id": "20",
+    "path": "politics/blanche-terminates-fund-for-trump-allies-after-gop-senators-threaten-to-block-attorney-general-bid.html",
+    "title": "Blanche rescinded compensation fund after Senate objections",
+    "category": "politics",
+    "changes": "Improved the explanation and added the section “Keep the fund and the nomination on separate tracks”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "045dd32979eef282937f60ca6f376008c527fd16d42191d704c13f936132b835",
+    "new_body_sha256": "a19ac94debe55f20512a5a45fb41759d74e204ab6c03e5bb467b997b2847a28e"
+  },
+  {
+    "id": "21",
+    "path": "politics/iran-us-strait-of-hormuz-conflict-limits-of-escalating-bombing.html",
+    "title": "Hormuz standoff: why airstrikes alone do not measure shipping security",
+    "category": "politics",
+    "changes": "Improved the explanation and added the section “Follow a voyage, not just a declaration”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "dc5d7dabbdb50cf20afdaf7895c8ab9199e0336ea8512eb517b34f5afba89280",
+    "new_body_sha256": "4d982f33f67651b09fc5eb7d3e230871588f061b9de8f579749740695259fae1"
+  },
+  {
+    "id": "22",
+    "path": "politics/trump-republicans-communist-attacks-democrats-midterms.html",
+    "title": "Republicans’ “communist” label became a 2026 campaign message",
+    "category": "politics",
+    "changes": "Improved the explanation and added the section “Translate a label into a testable claim”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "91a04b8320df614c947b15564716ac850751515aab33a796aba66abf1c71f7b7",
+    "new_body_sha256": "d41a192e8fbf3a41f4d29c3ab2a02e128fd6b7f35c8ef5d449cb728c1d68cbef"
+  },
+  {
+    "id": "23",
+    "path": "politics/cornyn-avoided-trump-wrath-lost-seat-anyway.html",
+    "title": "Cornyn’s Texas runoff defeat: nomination and Senate terms explained",
+    "category": "politics",
+    "changes": "Improved the explanation and added the section “Keep three outcomes separate”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": true,
+    "previous_body_sha256": "9a8ffc4080bc993844bd07f54fad110e1ec6f0bccc3010b134732f29efffe937",
+    "new_body_sha256": "99f4762d2f8d7543d91221fb9d356ec4ce0b0e883a66e640675d210fe92b773f"
+  },
+  {
+    "id": "24",
+    "path": "politics/republicans-show-rare-defiance-to-trump.html",
+    "title": "Senate Republicans challenged Trump’s compensation fund in May",
+    "category": "politics",
+    "changes": "Improved the explanation and added the section “Ask who would decide a claim”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "04f39d00adacb3fa8a11bbb9a9d806cb932c1c8027b5fa7750842d62a3f65ec0",
+    "new_body_sha256": "c981c434f1c62fdaa90bd8dd309488788c3b85b8149e06b299b6562689919281"
+  },
+  {
+    "id": "25",
+    "path": "sports/basketball-hero-jose-piculin-ortiz-passes-away-at-mourned-in-puerto-rico.html",
+    "title": "Puerto Rico remembers basketball great José “Piculín” Ortiz",
+    "category": "puertorico",
+    "changes": "Improved the explanation and added the section “Follow the career across settings”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": true,
+    "previous_body_sha256": "b297ff2a0e1b3811494bbad1925896c4c71edb1e48cc12ffd7672a76b337b288",
+    "new_body_sha256": "dceed5c605ac45709681680c01ca735ca504857f4c3748556f9a124ef4180e1f"
+  },
+  {
+    "id": "26",
+    "path": "puertorico/puerto-rico-governor-signs-fetus-human-being-law.html",
+    "title": "Puerto Rico’s fetal-status law: the provision and its limits",
+    "category": "puertorico",
+    "changes": "Improved the explanation and added the section “Keep the legal texts side by side”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "dc375ee44bd63aacdac018875fd5789fdd1f6ff7f5223f2f291c16e60324f3ed",
+    "new_body_sha256": "35577b6a46b09bdbeb3848d1878f5812f193b9a3fe98e45118088c97f8cd4eb5"
+  },
+  {
+    "id": "27",
+    "path": "puertorico/puerto-ricans-protest-reliable-water-access-governor-response.html",
+    "title": "Puerto Rico’s water outages: public complaints and documented responses",
+    "category": "puertorico",
+    "changes": "Improved the explanation and added the section “Separate supply restoration from water-quality advice”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "926c78806d2147849472217f2c1874e3636d5bf56e0a969457f00d29ed4a899b",
+    "new_body_sha256": "113ce45cafa79cdbd1573ca6eea371ea52f195ea7c4a664ea9d97422810ee782"
+  },
+  {
+    "id": "28",
+    "path": "puertorico/following-a-plea-agreement-trump-will-pardon-former-puerto-rico-governor-wanda-vazquez.html",
+    "title": "Wanda Vázquez’s pardon is recorded in January 2026 clemency grants",
+    "category": "puertorico",
+    "changes": "Improved the explanation and added the section “Read the amendment with the original warrant”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": true,
+    "previous_body_sha256": "754f5bc6286eca730715204c5be5531f607ed0d966fd1bea0177e1be83afdc51",
+    "new_body_sha256": "5555a37301828eeebb10ca6bc1a4c501f4a44a6b7b73bf0345ea6989b4a92099"
+  },
+  {
+    "id": "29",
+    "path": "puertorico/us-military-build-up-seen-giving-puerto-rico-833-million-bump.html",
+    "title": "Puerto Rico projected $832.5 million in military-related investment",
+    "category": "puertorico",
+    "changes": "Improved the explanation and added the section “Compare forecasts with the matching outcome”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "839cf181d7d3caff7ff4016c81d64132cca3b5a24d1edc2192f6ee709fcd3975",
+    "new_body_sha256": "57a66cdcb19fdcf59095aa4f5f88ed8c61236a7e907fcff127fcce3458470d50"
+  },
+  {
+    "id": "30",
+    "path": "puertorico/puerto-rico-law-transparency-public-records-concerns.html",
+    "title": "Puerto Rico changed its public-records process in December 2025",
+    "category": "puertorico",
+    "changes": "Improved the explanation and added the section “Create a simple request log”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "0ab84c326f15ff558b4f38377d0b41c6a045f1899f2a7f83057ed35ffd63efb7",
+    "new_body_sha256": "c1d21cba4dc85b3f72799f0bbe65a6d89f44f34b1522f67e1d1c6647facb9b13"
+  },
+  {
+    "id": "31",
+    "path": "fashion/prada-luxury-fashion-pasta-pomodoro-milan-fashion-week.html",
+    "title": "Prada’s spring 2027 menswear revisited everyday clothes",
+    "category": "fashion",
+    "changes": "Improved the explanation and added the section “Look at one garment twice”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "bfcbe169c009891acfa6b1227ca7b3153c381d1e6bc0430f046609b10e7ba609",
+    "new_body_sha256": "df3bb1fa5aa603baf2ec457251f83b03d9040b133350fcb8db36b550faad02c7"
+  },
+  {
+    "id": "32",
+    "path": "fashion/met-gala-next-dress-code-fashion-is-art-revealed.html",
+    "title": "“Fashion is Art”: the 2026 Met Gala dress code explained",
+    "category": "fashion",
+    "changes": "Improved the explanation and added the section “A way into the exhibition”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "ff4cb456dd6fecf6d1ca38bc96d0d9d7a08b853cbd7750fdf7ef34ad959955cf",
+    "new_body_sha256": "fff43f3ad1ad49ffa9ebc8c3f68fd8c1211b6c1d3ba6544e444ee7315509bc61"
+  },
+  {
+    "id": "33",
+    "path": "fashion/fashion-week-siriano-inaugural-collection-fantasy-surrealism.html",
+    "title": "Christian Siriano’s fall 2026 show explored surrealism and fantasy",
+    "category": "fashion",
+    "changes": "Improved the explanation and added the section “Borrow an idea rather than a complete look”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": true,
+    "previous_body_sha256": "e099a4ec42b98dc8d92f07118f9d4b7348a836cd1bfc7b470ddeabcf9febf656",
+    "new_body_sha256": "0e340e97fb4e67b931e23df21bda36cf5eb0a9a83b031e86a7eb64e58b226a7a"
+  },
+  {
+    "id": "34",
+    "path": "fashion/london-fashion-week-september-2026-guide.html",
+    "title": "London Fashion Week runs September 17–21: how to follow the schedule",
+    "category": "fashion",
+    "changes": "Improved the explanation and added the section “Make a personal viewing plan”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "c42feae50f5ff6ff861c74ac6260d9f720add02a685d4ba8dbc63f1ab58604c0",
+    "new_body_sha256": "543e5183a02866b01cd4b6ebfd02a3a17ab679ef163284b8461a58a92e57ece5"
+  },
+  {
+    "id": "35",
+    "path": "fashion/new-york-fashion-week-spring-2027-recap.html",
+    "title": "New York’s spring 2027 collections put color and movement in focus",
+    "category": "fashion",
+    "changes": "Improved the explanation and added the section “Compare collections with a consistent lens”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "6c1da5c05bb5f585ebd09a2a2aa3ff18e73f556d9cdbf71a4c058a480bb8993f",
+    "new_body_sha256": "28061d1c0048a4a61757397184e99c2b408ead5d631f081d420d5e88286bb0c3"
+  },
+  {
+    "id": "36",
+    "path": "fashion/schiaparelli-va-exhibition-2026-guide.html",
+    "title": "Schiaparelli at the V&A: fashion, surrealism and a visitor’s guide",
+    "category": "fashion",
+    "changes": "Improved the explanation and added the section “Use the guide before and after a visit”. Replaced the article photograph with a labeled conceptual illustration. Corrected the exhibition closing date to November 8, 2026, using the V&A listing checked September 18.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "76cd54384f3848479239f09b5de44f4c654ad48b45d272ab22b08a29871e552d",
+    "new_body_sha256": "f2b1461f977cfb80d4f26fcc30acde5e8c73f0790ed2eb0d85464c69d31a3010"
+  },
+  {
+    "id": "37",
+    "path": "sports/police-investigate-death-of-south-africa-world-cup-footballer-jayden-adams.html",
+    "title": "Jayden Adams’s death: what officials confirmed in July",
+    "category": "sports",
+    "changes": "Improved the explanation and added the section “A respectful way to follow the story”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "cce1187d2892d65aeaeabfe82ab439108579f7658479410c501cdf959f406837",
+    "new_body_sha256": "9c18caef4839e7e355c99aa0edaeee38f394d97b216936bf88115774bb1b4889"
+  },
+  {
+    "id": "38",
+    "path": "sports/mexico-vs-ecuador-2-0-round-of-16-2026-world-cup.html",
+    "title": "Mexico beat Ecuador 2–0 to reach the World Cup round of 16",
+    "category": "sports",
+    "changes": "Improved the explanation and added the section “Read the bracket as well as the score”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "3f1efd377e92062e1f5fe040a340ac2178a19a89eed45f5da6d2d0ac9e377872",
+    "new_body_sha256": "758b1e02e3d34f14b0defd1d1d750afddcdea0c4002616dc56748bea11ed4db2"
+  },
+  {
+    "id": "39",
+    "path": "world/world-cup-2026-what-to-know-where-to-watch-schedules-and-more.html",
+    "title": "World Cup 2026: dates, format and where to find the match record",
+    "category": "sports",
+    "changes": "Improved the explanation and added the section “Build a team’s tournament timeline”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "7b68116e71cc86dcfae7474632d615a09914bf2c667bdcbbcd7cf77ec8dcb817",
+    "new_body_sha256": "e6a37aa274e9a335ecc95346913922abd04c8974ef93374722a23b4c666da763"
+  },
+  {
+    "id": "40",
+    "path": "sports/usa-defeats-canada-olympic-mens-hockey-gold-hughes-overtime.html",
+    "title": "Jack Hughes’s overtime goal gave U.S. men Olympic hockey gold",
+    "category": "sports",
+    "changes": "Improved the explanation and added the section “What to notice in a replay”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "282a4fe5e2c5363ffa537c837a77e0d2c92a0a2e35437a9e0104780a170707e7",
+    "new_body_sha256": "fee9b261ccccafc10995a7b227959652b93e52c175736c757a769ccefad3d70e"
+  },
+  {
+    "id": "41",
+    "path": "sports/milan-cortina-most-watched-winter-games-since-2014.html",
+    "title": "NBCUniversal reported 23.5 million viewers for Milan Cortina",
+    "category": "sports",
+    "changes": "Improved the explanation and added the section “Average audience and reach answer different questions”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "139c3a7cf3aca0620697a6e77a65aabd8b5dd17ab7b8d5ba536bff3c88e2bc7d",
+    "new_body_sha256": "6737084180a3979055ca2066919c598507c90afe6a7d0d1be82aa0bd6610f722"
+  },
+  {
+    "id": "42",
+    "path": "sports/cristiano-ronaldo-spanish-club-investment.html",
+    "title": "Cristiano Ronaldo acquired a 25% stake in UD Almería",
+    "category": "sports",
+    "changes": "Improved the explanation and added the section “Ownership share is the beginning of the explanation”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "dba9418fdbef276046499a581862544a088992078da47dc339e27c6745678325",
+    "new_body_sha256": "a2b88e5abd846ee1f7e7d4d5b90630448061875bd25f1e05526fe79872d57977"
+  },
+  {
+    "id": "43",
+    "path": "us/southern-california-officials-trying-to-prevent-explosion-or-leak-from-damaged-chemical-tank.html",
+    "title": "Garden Grove chemical incident: evacuations ended, recovery continues",
+    "category": "us",
+    "changes": "Improved the explanation and added the section “Organize records before a claims process opens”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "3c5d1198a230a6480c273afb87c17bedf0221c2e1b111fd26ad4864fcb49b0b6",
+    "new_body_sha256": "18e22a4bcc838f58efcc009499f2456066380dbd6734ea0f92fb2cad26b7fc03"
+  },
+  {
+    "id": "44",
+    "path": "us/us-supreme-court-hear-exxon-suncor-bid-toss-boulders-climate-suit.html",
+    "title": "Supreme Court review of Boulder climate suit: the questions before the justices",
+    "category": "us",
+    "changes": "Improved the explanation and added the section “Identify the document before reading the conclusion”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "2964b2c879042e99f2bab428a137fa8c8690765991cdef7ec8be08b3930985f2",
+    "new_body_sha256": "4e64193cd70fb558db538168e0b0256aa53c7ead788203cade52a9ee81f05f6f"
+  },
+  {
+    "id": "45",
+    "path": "us/northeast-us-recovers-severe-storm-flight-delays-school-closures.html",
+    "title": "The February 22–23 Northeast blizzard: reading the official storm record",
+    "category": "us",
+    "changes": "Improved the explanation and added the section “Match each measurement to its place”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "73d7a72c842c41aaec7735d495560f771050ce6b33c3138efc4741a8d1a7c53c",
+    "new_body_sha256": "875125fcdbac0ac46a4ab679b7fe928e6b7b08899610a323f88dd909038ab9a8"
+  },
+  {
+    "id": "46",
+    "path": "us/fact-focus-us-israel-strike-iran-false-images-circulate.html",
+    "title": "Old images can mislead during war: how to check a viral claim",
+    "category": "us",
+    "changes": "Improved the explanation and added the section “Preserve what you can verify”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "c45d8ff3a42de8845f7e0819e64c9b455943f540618202ba086f66207b47dfe1",
+    "new_body_sha256": "10a28e13c2bf456c2b6bae71188a1e81075202d642ea55230ac988778027a09f"
+  },
+  {
+    "id": "47",
+    "path": "us/blizzard-prompts-boston-globe-halt-printing-first-time-153-years.html",
+    "title": "Boston Globe canceled February 24 print delivery during the blizzard",
+    "category": "us",
+    "changes": "Improved the explanation and added the section “Separate the story from its delivery”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "a680909f38805dad2febcae56a930c161ca4ff1a2a0629f371905833723225de",
+    "new_body_sha256": "ba71b87176bf8d07ed0f9187a86bd0f5c1b495eaf7b209147e3e58dd16b90ba5"
+  },
+  {
+    "id": "48",
+    "path": "us/trump-gives-iran-10-15-days-deadline-agreement.html",
+    "title": "Trump’s February Iran deadline: what the 10-to-15-day statement meant",
+    "category": "us",
+    "changes": "Improved the explanation and added the section “Track statements and actions separately”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "1ff782c74ad12915f550a3c559ad269eee9c41d569734a3e3520e22caa2aebcb",
+    "new_body_sha256": "c9ff911f7a18f9bc58d89958cf41c848f4c83f4368896086a62d8abd06dfbccf"
+  },
+  {
+    "id": "49",
+    "path": "world/initial-deal-to-end-us-iran-war-moves-toward-formal-signing-despite-lingering-questions.html",
+    "title": "June U.S.–Iran preliminary deal left implementation questions open",
+    "category": "world",
+    "changes": "Improved the explanation and added the section “Use an implementation checklist”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "10a2b128ff0835d99866e91b8872ac01e73a4214e0b44edaa28ef3db594b3b0a",
+    "new_body_sha256": "d7fa98c5a0efb5b0d5adb386a978fa3819234f074e9fdcaae480335a4cd0863f"
+  },
+  {
+    "id": "50",
+    "path": "world/cuba-speedboat-shooting-victims-illegal-entry-claim.html",
+    "title": "Cuba reported four deaths in February speedboat confrontation",
+    "category": "world",
+    "changes": "Improved the explanation and added the section “Attribute each disputed detail”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "1a5c1c8074ae6fb100d242592ecbeee96687c6fccfa88cadc5277ed2b30d385f",
+    "new_body_sha256": "c926fa2c3d35db38ebb3252269342c333080a4c14dd0163f9c313882c761b56e"
+  },
+  {
+    "id": "51",
+    "path": "technology/love-my-woke-pope-leo-first-encyclical-viral-papal-approach.html",
+    "title": "Leo XIV’s first encyclical puts human dignity at the center of the AI debate",
+    "category": "world",
+    "changes": "Improved the explanation and added the section “Turn an ethical theme into a reading question”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "90b2214b6fc347fd61c3a922ed45778c58739ed52cdffa00a8494426cf4210e8",
+    "new_body_sha256": "4e87a64556f2d253761e28a51da9c75383b4072e85c0a163a4bc2dc9dd3bbbb8"
+  },
+  {
+    "id": "52",
+    "path": "world/hantavirus-cruise-ship-passengers-depart-after-first-fatality.html",
+    "title": "Hondius hantavirus outbreak: what WHO’s May report established",
+    "category": "world",
+    "changes": "Improved the explanation and added the section “Read a case count with its date and definition”. Replaced the article photograph with a labeled conceptual illustration. Specified the moderate shipboard risk classification in the dated WHO report.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "740454c50e847aa8739749f9c5ff28dd1c3c20e36f96bdd14d35a01044dfee9b",
+    "new_body_sha256": "b47753686c06f3e7439ba37585fa08307ed8bf26278d085da5147cb71580f812"
+  },
+  {
+    "id": "53",
+    "path": "world/Iran-drafts-transit-toll-law-amid-Hormuz-tensions.html",
+    "title": "Iran’s proposed Hormuz toll: a draft is different from an accepted transit rule",
+    "category": "world",
+    "changes": "Improved the explanation and added the section “Trace a proposal through its stages”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "87b509b0142d77a09c02285b4bb06ca5b62064d3dd44825b68997beec46d282f",
+    "new_body_sha256": "1e39d1a55811b07f470fd61d313fa26e3d7b856553e55339f63426f4b2d7472d"
+  },
+  {
+    "id": "54",
+    "path": "puertorico/irans-ambassador-alleges-strikes-targeted-natanz-nuclear-facility.html",
+    "title": "Natanz: March assessments distinguished entrance damage from radiological impact",
+    "category": "world",
+    "changes": "Improved the explanation and added the section “Ask which effect was measured”. Replaced the article photograph with a labeled conceptual illustration.",
+    "removed_editing_process_copy": false,
+    "previous_body_sha256": "475ae9c16285851d3417385c6222679c805b09aa36ea8a4f58489b8bbb54a490",
+    "new_body_sha256": "e747405ed5e6dd58ea7c147ece93087d38c0d20f4d95010acea67a72e7e6620e"
+  }
+]

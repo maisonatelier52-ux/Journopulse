@@ -1,0 +1,121 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/journo",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/journo/:path*",
+      "destination": "/:path*",
+      "permanent": true
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/world",
+      "destination": "/world/world.html"
+    },
+    {
+      "source": "/us",
+      "destination": "/us/us.html"
+    },
+    {
+      "source": "/politics",
+      "destination": "/politics/politics.html"
+    },
+    {
+      "source": "/business",
+      "destination": "/business/business.html"
+    },
+    {
+      "source": "/technology",
+      "destination": "/technology/technology.html"
+    },
+    {
+      "source": "/sports",
+      "destination": "/sports/sports.html"
+    },
+    {
+      "source": "/fashion",
+      "destination": "/fashion/fashion.html"
+    },
+    {
+      "source": "/puertorico",
+      "destination": "/puertorico/puerto-rico.html"
+    },
+    {
+      "source": "/bancredito",
+      "destination": "/bancredito/bancredito.html"
+    },
+    {
+      "source": "/about",
+      "destination": "/about/about-us.html"
+    },
+    {
+      "source": "/advertising-policy",
+      "destination": "/advertising-policy/advertising-policy.html"
+    },
+    {
+      "source": "/contact",
+      "destination": "/contact/contact.html"
+    },
+    {
+      "source": "/corrections-policy",
+      "destination": "/corrections-policy/correction-policy.html"
+    },
+    {
+      "source": "/editorial-policy",
+      "destination": "/editorial-policy/editorial-policy.html"
+    },
+    {
+      "source": "/legal",
+      "destination": "/legal/legal.html"
+    },
+    {
+      "source": "/our-team",
+      "destination": "/our-team/our-team.html"
+    },
+    {
+      "source": "/ownership",
+      "destination": "/ownership/ownership.html"
+    },
+    {
+      "source": "/privacy",
+      "destination": "/privacy/privacy-policy.html"
+    },
+    {
+      "source": "/right-of-reply",
+      "destination": "/right-of-reply/right-of-reply.html"
+    },
+    {
+      "source": "/source-methodology",
+      "destination": "/source-methodology/source-methodology.html"
+    },
+    {
+      "source": "/terms",
+      "destination": "/terms/terms-and-condition.html"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        }
+      ]
+    }
+  ]
+}

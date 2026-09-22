@@ -1,0 +1,65 @@
+{
+  "design": "Original templates retained; style.css and detail.css match original SHA-256",
+  "articles": 54,
+  "originals_revised": 51,
+  "new": 3,
+  "archive_unchanged": 32,
+  "categories": {
+    "bancredito": 6,
+    "business": 6,
+    "technology": 6,
+    "politics": 6,
+    "puertorico": 6,
+    "fashion": 6,
+    "sports": 6,
+    "us": 6,
+    "world": 6
+  },
+  "html_pages_checked": 99,
+  "internal_references_checked": 11142,
+  "broken_internal_references": 0,
+  "article_sitemap_entries": 54,
+  "rss_entries": 54,
+  "archived_articles_in_active_site": 0,
+  "original_css_sha256": {
+    "style.css": "ef15f2011f9b896cae678be2e920af918771b7200bd6c9f9875dc6e40665d293",
+    "detail.css": "a1ff1b4979d33aaac13096d415ff0b5560710d7cae6f1c6b9e01deec2676624d"
+  },
+  "content_and_illustrations": {
+    "selected_posts_reviewed": 54,
+    "distinct_illustrations": 54,
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "format": "PNG",
+    "article_image_references": "all matched",
+    "legacy_photo_img_references": 0,
+    "source_links_and_original_dates": "unchanged",
+    "original_backup_sha256_unchanged": true,
+    "placeholder_images_replaced": 221,
+    "placeholder_pages": 55,
+    "placeholder_slots": {
+      "banner-bg": 1,
+      "newsletter-box-bg": 1,
+      "newsletter-featured": 110,
+      "ad-image": 109
+    },
+    "remaining_template_image_placeholders": 0
+  },
+  "original_files_verified": 423,
+  "archived_files_verified": 32,
+  "backup_integrity": "pass",
+  "site_type": "blog",
+  "blog_posting_pages": 54,
+  "news_sitemap": false,
+  "browser_checks": [
+    "September 21: original homepage layout inspected at the default desktop viewport; visible illustrations loaded successfully.",
+    "Article inspected: Artemis II, including its illustration caption, source links and separate revision notes.",
+    "Fashion category inspected: six cards with matching illustrations and illustrated background images.",
+    "Search Artemis: 1 post; Clear: 54 posts; Fashion filter: 6 posts; unknown query: 0 posts with a useful empty state.",
+    "Article opened from the search result using keyboard navigation.",
+    "Placeholder follow-up: homepage banner, newsletter and 728 by 90 illustrated post slot inspected; the original slot dimensions are preserved.",
+    "Placeholder follow-up: article newsletter artwork visually inspected, and both light and dark image references checked in the rendered DOM."
+  ]
+}

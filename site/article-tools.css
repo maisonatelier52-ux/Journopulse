@@ -1,0 +1,8 @@
+/* Content-only additions. The supplied style.css and detail.css are unchanged. */
+.jp-sources{border-top:1px solid currentColor;margin-top:2em;padding-top:1em;overflow-wrap:anywhere}
+.jp-sources li{margin-bottom:1em}.jp-sources a{text-decoration:underline}.jp-sources small{opacity:.75}
+.jp-revision{border-left:3px solid currentColor;margin:2em 0 1em;padding:1em}.jp-revision p{margin-bottom:0}
+#jp-search{margin:1.5em 0;padding:1em 0;display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+#jp-search input,#jp-search select,#jp-search button{font:inherit;padding:10px;max-width:100%;border:1px solid #aaa;background:transparent;color:inherit}
+#jp-query{flex:1;min-width:180px}#jp-results{width:100%;margin:0}[hidden]{display:none!important}
+.entry-content h2{scroll-margin-top:30px}.jp-sources a:focus-visible{outline:2px solid currentColor;outline-offset:3px}

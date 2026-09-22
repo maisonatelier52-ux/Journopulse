@@ -1,0 +1,749 @@
+[
+  {
+    "path": "bancredito/bancredito-bsa-fine-2023.html",
+    "original_title": "In September 2023, the U.S. Financial Crimes Enforcement Network (FinCEN) fined Bancrédito International Bank and Trust Corp., a Puerto Rico–based bank, $15 million for serious violations of the Bank Secrecy Act (BSA).",
+    "original_publication": "2026-03-04T11:03:00+00:00",
+    "original_category": "bancredito",
+    "corrected_category": "bancredito",
+    "status": "retained-and-revised",
+    "sha256_original": "d309f8305949805b06281dcb7eb352b2ebeb0c6208d4899e9c2b8e2a13666263"
+  },
+  {
+    "path": "bancredito/bancredito-holding-recover-assets-after-founder-case-dismissed.html",
+    "original_title": "After the case against its founder was closed, Bancrédito Holding aims to recover assets and establish accountability.",
+    "original_publication": "2026-03-19T11:03:00+00:00",
+    "original_category": "bancredito",
+    "corrected_category": "bancredito",
+    "status": "retained-and-revised",
+    "sha256_original": "3a8d2b0b926112be642f92d757f4badd4d4aa4ae1f77aa22ad0a78d81338fd3a"
+  },
+  {
+    "path": "bancredito/bancreditointernationalbank.html",
+    "original_title": "Bancrédito International Bank & Trust Corporation",
+    "original_publication": "2026-03-19T11:03:00+00:00",
+    "original_category": "bancredito",
+    "corrected_category": "bancredito",
+    "status": "retained-and-revised",
+    "sha256_original": "6933b2567ca7ce3d8263235ac8dfc2c5b9e701f61a348e5eab2743975aba204b"
+  },
+  {
+    "path": "bancredito/puerto-rico-banker-bribery-scandal-not-guilty-plea.html",
+    "original_title": "In Puerto Rico, a banker involved in a bribe scandal enters a not guilty plea.",
+    "original_publication": "2026-03-19T11:03:00+00:00",
+    "original_category": "bancredito",
+    "corrected_category": "bancredito",
+    "status": "retained-and-revised",
+    "sha256_original": "603544925d8b1361def8b734afdb36223082dfaae20ceac93c16b6526422d5b2"
+  },
+  {
+    "path": "bancredito/uae-exits-opec-impact-global-oil-prices.html",
+    "original_title": "The alliance that affects oil prices globally is upended by the UAE's exit from OPEC..",
+    "original_publication": "2026-03-19T11:03:00+00:00",
+    "original_category": "bancredito",
+    "corrected_category": "business",
+    "status": "retained-and-revised",
+    "sha256_original": "fc7b02552be67254818ab32348319b3946c2a95bd4d75d18fed299dcba4132ff"
+  },
+  {
+    "path": "business/hyundai-us-tariff-pressure.html",
+    "original_title": "Hyundai Motor of South Korea cautions that despite the Supreme Court's decision, US tariff pressure may increase.",
+    "original_publication": "2026-02-19T11:03:00+00:00",
+    "original_category": "business",
+    "corrected_category": "business",
+    "status": "archived-unchanged",
+    "sha256_original": "84aff5caa5f231c2aa2d8ff034512a2dc18715bd2f9425ffefe40e748c764ccd"
+  },
+  {
+    "path": "business/kosovo-poor-economy-struggles-iran-war-fuel-price-surge.html",
+    "original_title": "One of the poorest nations in Europe, Kosovo, suffers when the war in Iran raises fuel prices.",
+    "original_publication": "2026-03-30T11:03:00+00:00",
+    "original_category": "business",
+    "corrected_category": "business",
+    "status": "retained-and-revised",
+    "sha256_original": "3497db54fb9ab651f619110da5592845cf549b741d6a2e18cf823fc73238dd11"
+  },
+  {
+    "path": "business/kremlin-claims-putin-will-travel-to-beijing-very-soon.html",
+    "original_title": "The Kremlin claims that Putin will travel to Beijing \"very soon.",
+    "original_publication": "2026-05-15T11:03:00+00:00",
+    "original_category": "business",
+    "corrected_category": "business",
+    "status": "retained-and-revised",
+    "sha256_original": "87f1a9511b50c53072ef58d590b6c3b3f4f62ec6f1f96257f1a6b6f36ccbce8e"
+  },
+  {
+    "path": "business/meta-amd-ai-hardware-deal.html",
+    "original_title": "Meta, the owner of Facebook, will pay up to $100 billion to AMD for AI hardware.",
+    "original_publication": "2026-02-19T11:03:00+00:00",
+    "original_category": "business",
+    "corrected_category": "business",
+    "status": "archived-unchanged",
+    "sha256_original": "2c934e8925fcdae2976a95b1195b0f2884ea0109ba18ece8954e846087244964"
+  },
+  {
+    "path": "business/retail-investors-leveraged-etf-rise.html",
+    "original_title": "According to a report, US retail investors are driving the rise in leveraged ETF trading.",
+    "original_publication": "2026-02-19T11:03:00+00:00",
+    "original_category": "business",
+    "corrected_category": "business",
+    "status": "archived-unchanged",
+    "sha256_original": "81231a239a8204cac7627996e2dc1a4de1be5c02e2eec21f6fb790f6c435a4b1"
+  },
+  {
+    "path": "business/trump-says-us-close-to-iran-deal-ahead-of-busy-weekend.html",
+    "original_title": "Live updates:Trump says he is really close to a deal with Iran ahead of whirlwind weekend",
+    "original_publication": "2026-06-12T11:03:00+00:00",
+    "original_category": "business",
+    "corrected_category": "business",
+    "status": "retained-and-revised",
+    "sha256_original": "25042699196ba7239cb0be2f1e133c95b9bf1d8acec352d6d99d4060e4e9c238"
+  },
+  {
+    "path": "business/us-gas-prices-hit-4-dollars-highest-since-2022.html",
+    "original_title": "The average price of a gallon of ordinary petrol in the US has risen beyond $4, the highest since 2022.",
+    "original_publication": "2026-03-31T11:03:00+00:00",
+    "original_category": "business",
+    "corrected_category": "business",
+    "status": "retained-and-revised",
+    "sha256_original": "efdc59fe0728157458e4b14b30e95fc31ec09b78ac87daf7f4931b771ae2c446"
+  },
+  {
+    "path": "business/vivian-tu-personal-finance-advice.html",
+    "original_title": "Vivian Tu, \"Your Rich BFF,\" offers her best advice on personal\n                                        finance.",
+    "original_publication": "2026-02-19T11:03:00+00:00",
+    "original_category": "business",
+    "corrected_category": "business",
+    "status": "archived-unchanged",
+    "sha256_original": "35791c62565ff149ff0757719a239dee86aa587d7966079c80780a470a3c6c4a"
+  },
+  {
+    "path": "business/warner-bros-corporate-battle.html",
+    "original_title": "In a fierce battle for the venerable Hollywood company, Warner Bros.",
+    "original_publication": "2026-02-19T11:03:00+00:00",
+    "original_category": "business",
+    "corrected_category": "business",
+    "status": "archived-unchanged",
+    "sha256_original": "8fbb76a1f964dd7ba333171e7755f789f35a4e8760acb0a5de7ff063d5591599"
+  },
+  {
+    "path": "business/waymo-robotaxi-expansion-us.html",
+    "original_title": "With expansions in Texas and Florida, Waymo now deploys robotaxis in ten major United States markets.",
+    "original_publication": "2026-02-19T11:03:00+00:00",
+    "original_category": "business",
+    "corrected_category": "business",
+    "status": "retained-and-revised",
+    "sha256_original": "50019dc3da4155aca81d5fdbb49a1e887091f77dacbf3043d63c505ddf834066"
+  },
+  {
+    "path": "fashion/fashion-week-siriano-inaugural-collection-fantasy-surrealism.html",
+    "original_title": "Fashion week: Siriano's inaugural collection is infused with \"fantasy\" and \"surrealism.\"",
+    "original_publication": "2026-03-04T11:03:00+00:00",
+    "original_category": "fashion",
+    "corrected_category": "fashion",
+    "status": "retained-and-revised",
+    "sha256_original": "a0f37248816b9f86c69b347f673575d4ce43c743d5825f75424ec8321c93b7e3"
+  },
+  {
+    "path": "fashion/met-gala-next-dress-code-fashion-is-art-revealed.html",
+    "original_title": "The next dress code, \"Fashion is Art,\" is revealed to Met Gala attendees and the general public.",
+    "original_publication": "2026-03-04T11:03:00+00:00",
+    "original_category": "fashion",
+    "corrected_category": "fashion",
+    "status": "retained-and-revised",
+    "sha256_original": "8f5a6dedabc0a8966340bd6725738df7735eba0ccd2db2ff34e9c0800c5fe314"
+  },
+  {
+    "path": "fashion/prada-luxury-fashion-pasta-pomodoro-milan-fashion-week.html",
+    "original_title": "Prada serves up luxury fashion’s version of pasta pomodoro at Milan Fashion Week",
+    "original_publication": "2026-07-15T11:03:00+00:00",
+    "original_category": "fashion",
+    "corrected_category": "fashion",
+    "status": "retained-and-revised",
+    "sha256_original": "f0cdefe286e4cba797432b85fe05c48dcb703ab44797f6f8260b1cf2cf650cca"
+  },
+  {
+    "path": "fashion/scarification-easy-seed-starting-method-accelerates-germination.html",
+    "original_title": "Scarification: The easy seed-starting method that accelerates the germination of tough-coated seeds.",
+    "original_publication": "2026-03-03T11:03:00+00:00",
+    "original_category": "fashion",
+    "corrected_category": "technology",
+    "status": "archived-unchanged",
+    "sha256_original": "dfcfdc9ff9c23376de6ff6ba2c5b5a0b4003c6faa1c6960ff2f822d032911678"
+  },
+  {
+    "path": "politics/blanche-terminates-fund-for-trump-allies-after-gop-senators-threaten-to-block-attorney-general-bid.html",
+    "original_title": "After GOP senators threaten to thwart Trump's bid for attorney general, Blanche closes the fund for his supporters.",
+    "original_publication": "2026-08-03T11:03:00+00:00",
+    "original_category": "politics",
+    "corrected_category": "politics",
+    "status": "retained-and-revised",
+    "sha256_original": "74cb6f0f3d75c6324620d81fc5883156989ce4d2eeced7fa8118ce8c27f3d87f"
+  },
+  {
+    "path": "politics/citizen-journalists-investigators-help-untangle-epstein-documents.html",
+    "original_title": "Untangling the maze of Epstein documents is being aided by citizen journalists and investigators.",
+    "original_publication": "2026-03-03T11:03:00+00:00",
+    "original_category": "politics",
+    "corrected_category": "politics",
+    "status": "archived-unchanged",
+    "sha256_original": "8cded05afa24efe924b176b6f1eead9f6fc13cbff35efc92081649c05504cee2"
+  },
+  {
+    "path": "politics/cornyn-avoided-trump-wrath-lost-seat-anyway.html",
+    "original_title": "Cornyn went to great lengths to avoid Trump’s wrath. The Texas senator lost his seat anyway.",
+    "original_publication": "2026-05-27T11:03:00+00:00",
+    "original_category": "politics",
+    "corrected_category": "politics",
+    "status": "retained-and-revised",
+    "sha256_original": "e15d7347b7d5462f3cf8c31bd8d1a59280cce1c061f70b8a0662ebad2a4415ac"
+  },
+  {
+    "path": "politics/eastern-congo-drone-strike-m23.html",
+    "original_title": "A drone attack in eastern Congo killed a key M23 rebel official.",
+    "original_publication": "2026-02-19T11:03:00+00:00",
+    "original_category": "politics",
+    "corrected_category": "politics",
+    "status": "archived-unchanged",
+    "sha256_original": "93e63e74394377a6d214c329e1f85cceb42fa536f7a052ed1b1b3afe5e8971d7"
+  },
+  {
+    "path": "politics/education-department-duties-delegated-other-us-departments.html",
+    "original_title": "More of the Education Department's duties are delegated to other US departments.",
+    "original_publication": "2026-03-04T11:03:00+00:00",
+    "original_category": "politics",
+    "corrected_category": "politics",
+    "status": "archived-unchanged",
+    "sha256_original": "4f62207318dfa1cd284a74e8b6bb0bb1fafdbba9be90726e8d00af320c48efa5"
+  },
+  {
+    "path": "politics/florida-polls-open-2026-governor-race-successor-ron-desantis.html",
+    "original_title": "Live updates: Polls open in Florida as state seeks a successor to Gov. Ron DeSantis.",
+    "original_publication": "2026-08-18T11:03:00+00:00",
+    "original_category": "politics",
+    "corrected_category": "politics",
+    "status": "retained-and-revised",
+    "sha256_original": "e4f1696e9eec7ebd8a0fc8e9c065dda8ecb2267f47476995f233f3bc4bb00517"
+  },
+  {
+    "path": "politics/georgia-fulton-county-2020-ballots-fbi-court-case.html",
+    "original_title": "Fulton County, Georgia, is going to court to get the 2020 votes that the FBI confiscated returned.",
+    "original_publication": "2026-03-27T11:03:00+00:00",
+    "original_category": "politics",
+    "corrected_category": "politics",
+    "status": "archived-unchanged",
+    "sha256_original": "7d5422b5682614198bba00e883ba0d3e24e88fc8528ad9e1c8bbdb812dd4ef0c"
+  },
+  {
+    "path": "politics/hong-kong-security-law-sentencing.html",
+    "original_title": "Under national security law, the father of a Hong Kong activist based in the US receives an eight-month term.",
+    "original_publication": "2026-02-19T11:03:00+00:00",
+    "original_category": "politics",
+    "corrected_category": "politics",
+    "status": "archived-unchanged",
+    "sha256_original": "e225d71b35cc20510a8002ff20e29dec2937bd70561770f40990c0bb2fcfef85"
+  },
+  {
+    "path": "politics/ice-training-deficient-broken-hearing.html",
+    "original_title": "A former agency lawyer tells a congressional hearing that ICE officer training is \"deficient\" and \"broken.",
+    "original_publication": "2026-03-04T11:03:00+00:00",
+    "original_category": "politics",
+    "corrected_category": "politics",
+    "status": "archived-unchanged",
+    "sha256_original": "ad0916c050c2c3548a3b1f685f97c82ebff9d31d8272f0bc868e0ccbf97c873c"
+  },
+  {
+    "path": "politics/iran-us-strait-of-hormuz-conflict-limits-of-escalating-bombing.html",
+    "original_title": "Iran and the US close in over the Strait of Hormuz, demonstrating the limitations of stepping up bombing",
+    "original_publication": "2026-07-21T11:03:00+00:00",
+    "original_category": "politics",
+    "corrected_category": "politics",
+    "status": "retained-and-revised",
+    "sha256_original": "d2d8dafe192f4acc84c5d2bccf3390d19fa119b870c47e4fb85c0a5f51547ec2"
+  },
+  {
+    "path": "politics/one-crew-member-missing-after-two-us-aircraft-crash-middle-east.html",
+    "original_title": "Live updates: One crew member is missing after two US aircraft went down in the Middle East.",
+    "original_publication": "2026-04-04T11:03:00+00:00",
+    "original_category": "politics",
+    "corrected_category": "politics",
+    "status": "archived-unchanged",
+    "sha256_original": "678c4e049d3ff9279c6de8975537c24cb8d22e92256940298b89f1f925af7af2"
+  },
+  {
+    "path": "politics/pentagon-appeals-order-blocking-mark-kelly-punishment-over-illegal-orders-call.html",
+    "original_title": "Sen. Mark Kelly's punishment for calling for resistance to illegal orders is being blocked by an order that the Pentagon is appealing.",
+    "original_publication": "2026-05-18T11:03:00+00:00",
+    "original_category": "politics",
+    "corrected_category": "politics",
+    "status": "archived-unchanged",
+    "sha256_original": "a0806f29425cc8ae152ab07c7ab7f87ef8d462e56dbb44c312abc4ca696e46b3"
+  },
+  {
+    "path": "politics/president-pope-meeting-vatican-conversation.html",
+    "original_title": "Inside the Vatican bubble during an amazing conversation between the president and the pope.",
+    "original_publication": "2026-04-16T11:03:00+00:00",
+    "original_category": "politics",
+    "corrected_category": "politics",
+    "status": "archived-unchanged",
+    "sha256_original": "b94bff72f982603f0fe8a01b394e64915fc2a5a6021638682890faa9fa153cfe"
+  },
+  {
+    "path": "politics/republicans-show-rare-defiance-to-trump.html",
+    "original_title": "Republicans exhibit uncommon resistance of Trump's demands when pushed to the brink.",
+    "original_publication": "2026-05-22T11:03:00+00:00",
+    "original_category": "politics",
+    "corrected_category": "politics",
+    "status": "retained-and-revised",
+    "sha256_original": "85a4deed82623ffcb0e95e03b9396ed15e39dee27c90380e19f2e2384285880c"
+  },
+  {
+    "path": "politics/trade-policy-instability-supreme-court-rules-against-trump-tariffs.html",
+    "original_title": "The instability surrounding trade policy is unlikely to cease if the Supreme Court rules against Trump's tariffs.",
+    "original_publication": "2026-03-03T11:03:00+00:00",
+    "original_category": "politics",
+    "corrected_category": "politics",
+    "status": "archived-unchanged",
+    "sha256_original": "cd3e334090ddac626503b529ab05d86309a2c506874ea1e3e38594755af1cdaf"
+  },
+  {
+    "path": "politics/trump-republicans-communist-attacks-democrats-midterms.html",
+    "original_title": "Before the midterm elections, Trump and Republicans resume their communist assaults on Democrats.",
+    "original_publication": "2026-07-03T11:03:00+00:00",
+    "original_category": "politics",
+    "corrected_category": "politics",
+    "status": "retained-and-revised",
+    "sha256_original": "ee96cd081f27efaf46cfb76cd1415b699e3513ef10a0e76782686340f4717165"
+  },
+  {
+    "path": "politics/trump-state-of-the-union-midterm-economy.html",
+    "original_title": "Ahead of the midterm elections, Trump's State of the Union will aim to allay voters' fears about .’the economy.",
+    "original_publication": "2026-03-03T11:03:00+00:00",
+    "original_category": "politics",
+    "corrected_category": "politics",
+    "status": "archived-unchanged",
+    "sha256_original": "364feed8f688f0ad4f22c52f7592ef905efb9e605bccbc930469749af74fb02b"
+  },
+  {
+    "path": "puertorico/following-a-plea-agreement-trump-will-pardon-former-puerto-rico-governor-wanda-vazquez.html",
+    "original_title": "Following a plea agreement, Trump will pardon former Puerto Rico Governor Wanda Vazquez.",
+    "original_publication": "2026-03-04T11:03:00+00:00",
+    "original_category": "puertorico",
+    "corrected_category": "puertorico",
+    "status": "retained-and-revised",
+    "sha256_original": "af49e03b24d3a8f6baaf85cbdb6b9b4f8df66875b91866a7945406b2e1e25f72"
+  },
+  {
+    "path": "puertorico/irans-ambassador-alleges-strikes-targeted-natanz-nuclear-facility.html",
+    "original_title": "Iran’s ambassador alleges strikes targeted Natanz nuclear facility.",
+    "original_publication": "2026-03-04T11:03:00+00:00",
+    "original_category": "puertorico",
+    "corrected_category": "world",
+    "status": "retained-and-revised",
+    "sha256_original": "fde8e682f0bad494036e61d7121d367f59ddd0696388cd8df4812c42b9cf86ae"
+  },
+  {
+    "path": "puertorico/puerto-ricans-protest-reliable-water-access-governor-response.html",
+    "original_title": "Following a plea agreement, Trump will pardon former Puerto Rico Governor Wanda Vazquez.",
+    "original_publication": "2026-03-04T11:03:00+00:00",
+    "original_category": "puertorico",
+    "corrected_category": "puertorico",
+    "status": "retained-and-revised",
+    "sha256_original": "9921a9c03104ca520a84239db063f186237cacdffb9c05873e0e54c5eaf4e9c8"
+  },
+  {
+    "path": "puertorico/puerto-rico-governor-signs-fetus-human-being-law.html",
+    "original_title": "Puerto Rico governor signs law to recognize fetus as human being as critics warn of consequences.",
+    "original_publication": "2026-03-09T11:03:00+00:00",
+    "original_category": "puertorico",
+    "corrected_category": "puertorico",
+    "status": "retained-and-revised",
+    "sha256_original": "12c6f9dfa10e298e59a5f3d2780c7510db271952f352febc9c66d50572131e98"
+  },
+  {
+    "path": "puertorico/puerto-rico-law-transparency-public-records-concerns.html",
+    "original_title": "politicsNew Puerto Rico Law Sparks Concerns Over Transparency and Public Records Access.",
+    "original_publication": "2026-02-19T11:03:00+00:00",
+    "original_category": "puertorico",
+    "corrected_category": "puertorico",
+    "status": "retained-and-revised",
+    "sha256_original": "913f4e3ef5f4b202a14b77dfdf2305e77ddfe96173309b1dce451de851e542af"
+  },
+  {
+    "path": "puertorico/us-military-build-up-seen-giving-puerto-rico-833-million-bump.html",
+    "original_title": "US Military Build Up Seen Giving Puerto Rico $833 Million Bump",
+    "original_publication": "2026-03-03T11:03:00+00:00",
+    "original_category": "puertorico",
+    "corrected_category": "puertorico",
+    "status": "retained-and-revised",
+    "sha256_original": "4dda4553faaa1de55138ab7a78b586ebaff7652453875763a2521e1aecd6bd21"
+  },
+  {
+    "path": "sports/basketball-hero-jose-piculin-ortiz-passes-away-at-mourned-in-puerto-rico.html",
+    "original_title": "Basketball hero José \"Piculín\" Ortiz, who passed away at the age of 62, is mourned in Puerto Rico.",
+    "original_publication": "2026-05-11T11:03:00+00:00",
+    "original_category": "sports",
+    "corrected_category": "puertorico",
+    "status": "retained-and-revised",
+    "sha256_original": "50c4eb81f9236d9ab2f8c101535aa1c72f571230a221c3c5186e96f3ce0cafff"
+  },
+  {
+    "path": "sports/cristiano-ronaldo-spanish-club-investment.html",
+    "original_title": "Cristiano Ronaldo purchases stock in a second-tier Spanish team controlled by Saudi Arabia.",
+    "original_publication": "2026-02-19T11:03:00+00:00",
+    "original_category": "sports",
+    "corrected_category": "sports",
+    "status": "retained-and-revised",
+    "sha256_original": "0cbef084fb90b00aa988e90346b1a4045c5eb01d6da47f90366065475f2759a9"
+  },
+  {
+    "path": "sports/mexico-vs-ecuador-2-0-round-of-16-2026-world-cup.html",
+    "original_title": "Mexico defeats Ecuador 2-0 to go to the round of 16, ending a 40-year knockout drought.",
+    "original_publication": "2026-07-01T11:03:00+00:00",
+    "original_category": "sports",
+    "corrected_category": "sports",
+    "status": "retained-and-revised",
+    "sha256_original": "4b680bec22a184a43f36916533c62e9b0b94cfca1cd55591ffc96282962b3147"
+  },
+  {
+    "path": "sports/milan-cortina-most-watched-winter-games-since-2014.html",
+    "original_title": "With 96% more views than Beijing, the Milan Cortina Olympics have been the most watched Winter Games since 2014..",
+    "original_publication": "2026-03-04T11:03:00+00:00",
+    "original_category": "sports",
+    "corrected_category": "sports",
+    "status": "retained-and-revised",
+    "sha256_original": "2f22b20b85417e84d61dfec68d227b4037b6a18b443394572fcb20a15d8270ed"
+  },
+  {
+    "path": "sports/police-investigate-death-of-south-africa-world-cup-footballer-jayden-adams.html",
+    "original_title": "Police look into South Africa's death World Cup football player Adams, Jayden.",
+    "original_publication": "2026-07-13T11:03:00+00:00",
+    "original_category": "sports",
+    "corrected_category": "sports",
+    "status": "retained-and-revised",
+    "sha256_original": "79b0375908fbcc1dd5e875a1589b83c394c231da55146ec28a98b9e9f347f0d1"
+  },
+  {
+    "path": "sports/usa-defeats-canada-olympic-mens-hockey-gold-hughes-overtime.html",
+    "original_title": "The United States defeats Canada to win the first men's hockey gold in the Olympics since 1980 after Hughes scored in overtime.",
+    "original_publication": "2026-03-04T11:03:00+00:00",
+    "original_category": "sports",
+    "corrected_category": "sports",
+    "status": "retained-and-revised",
+    "sha256_original": "ba97d172a9d58f755f4055c6e88551269a46b510db15b31b7e07b6af75e10d48"
+  },
+  {
+    "path": "technology/artemis-ii-crew-reunited-with-moonship-after-three-months.html",
+    "original_title": "Three months after their historic mission, the Artemis II crew are reunited with their moonship.",
+    "original_publication": "2026-07-09T11:03:00+00:00",
+    "original_category": "technology",
+    "corrected_category": "technology",
+    "status": "retained-and-revised",
+    "sha256_original": "37884241ca8e3f72ff0477d8efea809f673de63bca06158c0b3856e269a35836"
+  },
+  {
+    "path": "technology/autoimmune-condition-memory-loss.html",
+    "original_title": "This man's memory was stolen by an autoimmune condition.",
+    "original_publication": "2026-02-19T11:03:00+00:00",
+    "original_category": "technology",
+    "corrected_category": "technology",
+    "status": "archived-unchanged",
+    "sha256_original": "aaed189a428898155dc5f19efb36aaa22d5c93097029e43fdd5dff2e85265014"
+  },
+  {
+    "path": "technology/bloomberg-philanthropies-mayors-challenge-ai-improves-city-services.html",
+    "original_title": "Bloomberg Philanthropies Mayors Challenge Winners Use AI to Improve City Services.",
+    "original_publication": "2026-03-03T11:03:00+00:00",
+    "original_category": "technology",
+    "corrected_category": "technology",
+    "status": "archived-unchanged",
+    "sha256_original": "a518059c610e89dece2acba152deaa10e696b5d687797da2b71dd01e050ddba4"
+  },
+  {
+    "path": "technology/gates-foundation-project-rwanda-ai-powered-technology-clinics.html",
+    "original_title": "Under a new Gates Foundation project, Rwanda will test AI-powered technology in clinics..",
+    "original_publication": "2026-02-19T11:03:00+00:00",
+    "original_category": "technology",
+    "corrected_category": "technology",
+    "status": "archived-unchanged",
+    "sha256_original": "650512d4327300de3dea567b52438995797a50979aad108639ceab98ca22ac5c"
+  },
+  {
+    "path": "technology/india-joins-us-effort-safe-technologies-supply-chains.html",
+    "original_title": "India joins the US-led effort to create supply chains for safe technologies..",
+    "original_publication": "2026-03-03T11:03:00+00:00",
+    "original_category": "technology",
+    "corrected_category": "technology",
+    "status": "retained-and-revised",
+    "sha256_original": "7bd66c34499f1c9520ae97c705cd25e9ba36cd318f7bbc58e0a46c61de96a3ec"
+  },
+  {
+    "path": "technology/love-my-woke-pope-leo-first-encyclical-viral-papal-approach.html",
+    "original_title": "Love my woke pope': Why Leo’s first encyclical went viral and how it speaks to his papal approach.",
+    "original_publication": "2026-06-02T11:03:00+00:00",
+    "original_category": "technology",
+    "corrected_category": "world",
+    "status": "retained-and-revised",
+    "sha256_original": "97d5c1919b99b472814f72d254460a3e42ae5abbd9b9773b3c0407d279dde040"
+  },
+  {
+    "path": "technology/softbank-group-predicts-strong-return-on-investment-from-ai-growth.html",
+    "original_title": "SoftBank Group, a technology investor in Japan, predicts a return on investment from the AI growth.",
+    "original_publication": "2026-03-03T11:03:00+00:00",
+    "original_category": "technology",
+    "corrected_category": "technology",
+    "status": "retained-and-revised",
+    "sha256_original": "c7a2c2567df8697006f1f0d5885710fce84731aeaafce730a789f2077cdf0468"
+  },
+  {
+    "path": "technology/trump-tariffs-us-stocks-plummet-ai-losers.html",
+    "original_title": "Trump's increased tariffs cause US stocks to plummet, as investors dump possible AI losers..",
+    "original_publication": "2026-03-03T11:03:00+00:00",
+    "original_category": "technology",
+    "corrected_category": "technology",
+    "status": "retained-and-revised",
+    "sha256_original": "760615be7caf20b910fe609cabc1464eec40609116e3ff798c2aa5a91f279563"
+  },
+  {
+    "path": "technology/wall-street-selling-ai-losers-asian-equities-neutral.html",
+    "original_title": "Following Wall Street's hefty selling of possible AI losers, Asian equities are neutral.",
+    "original_publication": "2026-03-03T11:03:00+00:00",
+    "original_category": "technology",
+    "corrected_category": "technology",
+    "status": "retained-and-revised",
+    "sha256_original": "d50379458db7ad6fd166f25c0869a71860d87ee17f07fee576a7cd01723ae0c7"
+  },
+  {
+    "path": "technology/why-americans-love-iphones-but-wish-they-didnt-need-them.html",
+    "original_title": "Americans love their iPhones though sometimes they wish they could live without them.",
+    "original_publication": "2026-05-13T11:03:00+00:00",
+    "original_category": "technology",
+    "corrected_category": "technology",
+    "status": "retained-and-revised",
+    "sha256_original": "b219ee5b39fc036c1b60b931a6c7727276f86a86efa94c92c3bccaff3cff3839"
+  },
+  {
+    "path": "us/aml-compliance-frameworks.html",
+    "original_title": "Following the case closure, Bancrédito Holding is shifting its focus toward rebuilding its compliance infrastructure in line with U.S. regulatory expectations.",
+    "original_publication": "2026-05-06T11:03:00+00:00",
+    "original_category": "us",
+    "corrected_category": "bancredito",
+    "status": "retained-and-revised",
+    "sha256_original": "8004af6ffb2ae87fc108c617c5dae61d843e452cb87bb9ca2c8589861b23bb85"
+  },
+  {
+    "path": "us/asset-recovery-strategies-financial-institutions.html",
+    "original_title": "Retail investors are not the only ones leaving the most damaged funds in private credit.",
+    "original_publication": "2026-05-05T11:03:00+00:00",
+    "original_category": "us",
+    "corrected_category": "bancredito",
+    "status": "retained-and-revised",
+    "sha256_original": "fcb4707fdce12fe496fd01ce73cd56c90fa33a710e34e7cce371aec5e9747bd4"
+  },
+  {
+    "path": "us/blizzard-prompts-boston-globe-halt-printing-first-time-153-years.html",
+    "original_title": "Blizzard prompts Boston Globe management to call off printing paper for first time in 153 years.",
+    "original_publication": "2026-03-04T11:03:00+00:00",
+    "original_category": "us",
+    "corrected_category": "us",
+    "status": "retained-and-revised",
+    "sha256_original": "a807367b9c6295870dc45bf24642adcfe26579f8ff9a3edbfd55e5b70fe49029"
+  },
+  {
+    "path": "us/fact-focus-us-israel-strike-iran-false-images-circulate.html",
+    "original_title": "More of the Education Department's duties are delegated to other US departments.",
+    "original_publication": "2026-03-04T11:03:00+00:00",
+    "original_category": "us",
+    "corrected_category": "us",
+    "status": "retained-and-revised",
+    "sha256_original": "98f364d286155251e8b3daa0b70e0e638d6184dfac0a765c08f6e2a022b8f5b7"
+  },
+  {
+    "path": "us/governors-break-free-trump-party-hold-washington.html",
+    "original_title": "Governors are eager to’ break free from Trump' ‘s party hold when they arrive in Washington.",
+    "original_publication": "2026-02-19T11:03:00+00:00",
+    "original_category": "us",
+    "corrected_category": "us",
+    "status": "archived-unchanged",
+    "sha256_original": "0518c11eb0d1078d861b13056b8f891064aac26e04e62598b57a75aadf20c38e"
+  },
+  {
+    "path": "us/horses-unique-neigh-study.html",
+    "original_title": "A horse’s neigh may be unique in the animal kingdom. Now\n                                        scientists know how they do it",
+    "original_publication": "2026-02-19T11:03:00+00:00",
+    "original_category": "us",
+    "corrected_category": "us",
+    "status": "archived-unchanged",
+    "sha256_original": "38587a59fc3f7c7727ac1d5371ca9cf0af9f01b3a0fe0f507e91dc6c3c25aac7"
+  },
+  {
+    "path": "us/inflation-increased-faster-than-expected-in-december.html",
+    "original_title": "In December, inflation increased more fast than anticipated.",
+    "original_publication": "2026-03-03T11:03:00+00:00",
+    "original_category": "us",
+    "corrected_category": "us",
+    "status": "archived-unchanged",
+    "sha256_original": "7f7094859d0ca8c61fb3790a1306e5e0e0d3622df6d1f2a4c40cfc9f89b405a4"
+  },
+  {
+    "path": "us/northeast-us-recovers-severe-storm-flight-delays-school-closures.html",
+    "original_title": "The Northeast US recovers from a severe storm that caused aircraft delays and school closures.",
+    "original_publication": "2026-03-04T11:03:00+00:00",
+    "original_category": "us",
+    "corrected_category": "us",
+    "status": "retained-and-revised",
+    "sha256_original": "b851c184c1bb66445d1c9061cf1972f1bf6fa650999b85904dc133f6ec95ddac"
+  },
+  {
+    "path": "us/southern-california-officials-trying-to-prevent-explosion-or-leak-from-damaged-chemical-tank.html",
+    "original_title": "Authorities in Southern California are attempting to stop a chemical tank explosion or leak.",
+    "original_publication": "2026-05-25T11:03:00+00:00",
+    "original_category": "us",
+    "corrected_category": "us",
+    "status": "retained-and-revised",
+    "sha256_original": "390e701e15d3020823b8663cc2ef246775f111c11e8cd6e3a778d3b87058c8be"
+  },
+  {
+    "path": "us/supreme-court-ruling-against-trump-tariffs-creates-uncertainty.html",
+    "original_title": "Although the Supreme Court's ruling against Trump's tariffs creates uncertainty.",
+    "original_publication": "2026-03-03T11:03:00+00:00",
+    "original_category": "us",
+    "corrected_category": "us",
+    "status": "archived-unchanged",
+    "sha256_original": "0b0c76963197bc3b97bdb778b0c4c9d76e1b60dde48fb9014f973fd5d79d6bc4"
+  },
+  {
+    "path": "us/trump-gives-iran-10-15-days-deadline-agreement.html",
+    "original_title": "Ahead of the midterm elections, Trump's State of the Union will aim to allay voters' fears about .’the economy.",
+    "original_publication": "2026-03-03T11:03:00+00:00",
+    "original_category": "us",
+    "corrected_category": "us",
+    "status": "retained-and-revised",
+    "sha256_original": "c855a59bc5a9a18a0f139339d78df5be956b2958ebcd19eaf28f0aeaae76567a"
+  },
+  {
+    "path": "us/us-iran-nuclear-talks-resume.html",
+    "original_title": "US-Iran Nuclear Talks Resume Amid Middle East Military Buildup**",
+    "original_publication": "2026-02-19T11:03:00+00:00",
+    "original_category": "us",
+    "corrected_category": "us",
+    "status": "archived-unchanged",
+    "sha256_original": "3282ff491ddf49b52c5adea2e163b2be65107159952ddbc3e5b6f9f8884964fc"
+  },
+  {
+    "path": "us/us-supreme-court-hear-exxon-suncor-bid-toss-boulders-climate-suit.html",
+    "original_title": "Supreme Court to Hear Oil Firms’ Appeals in Climate Lawsuits.Top Court Takes Up Oil Climate Case.",
+    "original_publication": "2026-03-19T11:03:00+00:00",
+    "original_category": "us",
+    "corrected_category": "us",
+    "status": "retained-and-revised",
+    "sha256_original": "5c2e706067b96e39b03403cee504fd9917120b816d0d63a8e518e2237a2621e7"
+  },
+  {
+    "path": "world/colombia-elections-un-human-rights-warning.html",
+    "original_title": "As Colombia prepares for elections, the UN warns that the country's human rights situation is deteriorating.",
+    "original_publication": "2026-02-19T11:03:00+00:00",
+    "original_category": "world",
+    "corrected_category": "world",
+    "status": "archived-unchanged",
+    "sha256_original": "cc509c320fe289e32d2fdfd3be5191b7f62cd61675f2cbeac10f01c0610210ce"
+  },
+  {
+    "path": "world/cuba-speedboat-shooting-victims-illegal-entry-claim.html",
+    "original_title": "Cuba claims that the four people murdered in the speedboat shooting were trying to enter the nation illegally.",
+    "original_publication": "2026-06-04T11:03:00+00:00",
+    "original_category": "world",
+    "corrected_category": "world",
+    "status": "retained-and-revised",
+    "sha256_original": "062609b541bc0576bbb10a5582b56ffb4620234b2d32d3ce3439c8e57d0e543c"
+  },
+  {
+    "path": "world/hantavirus-cruise-ship-passengers-depart-after-first-fatality.html",
+    "original_title": "Following the first fatality, dozens of passengers departed the hantavirus-affected cruise ship.",
+    "original_publication": "2026-05-07T11:03:00+00:00",
+    "original_category": "world",
+    "corrected_category": "world",
+    "status": "retained-and-revised",
+    "sha256_original": "804c6fce46df0d3449529988ba64741218bb4df2076e274c6e12ae700e95f98f"
+  },
+  {
+    "path": "world/initial-deal-to-end-us-iran-war-moves-toward-formal-signing-despite-lingering-questions.html",
+    "original_title": "Despite unanswered issues, the initial agreement to terminate the US-Iran war is moving closer to formal signing.",
+    "original_publication": "2026-06-16T11:03:00+00:00",
+    "original_category": "world",
+    "corrected_category": "world",
+    "status": "retained-and-revised",
+    "sha256_original": "8625c2b280f787f9dc13d2eee5d56d1912f956f6530aeaa84f3735756157a082"
+  },
+  {
+    "path": "world/Iran-drafts-transit-toll-law-amid-Hormuz-tensions.html",
+    "original_title": "As Tehran maintains its hold on the Strait of Hormuz, Iran and the US tighten their stances.",
+    "original_publication": "2026-03-26T11:03:00+00:00",
+    "original_category": "world",
+    "corrected_category": "world",
+    "status": "retained-and-revised",
+    "sha256_original": "9190c6b1f148c4bd68e86123bccc4736e53d1aad433142ed281a25928f493e4b"
+  },
+  {
+    "path": "world/north-korea-us-dialogue-threats.html",
+    "original_title": "North Korea maintains the possibility of US dialogue while\n                                        threatening.",
+    "original_publication": "2026-02-19T11:03:00+00:00",
+    "original_category": "world",
+    "corrected_category": "world",
+    "status": "archived-unchanged",
+    "sha256_original": "614798aee9ec54bb3622856fe6245c5bfa1c1699d47be7ab5468a77b9508b06b"
+  },
+  {
+    "path": "world/penguin-birthday-botulinum-infants.html",
+    "original_title": "Party hats on penguins? Families of infants receiving botulinum treatment are cheered by birthday greetings.",
+    "original_publication": "2026-02-19T11:03:00+00:00",
+    "original_category": "world",
+    "corrected_category": "world",
+    "status": "archived-unchanged",
+    "sha256_original": "cb479c7ed715c74070c6f20eb18e5fb02f944636fdb4a9d5d4f72f1769bea602"
+  },
+  {
+    "path": "world/russia-ukraine-geneva-negotiations.html",
+    "original_title": "After nearly four years of conflict, Russian and Ukrainian officials convene in Geneva for negotiations facilitated by the US.",
+    "original_publication": "2026-02-19T11:03:00+00:00",
+    "original_category": "world",
+    "corrected_category": "world",
+    "status": "archived-unchanged",
+    "sha256_original": "76295c4368eb7b8cbcd9559fa5452b629074f45e9f1a8f439cbe8261239b6f90"
+  },
+  {
+    "path": "world/six-planets-february-sky-parade.html",
+    "original_title": "At the end of February, six planets will parade over the night sky.",
+    "original_publication": "2026-02-19T11:03:00+00:00",
+    "original_category": "world",
+    "corrected_category": "world",
+    "status": "archived-unchanged",
+    "sha256_original": "ada1c265b6081c62ed89452e2d9efecccb04f97b455df73e9b80ea76f4510ec3"
+  },
+  {
+    "path": "world/south-africa-solar-truck-charging.html",
+    "original_title": "On South Africa's freight corridors, solar-powered truck charging is becoming more popular.",
+    "original_publication": "2026-02-19T11:03:00+00:00",
+    "original_category": "world",
+    "corrected_category": "world",
+    "status": "archived-unchanged",
+    "sha256_original": "c08973ba387bf6510090d698a9e596f5c54cc369ff5f1fdf0d31f86a3e4c1240"
+  },
+  {
+    "path": "world/uganda-public-affection-arrest.html",
+    "original_title": "Two ladies are detained by Ugandan police after they were caught kissing in public.",
+    "original_publication": "2026-02-19T11:03:00+00:00",
+    "original_category": "world",
+    "corrected_category": "world",
+    "status": "archived-unchanged",
+    "sha256_original": "d1b69ed363ca4165615aba255b8d61ebba36c6ad9a0f8f0fbe595b47e86a9a92"
+  },
+  {
+    "path": "world/world-cup-2026-what-to-know-where-to-watch-schedules-and-more.html",
+    "original_title": "World Cup 2026: Here’s what to know, where to watch, schedules and more",
+    "original_publication": "2026-06-11T11:03:00+00:00",
+    "original_category": "world",
+    "corrected_category": "sports",
+    "status": "retained-and-revised",
+    "sha256_original": "f4975a67203269ae433937e1458541ddf668cc3e781f9d8277d555ee24d99117"
+  }
+]

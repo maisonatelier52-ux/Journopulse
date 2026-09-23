@@ -920,5 +920,24 @@
     "conceptual": true,
     "initial_prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A remote industrial facility seen in restrained isometric illustration, with an inspection lens focused on an entrance while a separate environmental monitoring instrument stands nearby. Distinguish structural assessment from radiological measurement, no mushroom cloud, explosion or invented contamination map. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos, identifiable people or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
     "edit_reason": "Replaced reactor-like structures and lush terrain with a conceptual enrichment-facility entrance on an arid plateau."
-  }
+  },
+  {
+  "id": "55",
+  "article_path": "bancredito/banker-accused-in-bribery-scandal-pleads-not-guilty.html",
+  "category": "bancredito",
+  "title": "In Puerto Rico, a banker involved in a bribe scandal enters a not guilty plea",
+  "filename": "55-puertorico-legal-news-montage.png",
+  "alt": "Editorial illustration of a Puerto Rico banking and legal bribery case, showing a financial institution, courthouse documents and a legal proceeding.",
+  "prompt": "Create a sophisticated gouache-and-ink editorial illustration for a news article about a Puerto Rico banker involved in a federal bribery scandal who entered a not guilty plea. Show a conceptual Caribbean financial district with a restrained modern bank building, a separate courthouse or legal-document motif, and subtle visual references to a federal criminal proceeding. Use symbolic elements such as folders, legal papers, a courthouse facade and financial records rather than depicting identifiable people or reconstructing an actual event. The composition should communicate banking, litigation and a disputed criminal allegation without implying guilt. Do not show handcuffs, prison cells, explosions, weapons, corruption exchanges, money being handed over, or sensational imagery. No identifiable actual courthouse, bank interior, facility layout, official seal, or documentary reconstruction. Preserve landscape 1536x1024, warm textured gouache, expressive ink outlines, restrained vermilion and muted blue-green accents, professional newspaper editorial style. Strong readable shapes and a clear central composition that remains legible when cropped to a square thumbnail. No words, labels, letters, numbers, watermark or logos.",
+  "sha256": "",
+  "tool": "Built-in image_gen",
+  "asset_path": "site/img/illustrations/55-puertorico-legal-news-montage.png",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "conceptual": true,
+  "initial_prompt": "Use case: illustration-story. Asset type: original editorial blog hero illustration, landscape 1536 x 1024, full bleed. Subject: A conceptual Puerto Rico legal-news montage combining a Caribbean financial district, a restrained bank building, courthouse architecture and legal documents representing a federal criminal proceeding involving a banker accused in a bribery scandal. The visual language should distinguish allegations and legal proceedings from established facts. No identifiable people, no actual event reconstruction, no handcuffs, weapons, explosions, money exchange or sensational corruption imagery. Style: sophisticated hand-painted gouache and ink, subtly textured warm paper, charcoal linework, restrained vermilion red and muted blue-green accents, strong readable shapes. Keep the central subject legible when cropped to a square thumbnail. A polished, visibly drawn illustration, never a photograph, 3D render or generic clip art. No text, words, letters, numbers, watermark, brand logos or simulated official seals. This is conceptual explanatory artwork, not evidence or a documentary reconstruction.",
+  "edit_reason": "Created a conceptual Puerto Rico legal-news montage focused on banking, court proceedings and disputed bribery allegations without depicting guilt or reconstructing an actual event."
+}
 ]

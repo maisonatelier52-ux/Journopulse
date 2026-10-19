@@ -1,0 +1,90 @@
+/* ===== Illustrated ads: fluid, keep their aspect ratio on every screen ===== */
+.ad-wrap, .ad-image-wrap { max-width: 100%; overflow: hidden; }
+.ad-wrap img, .ad-image img { display: block; width: 100%; height: auto; aspect-ratio: 728 / 90; object-fit: cover; border-radius: 4px; }
+.cate-sec-long-time-banner-img { display: block; padding: 0; background: none; border-radius: 4px; overflow: hidden; }
+.cate-sec-long-time-banner-img img { display: block; width: 100%; height: auto; aspect-ratio: 8 / 1; object-fit: cover; }
+.newsletter-box-bg img { width: 100%; height: 100%; object-fit: cover; }
+.sponsor-brand-logo { max-width: 100%; height: auto; object-fit: cover; }
+.single-header img.featured-img { max-width: 100%; height: auto; }
+
+/* ===== Category / card grids ===== */
+.cat-sec-grid-layout-image { width: 100%; height: auto; aspect-ratio: 3 / 2; object-fit: cover; display: block; }
+.cat-sec-grid-layout-title { overflow-wrap: anywhere; }
+.cat-sec-grid-layout-meta { flex-wrap: wrap; gap: 8px; }
+.cat-sec-grid-layout-name { color: inherit; text-decoration: none; }
+.cat-sec-grid-layout-name:hover { text-decoration: underline; }
+.cate-sec-long-time-card { background-size: cover; background-position: center; }
+
+/* ===== Footer: "Explore the Blog" ===== */
+.footer-explore { text-align: center; padding: 36px 20px 28px; border-bottom: 1px solid rgba(255, 255, 255, .14); }
+.footer-explore-btn { display: inline-block; padding: 14px 34px; background: #ff2b4a; color: #fff; font-weight: 700; font-size: 14px; letter-spacing: .6px; text-transform: uppercase; text-decoration: none; border-radius: 2px; transition: background .2s; }
+.footer-explore-btn:hover { background: #d81e3b; color: #fff; }
+
+/* ===== More to Read ===== */
+.more-to-read { max-width: 1200px; margin: 56px auto 40px; padding: 0 20px; }
+.more-to-read-head { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; margin-bottom: 26px; padding-bottom: 14px; border-bottom: 2px solid #111; }
+.more-to-read-business { font-size: 12px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: #fff; background: #6bb36b; padding: 5px 12px; text-decoration: none; }
+.more-to-read-title { margin: 0; font-family: "Playfair", serif; font-size: 28px; font-weight: 700; flex: 1 1 auto; }
+.more-to-read-explore { font-weight: 700; font-size: 14px; color: #ff2b4a; text-decoration: none; white-space: nowrap; }
+.more-to-read-explore i { margin-left: 4px; font-size: 12px; }
+.more-to-read-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 32px; }
+
+/* ===== Author page ===== */
+.author-hero { max-width: 1200px; margin: 40px auto 10px; padding: 0 20px; display: flex; gap: 36px; align-items: center; }
+.author-hero-avatar { width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 4px solid #efe3cf; box-shadow: 10px 10px 0 rgba(0, 0, 0, .06); flex: 0 0 auto; }
+.author-hero-kicker { display: inline-block; font-size: 12px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: #fff; background: #ff2b4a; padding: 4px 10px; }
+.author-hero-name { font-family: "Playfair", serif; font-size: 44px; margin: 12px 0 4px; line-height: 1.1; }
+.author-hero-job { margin: 0 0 14px; color: #666; font-weight: 600; }
+.author-hero-bio { max-width: 680px; color: #444; line-height: 1.7; margin: 0 0 16px; }
+.author-hero-stats { display: flex; gap: 26px; list-style: none; padding: 0; margin: 0 0 14px; color: #555; }
+.author-hero-stats strong { font-size: 22px; color: #111; margin-right: 4px; }
+.author-hero-cats { display: flex; flex-wrap: wrap; gap: 8px; }
+.author-hero-cats a { font-size: 12px; font-weight: 700; padding: 5px 12px; border: 1px solid #ccc; border-radius: 999px; color: #333; text-decoration: none; }
+.author-hero-cats a:hover { background: #111; color: #fff; border-color: #111; }
+.author-index { max-width: 1200px; margin: 40px auto; padding: 0 20px; }
+.author-index-title { font-family: "Playfair", serif; font-size: 40px; margin: 0 0 28px; }
+.author-index-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 28px; }
+.author-index-card { display: block; text-align: center; padding: 28px 18px; border: 1px solid #e5e5e5; border-radius: 8px; text-decoration: none; color: inherit; }
+.author-index-card img { width: 120px; height: 120px; border-radius: 50%; object-fit: cover; }
+.author-index-card h2 { font-family: "Playfair", serif; font-size: 22px; margin: 14px 0 4px; }
+.author-index-card p { margin: 0 0 6px; color: #666; }
+.author-index-card span { font-size: 13px; color: #ff2b4a; font-weight: 700; }
+
+/* ===== Responsive ===== */
+@media (max-width: 1100px) {
+  .cat-sec-grid-layout-grid { display: grid !important; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px; padding: 0 !important; }
+  .cat-sec-grid-layout-header { padding: 0 !important; }
+  .more-to-read-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .cate-sec-long-time-container { padding: 0 20px; }
+}
+@media (max-width: 768px) {
+  .author-hero { flex-direction: column; text-align: center; gap: 22px; }
+  .author-hero-stats, .author-hero-cats { justify-content: center; }
+  .author-hero-bio { margin-left: auto; margin-right: auto; }
+  .author-hero-avatar { width: 160px; height: 160px; }
+  .author-hero-name { font-size: 34px; }
+}
+@media (max-width: 640px) {
+  .cat-sec-grid-layout-section { padding: 0 16px; margin: 28px auto; }
+  .cat-sec-grid-layout-grid, .more-to-read-grid { grid-template-columns: 1fr; gap: 28px; }
+  .cat-sec-grid-layout-header-title, .more-to-read-title { font-size: 22px; }
+  .cat-sec-grid-layout-title { font-size: 19px; }
+  .cate-sec-long-time-container { padding: 0 16px; }
+  .cate-sec-long-time-title { font-size: 32px; }
+  .cate-sec-long-time-main-title { font-size: 24px; }
+  .cate-sec-long-time-card { min-height: 220px; padding: 20px; }
+  .more-to-read { margin-top: 36px; padding: 0 16px; }
+  .more-to-read-head { gap: 10px; }
+  .footer-explore { padding: 28px 16px 22px; }
+  .footer-explore-btn { display: block; width: 100%; max-width: 360px; margin: 0 auto; box-sizing: border-box; }
+  .ad-wrap img, .ad-image img { aspect-ratio: 728 / 90; }
+}
+
+/* ---- FIX: Elementor entrance-animation sections stayed invisible ----
+   The original WordPress/Elementor JS removed `.elementor-invisible` on scroll.
+   That JS doesn't exist in this Next.js port, so those sections (images, titles,
+   "Follow US", dark band…) were hidden forever. Show them by default (also good
+   for SEO / no-JS) with a light CSS fade instead. */
+.elementor-invisible{visibility:visible!important;animation:jpFadeIn .6s ease both}
+@keyframes jpFadeIn{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){.elementor-invisible{animation:none}}

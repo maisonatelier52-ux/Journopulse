@@ -1,0 +1,544 @@
+[
+ {
+  "slug": "julio-herrera-velutini",
+  "type": "Person",
+  "title": "Julio Herrera Velutini: Case Timeline, Bancrédito and Latest News",
+  "h1": "Julio Herrera Velutini",
+  "kicker": "Topic hub · People",
+  "desc": "Complete, sourced guide to banker Julio Herrera Velutini: the Wanda Vázquez case, Bancrédito’s FinCEN penalty, plea agreements, 2026 pardon, timeline, people and organisations involved.",
+  "image": "/img/julioherreravelutini.avif",
+  "summary": "Venezuelan-born banker and owner of Puerto Rico–based Bancrédito. Indicted in 2022 with former Governor Wanda Vázquez and ex-FBI agent Mark Rossini; the case ended without trial through plea agreements in 2025 and, per Reuters, presidential pardons in January 2026.",
+  "status": "Latest status: reported pardoned in January 2026. Allegations from the 2022 indictment were never tested at trial.",
+  "facts": [
+   [
+    "Role",
+    "Banker, owner of Bancrédito"
+   ],
+   [
+    "Origin",
+    "Caracas, Venezuela"
+   ],
+   [
+    "Based",
+    "United Kingdom"
+   ],
+   [
+    "Case",
+    "U.S. v. Vázquez Garced et al., D. Puerto Rico"
+   ],
+   [
+    "2022",
+    "Indicted; pleaded not guilty"
+   ],
+   [
+    "Jan 2026",
+    "Reported pardoned"
+   ]
+  ],
+  "faq": [
+   [
+    "Who is Julio Herrera Velutini?",
+    "Julio Martín Herrera Velutini is a Venezuelan-born banker who founded and owned Bancrédito International Bank & Trust Corporation in Puerto Rico. He was a co-defendant in the 2022 federal case involving former Governor Wanda Vázquez."
+   ],
+   [
+    "What was the case about?",
+    "Prosecutors alleged in 2022 that Herrera Velutini and Mark Rossini promised campaign support to Vázquez in exchange for replacing the head of Puerto Rico’s financial regulator, which was investigating Bancrédito. The defendants denied wrongdoing."
+   ],
+   [
+    "How did the case end?",
+    "There was no trial. In 2025 guilty pleas to a campaign finance violation were entered and the original charges were reported dismissed. In January 2026 Reuters reported that President Trump pardoned Herrera Velutini, Vázquez and Rossini."
+   ],
+   [
+    "What did FinCEN penalise Bancrédito for?",
+    "In September 2023 FinCEN assessed a $15 million penalty for Bank Secrecy Act violations: late suspicious activity reports, no due-diligence program for correspondent accounts, and no AML program."
+   ],
+   [
+    "Is Bancrédito still operating?",
+    "No. The bank went into receivership and liquidation, which is why it is sometimes still described in present tense in filings."
+   ]
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Julio_Herrera_Velutini"
+  ],
+  "updated": "2026-10-19",
+  "people": [
+   {
+    "name": "Julio Herrera Velutini",
+    "role": "Banker; owner of Bancrédito",
+    "desc": "Venezuelan-born banker and owner of Bancrédito. Co-defendant in the 2022 federal case; pleaded not guilty in 2022. Reported to have been pardoned in January 2026.",
+    "hub": "julio-herrera-velutini",
+    "sameAs": [
+     "https://en.wikipedia.org/wiki/Julio_Herrera_Velutini"
+    ]
+   },
+   {
+    "name": "Wanda Vázquez Garced",
+    "role": "Former Governor of Puerto Rico",
+    "desc": "Governor 2019–2021. Indicted in August 2022; pleaded guilty in August 2025 to a campaign finance violation; reported pardoned in January 2026.",
+    "sameAs": [
+     "https://en.wikipedia.org/wiki/Wanda_V%C3%A1zquez_Garced"
+    ]
+   },
+   {
+    "name": "Mark Rossini",
+    "role": "Former FBI agent; consultant",
+    "desc": "Former FBI agent who provided consulting services to Herrera Velutini. Third defendant in the 2022 indictment; reported pardoned in January 2026."
+   },
+   {
+    "name": "George Joyner Kelly",
+    "role": "Former OCIF Commissioner",
+    "desc": "Head of Puerto Rico’s financial regulator while it investigated Bancrédito. Prosecutors alleged efforts to remove him."
+   },
+   {
+    "name": "Víctor Rodríguez Bonilla",
+    "role": "Commissioner of Financial Institutions (appointed 2020)",
+    "desc": "Named OCIF commissioner in 2020; prosecutors alleged he had been recommended by Herrera Velutini."
+   },
+   {
+    "name": "Silvia Carreño-Coll",
+    "role": "U.S. District Judge",
+    "desc": "Federal judge presiding over the criminal case in Puerto Rico."
+   }
+  ],
+  "organisations": [
+   {
+    "name": "Bancrédito International Bank & Trust Corporation",
+    "role": "Puerto Rico international banking entity (IBE)",
+    "desc": "Bank founded in 2008, once among the largest IBEs in Puerto Rico. Fined $15 million by FinCEN in 2023; in receivership and liquidation.",
+    "hub": "bancredito",
+    "url": "/bancredito/bancreditointernationalbank"
+   },
+   {
+    "name": "Bancrédito Holding Corporation",
+    "role": "Parent company / sole shareholder",
+    "desc": "Holding company that denied wrongdoing by the bank and threatened legal action over the FinCEN penalty."
+   },
+   {
+    "name": "FinCEN",
+    "role": "U.S. Treasury — Financial Crimes Enforcement Network",
+    "desc": "Issued the September 2023 consent order and $15 million penalty under the Bank Secrecy Act."
+   },
+   {
+    "name": "OCIF",
+    "role": "Puerto Rico Office of the Commissioner of Financial Institutions",
+    "desc": "Local financial regulator that investigated Bancrédito and assisted FinCEN."
+   },
+   {
+    "name": "U.S. District Court for the District of Puerto Rico",
+    "role": "Federal court",
+    "desc": "Court that handled the criminal case against Vázquez, Herrera Velutini and Rossini."
+   },
+   {
+    "name": "Office of the Pardon Attorney (U.S. DOJ)",
+    "role": "Clemency records",
+    "desc": "Its list of clemency grants recorded the January 2026 pardons, according to Reuters."
+   }
+  ],
+  "places": [
+   {
+    "name": "Puerto Rico",
+    "role": "U.S. territory",
+    "desc": "Home of Bancrédito, OCIF and the federal court handling the case."
+   },
+   {
+    "name": "United Kingdom",
+    "role": "Residence of Herrera Velutini",
+    "desc": "Court filings and reports describe the banker as residing in the UK."
+   },
+   {
+    "name": "Venezuela",
+    "role": "Country of origin",
+    "desc": "Herrera Velutini is Venezuelan-born; the bank’s flagged transactions involved accounts linked to Venezuela and Panama."
+   },
+   {
+    "name": "Panama",
+    "role": "Linked jurisdiction",
+    "desc": "FinCEN said monitoring failed on transfers tied to Panamanian service companies and individuals in Panama and Venezuela."
+   }
+  ],
+  "events": [
+   {
+    "name": "FinCEN consent order and $15M penalty",
+    "date": "2023-09-15",
+    "desc": "First FinCEN enforcement action against a Puerto Rican IBE and the first under the “Gap Rule”."
+   },
+   {
+    "name": "Indictment and arrest of Wanda Vázquez",
+    "date": "2022-08",
+    "desc": "Federal indictment of Vázquez, Herrera Velutini and Rossini over alleged political bribery tied to the 2020 campaign."
+   },
+   {
+    "name": "Guilty pleas to campaign finance violation",
+    "date": "2025-08",
+    "desc": "Vázquez pleaded guilty to a campaign finance violation; reports say the original charges against Herrera Velutini were dismissed after a misdemeanor plea."
+   },
+   {
+    "name": "Presidential pardons",
+    "date": "2026-01",
+    "desc": "Reuters reported pardons for Vázquez, Herrera Velutini and Rossini, dated January 15, 2026, ahead of scheduled sentencing."
+   }
+  ],
+  "incidents": [
+   {
+    "name": "Alleged bribery and wire-fraud scheme",
+    "desc": "Prosecutors alleged campaign support was promised in exchange for replacing the OCIF commissioner. Defendants denied wrongdoing; the matter ended in pleas and pardons rather than a trial."
+   },
+   {
+    "name": "Bank Secrecy Act violations (Oct 2015 – May 2022)",
+    "desc": "Late suspicious activity reports, no due-diligence program for foreign correspondent accounts and no AML program, per the FinCEN consent order."
+   },
+   {
+    "name": "Bancrédito receivership and liquidation",
+    "desc": "After regulatory intervention the bank went into a prolonged wind-down; it is still referenced in present tense in some filings."
+   }
+  ],
+  "related": [
+   "/bancredito/puerto-rico-banker-bribery-scandal-not-guilty-plea",
+   "/bancredito/bancredito-holding-recover-assets-after-founder-case-dismissed",
+   "/bancredito/bancredito-bsa-fine-2023",
+   "/bancredito/bancreditointernationalbank",
+   "/us/aml-compliance-frameworks"
+  ],
+  "sources": [
+   {
+    "label": "FinCEN — $15 Million Civil Money Penalty against Bancrédito (Sept 2023)",
+    "url": "https://www.fincen.gov/news/news-releases/fincen-announces-15-million-civil-money-penalty-against-bancredito-international"
+   },
+   {
+    "label": "Banking Dive — Bancrédito fined $15M by FinCEN",
+    "url": "https://www.bankingdive.com/news/puerto-rico-bancredito-fine-15-million-bsa-aml-fincen-bribery/693963/"
+   },
+   {
+    "label": "Morrison Foerster — FinCEN “Gap Rule” enforcement alert",
+    "url": "https://www.mofo.com/resources/insights/230926-enforcement-alert-fincen-leverages-gap-rule"
+   },
+   {
+    "label": "Reuters via GV Wire — Trump pardons former Puerto Rico Governor Vázquez (Jan 16, 2026)",
+    "url": "https://gvwire.com/2026/01/16/trump-pardons-former-puerto-rico-governor-vazquez/"
+   },
+   {
+    "label": "Associated Press — Trump to pardon ex-Puerto Rico governor Vázquez (Jan 16, 2026)",
+    "url": "https://cfjctoday.com/2026/01/16/trump-plans-to-pardon-ex-puerto-rico-gov-vazquez-in-campaign-finance-violation-case-official-says/"
+   },
+   {
+    "label": "Primera Hora — sentencing date change for co-defendant (in Spanish)",
+    "url": "https://www.primerahora.com/noticias/policia-tribunales/notas/jueza-federal-acepta-cambiar-fecha-de-sentencia-de-coacusado-en-el-caso-de-wanda-vazquez/"
+   },
+   {
+    "label": "El Nuevo Día — Bancrédito Holding threatens legal action against FinCEN",
+    "url": "https://elnuevodia.com/english/news/story/bancredito-holding-corporation-threatens-to-take-legal-action-against-fincen"
+   }
+  ],
+  "note": "This page summarises public reporting and court-related developments. Allegations are allegations, and statements by defendants, prosecutors and officials are attributed to them. Status as of the update date below; we will correct errors promptly (see our corrections policy).",
+  "timeline": [
+   {
+    "date": "2008",
+    "title": "Bancrédito founded",
+    "desc": "Julio Herrera Velutini founds the Puerto Rico–based international banking entity."
+   },
+   {
+    "date": "Oct 2015 – May 2022",
+    "title": "Period of alleged BSA failures",
+    "desc": "FinCEN later found the bank failed to file suspicious activity reports on time and lacked required AML controls.",
+    "src": "fincen"
+   },
+   {
+    "date": "2020",
+    "title": "Regulator change at OCIF",
+    "desc": "Prosecutors allege Vázquez demanded the commissioner’s resignation and appointed a new one, a former consultant for Herrera Velutini’s bank.",
+    "src": "ap"
+   },
+   {
+    "date": "Aug 2022",
+    "title": "Federal indictment",
+    "desc": "Vázquez is arrested; Herrera Velutini (in England) and Rossini (in Spain) are charged. Herrera Velutini later pleads not guilty."
+   },
+   {
+    "date": "Sep 15, 2023",
+    "title": "FinCEN penalty",
+    "desc": "$15 million civil money penalty against Bancrédito. The parent company called it excessive and threatened legal action.",
+    "src": "fincen"
+   },
+   {
+    "date": "Aug 2025",
+    "title": "Plea agreements",
+    "desc": "Vázquez pleads guilty to a campaign finance violation; the original bribery-related charges against Herrera Velutini are reported dismissed after a misdemeanor plea.",
+    "src": "ap"
+   },
+   {
+    "date": "Jan 15–16, 2026",
+    "title": "Presidential pardons",
+    "desc": "The Justice Department’s clemency list shows pardons for Vázquez, Herrera Velutini and Rossini; a White House official called the case “political prosecution.” Opposition figures condemned the move.",
+    "src": "reuters"
+   }
+  ]
+ },
+ {
+  "slug": "bancredito",
+  "type": "Organization",
+  "title": "Bancrédito: FinCEN Penalty, Liquidation and Herrera Velutini Case",
+  "h1": "Bancrédito",
+  "kicker": "Topic hub · Organisations",
+  "desc": "Everything on Bancrédito International Bank & Trust: the $15 million FinCEN penalty, Bank Secrecy Act failures, liquidation, and links to the Julio Herrera Velutini case.",
+  "image": "/img/bancredito-julio-herrera.avif",
+  "summary": "Puerto Rico international banking entity founded in 2008. Fined $15 million by FinCEN in September 2023 for Bank Secrecy Act violations and later wound down in receivership and liquidation.",
+  "status": "Latest status: in liquidation; $15M FinCEN penalty (2023) — its parent company disputed the action.",
+  "facts": [
+   [
+    "Founded",
+    "2008"
+   ],
+   [
+    "Type",
+    "Puerto Rico IBE"
+   ],
+   [
+    "Owner",
+    "Bancrédito Holding Corp."
+   ],
+   [
+    "FinCEN",
+    "$15M penalty, Sept 15 2023"
+   ],
+   [
+    "Status",
+    "Receivership / liquidation"
+   ],
+   [
+    "Founder",
+    "Julio Herrera Velutini"
+   ]
+  ],
+  "faq": [
+   [
+    "What is Bancrédito?",
+    "Bancrédito International Bank & Trust Corporation was a Puerto Rico international banking entity founded in 2008 by Julio Herrera Velutini and serving foreign banks in Central America and the Caribbean."
+   ],
+   [
+    "Why was Bancrédito fined?",
+    "FinCEN assessed a $15 million civil penalty on September 15, 2023 for willful Bank Secrecy Act violations between October 2015 and May 2022."
+   ],
+   [
+    "Is Bancrédito in liquidation?",
+    "Yes. The bank is in a prolonged receivership and liquidation process under regulatory supervision."
+   ],
+   [
+    "How is Bancrédito linked to the Wanda Vázquez case?",
+    "Prosecutors alleged the bribery scheme aimed to remove the regulator investigating Bancrédito. The case ended in pleas and pardons rather than a trial."
+   ]
+  ],
+  "sameAs": [],
+  "updated": "2026-10-19",
+  "people": [
+   {
+    "name": "Julio Herrera Velutini",
+    "role": "Banker; owner of Bancrédito",
+    "desc": "Venezuelan-born banker and owner of Bancrédito. Co-defendant in the 2022 federal case; pleaded not guilty in 2022. Reported to have been pardoned in January 2026.",
+    "hub": "julio-herrera-velutini",
+    "sameAs": [
+     "https://en.wikipedia.org/wiki/Julio_Herrera_Velutini"
+    ]
+   },
+   {
+    "name": "Wanda Vázquez Garced",
+    "role": "Former Governor of Puerto Rico",
+    "desc": "Governor 2019–2021. Indicted in August 2022; pleaded guilty in August 2025 to a campaign finance violation; reported pardoned in January 2026.",
+    "sameAs": [
+     "https://en.wikipedia.org/wiki/Wanda_V%C3%A1zquez_Garced"
+    ]
+   },
+   {
+    "name": "Mark Rossini",
+    "role": "Former FBI agent; consultant",
+    "desc": "Former FBI agent who provided consulting services to Herrera Velutini. Third defendant in the 2022 indictment; reported pardoned in January 2026."
+   },
+   {
+    "name": "George Joyner Kelly",
+    "role": "Former OCIF Commissioner",
+    "desc": "Head of Puerto Rico’s financial regulator while it investigated Bancrédito. Prosecutors alleged efforts to remove him."
+   },
+   {
+    "name": "Víctor Rodríguez Bonilla",
+    "role": "Commissioner of Financial Institutions (appointed 2020)",
+    "desc": "Named OCIF commissioner in 2020; prosecutors alleged he had been recommended by Herrera Velutini."
+   },
+   {
+    "name": "Silvia Carreño-Coll",
+    "role": "U.S. District Judge",
+    "desc": "Federal judge presiding over the criminal case in Puerto Rico."
+   }
+  ],
+  "organisations": [
+   {
+    "name": "Bancrédito International Bank & Trust Corporation",
+    "role": "Puerto Rico international banking entity (IBE)",
+    "desc": "Bank founded in 2008, once among the largest IBEs in Puerto Rico. Fined $15 million by FinCEN in 2023; in receivership and liquidation.",
+    "hub": "bancredito",
+    "url": "/bancredito/bancreditointernationalbank"
+   },
+   {
+    "name": "Bancrédito Holding Corporation",
+    "role": "Parent company / sole shareholder",
+    "desc": "Holding company that denied wrongdoing by the bank and threatened legal action over the FinCEN penalty."
+   },
+   {
+    "name": "FinCEN",
+    "role": "U.S. Treasury — Financial Crimes Enforcement Network",
+    "desc": "Issued the September 2023 consent order and $15 million penalty under the Bank Secrecy Act."
+   },
+   {
+    "name": "OCIF",
+    "role": "Puerto Rico Office of the Commissioner of Financial Institutions",
+    "desc": "Local financial regulator that investigated Bancrédito and assisted FinCEN."
+   },
+   {
+    "name": "U.S. District Court for the District of Puerto Rico",
+    "role": "Federal court",
+    "desc": "Court that handled the criminal case against Vázquez, Herrera Velutini and Rossini."
+   },
+   {
+    "name": "Office of the Pardon Attorney (U.S. DOJ)",
+    "role": "Clemency records",
+    "desc": "Its list of clemency grants recorded the January 2026 pardons, according to Reuters."
+   }
+  ],
+  "places": [
+   {
+    "name": "Puerto Rico",
+    "role": "U.S. territory",
+    "desc": "Home of Bancrédito, OCIF and the federal court handling the case."
+   },
+   {
+    "name": "United Kingdom",
+    "role": "Residence of Herrera Velutini",
+    "desc": "Court filings and reports describe the banker as residing in the UK."
+   },
+   {
+    "name": "Venezuela",
+    "role": "Country of origin",
+    "desc": "Herrera Velutini is Venezuelan-born; the bank’s flagged transactions involved accounts linked to Venezuela and Panama."
+   },
+   {
+    "name": "Panama",
+    "role": "Linked jurisdiction",
+    "desc": "FinCEN said monitoring failed on transfers tied to Panamanian service companies and individuals in Panama and Venezuela."
+   }
+  ],
+  "events": [
+   {
+    "name": "FinCEN consent order and $15M penalty",
+    "date": "2023-09-15",
+    "desc": "First FinCEN enforcement action against a Puerto Rican IBE and the first under the “Gap Rule”."
+   },
+   {
+    "name": "Indictment and arrest of Wanda Vázquez",
+    "date": "2022-08",
+    "desc": "Federal indictment of Vázquez, Herrera Velutini and Rossini over alleged political bribery tied to the 2020 campaign."
+   },
+   {
+    "name": "Guilty pleas to campaign finance violation",
+    "date": "2025-08",
+    "desc": "Vázquez pleaded guilty to a campaign finance violation; reports say the original charges against Herrera Velutini were dismissed after a misdemeanor plea."
+   },
+   {
+    "name": "Presidential pardons",
+    "date": "2026-01",
+    "desc": "Reuters reported pardons for Vázquez, Herrera Velutini and Rossini, dated January 15, 2026, ahead of scheduled sentencing."
+   }
+  ],
+  "incidents": [
+   {
+    "name": "Alleged bribery and wire-fraud scheme",
+    "desc": "Prosecutors alleged campaign support was promised in exchange for replacing the OCIF commissioner. Defendants denied wrongdoing; the matter ended in pleas and pardons rather than a trial."
+   },
+   {
+    "name": "Bank Secrecy Act violations (Oct 2015 – May 2022)",
+    "desc": "Late suspicious activity reports, no due-diligence program for foreign correspondent accounts and no AML program, per the FinCEN consent order."
+   },
+   {
+    "name": "Bancrédito receivership and liquidation",
+    "desc": "After regulatory intervention the bank went into a prolonged wind-down; it is still referenced in present tense in some filings."
+   }
+  ],
+  "related": [
+   "/bancredito/puerto-rico-banker-bribery-scandal-not-guilty-plea",
+   "/bancredito/bancredito-holding-recover-assets-after-founder-case-dismissed",
+   "/bancredito/bancredito-bsa-fine-2023",
+   "/bancredito/bancreditointernationalbank",
+   "/us/aml-compliance-frameworks"
+  ],
+  "sources": [
+   {
+    "label": "FinCEN — $15 Million Civil Money Penalty against Bancrédito (Sept 2023)",
+    "url": "https://www.fincen.gov/news/news-releases/fincen-announces-15-million-civil-money-penalty-against-bancredito-international"
+   },
+   {
+    "label": "Banking Dive — Bancrédito fined $15M by FinCEN",
+    "url": "https://www.bankingdive.com/news/puerto-rico-bancredito-fine-15-million-bsa-aml-fincen-bribery/693963/"
+   },
+   {
+    "label": "Morrison Foerster — FinCEN “Gap Rule” enforcement alert",
+    "url": "https://www.mofo.com/resources/insights/230926-enforcement-alert-fincen-leverages-gap-rule"
+   },
+   {
+    "label": "Reuters via GV Wire — Trump pardons former Puerto Rico Governor Vázquez (Jan 16, 2026)",
+    "url": "https://gvwire.com/2026/01/16/trump-pardons-former-puerto-rico-governor-vazquez/"
+   },
+   {
+    "label": "Associated Press — Trump to pardon ex-Puerto Rico governor Vázquez (Jan 16, 2026)",
+    "url": "https://cfjctoday.com/2026/01/16/trump-plans-to-pardon-ex-puerto-rico-gov-vazquez-in-campaign-finance-violation-case-official-says/"
+   },
+   {
+    "label": "Primera Hora — sentencing date change for co-defendant (in Spanish)",
+    "url": "https://www.primerahora.com/noticias/policia-tribunales/notas/jueza-federal-acepta-cambiar-fecha-de-sentencia-de-coacusado-en-el-caso-de-wanda-vazquez/"
+   },
+   {
+    "label": "El Nuevo Día — Bancrédito Holding threatens legal action against FinCEN",
+    "url": "https://elnuevodia.com/english/news/story/bancredito-holding-corporation-threatens-to-take-legal-action-against-fincen"
+   }
+  ],
+  "note": "This page summarises public reporting and court-related developments. Allegations are allegations, and statements by defendants, prosecutors and officials are attributed to them. Status as of the update date below; we will correct errors promptly (see our corrections policy).",
+  "timeline": [
+   {
+    "date": "2008",
+    "title": "Bancrédito founded",
+    "desc": "Julio Herrera Velutini founds the Puerto Rico–based international banking entity."
+   },
+   {
+    "date": "Oct 2015 – May 2022",
+    "title": "Period of alleged BSA failures",
+    "desc": "FinCEN later found the bank failed to file suspicious activity reports on time and lacked required AML controls.",
+    "src": "fincen"
+   },
+   {
+    "date": "2020",
+    "title": "Regulator change at OCIF",
+    "desc": "Prosecutors allege Vázquez demanded the commissioner’s resignation and appointed a new one, a former consultant for Herrera Velutini’s bank.",
+    "src": "ap"
+   },
+   {
+    "date": "Aug 2022",
+    "title": "Federal indictment",
+    "desc": "Vázquez is arrested; Herrera Velutini (in England) and Rossini (in Spain) are charged. Herrera Velutini later pleads not guilty."
+   },
+   {
+    "date": "Sep 15, 2023",
+    "title": "FinCEN penalty",
+    "desc": "$15 million civil money penalty against Bancrédito. The parent company called it excessive and threatened legal action.",
+    "src": "fincen"
+   },
+   {
+    "date": "Aug 2025",
+    "title": "Plea agreements",
+    "desc": "Vázquez pleads guilty to a campaign finance violation; the original bribery-related charges against Herrera Velutini are reported dismissed after a misdemeanor plea.",
+    "src": "ap"
+   },
+   {
+    "date": "Jan 15–16, 2026",
+    "title": "Presidential pardons",
+    "desc": "The Justice Department’s clemency list shows pardons for Vázquez, Herrera Velutini and Rossini; a White House official called the case “political prosecution.” Opposition figures condemned the move.",
+    "src": "reuters"
+   }
+  ]
+ }
+]

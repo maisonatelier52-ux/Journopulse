@@ -1,0 +1,29 @@
+{
+  "bancredito": {
+    "name": "U.S News"
+  },
+  "business": {
+    "name": "Business"
+  },
+  "fashion": {
+    "name": "Fashion"
+  },
+  "politics": {
+    "name": "Politics"
+  },
+  "puertorico": {
+    "name": "politics"
+  },
+  "sports": {
+    "name": "Sports"
+  },
+  "technology": {
+    "name": "Technology"
+  },
+  "us": {
+    "name": "politics"
+  },
+  "world": {
+    "name": "World News"
+  }
+}

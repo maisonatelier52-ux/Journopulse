@@ -1,3 +1,5 @@
+import "./pillar.css";
+
 export default function TopicHubBox({ pillars }) {
   if (!pillars || !pillars.length) return null;
   return (

@@ -5,7 +5,7 @@ export default function Category() {
         <header className="cate-sec-long-time-header">
           <div className="cate-sec-long-time-header-content">
             <div className="cate-sec-long-time-breadcrumb">
-              JournoPulse &gt; Blog &gt; Business
+              JournoPulse &gt;Business
             </div>
             <h1 className="cate-sec-long-time-title">
               Business

@@ -5,7 +5,7 @@ export default function Category() {
         <header className="cate-sec-long-time-header">
           <div className="cate-sec-long-time-header-content">
             <div className="cate-sec-long-time-breadcrumb">
-              journopulse news &gt; Blog &gt; Technology
+              journopulse news &gt;Technology
             </div>
             <h1 className="cate-sec-long-time-title">
               Technology

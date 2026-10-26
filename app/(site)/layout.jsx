@@ -25,7 +25,7 @@ export default function SiteLayout({ children }) {
         <link rel="stylesheet" href="/detail.css" />
         <link rel="stylesheet" href="/extras.css" />
         <link rel="stylesheet" href="/icons.css" />
-        <link rel="stylesheet" href="/pillar.css" />
+        <link rel="stylesheet" href="/search.css" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link href="https://fonts.googleapis.com/css2?family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&display=swap" rel="stylesheet" />

@@ -17,34 +17,30 @@ export default function RelatedLatest() {
               <div className="p-wrap p-grid p-grid-small-1" data-pid="1093">
                 <div className="feat-holder">
                   <div className="p-featured">
-                    <a className="p-flink" href="#" title="">
-                      <img alt="" className="featured-img wp-post-image" decoding="async" height="220" loading="lazy" src="/img/illustrations/initial-deal-to-end-us-iran-war-moves-toward-formal-signing-despite-lingering-questions.webp" width="330" />
+                    <a className="p-flink" href="/politics/florida-polls-open-2026-governor-race-successor-ron-desantis" title={"Live updates: Polls open in Florida as state seeks a successor to Gov. Ron DeSantis."}>
+                      <img alt="" className="featured-img wp-post-image" decoding="async" height="220" loading="lazy" src="/img/illustrations/florida-polls-open-2026-governor-race-successor-ron-desantis.webp" width="330" />
                     </a>
                   </div>
                   <div className="p-categories light-scheme p-top"></div>
                 </div>
                 <div className="p-content">
                   <h4 className="entry-title">
-                    <a className="p-url" href="#" rel="bookmark">
-                      {" "}More than 550 people killed in Iran, Iranian Red Crescent Society says{" "}
-                    </a>
+                    <a className="p-url" href="/politics/florida-polls-open-2026-governor-race-successor-ron-desantis" rel="bookmark">{"Live updates: Polls open in Florida as state seeks a successor to Gov. Ron DeSantis."}</a>
                   </h4>
                 </div>
               </div>
               <div className="p-wrap p-grid p-grid-small-1" data-pid="1071">
                 <div className="feat-holder">
                   <div className="p-featured">
-                    <a className="p-flink" href="#" title="">
-                      <img alt="" className="featured-img wp-post-image" decoding="async" height="220" loading="lazy" src="/img/illustrations/iran-us-strait-of-hormuz-conflict-limits-of-escalating-bombing.webp" width="330" />
+                    <a className="p-flink" href="/politics/blanche-terminates-fund-for-trump-allies-after-gop-senators-threaten-to-block-attorney-general-bid" title={"After GOP senators threaten to thwart Trump's bid for attorney general, Blanche closes the fund for his supporters."}>
+                      <img alt="" className="featured-img wp-post-image" decoding="async" height="220" loading="lazy" src="/img/illustrations/blanche-terminates-fund-for-trump-allies-after-gop-senators-threaten-to-block-attorney-general-bid.webp" width="330" />
                     </a>
                   </div>
                   <div className="p-categories light-scheme p-top"></div>
                 </div>
                 <div className="p-content">
                   <h4 className="entry-title">
-                    <a className="p-url" href="#" rel="bookmark">
-                      {" "}Iran says it targeted a US aircraft that crashed in Kuwait{" "}
-                    </a>
+                    <a className="p-url" href="/politics/blanche-terminates-fund-for-trump-allies-after-gop-senators-threaten-to-block-attorney-general-bid" rel="bookmark">{"After GOP senators threaten to thwart Trump's bid for attorney general, Blanche closes the fund for his supporters."}</a>
                   </h4>
                   <div className="review-meta is-meta is-rstyle-0 type-score has-bookmark">
                     <div className="review-meta-inner">
@@ -63,17 +59,15 @@ export default function RelatedLatest() {
               <div className="p-wrap p-grid p-grid-small-1" data-pid="1079">
                 <div className="feat-holder">
                   <div className="p-featured">
-                    <a className="p-flink" href="#" title="">
-                      <img alt="" className="featured-img wp-post-image" decoding="async" height="220" loading="lazy" src="/img/illustrations/irans-ambassador-alleges-strikes-targeted-natanz-nuclear-facility.webp" width="330" />
+                    <a className="p-flink" href="/politics/iran-us-strait-of-hormuz-conflict-limits-of-escalating-bombing" title={"Iran and the US close in over the Strait of Hormuz, demonstrating the limitations of stepping up bombing"}>
+                      <img alt="" className="featured-img wp-post-image" decoding="async" height="220" loading="lazy" src="/img/illustrations/iran-us-strait-of-hormuz-conflict-limits-of-escalating-bombing.webp" width="330" />
                     </a>
                   </div>
                   <div className="p-categories light-scheme p-top"></div>
                 </div>
                 <div className="p-content">
                   <h4 className="entry-title">
-                    <a className="p-url" href="#" rel="bookmark">
-                      {" "}Lebanese seek shelter from Israeli strikes in Beirut schools{" "}
-                    </a>
+                    <a className="p-url" href="/politics/iran-us-strait-of-hormuz-conflict-limits-of-escalating-bombing" rel="bookmark">{"Iran and the US close in over the Strait of Hormuz, demonstrating the limitations of stepping up bombing"}</a>
                   </h4>
                   <div className="review-meta is-meta is-rstyle-0 type-score has-bookmark">
                     <div className="review-meta-inner">
@@ -92,7 +86,7 @@ export default function RelatedLatest() {
               <div className="p-wrap p-grid p-grid-small-1" data-pid="149">
                 <div className="feat-holder">
                   <div className="p-featured">
-                    <a className="p-flink" href="/puertorico/irans-ambassador-alleges-strikes-targeted-natanz-nuclear-facility" title="">
+                    <a className="p-flink" href="/puertorico/irans-ambassador-alleges-strikes-targeted-natanz-nuclear-facility" title={"Iran’s ambassador alleges strikes targeted Natanz nuclear facility."}>
                       <img alt="" className="featured-img wp-post-image" decoding="async" height="220" loading="lazy" src="/img/illustrations/irans-ambassador-alleges-strikes-targeted-natanz-nuclear-facility.webp" width="330" />
                     </a>
                   </div>

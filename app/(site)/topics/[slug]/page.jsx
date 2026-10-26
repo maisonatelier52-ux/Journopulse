@@ -14,9 +14,9 @@ export async function generateMetadata({ params }) {
   return {
     title: p.title,
     description: p.desc,
-    alternates: { canonical: url },
+    alternates: { canonical: url, languages: { "en-US": url, "x-default": url } },
     robots: { index: true, follow: true, "max-image-preview": "large" },
-    openGraph: { type: "website", siteName: "JournoPulse", title: p.title, description: p.desc, url, images: [{ url: ORIGIN + p.image }] },
+    openGraph: { type: "article", modifiedTime: p.updated, authors: ["JournoPulse Editorial"], siteName: "JournoPulse", title: p.title, description: p.desc, url, images: [{ url: ORIGIN + p.image }] },
     twitter: { card: "summary_large_image", title: p.title, description: p.desc, images: [ORIGIN + p.image] },
   };
 }

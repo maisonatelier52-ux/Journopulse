@@ -17,7 +17,7 @@ export default function Topics() {
           {allPillars.map((p) => (
             <li key={p.slug} className="pl-ent pl-ent-img">
               <a href={`/topics/${p.slug}`}><img src={p.image} alt={p.h1} loading="lazy" width="600" height="400" /></a>
-              <span className="pl-chip">{p.type === "Person" ? "Person" : "Organisation"}</span>
+              <span className="pl-chip">{p.pageType === "profile" ? "Profile" : "Guide"}</span>
               <h3><a href={`/topics/${p.slug}`}>{p.h1}</a></h3>
               <p>{p.summary}</p>
             </li>

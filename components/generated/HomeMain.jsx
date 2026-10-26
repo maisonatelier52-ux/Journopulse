@@ -14,7 +14,7 @@ export default function HomeMain() {
                           <div className="p-wrap p-grid p-grid-1" data-pid="59">
                             <div className="feat-holder">
                               <div className="p-featured">
-                                <a className="p-flink" href="/business/us-gas-prices-hit-4-dollars-highest-since-2022" title="Governors are eager to’ break free from Trump' ‘s party hold when they arrive in Washington.">
+                                <a className="p-flink" href="/business/kremlin-claims-putin-will-travel-to-beijing-very-soon" title={"The Kremlin claims that Putin will travel to Beijing \"very soon."}>
                                   <img loading="lazy" decoding="async" width="420" height="280" src="/img/illustrations/kremlin-claims-putin-will-travel-to-beijing-very-soon.webp" className="featured-img wp-post-image" alt="governors-arrives" />
                                 </a>
                               </div>
@@ -26,7 +26,7 @@ export default function HomeMain() {
                             </h3>
                             <div className="p-meta has-bookmark">
                               <div className="meta-inner is-meta">
-                                <a className="meta-el meta-avatar tablet-hide mobile-hide" href="/author/author.html" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
+                                <a className="meta-el meta-avatar tablet-hide mobile-hide" href="/author/ryan-sillers" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
                                   <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/author-ryan-sillers.webp" className="photo avatar" alt="" />
                                 </a>
                                 <div className="meta-el meta-author tablet-hide mobile-hide">
@@ -48,7 +48,7 @@ export default function HomeMain() {
                           <div className="p-wrap p-grid p-grid-1" data-pid="62">
                             <div className="feat-holder">
                               <div className="p-featured">
-                                <a className="p-flink" href="/politics/trump-republicans-communist-attacks-democrats-midterms" title="Two Anti-Lockdown Leaders Arrested as Protests Held Across Valinor">
+                                <a className="p-flink" href="/politics/trump-republicans-communist-attacks-democrats-midterms" title={"Before the midterm elections, Trump and Republicans resume their communist assaults on Democrats."}>
                                   <img loading="lazy" decoding="async" width="420" height="280" src="/img/illustrations/trump-republicans-communist-attacks-democrats-midterms.webp" className="featured-img wp-post-image" alt="" />
                                 </a>
                               </div>
@@ -62,7 +62,7 @@ export default function HomeMain() {
                             </h3>
                             <div className="p-meta has-bookmark">
                               <div className="meta-inner is-meta">
-                                <a className="meta-el meta-avatar tablet-hide mobile-hide" href="/author/author.html" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
+                                <a className="meta-el meta-avatar tablet-hide mobile-hide" href="/author/ryan-sillers" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
                                   <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/author-ryan-sillers.webp" className="photo avatar" alt="" />
                                 </a>
                                 <div className="meta-el meta-author tablet-hide mobile-hide">
@@ -84,7 +84,7 @@ export default function HomeMain() {
                           <div className="p-wrap p-grid p-grid-1" data-pid="23">
                             <div className="feat-holder">
                               <div className="p-featured">
-                                <a className="p-flink" href="/fashion/prada-luxury-fashion-pasta-pomodoro-milan-fashion-week" title="National Day Rally Sacrifice, Effort Needed to Preserve Harmony">
+                                <a className="p-flink" href="/fashion/prada-luxury-fashion-pasta-pomodoro-milan-fashion-week" title={"Prada serves up luxury fashion’s version of pasta pomodoro at Milan Fashion Week"}>
                                   <img loading="lazy" decoding="async" width="420" height="280" src="/img/illustrations/prada-luxury-fashion-pasta-pomodoro-milan-fashion-week.webp" className="featured-img wp-post-image" alt="" />
                                 </a>
                               </div>
@@ -96,7 +96,7 @@ export default function HomeMain() {
                             </h3>
                             <div className="p-meta has-bookmark">
                               <div className="meta-inner is-meta">
-                                <a className="meta-el meta-avatar tablet-hide mobile-hide" href="/author/author.html" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
+                                <a className="meta-el meta-avatar tablet-hide mobile-hide" href="/author/ryan-sillers" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
                                   <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/author-ryan-sillers.webp" className="photo avatar" alt="" />
                                 </a>
                                 <div className="meta-el meta-author tablet-hide mobile-hide">
@@ -118,7 +118,7 @@ export default function HomeMain() {
                           <div className="p-wrap p-grid p-grid-1" data-pid="1055">
                             <div className="feat-holder">
                               <div className="p-featured">
-                                <a className="p-flink" href="/politics/cornyn-avoided-trump-wrath-lost-seat-anyway" title="Corsair HS80 RGB Wireless Gaming Headset Review">
+                                <a className="p-flink" href="/politics/cornyn-avoided-trump-wrath-lost-seat-anyway" title={"Cornyn went to great lengths to avoid Trump’s wrath. The Texas senator lost his seat anyway."}>
                                   <img loading="lazy" decoding="async" width="420" height="280" src="/img/illustrations/cornyn-avoided-trump-wrath-lost-seat-anyway.webp" className="featured-img wp-post-image" alt="" />
                                 </a>
                               </div>
@@ -130,7 +130,7 @@ export default function HomeMain() {
                             </h3>
                             <div className="p-meta has-bookmark">
                               <div className="meta-inner is-meta">
-                                <a className="meta-el meta-avatar tablet-hide mobile-hide" href="/author/author.html" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
+                                <a className="meta-el meta-avatar tablet-hide mobile-hide" href="/author/ryan-sillers" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
                                   <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/author-ryan-sillers.webp" className="photo avatar" alt="" />
                                 </a>
                                 <div className="meta-el meta-author tablet-hide mobile-hide">
@@ -166,7 +166,7 @@ export default function HomeMain() {
                       <div id="uid_449e71a" className="block-h heading-layout-7">
                         <div className="heading-inner">
                           <h3 className="heading-title">
-                            <a className="h-link" href="#">
+                            <a className="h-link" href="/technology">
                               Technology
                             </a>
                           </h3>
@@ -181,13 +181,12 @@ export default function HomeMain() {
                           <div className="p-wrap p-grid p-grid-1" data-pid="1093">
                             <div className="feat-holder">
                               <div className="p-featured">
-                                <a className="p-flink" href="/technology/love-my-woke-pope-leo-first-encyclical-viral-papal-approach" title="Master MG300 Wireless Gaming Headset Review">
+                                <a className="p-flink" href="/technology/love-my-woke-pope-leo-first-encyclical-viral-papal-approach" title={"Love my woke pope': Why Leo’s first encyclical went viral and how it speaks to his papal approach."}>
                                   <img loading="lazy" decoding="async" width="420" height="280" src="/img/illustrations/love-my-woke-pope-leo-first-encyclical-viral-papal-approach.webp" className="featured-img wp-post-image" alt="" />
                                 </a>
                               </div>
                               <div className="p-categories light-scheme p-top">
-                                <a className="p-category category-id-13" href="/technology/love-my-woke-pope-leo-first-encyclical-viral-papal-approach" rel="category">
-                                  Technology
+                                <a className="p-category category-id-13" href="/technology" rel="category">Technology
                                 </a>
                               </div>
                             </div>
@@ -232,15 +231,14 @@ export default function HomeMain() {
                           <div className="p-wrap p-small p-list-small-2" data-pid="152">
                             <div className="feat-holder">
                               <div className="p-featured ratio-v1">
-                                <a className="p-flink" href="/technology/why-americans-love-iphones-but-wish-they-didnt-need-them" title="Here Are the 4 Cheapest Electric Vehicles You Can Buy">
+                                <a className="p-flink" href="/technology/why-americans-love-iphones-but-wish-they-didnt-need-them" title={"Americans love their iPhones though sometimes they wish they could live without them."}>
                                   <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/why-americans-love-iphones-but-wish-they-didnt-need-them.webp" className="featured-img wp-post-image" alt="" />
                                 </a>
                               </div>
                             </div>
                             <div className="p-content">
                               <div className="p-categories p-top">
-                                <a className="p-category category-id-13" href="/technology/why-americans-love-iphones-but-wish-they-didnt-need-them" rel="category">
-                                  Technology
+                                <a className="p-category category-id-13" href="/technology" rel="category">Technology
                                 </a>
                               </div>
                               <h6 className="entry-title">
@@ -265,15 +263,14 @@ export default function HomeMain() {
                           <div className="p-wrap p-small p-list-small-2" data-pid="155">
                             <div className="feat-holder">
                               <div className="p-featured ratio-v1">
-                                <a className="p-flink" href="http://1.envato.market/6bEx7Q" title="Sony WF-10XM4: Headphones Are Our Absolute Favorite">
+                                <a className="p-flink" href="/technology/trump-tariffs-us-stocks-plummet-ai-losers" title={"Trump's increased tariffs cause US stocks to plummet, as investors dump possible AI losers.."}>
                                   <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/trump-tariffs-us-stocks-plummet-ai-losers.webp" className="featured-img wp-post-image" alt="" />
                                 </a>
                               </div>
                             </div>
                             <div className="p-content">
                               <div className="p-categories p-top">
-                                <a className="p-category category-id-13" href="/technology/trump-tariffs-us-stocks-plummet-ai-losers" rel="category">
-                                  Technology
+                                <a className="p-category category-id-13" href="/technology" rel="category">Technology
                                 </a>
                               </div>
                               <h6 className="entry-title">
@@ -299,15 +296,14 @@ export default function HomeMain() {
                           <div className="p-wrap p-small p-list-small-2" data-pid="143">
                             <div className="feat-holder">
                               <div className="p-featured ratio-v1">
-                                <a className="p-flink" href="/technology/india-joins-us-effort-safe-technologies-supply-chains" title="How to Mark Yourself ‘Safe’ on Socials Media">
+                                <a className="p-flink" href="/technology/india-joins-us-effort-safe-technologies-supply-chains" title={"India joins the US-led effort to create supply chains for safe technologies.."}>
                                   <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/india-joins-us-effort-safe-technologies-supply-chains.webp" className="featured-img wp-post-image" alt="" />
                                 </a>
                               </div>
                             </div>
                             <div className="p-content">
                               <div className="p-categories p-top">
-                                <a className="p-category category-id-13" href="/technology/india-joins-us-effort-safe-technologies-supply-chains" rel="category">
-                                  Technology
+                                <a className="p-category category-id-13" href="/technology" rel="category">Technology
                                 </a>
                               </div>
                               <h6 className="entry-title">
@@ -332,28 +328,23 @@ export default function HomeMain() {
                           <div className="p-wrap p-small p-list-small-2" data-pid="1055">
                             <div className="feat-holder">
                               <div className="p-featured ratio-v1">
-                                <a className="p-flink" href="#" title="Corsair HS80 RGB Wireless Gaming Headset Review">
-                                  <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/love-my-woke-pope-leo-first-encyclical-viral-papal-approach.webp" className="featured-img wp-post-image" alt="" />
+                                <a className="p-flink" href="/technology/wall-street-selling-ai-losers-asian-equities-neutral" title={"Following Wall Street's hefty selling of possible AI losers, Asian equities are neutral."}>
+                                  <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/wall-street-selling-ai-losers-asian-equities-neutral.webp" className="featured-img wp-post-image" alt="" />
                                 </a>
                               </div>
                             </div>
                             <div className="p-content">
                               <div className="p-categories p-top">
-                                <a className="p-category category-id-13" href="/technology/gates-foundation-project-rwanda-ai-powered-technology-clinics" rel="category">
-                                  Technology
+                                <a className="p-category category-id-13" href="/technology" rel="category">Technology
                                 </a>
                               </div>
                               <h6 className="entry-title">
-                                <a className="p-url" href="/technology/gates-foundation-project-rwanda-ai-powered-technology-clinics" rel="bookmark">
-                                  {" "}Under a new Gates Foundation project, Rwanda will test AI-powered technology in clinics.{" "}
-                                </a>
+                                <a className="p-url" href="/technology/wall-street-selling-ai-losers-asian-equities-neutral" rel="bookmark">{"Following Wall Street's hefty selling of possible AI losers, Asian equities are neutral."}</a>
                               </h6>
                               <div className="p-meta has-bookmark">
                                 <div className="meta-inner is-meta">
                                   <div className="meta-el meta-date">
-                                    <time className="date published" dateTime="2021-08-08T09:06:00+00:00">
-                                      Feb 24, 26
-                                    </time>
+                                    <time className="date published" dateTime="2026-03-03T14:03:00+00:00">Mar 03, 26</time>
                                   </div>
                                 </div>
                                 <span className="rb-bookmark bookmark-trigger" data-pid="1055">
@@ -365,15 +356,14 @@ export default function HomeMain() {
                           <div className="p-wrap p-small p-list-small-2" data-pid="175">
                             <div className="feat-holder">
                               <div className="p-featured ratio-v1">
-                                <a className="p-flink" href="/technology/softbank-group-predicts-strong-return-on-investment-from-ai-growth" title="Google Must Allow Developers to Use Other Payment Systems">
+                                <a className="p-flink" href="/technology/softbank-group-predicts-strong-return-on-investment-from-ai-growth" title={"SoftBank Group, a technology investor in Japan, predicts a return on investment from the AI growth."}>
                                   <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/softbank-group-predicts-strong-return-on-investment-from-ai-growth.webp" className="featured-img wp-post-image" alt="" />
                                 </a>
                               </div>
                             </div>
                             <div className="p-content">
                               <div className="p-categories p-top">
-                                <a className="p-category category-id-13" href="/technology/softbank-group-predicts-strong-return-on-investment-from-ai-growth" rel="category">
-                                  Technology &amp; Business
+                                <a className="p-category category-id-13" href="/technology" rel="category">Technology
                                 </a>
                               </div>
                               <h6 className="entry-title">
@@ -423,23 +413,20 @@ export default function HomeMain() {
                           <div className="p-wrap p-grid p-classic-1 p-grid-1" data-pid="1350">
                             <div className="feat-holder">
                               <div className="p-featured">
-                                <a className="p-flink" href="#" title={"How to Take the Perfect Instagram Selfie: Dos & Don’ts"}>
-                                  <img loading="lazy" decoding="async" width="860" height="573" src="/img/illustrations/iran-us-strait-of-hormuz-conflict-limits-of-escalating-bombing.webp" className="featured-img wp-post-image" alt="" />
+                                <a className="p-flink" href="/politics/florida-polls-open-2026-governor-race-successor-ron-desantis" title={"Live updates: Polls open in Florida as state seeks a successor to Gov. Ron DeSantis."}>
+                                  <img loading="lazy" decoding="async" width="860" height="573" src="/img/illustrations/florida-polls-open-2026-governor-race-successor-ron-desantis.webp" className="featured-img wp-post-image" alt="" />
                                 </a>
                               </div>
                               <div className="p-categories light-scheme p-top">
-                                <a className="p-category category-id-13" href="/politics/one-crew-member-missing-after-two-us-aircraft-crash-middle-east" rel="category">
-                                  politics
+                                <a className="p-category category-id-13" href="/politics" rel="category">Politics
                                 </a>
                               </div>
                             </div>
                             <h2 className="entry-title h1">
-                              <a className="p-url" href="/politics/one-crew-member-missing-after-two-us-aircraft-crash-middle-east" rel="bookmark">
-                                {" "}Live updates: One crew member is missing after two US aircraft went down in the Middle East{" "}
-                              </a>
+                              <a className="p-url" href="/politics/florida-polls-open-2026-governor-race-successor-ron-desantis" rel="bookmark">{"Live updates: Polls open in Florida as state seeks a successor to Gov. Ron DeSantis."}</a>
                             </h2>
                             <p className="entry-summary">
-                              One service member was saved after Iran shot down a U.S. military aircraft on Friday, while at least one is still unaccounted for..…
+                              {"Florida voters head to the polls for the 2026 primaries, with Republicans and Democrats choosing their nominees to succeed term-limited Gov. Ron DeSantis. The results…"}
                             </p>
                             <div className="p-meta has-bookmark">
                               <div className="meta-inner is-meta">
@@ -452,9 +439,7 @@ export default function HomeMain() {
                                   </a>
                                 </div>
                                 <div className="meta-el meta-date">
-                                  <time className="date published" dateTime="2021-10-01T13:21:00+00:00">
-                                    April 04, 26
-                                  </time>
+                                  <time className="date published" dateTime="2026-08-18T14:03:00+00:00">Aug 18, 26</time>
                                 </div>
                               </div>
                               <span className="rb-bookmark bookmark-trigger" data-pid="1350">
@@ -473,15 +458,14 @@ export default function HomeMain() {
                           <div className="p-wrap p-small p-list-small-2" data-pid="228">
                             <div className="feat-holder">
                               <div className="p-featured ratio-v1">
-                                <a className="p-flink" href="/sports/police-investigate-death-of-south-africa-world-cup-footballer-jayden-adams" title="9 Awesome Destinations for Solo Female Travelers">
+                                <a className="p-flink" href="/sports/police-investigate-death-of-south-africa-world-cup-footballer-jayden-adams" title={"Police look into South Africa's death World Cup football player Adams, Jayden."}>
                                   <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/police-investigate-death-of-south-africa-world-cup-footballer-jayden-adams.webp" className="featured-img wp-post-image" alt="" />
                                 </a>
                               </div>
                             </div>
                             <div className="p-content">
                               <div className="p-categories p-top">
-                                <a className="p-category category-id-14" href="/sports/police-investigate-death-of-south-africa-world-cup-footballer-jayden-adams" rel="category">
-                                  Sports
+                                <a className="p-category category-id-14" href="/sports" rel="category">Sports
                                 </a>
                               </div>
                               <h3 className="entry-title">
@@ -511,21 +495,18 @@ export default function HomeMain() {
                           <div className="p-wrap p-small p-list-small-2" data-pid="1025">
                             <div className="feat-holder">
                               <div className="p-featured ratio-v1">
-                                <a className="p-flink" href="#" title="How Fashion Insiders Are Dressing for New York Fashion Week">
-                                  <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/florida-polls-open-2026-governor-race-successor-ron-desantis.webp" className="featured-img wp-post-image" alt="" />
+                                <a className="p-flink" href="/politics/republicans-show-rare-defiance-to-trump" title={"Republicans exhibit uncommon resistance of Trump's demands when pushed to the brink."}>
+                                  <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/republicans-show-rare-defiance-to-trump.webp" className="featured-img wp-post-image" alt="" />
                                 </a>
                               </div>
                             </div>
                             <div className="p-content">
                               <div className="p-categories p-top">
-                                <a className="p-category category-id-6" href="#" rel="category">
-                                  politics
+                                <a className="p-category category-id-6" href="/politics" rel="category">Politics
                                 </a>
                               </div>
                               <h3 className="entry-title">
-                                <a className="p-url" href="/politics/georgia-fulton-county-2020-ballots-fbi-court-case" rel="bookmark">
-                                  {" "}Fulton County, Georgia, is going to court to get the 2020 votes that the FBI confiscated returned{" "}
-                                </a>
+                                <a className="p-url" href="/politics/republicans-show-rare-defiance-to-trump" rel="bookmark">{"Republicans exhibit uncommon resistance of Trump's demands when pushed to the brink."}</a>
                               </h3>
                               <div className="p-meta has-bookmark">
                                 <div className="meta-inner is-meta">
@@ -535,9 +516,7 @@ export default function HomeMain() {
                                     </a>
                                   </div>
                                   <div className="meta-el meta-date">
-                                    <time className="date published" dateTime="2021-09-09T09:49:00+00:00">
-                                      March 27, 26
-                                    </time>
+                                    <time className="date published" dateTime="2026-05-22T14:03:00+00:00">May 22, 26</time>
                                   </div>
                                 </div>
                                 <span className="rb-bookmark bookmark-trigger" data-pid="1025">
@@ -549,15 +528,14 @@ export default function HomeMain() {
                           <div className="p-wrap p-small p-list-small-2" data-pid="981">
                             <div className="feat-holder">
                               <div className="p-featured ratio-v1">
-                                <a className="p-flink" href="/politics/iran-us-strait-of-hormuz-conflict-limits-of-escalating-bombing" title="18 Top Fall Fashion Trends from New York Fashion">
+                                <a className="p-flink" href="/politics/iran-us-strait-of-hormuz-conflict-limits-of-escalating-bombing" title={"Iran and the US close in over the Strait of Hormuz, demonstrating the limitations of stepping up bombing"}>
                                   <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/iran-us-strait-of-hormuz-conflict-limits-of-escalating-bombing.webp" className="featured-img wp-post-image" alt="" />
                                 </a>
                               </div>
                             </div>
                             <div className="p-content">
                               <div className="p-categories p-top">
-                                <a className="p-category category-id-6" href="/politics/iran-us-strait-of-hormuz-conflict-limits-of-escalating-bombing" rel="category">
-                                  politics
+                                <a className="p-category category-id-6" href="/politics" rel="category">Politics
                                 </a>
                               </div>
                               <h3 className="entry-title">
@@ -587,21 +565,18 @@ export default function HomeMain() {
                           <div className="p-wrap p-small p-list-small-2" data-pid="1079">
                             <div className="feat-holder">
                               <div className="p-featured ratio-v1">
-                                <a className="p-flink" href="#" title="Apple iMac M1 Review: the All-In-One for Almost Everyone">
-                                  <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/puerto-rico-law-transparency-public-records-concerns.webp" className="featured-img wp-post-image" alt="" />
+                                <a className="p-flink" href="/world/initial-deal-to-end-us-iran-war-moves-toward-formal-signing-despite-lingering-questions" title={"Despite unanswered issues, the initial agreement to terminate the US-Iran war is moving closer to formal signing."}>
+                                  <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/initial-deal-to-end-us-iran-war-moves-toward-formal-signing-despite-lingering-questions.webp" className="featured-img wp-post-image" alt="" />
                                 </a>
                               </div>
                             </div>
                             <div className="p-content">
                               <div className="p-categories p-top">
-                                <a className="p-category category-id-13" href="#" rel="category">
-                                  politics
+                                <a className="p-category category-id-13" href="/world" rel="category">World
                                 </a>
                               </div>
                               <h3 className="entry-title">
-                                <a className="p-url" href="/politics/citizen-journalists-investigators-help-untangle-epstein-documents" rel="bookmark">
-                                  {" "}Untangling the maze of Epstein documents is being aided by citizen journalists and investigators.{" "}
-                                </a>
+                                <a className="p-url" href="/world/initial-deal-to-end-us-iran-war-moves-toward-formal-signing-despite-lingering-questions" rel="bookmark">{"Despite unanswered issues, the initial agreement to terminate the US-Iran war is moving closer to formal signing."}</a>
                               </h3>
                               <div className="p-meta has-bookmark">
                                 <div className="meta-inner is-meta">
@@ -611,9 +586,7 @@ export default function HomeMain() {
                                     </a>
                                   </div>
                                   <div className="meta-el meta-date">
-                                    <time className="date published" dateTime="2021-09-09T01:39:00+00:00">
-                                      Feb 24, 26
-                                    </time>
+                                    <time className="date published" dateTime="2026-06-16T14:03:00+00:00">Jun 16, 26</time>
                                   </div>
                                 </div>
                                 <span className="rb-bookmark bookmark-trigger" data-pid="1079">
@@ -625,15 +598,14 @@ export default function HomeMain() {
                           <div className="p-wrap p-small p-list-small-2" data-pid="163">
                             <div className="feat-holder">
                               <div className="p-featured ratio-v1">
-                                <a className="p-flink" href="/sports/basketball-hero-jose-piculin-ortiz-passes-away-at-mourned-in-puerto-rico" title="Google’s Self-Designed Tensor Chips will Power Its Next">
+                                <a className="p-flink" href="/sports/basketball-hero-jose-piculin-ortiz-passes-away-at-mourned-in-puerto-rico" title={"Basketball hero José \"Piculín\" Ortiz, who passed away at the age of 62, is mourned in Puerto Rico."}>
                                   <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/basketball-hero-jose-piculin-ortiz-passes-away-at-mourned-in-puerto-rico.webp" className="featured-img wp-post-image" alt="" />
                                 </a>
                               </div>
                             </div>
                             <div className="p-content">
                               <div className="p-categories p-top">
-                                <a className="p-category category-id-13" href="/sports/basketball-hero-jose-piculin-ortiz-passes-away-at-mourned-in-puerto-rico" rel="category">
-                                  Sports
+                                <a className="p-category category-id-13" href="/sports" rel="category">Sports
                                 </a>
                               </div>
                               <h3 className="entry-title">
@@ -663,15 +635,14 @@ export default function HomeMain() {
                           <div className="p-wrap p-small p-list-small-2" data-pid="1154">
                             <div className="feat-holder">
                               <div className="p-featured ratio-v1">
-                                <a className="p-flink" href="/sports/usa-defeats-canada-olympic-mens-hockey-gold-hughes-overtime" title="Medicaid Expansion Improves Hypertension and Diabetes Control">
+                                <a className="p-flink" href="/sports/usa-defeats-canada-olympic-mens-hockey-gold-hughes-overtime" title={"The United States defeats Canada to win the first men's hockey gold in the Olympics since 1980 after Hughes scored in overtime."}>
                                   <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/usa-defeats-canada-olympic-mens-hockey-gold-hughes-overtime.webp" className="featured-img wp-post-image" alt="" />
                                 </a>
                               </div>
                             </div>
                             <div className="p-content">
                               <div className="p-categories p-top">
-                                <a className="p-category category-id-7" href="/sports/usa-defeats-canada-olympic-mens-hockey-gold-hughes-overtime" rel="category">
-                                  Sports
+                                <a className="p-category category-id-7" href="/sports" rel="category">Sports
                                 </a>
                               </div>
                               <h3 className="entry-title">
@@ -743,7 +714,7 @@ export default function HomeMain() {
                                   <div className="meta-el meta-tax meta-bold">
                                     <i className="rbi rbi-archive" aria-hidden="true"></i>
                                     {" "}
-                                    <a className="meta-separate term-i-10" href="#">
+                                    <a className="meta-separate term-i-10" href="/us">
                                       U.S News
                                     </a>
                                   </div>
@@ -817,7 +788,7 @@ export default function HomeMain() {
                                   <div className="meta-el meta-tax meta-bold">
                                     <i className="rbi rbi-archive" aria-hidden="true"></i>
                                     {" "}
-                                    <a className="meta-separate term-i-6" href="#">
+                                    <a className="meta-separate term-i-6" href="/fashion">
                                       Fashion
                                     </a>
                                   </div>
@@ -836,26 +807,22 @@ export default function HomeMain() {
                           <div className="p-wrap p-small p-list-small-1" data-pid="164">
                             <div className="p-content">
                               <h6 className="entry-title">
-                                <a className="p-url" href="/fashion/scarification-easy-seed-starting-method-accelerates-germination" rel="bookmark">
-                                  {" "}Scarification: The easy seed-starting method that accelerates the germination of tough-coated seeds{" "}
-                                </a>
+                                <a className="p-url" href="/business/trump-says-us-close-to-iran-deal-ahead-of-busy-weekend" rel="bookmark">{"Live updates:Trump says he is really close to a deal with Iran ahead of whirlwind weekend"}</a>
                               </h6>
                               <p className="entry-summary">
-                                Scarification: Simple Trick for Faster Seed Sprouting…
+                                {"Former President Donald Trump says the United States is very close to reaching a deal with Iran, raising expectations ahead of a pivotal weekend of diplomatic and…"}
                               </p>
                               <div className="p-meta has-bookmark">
                                 <div className="meta-inner is-meta">
                                   <div className="meta-el meta-tax meta-bold">
                                     <i className="rbi rbi-archive" aria-hidden="true"></i>
                                     {" "}
-                                    <a className="meta-separate term-i-13" href="#">
+                                    <a className="meta-separate term-i-13" href="/business">
                                       Lifestyle
                                     </a>
                                   </div>
                                   <div className="meta-el meta-date">
-                                    <time className="date published" dateTime="2021-08-07T10:01:00+00:00">
-                                      Feb 24, 26
-                                    </time>
+                                    <time className="date published" dateTime="2026-06-12T14:03:00+00:00">Jun 12, 26</time>
                                   </div>
                                 </div>
                                 <span className="rb-bookmark bookmark-trigger" data-pid="164">
@@ -915,7 +882,7 @@ export default function HomeMain() {
                       <div id="uid_c1507ae" className="block-h heading-layout-7">
                         <div className="heading-inner">
                           <h3 className="heading-title">
-                            <a className="h-link" href="#">
+                            <a className="h-link" href="/business">
                               Business
                             </a>
                           </h3>
@@ -930,22 +897,18 @@ export default function HomeMain() {
                           <div className="p-wrap p-grid p-grid-1" data-pid="225">
                             <div className="feat-holder">
                               <div className="p-featured">
-                                <a className="p-flink" href="#" title="Why You Should Have a Passport Even If Youâ€™re Not Planning a Trip?">
-                                  <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/asset-recovery-strategies-financial-institutions.webp" className="featured-img wp-post-image" alt="" />
+                                <a className="p-flink" href="/business/us-gas-prices-hit-4-dollars-highest-since-2022" title={"The average price of a gallon of ordinary petrol in the US has risen beyond $4, the highest since 2022."}>
+                                  <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/us-gas-prices-hit-4-dollars-highest-since-2022.webp" className="featured-img wp-post-image" alt="" />
                                 </a>
                               </div>
                             </div>
                             <h6 className="entry-title">
-                              <a className="p-url" href="/business/vivian-tu-personal-finance-advice" rel="bookmark">
-                                {" "}Vivian Tu, "Your Rich BFF," offers her best advice on personal finance.{" "}
-                              </a>
+                              <a className="p-url" href="/business/us-gas-prices-hit-4-dollars-highest-since-2022" rel="bookmark">{"The average price of a gallon of ordinary petrol in the US has risen beyond $4, the highest since 2022."}</a>
                             </h6>
                             <div className="p-meta has-bookmark">
                               <div className="meta-inner is-meta">
                                 <div className="meta-el meta-date mobile-last-meta">
-                                  <time className="date published" dateTime="2021-08-29T09:30:04+00:00">
-                                    Feb 24, 26
-                                  </time>
+                                  <time className="date published" dateTime="2026-03-31T14:03:00+00:00">Mar 31, 26</time>
                                 </div>
                               </div>
                               <span className="rb-bookmark bookmark-trigger" data-pid="225">
@@ -956,22 +919,18 @@ export default function HomeMain() {
                           <div className="p-wrap p-grid p-grid-1" data-pid="240">
                             <div className="feat-holder">
                               <div className="p-featured">
-                                <a className="p-flink" href="#" title="What You Need to Add to Your Summer Travel Bucket List with Friends">
-                                  <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/trump-tariffs-us-stocks-plummet-ai-losers.webp" className="featured-img wp-post-image" alt="" />
+                                <a className="p-flink" href="/business/kosovo-poor-economy-struggles-iran-war-fuel-price-surge" title={"One of the poorest nations in Europe, Kosovo, suffers when the war in Iran raises fuel prices."}>
+                                  <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/kosovo-poor-economy-struggles-iran-war-fuel-price-surge.webp" className="featured-img wp-post-image" alt="" />
                                 </a>
                               </div>
                             </div>
                             <h6 className="entry-title">
-                              <a className="p-url" href="/business/hyundai-us-tariff-pressure" rel="bookmark">
-                                {" "}Hyundai Motor of South Korea cautions that despite the Supreme Court's decision, US tariff pressure may increase.{" "}
-                              </a>
+                              <a className="p-url" href="/business/kosovo-poor-economy-struggles-iran-war-fuel-price-surge" rel="bookmark">{"One of the poorest nations in Europe, Kosovo, suffers when the war in Iran raises fuel prices."}</a>
                             </h6>
                             <div className="p-meta has-bookmark">
                               <div className="meta-inner is-meta">
                                 <div className="meta-el meta-date mobile-last-meta">
-                                  <time className="date published" dateTime="2021-08-28T09:30:57+00:00">
-                                    Feb 24, 26
-                                  </time>
+                                  <time className="date published" dateTime="2026-03-30T14:03:00+00:00">Mar 30, 26</time>
                                 </div>
                               </div>
                               <span className="rb-bookmark bookmark-trigger" data-pid="240">
@@ -982,24 +941,20 @@ export default function HomeMain() {
                           <div className="p-wrap p-grid p-grid-1" data-pid="222">
                             <div className="feat-holder">
                               <div className="p-featured">
-                                <a className="p-flink" href="http://1.envato.market/6bEx7Q" title="The Top Secret Sights You Must See in Europe">
-                                  <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/wall-street-selling-ai-losers-asian-equities-neutral.webp" className="featured-img wp-post-image" alt="" />
+                                <a className="p-flink" href="/world/world-cup-2026-what-to-know-where-to-watch-schedules-and-more" title={"World Cup 2026: Here’s what to know, where to watch, schedules and more"}>
+                                  <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/world-cup-2026-what-to-know-where-to-watch-schedules-and-more.webp" className="featured-img wp-post-image" alt="" />
                                 </a>
                               </div>
                             </div>
                             <h6 className="entry-title">
-                              <a className="p-url" href="/business/retail-investors-leveraged-etf-rise" rel="noopener nofollow">
-                                {" "}According to a report, US retail investors are driving the rise in leveraged ETF trading.{" "}
-                              </a>
+                              <a className="p-url" href="/world/world-cup-2026-what-to-know-where-to-watch-schedules-and-more" rel="noopener nofollow">{"World Cup 2026: Here’s what to know, where to watch, schedules and more"}</a>
                             </h6>
                             <div className="sponsor-meta meta-text sponsor-logo">
                               <div className="sponsor-inner">
                                 <a className="sponsor-link" href="http://1.envato.market/6bEx7Q" target="_blank" rel="noopener nofollow" aria-label="Ororin">
                                   <div className="sponlogo-wrap meta-bold">
                                     <div className="meta-el meta-date mobile-last-meta">
-                                      <time className="date published" dateTime="2021-08-28T09:30:57+00:00">
-                                        Feb 24, 26
-                                      </time>
+                                      <time className="date published" dateTime="2026-06-11T14:03:00+00:00">Jun 11, 26</time>
                                     </div>
                                     <img loading="lazy" decoding="async" className="sponsor-brand-logo" data-mode="dark" src="/img/ads/sponsor-logo.webp" width="168" height="52" alt="Ororin" />
                                   </div>
@@ -1013,22 +968,18 @@ export default function HomeMain() {
                           <div className="p-wrap p-grid p-grid-1" data-pid="237">
                             <div className="feat-holder">
                               <div className="p-featured">
-                                <a className="p-flink" href="#" title="The Best Islands for Beaches, From Aruba to the Baltics">
-                                  <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/cristiano-ronaldo-spanish-club-investment.webp" className="featured-img wp-post-image" alt="" />
+                                <a className="p-flink" href="/world/hantavirus-cruise-ship-passengers-depart-after-first-fatality" title={"Following the first fatality, dozens of passengers departed the hantavirus-affected cruise ship."}>
+                                  <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/hantavirus-cruise-ship-passengers-depart-after-first-fatality.webp" className="featured-img wp-post-image" alt="" />
                                 </a>
                               </div>
                             </div>
                             <h6 className="entry-title">
-                              <a className="p-url" href="/business/warner-bros-corporate-battle" rel="bookmark">
-                                {" "}In a fierce battle for the venerable Hollywood company, Warner Bros.
-                              </a>
+                              <a className="p-url" href="/world/hantavirus-cruise-ship-passengers-depart-after-first-fatality" rel="bookmark">{"Following the first fatality, dozens of passengers departed the hantavirus-affected cruise ship."}</a>
                             </h6>
                             <div className="p-meta has-bookmark">
                               <div className="meta-inner is-meta">
                                 <div className="meta-el meta-date mobile-last-meta">
-                                  <time className="date published" dateTime="2021-09-18T10:10:00+00:00">
-                                    Feb 25, 26
-                                  </time>
+                                  <time className="date published" dateTime="2026-05-07T14:03:00+00:00">May 07, 26</time>
                                 </div>
                               </div>
                               <span className="rb-bookmark bookmark-trigger" data-pid="237">
@@ -1039,22 +990,18 @@ export default function HomeMain() {
                           <div className="p-wrap p-grid p-grid-1" data-pid="234">
                             <div className="feat-holder">
                               <div className="p-featured">
-                                <a className="p-flink" href="#" title="Best beaches in the UK for the Perfect Sandy Getaway">
-                                  <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/softbank-group-predicts-strong-return-on-investment-from-ai-growth.webp" className="featured-img wp-post-image" alt="" />
+                                <a className="p-flink" href="/us/aml-compliance-frameworks" title={"Following the case closure, Bancrédito Holding is shifting its focus toward rebuilding its compliance infrastructure in line with U.S. regulatory expectations."}>
+                                  <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/aml-compliance-frameworks.webp" className="featured-img wp-post-image" alt="" />
                                 </a>
                               </div>
                             </div>
                             <h6 className="entry-title">
-                              <a className="p-url" href="/business/meta-amd-ai-hardware-deal" rel="bookmark">
-                                {" "}Meta, the owner of Facebook, will pay up to $100 billion to AMD for AI hardware.{" "}
-                              </a>
+                              <a className="p-url" href="/us/aml-compliance-frameworks" rel="bookmark">{"Following the case closure, Bancrédito Holding is shifting its focus toward rebuilding its compliance infrastructure in line with U.S. regulatory expectations."}</a>
                             </h6>
                             <div className="p-meta has-bookmark">
                               <div className="meta-inner is-meta">
                                 <div className="meta-el meta-date mobile-last-meta">
-                                  <time className="date published" dateTime="2021-08-29T07:30:17+00:00">
-                                    Feb 25, 26
-                                  </time>
+                                  <time className="date published" dateTime="2026-05-06T14:03:00+00:00">May 06, 26</time>
                                 </div>
                               </div>
                               <span className="rb-bookmark bookmark-trigger" data-pid="234">
@@ -1065,7 +1012,7 @@ export default function HomeMain() {
                           <div className="p-wrap p-grid p-grid-1" data-pid="1307">
                             <div className="feat-holder">
                               <div className="p-featured">
-                                <a className="p-flink" href="/business/waymo-robotaxi-expansion-us" title="9 Most Beautiful Mountains Of The World For Trekkers In This Summer">
+                                <a className="p-flink" href="/business/waymo-robotaxi-expansion-us" title={"With expansions in Texas and Florida, Waymo now deploys robotaxis in ten major United States markets."}>
                                   <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/waymo-robotaxi-expansion-us.webp" className="featured-img wp-post-image" alt="" />
                                 </a>
                               </div>
@@ -1117,7 +1064,7 @@ export default function HomeMain() {
                       <div id="uid_dbdb4c6" className="block-h heading-layout-7">
                         <div className="heading-inner">
                           <h3 className="heading-title">
-                            <a className="h-link" href="#">
+                            <a className="h-link" href="/technology">
                               Science
                             </a>
                           </h3>
@@ -1138,13 +1085,12 @@ export default function HomeMain() {
                                       <div className="list-feat-holder">
                                         <div className="feat-holder">
                                           <div className="p-featured">
-                                            <a className="p-flink" href="/technology/artemis-ii-crew-reunited-with-moonship-after-three-months" title="Citizen Watches Review: Is Citizen a Good Watch Brand?">
+                                            <a className="p-flink" href="/technology/artemis-ii-crew-reunited-with-moonship-after-three-months" title={"Three months after their historic mission, the Artemis II crew are reunited with their moonship."}>
                                               <img loading="lazy" decoding="async" width="420" height="280" src="/img/illustrations/artemis-ii-crew-reunited-with-moonship-after-three-months.webp" className="featured-img wp-post-image" alt="" />
                                             </a>
                                           </div>
                                           <div className="p-categories light-scheme p-top">
-                                            <a className="p-category category-id-6" href="/technology/artemis-ii-crew-reunited-with-moonship-after-three-months" rel="category">
-                                              Science
+                                            <a className="p-category category-id-6" href="/technology" rel="category">Technology
                                             </a>
                                           </div>
                                         </div>
@@ -1254,7 +1200,7 @@ export default function HomeMain() {
                                   <div className="p-wrap p-grid p-grid-1" data-pid="134">
                                     <div className="feat-holder">
                                       <div className="p-featured">
-                                        <a className="p-flink" href="/sports/mexico-vs-ecuador-2-0-round-of-16-2026-world-cup" title="How Jennifer Aniston ‘Struggles With Depression’ Inspired New Album">
+                                        <a className="p-flink" href="/sports/mexico-vs-ecuador-2-0-round-of-16-2026-world-cup" title={"Mexico defeats Ecuador 2-0 to go to the round of 16, ending a 40-year knockout drought."}>
                                           <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/mexico-vs-ecuador-2-0-round-of-16-2026-world-cup.webp" className="featured-img wp-post-image" alt="" />
                                         </a>
                                       </div>
@@ -1280,15 +1226,13 @@ export default function HomeMain() {
                                   <div className="p-wrap p-grid p-grid-1" data-pid="112">
                                     <div className="feat-holder">
                                       <div className="p-featured">
-                                        <a className="p-flink" href="#" title="10+ Pics That Prove Jennifer Is a Timeless Beauty">
-                                          <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/love-my-woke-pope-leo-first-encyclical-viral-papal-approach.webp" className="featured-img wp-post-image" alt="" />
+                                        <a className="p-flink" href="/us/asset-recovery-strategies-financial-institutions" title={"Retail investors are not the only ones leaving the most damaged funds in private credit."}>
+                                          <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/asset-recovery-strategies-financial-institutions.webp" className="featured-img wp-post-image" alt="" />
                                         </a>
                                       </div>
                                     </div>
                                     <h6 className="entry-title">
-                                      <a className="p-url" href="/technology/autoimmune-condition-memory-loss" rel="bookmark">
-                                        {" "}This man's memory was stolen by an autoimmune condition.
-                                      </a>
+                                      <a className="p-url" href="/us/asset-recovery-strategies-financial-institutions" rel="bookmark">{"Retail investors are not the only ones leaving the most damaged funds in private credit."}</a>
                                     </h6>
                                     <div className="sponsor-meta meta-text sponsor-logo">
                                       <div className="sponsor-inner">
@@ -1304,22 +1248,18 @@ export default function HomeMain() {
                                   <div className="p-wrap p-grid p-grid-1" data-pid="1015">
                                     <div className="feat-holder">
                                       <div className="p-featured">
-                                        <a className="p-flink" href="#" title="How To Wear Brown In 15 Easy And Stylish Ways">
-                                          <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/trump-gives-iran-10-15-days-deadline-agreement.webp" className="featured-img wp-post-image" alt="" />
+                                        <a className="p-flink" href="/world/Iran-drafts-transit-toll-law-amid-Hormuz-tensions" title={"As Tehran maintains its hold on the Strait of Hormuz, Iran and the US tighten their stances."}>
+                                          <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/Iran-drafts-transit-toll-law-amid-Hormuz-tensions.webp" className="featured-img wp-post-image" alt="" />
                                         </a>
                                       </div>
                                     </div>
                                     <h6 className="entry-title">
-                                      <a className="p-url" href="/world/north-korea-us-dialogue-threats" rel="bookmark">
-                                        {" "}North Korea maintains the possibility of US dialogue while threatening.{" "}
-                                      </a>
+                                      <a className="p-url" href="/world/Iran-drafts-transit-toll-law-amid-Hormuz-tensions" rel="bookmark">{"As Tehran maintains its hold on the Strait of Hormuz, Iran and the US tighten their stances."}</a>
                                     </h6>
                                     <div className="p-meta has-bookmark">
                                       <div className="meta-inner is-meta">
                                         <div className="meta-el meta-date mobile-last-meta">
-                                          <time className="date published" dateTime="2021-08-29T09:35:01+00:00">
-                                            Feb 26, 26
-                                          </time>
+                                          <time className="date published" dateTime="2026-03-26T14:03:00+00:00">Mar 26, 26</time>
                                         </div>
                                       </div>
                                       <span className="rb-bookmark bookmark-trigger" data-pid="1015">
@@ -1330,8 +1270,8 @@ export default function HomeMain() {
                                   <div className="p-wrap p-grid p-grid-1" data-pid="1008">
                                     <div className="feat-holder">
                                       <div className="p-featured">
-                                        <a className="p-flink" href="#" title="16 Top of Our Favorite Outdoor Clothing Brands">
-                                          <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/puerto-rico-banker-bribery-scandal-not-guilty-plea.webp" className="featured-img wp-post-image" alt="" />
+                                        <a className="p-flink" href="/bancredito/bancredito-holding-recover-assets-after-founder-case-dismissed" title={"After the case against its founder was closed, Bancrédito Holding aims to recover assets and establish accountability."}>
+                                          <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/bancredito-holding-recover-assets-after-founder-case-dismissed.webp" className="featured-img wp-post-image" alt="" />
                                         </a>
                                         <div className="p-format-overlay format-style-bottom">
                                           <span className="p-format format-video">
@@ -1341,16 +1281,12 @@ export default function HomeMain() {
                                       </div>
                                     </div>
                                     <h6 className="entry-title">
-                                      <a className="p-url" href="/politics/hong-kong-security-law-sentencing" rel="bookmark">
-                                        {" "}Under national security law, the father of a Hong Kong activist based in the US receives an eight-month term.
-                                      </a>
+                                      <a className="p-url" href="/bancredito/bancredito-holding-recover-assets-after-founder-case-dismissed" rel="bookmark">{"After the case against its founder was closed, Bancrédito Holding aims to recover assets and establish accountability."}</a>
                                     </h6>
                                     <div className="p-meta has-bookmark">
                                       <div className="meta-inner is-meta">
                                         <div className="meta-el meta-date mobile-last-meta">
-                                          <time className="date published" dateTime="2021-08-29T09:26:31+00:00">
-                                            Feb 26, 26
-                                          </time>
+                                          <time className="date published" dateTime="2026-03-19T14:03:00+00:00">Mar 19, 26</time>
                                         </div>
                                       </div>
                                       <span className="rb-bookmark bookmark-trigger" data-pid="1008">
@@ -1361,22 +1297,18 @@ export default function HomeMain() {
                                   <div className="p-wrap p-grid p-grid-1" data-pid="1012">
                                     <div className="feat-holder">
                                       <div className="p-featured">
-                                        <a className="p-flink" href="#" title="Hidden Ways To Save Money That You Might Be Missing">
-                                          <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/trump-gives-iran-10-15-days-deadline-agreement.webp" className="featured-img wp-post-image" alt="" />
+                                        <a className="p-flink" href="/us/us-supreme-court-hear-exxon-suncor-bid-toss-boulders-climate-suit" title={"Supreme Court to Hear Oil Firms’ Appeals in Climate Lawsuits.Top Court Takes Up Oil Climate Case."}>
+                                          <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/us-supreme-court-hear-exxon-suncor-bid-toss-boulders-climate-suit.webp" className="featured-img wp-post-image" alt="" />
                                         </a>
                                       </div>
                                     </div>
                                     <h6 className="entry-title">
-                                      <a className="p-url" href="/us/us-iran-nuclear-talks-resume" rel="bookmark">
-                                        {" "}US-Iran Nuclear Talks Resume Amid Middle East Military Buildup**{" "}
-                                      </a>
+                                      <a className="p-url" href="/us/us-supreme-court-hear-exxon-suncor-bid-toss-boulders-climate-suit" rel="bookmark">{"Supreme Court to Hear Oil Firms’ Appeals in Climate Lawsuits.Top Court Takes Up Oil Climate Case."}</a>
                                     </h6>
                                     <div className="p-meta has-bookmark">
                                       <div className="meta-inner is-meta">
                                         <div className="meta-el meta-date mobile-last-meta">
-                                          <time className="date published" dateTime="2021-08-28T09:32:05+00:00">
-                                            Feb 26, 26
-                                          </time>
+                                          <time className="date published" dateTime="2026-03-19T14:03:00+00:00">Mar 19, 26</time>
                                         </div>
                                       </div>
                                       <span className="rb-bookmark bookmark-trigger" data-pid="1012">
@@ -1387,22 +1319,18 @@ export default function HomeMain() {
                                   <div className="p-wrap p-grid p-grid-1" data-pid="1010">
                                     <div className="feat-holder">
                                       <div className="p-featured">
-                                        <a className="p-flink" href="#" title="12 Summer Outfit Formulas for Lazy Girls Everywhere">
-                                          <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/why-americans-love-iphones-but-wish-they-didnt-need-them.webp" className="featured-img wp-post-image" alt="" />
+                                        <a className="p-flink" href="/bancredito/bancreditointernationalbank" title={"Bancrédito International Bank & Trust Corporation"}>
+                                          <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/bancreditointernationalbank.webp" className="featured-img wp-post-image" alt="" />
                                         </a>
                                       </div>
                                     </div>
                                     <h6 className="entry-title">
-                                      <a className="p-url" href="/world/penguin-birthday-botulinum-infants" rel="bookmark">
-                                        {" "}Party hats on penguins? Families of infants receiving botulinum treatment are cheered by birthday greetings.
-                                      </a>
+                                      <a className="p-url" href="/bancredito/bancreditointernationalbank" rel="bookmark">{"Bancrédito International Bank & Trust Corporation"}</a>
                                     </h6>
                                     <div className="p-meta has-bookmark">
                                       <div className="meta-inner is-meta">
                                         <div className="meta-el meta-date mobile-last-meta">
-                                          <time className="date published" dateTime="2021-08-28T09:29:17+00:00">
-                                            Feb 26, 26
-                                          </time>
+                                          <time className="date published" dateTime="2026-03-19T14:03:00+00:00">Mar 19, 26</time>
                                         </div>
                                       </div>
                                       <span className="rb-bookmark bookmark-trigger" data-pid="1010">
@@ -1455,16 +1383,14 @@ export default function HomeMain() {
                                   <div className="p-wrap p-overlay p-overlay-2" data-pid="14">
                                     <div className="overlay-holder">
                                       <div className="p-featured">
-                                        <a className="p-flink" href="#" title="White House Reminds Lawmakers not to Travel to Afghanistan">
-                                          <img loading="lazy" decoding="async" width="615" height="410" src="/img/illustrations/us-supreme-court-hear-exxon-suncor-bid-toss-boulders-climate-suit.webp" className="featured-img wp-post-image" alt="" />
+                                        <a className="p-flink" href="/bancredito/puerto-rico-banker-bribery-scandal-not-guilty-plea" title={"In Puerto Rico, a banker involved in a bribe scandal enters a not guilty plea."}>
+                                          <img loading="lazy" decoding="async" width="615" height="410" src="/img/illustrations/puerto-rico-banker-bribery-scandal-not-guilty-plea.webp" className="featured-img wp-post-image" alt="" />
                                         </a>
                                       </div>
                                       <div className="overlay-wrap">
                                         <div className="overlay-inner p-content light-scheme">
                                           <h4 className="entry-title">
-                                            <a className="p-url" href="/politics/pentagon-appeals-order-blocking-mark-kelly-punishment-over-illegal-orders-call" rel="bookmark">
-                                              {" "}Sen. Mark Kelly's punishment for calling for resistance to illegal orders is being blocked by an order that the Pentagon is appealing.{" "}
-                                            </a>
+                                            <a className="p-url" href="/bancredito/puerto-rico-banker-bribery-scandal-not-guilty-plea" rel="bookmark">{"In Puerto Rico, a banker involved in a bribe scandal enters a not guilty plea."}</a>
                                           </h4>
                                           <div className="p-meta has-bookmark">
                                             <div className="meta-inner is-meta">
@@ -1477,9 +1403,7 @@ export default function HomeMain() {
                                                 </a>
                                               </div>
                                               <div className="meta-el meta-date">
-                                                <time className="date published" dateTime="2021-08-28T09:00:57+00:00">
-                                                  May 18, 26
-                                                </time>
+                                                <time className="date published" dateTime="2026-03-19T14:03:00+00:00">Mar 19, 26</time>
                                               </div>
                                             </div>
                                             <span className="rb-bookmark bookmark-trigger" data-pid="14">
@@ -1493,7 +1417,7 @@ export default function HomeMain() {
                                   <div className="p-wrap p-overlay p-overlay-2" data-pid="1143">
                                     <div className="overlay-holder">
                                       <div className="p-featured">
-                                        <a className="p-flink" href="/us/southern-california-officials-trying-to-prevent-explosion-or-leak-from-damaged-chemical-tank" title="What You Need to Know about Covid Delta Variant">
+                                        <a className="p-flink" href="/us/southern-california-officials-trying-to-prevent-explosion-or-leak-from-damaged-chemical-tank" title={"Authorities in Southern California are attempting to stop a chemical tank explosion or leak."}>
                                           <img loading="lazy" decoding="async" width="615" height="410" src="/img/illustrations/southern-california-officials-trying-to-prevent-explosion-or-leak-from-damaged-chemical-tank.webp" className="featured-img wp-post-image" alt="" />
                                         </a>
                                       </div>
@@ -1506,7 +1430,7 @@ export default function HomeMain() {
                                           </h4>
                                           <div className="p-meta has-bookmark">
                                             <div className="meta-inner is-meta">
-                                              <a className="meta-el meta-avatar" href="/us/southern-california-officials-trying-to-prevent-explosion-or-leak-from-damaged-chemical-tank" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
+                                              <a className="meta-el meta-avatar" href="/author/ryan-sillers" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
                                                 <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/author-ryan-sillers.webp" className="photo avatar" alt="" />
                                               </a>
                                               <div className="meta-el meta-author">
@@ -1531,7 +1455,7 @@ export default function HomeMain() {
                                   <div className="p-wrap p-overlay p-overlay-2" data-pid="1149">
                                     <div className="overlay-holder">
                                       <div className="p-featured">
-                                        <a className="p-flink" href="/world/cuba-speedboat-shooting-victims-illegal-entry-claim" title="What Are Some Ways to Prevent the Spread of COVID-19?">
+                                        <a className="p-flink" href="/world/cuba-speedboat-shooting-victims-illegal-entry-claim" title={"Cuba claims that the four people murdered in the speedboat shooting were trying to enter the nation illegally."}>
                                           <img loading="lazy" decoding="async" width="615" height="410" src="/img/illustrations/cuba-speedboat-shooting-victims-illegal-entry-claim.webp" className="featured-img wp-post-image" alt="" />
                                         </a>
                                       </div>
@@ -1544,7 +1468,7 @@ export default function HomeMain() {
                                           </h4>
                                           <div className="p-meta has-bookmark">
                                             <div className="meta-inner is-meta">
-                                              <a className="meta-el meta-avatar" href="/world/cuba-speedboat-shooting-victims-illegal-entry-claim" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
+                                              <a className="meta-el meta-avatar" href="/author/ryan-sillers" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
                                                 <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/author-ryan-sillers.webp" className="photo avatar" alt="" />
                                               </a>
                                               <div className="meta-el meta-author">
@@ -1569,7 +1493,7 @@ export default function HomeMain() {
                                   <div className="p-wrap p-overlay p-overlay-2" data-pid="84">
                                     <div className="overlay-holder">
                                       <div className="p-featured">
-                                        <a className="p-flink" href="/politics/blanche-terminates-fund-for-trump-allies-after-gop-senators-threaten-to-block-attorney-general-bid" title="These are The Countries Where Crypto is Restricted or Illegal">
+                                        <a className="p-flink" href="/politics/blanche-terminates-fund-for-trump-allies-after-gop-senators-threaten-to-block-attorney-general-bid" title={"After GOP senators threaten to thwart Trump's bid for attorney general, Blanche closes the fund for his supporters."}>
                                           <img loading="lazy" decoding="async" width="615" height="410" src="/img/illustrations/blanche-terminates-fund-for-trump-allies-after-gop-senators-threaten-to-block-attorney-general-bid.webp" className="featured-img wp-post-image" alt="" />
                                         </a>
                                       </div>
@@ -1582,7 +1506,7 @@ export default function HomeMain() {
                                           </h4>
                                           <div className="p-meta has-bookmark">
                                             <div className="meta-inner is-meta">
-                                              <a className="meta-el meta-avatar" href="/politics/blanche-terminates-fund-for-trump-allies-after-gop-senators-threaten-to-block-attorney-general-bid" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
+                                              <a className="meta-el meta-avatar" href="/author/ryan-sillers" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
                                                 <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/author-ryan-sillers.webp" className="photo avatar" alt="" />
                                               </a>
                                               <div className="meta-el meta-author">
@@ -1625,7 +1549,7 @@ export default function HomeMain() {
                       <div id="uid_5274a4a" className="block-h heading-layout-10">
                         <div className="heading-inner">
                           <h3 className="heading-title">
-                            <a className="h-link" href="#">
+                            <a className="h-link" href="/us">
                               Latest News
                             </a>
                           </h3>
@@ -1642,29 +1566,26 @@ export default function HomeMain() {
                               <div className="list-feat-holder">
                                 <div className="feat-holder">
                                   <div className="p-featured">
-                                    <a className="p-flink" href="#" title="David is Tommy Wiseau in the First Teaser for The Amazon Warrior">
-                                      <img loading="lazy" decoding="async" width="420" height="280" src="/img/illustrations/puerto-rico-banker-bribery-scandal-not-guilty-plea.webp" className="featured-img wp-post-image" alt="" />
+                                    <a className="p-flink" href="/bancredito/uae-exits-opec-impact-global-oil-prices" title={"The alliance that affects oil prices globally is upended by the UAE's exit from OPEC.."}>
+                                      <img loading="lazy" decoding="async" width="420" height="280" src="/img/illustrations/uae-exits-opec-impact-global-oil-prices.webp" className="featured-img wp-post-image" alt="" />
                                     </a>
                                   </div>
                                   <div className="p-categories light-scheme p-top">
-                                    <a className="p-category category-id-6" href="#" rel="category">
-                                      World News
+                                    <a className="p-category category-id-6" href="/bancredito" rel="category">Bancrédito
                                     </a>
                                   </div>
                                 </div>
                               </div>
                               <div className="p-content">
                                 <h4 className="entry-title">
-                                  <a className="p-url" href="/world/uganda-public-affection-arrest" rel="bookmark">
-                                    {" "}Two ladies are detained by Ugandan police after they were caught kissing in public.{" "}
-                                  </a>
+                                  <a className="p-url" href="/bancredito/uae-exits-opec-impact-global-oil-prices" rel="bookmark">{"The alliance that affects oil prices globally is upended by the UAE's exit from OPEC.."}</a>
                                 </h4>
                                 <p className="entry-summary">
-                                  Two women were detained by police in Uganda after they were reportedly seen kissing in public. Authorities said the incident violated the country’s strict laws regarding same-sex relationships. The women were taken into custody as investigations continue.…
+                                  {"The UAE’s exit from OPEC marks a major shift in the global oil alliance, raising questions about future production policies and the stability of oil prices worldwide."}
                                 </p>
                                 <div className="p-meta has-bookmark">
                                   <div className="meta-inner is-meta">
-                                    <a className="meta-el meta-avatar" href="#" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
+                                    <a className="meta-el meta-avatar" href="/author/ryan-sillers" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
                                       <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/author-ryan-sillers.webp" className="photo avatar" alt="" />
                                     </a>
                                     <div className="meta-el meta-author">
@@ -1673,9 +1594,7 @@ export default function HomeMain() {
                                       </a>
                                     </div>
                                     <div className="meta-el meta-date">
-                                      <time className="date published" dateTime="2021-08-28T01:35:53+00:00">
-                                        Feb 26, 26
-                                      </time>
+                                      <time className="date published" dateTime="2026-03-19T14:03:00+00:00">Mar 19, 26</time>
                                     </div>
                                   </div>
                                   <span className="rb-bookmark bookmark-trigger" data-pid="113">
@@ -1690,13 +1609,12 @@ export default function HomeMain() {
                               <div className="list-feat-holder">
                                 <div className="feat-holder">
                                   <div className="p-featured">
-                                    <a className="p-flink" href="/sports/cristiano-ronaldo-spanish-club-investment" title="The Best Street Style From Paris Fashion Week Spring">
+                                    <a className="p-flink" href="/sports/cristiano-ronaldo-spanish-club-investment" title={"Cristiano Ronaldo purchases stock in a second-tier Spanish team controlled by Saudi Arabia."}>
                                       <img loading="lazy" decoding="async" width="420" height="280" src="/img/illustrations/cristiano-ronaldo-spanish-club-investment.webp" className="featured-img wp-post-image" alt="" />
                                     </a>
                                   </div>
                                   <div className="p-categories light-scheme p-top">
-                                    <a className="p-category category-id-6" href="/sports/cristiano-ronaldo-spanish-club-investment" rel="category">
-                                      Sports
+                                    <a className="p-category category-id-6" href="/sports" rel="category">Sports
                                     </a>
                                   </div>
                                 </div>
@@ -1712,7 +1630,7 @@ export default function HomeMain() {
                                 </p>
                                 <div className="p-meta has-bookmark">
                                   <div className="meta-inner is-meta">
-                                    <a className="meta-el meta-avatar" href="/sports/cristiano-ronaldo-spanish-club-investment" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
+                                    <a className="meta-el meta-avatar" href="/author/ryan-sillers" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
                                       <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/author-ryan-sillers.webp" className="photo avatar" alt="" />
                                     </a>
                                     <div className="meta-el meta-author">
@@ -1738,29 +1656,26 @@ export default function HomeMain() {
                               <div className="list-feat-holder">
                                 <div className="feat-holder">
                                   <div className="p-featured">
-                                    <a className="p-flink" href="#" title="Fashionable Summer Accessories to Dress Up Your Travel Look">
-                                      <img loading="lazy" decoding="async" width="420" height="280" src="/img/illustrations/kremlin-claims-putin-will-travel-to-beijing-very-soon.webp" className="featured-img wp-post-image" alt="" />
+                                    <a className="p-flink" href="/puertorico/puerto-rico-governor-signs-fetus-human-being-law" title={"Puerto Rico governor signs law to recognize fetus as human being as critics warn of consequences."}>
+                                      <img loading="lazy" decoding="async" width="420" height="280" src="/img/illustrations/puerto-rico-governor-signs-fetus-human-being-law.webp" className="featured-img wp-post-image" alt="" />
                                     </a>
                                   </div>
                                   <div className="p-categories light-scheme p-top">
-                                    <a className="p-category category-id-6" href="#" rel="category">
-                                      World News
+                                    <a className="p-category category-id-6" href="/puertorico" rel="category">Puerto Rico
                                     </a>
                                   </div>
                                 </div>
                               </div>
                               <div className="p-content">
                                 <h4 className="entry-title">
-                                  <a className="p-url" href="/world/colombia-elections-un-human-rights-warning" rel="bookmark">
-                                    {" "}As Colombia prepares for elections, the UN warns that the country's human rights situation is deteriorating.
-                                  </a>
+                                  <a className="p-url" href="/puertorico/puerto-rico-governor-signs-fetus-human-being-law" rel="bookmark">{"Puerto Rico governor signs law to recognize fetus as human being as critics warn of consequences."}</a>
                                 </h4>
                                 <p className="entry-summary">
-                                  UN Warns of Worsening Human Rights Ahead of Colombia Elections** The United Nations has warned that the human rights situation in Colombia is deteriorating as the country prepares for upcoming elections, raising concerns over violence and the safety of civilians and activists. …
+                                  {"Jenniffer González-Colón signed a new law recognizing a fetus as a human being under Puerto Rico’s criminal code, a move supporters say strengthens protections for…"}
                                 </p>
                                 <div className="p-meta has-bookmark">
                                   <div className="meta-inner is-meta">
-                                    <a className="meta-el meta-avatar" href="#" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
+                                    <a className="meta-el meta-avatar" href="/author/ryan-sillers" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
                                       <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/author-ryan-sillers.webp" className="photo avatar" alt="" />
                                     </a>
                                     <div className="meta-el meta-author">
@@ -1769,9 +1684,7 @@ export default function HomeMain() {
                                       </a>
                                     </div>
                                     <div className="meta-el meta-date">
-                                      <time className="date published" dateTime="2021-08-27T09:20:24+00:00">
-                                        Feb 26, 26
-                                      </time>
+                                      <time className="date published" dateTime="2026-03-09T14:03:00+00:00">Mar 09, 26</time>
                                     </div>
                                   </div>
                                   <span className="rb-bookmark bookmark-trigger" data-pid="1004">
@@ -1786,29 +1699,26 @@ export default function HomeMain() {
                               <div className="list-feat-holder">
                                 <div className="feat-holder">
                                   <div className="p-featured">
-                                    <a className="p-flink" href="#" title="8 Reasons Your Best Friend Makes The Best Shopping Partner">
-                                      <img loading="lazy" decoding="async" width="420" height="280" src="/img/illustrations/uae-exits-opec-impact-global-oil-prices.webp" className="featured-img wp-post-image" alt="" />
+                                    <a className="p-flink" href="/bancredito/bancredito-bsa-fine-2023" title={"In September 2023, the U.S. Financial Crimes Enforcement Network (FinCEN) fined Bancrédito International Bank and Trust Corp., a Puerto Rico–based bank, $15 million for serious violations of the Bank Secrecy Act (BSA)."}>
+                                      <img loading="lazy" decoding="async" width="420" height="280" src="/img/illustrations/bancredito-bsa-fine-2023.webp" className="featured-img wp-post-image" alt="" />
                                     </a>
                                   </div>
                                   <div className="p-categories light-scheme p-top">
-                                    <a className="p-category category-id-6" href="#" rel="category">
-                                      Climate
+                                    <a className="p-category category-id-6" href="/bancredito" rel="category">Bancrédito
                                     </a>
                                   </div>
                                 </div>
                               </div>
                               <div className="p-content">
                                 <h4 className="entry-title">
-                                  <a className="p-url" href="/world/south-africa-solar-truck-charging" rel="bookmark">
-                                    {" "}On South Africa's freight corridors, solar-powered truck charging is becoming more popular.
-                                  </a>
+                                  <a className="p-url" href="/bancredito/bancredito-bsa-fine-2023" rel="bookmark">{"In September 2023, the U.S. Financial Crimes Enforcement Network (FinCEN) fined Bancrédito International Bank and Trust Corp., a Puerto Rico–based bank, $15 million for serious violations of the Bank Secrecy Act (BSA)."}</a>
                                 </h4>
                                 <p className="entry-summary">
-                                  You may have seen or come across boys who have female best…
+                                  {"Bancrédito failed to timely file suspicious activity reports between October 2015 and May 2022, and inadequately monitored transactions involving entities in Venezuela."}
                                 </p>
                                 <div className="p-meta has-bookmark">
                                   <div className="meta-inner is-meta">
-                                    <a className="meta-el meta-avatar" href="#" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
+                                    <a className="meta-el meta-avatar" href="/author/ryan-sillers" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
                                       <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/author-ryan-sillers.webp" className="photo avatar" alt="" />
                                     </a>
                                     <div className="meta-el meta-author">
@@ -1817,9 +1727,7 @@ export default function HomeMain() {
                                       </a>
                                     </div>
                                     <div className="meta-el meta-date">
-                                      <time className="date published" dateTime="2021-08-26T09:43:12+00:00">
-                                        Feb 27, 26
-                                      </time>
+                                      <time className="date published" dateTime="2026-03-04T14:03:00+00:00">Mar 04, 26</time>
                                     </div>
                                   </div>
                                   <span className="rb-bookmark bookmark-trigger" data-pid="1023">
@@ -1834,29 +1742,26 @@ export default function HomeMain() {
                               <div className="list-feat-holder">
                                 <div className="feat-holder">
                                   <div className="p-featured">
-                                    <a className="p-flink" href="#" title="21 The Most Stylish Wedding Guest Dresses For Spring">
-                                      <img loading="lazy" decoding="async" width="420" height="280" src="/img/illustrations/love-my-woke-pope-leo-first-encyclical-viral-papal-approach.webp" className="featured-img wp-post-image" alt="" />
+                                    <a className="p-flink" href="/puertorico/following-a-plea-agreement-trump-will-pardon-former-puerto-rico-governor-wanda-vazquez" title={"Following a plea agreement, Trump will pardon former Puerto Rico Governor Wanda Vazquez."}>
+                                      <img loading="lazy" decoding="async" width="420" height="280" src="/img/illustrations/following-a-plea-agreement-trump-will-pardon-former-puerto-rico-governor-wanda-vazquez.webp" className="featured-img wp-post-image" alt="" />
                                     </a>
                                   </div>
                                   <div className="p-categories light-scheme p-top">
-                                    <a className="p-category category-id-6" href="#" rel="category">
-                                      Religion
+                                    <a className="p-category category-id-6" href="/puertorico" rel="category">Puerto Rico
                                     </a>
                                   </div>
                                 </div>
                               </div>
                               <div className="p-content">
                                 <h4 className="entry-title">
-                                  <a className="p-url" href="/politics/president-pope-meeting-vatican-conversation" rel="bookmark">
-                                    {" "}Inside the Vatican bubble during an amazing conversation between the president and the pope.{" "}
-                                  </a>
+                                  <a className="p-url" href="/puertorico/following-a-plea-agreement-trump-will-pardon-former-puerto-rico-governor-wanda-vazquez" rel="bookmark">{"Following a plea agreement, Trump will pardon former Puerto Rico Governor Wanda Vazquez."}</a>
                                 </h4>
                                 <p className="entry-summary">
-                                  {" "}Inside the Vatican’s private confines, an extraordinary meeting unfolded as the president and the pope engaged in a deeply meaningful conversation. The discussion, described by insiders as both warm and thought-provoking, touched on global challenges, peace efforts, and shared responsibilities in shaping a better future.…
+                                  {"U.S. President Donald Trump announced plans to pardon former Wanda Vázquez Garced, who served as governor of Puerto Rico from 2019 to 2021. She had pleaded guilty to a…"}
                                 </p>
                                 <div className="p-meta has-bookmark">
                                   <div className="meta-inner is-meta">
-                                    <a className="meta-el meta-avatar" href="#" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
+                                    <a className="meta-el meta-avatar" href="/author/ryan-sillers" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
                                       <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/author-ryan-sillers.webp" className="photo avatar" alt="" />
                                     </a>
                                     <div className="meta-el meta-author">
@@ -1865,9 +1770,7 @@ export default function HomeMain() {
                                       </a>
                                     </div>
                                     <div className="meta-el meta-date">
-                                      <time className="date published" dateTime="2021-08-19T09:39:38+00:00">
-                                        April 16, 26
-                                      </time>
+                                      <time className="date published" dateTime="2026-03-04T14:03:00+00:00">Mar 04, 26</time>
                                     </div>
                                   </div>
                                   <span className="rb-bookmark bookmark-trigger" data-pid="1019">
@@ -1882,29 +1785,26 @@ export default function HomeMain() {
                               <div className="list-feat-holder">
                                 <div className="feat-holder">
                                   <div className="p-featured">
-                                    <a className="p-flink" href="#" title="Jennifer Shows You How to Wear a T-shirt as a Hipster">
-                                      <img loading="lazy" decoding="async" width="420" height="280" src="/img/illustrations/kremlin-claims-putin-will-travel-to-beijing-very-soon.webp" className="featured-img wp-post-image" alt="" />
+                                    <a className="p-flink" href="/puertorico/irans-ambassador-alleges-strikes-targeted-natanz-nuclear-facility" title={"Iran’s ambassador alleges strikes targeted Natanz nuclear facility."}>
+                                      <img loading="lazy" decoding="async" width="420" height="280" src="/img/illustrations/irans-ambassador-alleges-strikes-targeted-natanz-nuclear-facility.webp" className="featured-img wp-post-image" alt="" />
                                     </a>
                                   </div>
                                   <div className="p-categories light-scheme p-top">
-                                    <a className="p-category category-id-6" href="#" rel="category">
-                                      World News
+                                    <a className="p-category category-id-6" href="/puertorico" rel="category">Puerto Rico
                                     </a>
                                   </div>
                                 </div>
                               </div>
                               <div className="p-content">
                                 <h4 className="entry-title">
-                                  <a className="p-url" href="/world/russia-ukraine-geneva-negotiations" rel="bookmark">
-                                    {" "}After nearly four years of conflict, Russian and Ukrainian officials convene in Geneva for negotiations facilitated by the US.{" "}
-                                  </a>
+                                  <a className="p-url" href="/puertorico/irans-ambassador-alleges-strikes-targeted-natanz-nuclear-facility" rel="bookmark">{"Iran’s ambassador alleges strikes targeted Natanz nuclear facility."}</a>
                                 </h4>
                                 <p className="entry-summary">
-                                  After nearly four years of war, officials from Russia and Ukraine met in Geneva for negotiations aimed at reducing hostilities and exploring possible paths toward a ceasefire.…
+                                  {"Iran’s ambassador to the International Atomic Energy Agency (IAEA), Reza Najafi, alleged that U.S. and Israeli airstrikes targeted Iran’s Natanz uranium-enrichment…"}
                                 </p>
                                 <div className="p-meta has-bookmark">
                                   <div className="meta-inner is-meta">
-                                    <a className="meta-el meta-avatar" href="#" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
+                                    <a className="meta-el meta-avatar" href="/author/ryan-sillers" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
                                       <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/author-ryan-sillers.webp" className="photo avatar" alt="" />
                                     </a>
                                     <div className="meta-el meta-author">
@@ -1913,9 +1813,7 @@ export default function HomeMain() {
                                       </a>
                                     </div>
                                     <div className="meta-el meta-date">
-                                      <time className="date published" dateTime="2021-08-19T09:37:40+00:00">
-                                        Feb 27, 26
-                                      </time>
+                                      <time className="date published" dateTime="2026-03-04T14:03:00+00:00">Mar 04, 26</time>
                                     </div>
                                   </div>
                                   <span className="rb-bookmark bookmark-trigger" data-pid="1017">

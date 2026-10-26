@@ -1,3 +1,4 @@
+import SearchForm from "@/components/SearchForm";
 export default function HomeHeader() {
   return (
     <>
@@ -67,22 +68,7 @@ export default function HomeHeader() {
               </a>
               <div className="header-dropdown">
                 <div className="header-search-form is-icon-layout">
-                  <form method="get" action="https://www.journopulse.com/" className="rb-search-form live-search-form" data-search="post" data-limit="0" data-follow="0" data-tax="category" data-dsource="0" data-ptype="">
-                    <div className="search-form-inner">
-                      <span className="search-icon">
-                        <span className="search-icon-svg"></span>
-                      </span>
-                      <span className="search-text">
-                        <input type="text" className="field" placeholder="Search Headlines, News..." defaultValue="" name="s" />
-                      </span>
-                      <span className="rb-search-submit">
-                        <input type="submit" defaultValue="Search" />
-                        <i className="rbi rbi-cright" aria-hidden="true"></i>
-                      </span>
-                      <span className="live-search-animation rb-loader"></span>
-                    </div>
-                    <div className="live-search-response"></div>
-                  </form>
+                  <SearchForm inputId="site-search-1" />
                 </div>
               </div>
             </div>
@@ -141,7 +127,7 @@ export default function HomeHeader() {
                         <li id="menu-item-1578" className="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1578 menu-item-has-children menu-has-child-mega is-child-wide mega-hierarchical">
                           <a href="/us">
                             <span>
-                              U.S News
+                              U.S. News
                             </span>
                             <img width="12" height="12" src="/img/icons/chevron-down.svg" alt="chevron-down" />
                           </a>
@@ -187,7 +173,7 @@ export default function HomeHeader() {
                                       <div className="p-wrap p-small p-list-small-2" data-pid="56">
                                         <div className="feat-holder">
                                           <div className="p-featured ratio-v1">
-                                            <a className="p-flink" href="/us/us-supreme-court-hear-exxon-suncor-bid-toss-boulders-climate-suit" title="The States Braces for Protests Over New COVID Rules">
+                                            <a className="p-flink" href="/us/us-supreme-court-hear-exxon-suncor-bid-toss-boulders-climate-suit" title={"Supreme Court to Hear Oil Firms’ Appeals in Climate Lawsuits.Top Court Takes Up Oil Climate Case."}>
                                               <img loading="lazy" width="150" height="150" src="/img/illustrations/us-supreme-court-hear-exxon-suncor-bid-toss-boulders-climate-suit.webp" className="featured-img wp-post-image" alt="" decoding="async" />
                                             </a>
                                           </div>
@@ -212,23 +198,19 @@ export default function HomeHeader() {
                                       <div className="p-wrap p-small p-list-small-2" data-pid="199">
                                         <div className="feat-holder">
                                           <div className="p-featured ratio-v1">
-                                            <a className="p-flink" href="#" title="Key Trends Developing in Global Equity Markets">
-                                              <img loading="lazy" width="150" height="150" src="/img/illustrations/us-supreme-court-hear-exxon-suncor-bid-toss-boulders-climate-suit.webp" className="featured-img wp-post-image" alt="" decoding="async" />
+                                            <a className="p-flink" href="/us/southern-california-officials-trying-to-prevent-explosion-or-leak-from-damaged-chemical-tank" title={"Authorities in Southern California are attempting to stop a chemical tank explosion or leak."}>
+                                              <img loading="lazy" width="150" height="150" src="/img/illustrations/southern-california-officials-trying-to-prevent-explosion-or-leak-from-damaged-chemical-tank.webp" className="featured-img wp-post-image" alt="" decoding="async" />
                                             </a>
                                           </div>
                                         </div>
                                         <div className="p-content">
                                           <div className="entry-title h4">
-                                            <a className="p-url" href="/us/supreme-court-ruling-against-trump-tariffs-creates-uncertainty" rel="bookmark">
-                                              {" "}Although the Supreme Court's ruling against Trump's tariffs creates uncertainty.{" "}
-                                            </a>
+                                            <a className="p-url" href="/us/southern-california-officials-trying-to-prevent-explosion-or-leak-from-damaged-chemical-tank" rel="bookmark">{"Authorities in Southern California are attempting to stop a chemical tank explosion or leak."}</a>
                                           </div>
                                           <div className="p-meta">
                                             <div className="meta-inner is-meta">
                                               <div className="meta-el meta-update">
-                                                <time className="updated" dateTime="2022-04-07T09:02:34+00:00">
-                                                  March 05, 26
-                                                </time>
+                                                <time className="updated" dateTime="2026-05-25T14:03:00+00:00">May 25, 26</time>
                                               </div>
                                             </div>
                                           </div>
@@ -237,23 +219,19 @@ export default function HomeHeader() {
                                       <div className="p-wrap p-small p-list-small-2" data-pid="216">
                                         <div className="feat-holder">
                                           <div className="p-featured ratio-v1">
-                                            <a className="p-flink" href="#" title="Global Warming Is Changing How Hurricanes Work">
-                                              <img loading="lazy" width="150" height="150" src="/img/illustrations/kosovo-poor-economy-struggles-iran-war-fuel-price-surge.webp" className="featured-img wp-post-image" alt="" decoding="async" />
+                                            <a className="p-flink" href="/us/aml-compliance-frameworks" title={"Following the case closure, Bancrédito Holding is shifting its focus toward rebuilding its compliance infrastructure in line with U.S. regulatory expectations."}>
+                                              <img loading="lazy" width="150" height="150" src="/img/illustrations/aml-compliance-frameworks.webp" className="featured-img wp-post-image" alt="" decoding="async" />
                                             </a>
                                           </div>
                                         </div>
                                         <div className="p-content">
                                           <div className="entry-title h4">
-                                            <a className="p-url" href="/us/inflation-increased-faster-than-expected-in-december" rel="bookmark">
-                                              {" "}In December, inflation increased more fast than anticipated.{" "}
-                                            </a>
+                                            <a className="p-url" href="/us/aml-compliance-frameworks" rel="bookmark">{"Following the case closure, Bancrédito Holding is shifting its focus toward rebuilding its compliance infrastructure in line with U.S. regulatory expectations."}</a>
                                           </div>
                                           <div className="p-meta">
                                             <div className="meta-inner is-meta">
                                               <div className="meta-el meta-update">
-                                                <time className="updated" dateTime="2022-04-07T09:43:08+00:00">
-                                                  March 05, 26
-                                                </time>
+                                                <time className="updated" dateTime="2026-05-06T14:03:00+00:00">May 06, 26</time>
                                               </div>
                                             </div>
                                           </div>
@@ -274,16 +252,12 @@ export default function HomeHeader() {
                                       <div className="p-wrap p-small p-list-small-1" data-pid="56">
                                         <div className="p-content">
                                           <div className="entry-title h4 is-p-protected">
-                                            <a className="p-url" href="/us/governors-break-free-trump-party-hold-washington" rel="bookmark">
-                                              {" "}Governors are eager to’ break free from Trump' ‘s party hold when they arrive in Washington.{" "}
-                                            </a>
+                                            <a className="p-url" href="/us/asset-recovery-strategies-financial-institutions" rel="bookmark">{"Retail investors are not the only ones leaving the most damaged funds in private credit."}</a>
                                           </div>
                                           <div className="p-meta">
                                             <div className="meta-inner is-meta">
                                               <div className="meta-el meta-update">
-                                                <time className="updated" dateTime="2022-04-07T11:19:53+00:00">
-                                                  April 04, 26
-                                                </time>
+                                                <time className="updated" dateTime="2026-05-05T14:03:00+00:00">May 05, 26</time>
                                               </div>
                                             </div>
                                           </div>
@@ -292,16 +266,12 @@ export default function HomeHeader() {
                                       <div className="p-wrap p-small p-list-small-1" data-pid="199">
                                         <div className="p-content">
                                           <div className="entry-title h4">
-                                            <a className="p-url" href="/politics/one-crew-member-missing-after-two-us-aircraft-crash-middle-east" rel="bookmark">
-                                              {" "}Live updates: One crew member is missing after two US aircraft went down in the Middle East{" "}
-                                            </a>
+                                            <a className="p-url" href="/politics/florida-polls-open-2026-governor-race-successor-ron-desantis" rel="bookmark">{"Live updates: Polls open in Florida as state seeks a successor to Gov. Ron DeSantis."}</a>
                                           </div>
                                           <div className="p-meta">
                                             <div className="meta-inner is-meta">
                                               <div className="meta-el meta-update">
-                                                <time className="updated" dateTime="2022-04-07T09:02:34+00:00">
-                                                  April 04, 26
-                                                </time>
+                                                <time className="updated" dateTime="2026-08-18T14:03:00+00:00">Aug 18, 26</time>
                                               </div>
                                             </div>
                                           </div>
@@ -364,7 +334,7 @@ export default function HomeHeader() {
                                   <span className="h4">
                                     Technology
                                   </span>
-                                  <a className="mega-link is-meta" href="#">
+                                  <a className="mega-link is-meta" href="/technology">
                                     <span>
                                       Show More
                                     </span>
@@ -376,23 +346,19 @@ export default function HomeHeader() {
                                     <div className="p-wrap p-grid p-grid-small-1" data-pid="1350">
                                       <div className="feat-holder">
                                         <div className="p-featured">
-                                          <a className="p-flink" href="#" title={"How to Take the Perfect Instagram Selfie: Dos & Don’ts"}>
-                                            <img loading="lazy" width="330" height="220" src="/img/illustrations/waymo-robotaxi-expansion-us.webp" className="featured-img wp-post-image" alt="" decoding="async" />
+                                          <a className="p-flink" href="/technology/artemis-ii-crew-reunited-with-moonship-after-three-months" title={"Three months after their historic mission, the Artemis II crew are reunited with their moonship."}>
+                                            <img loading="lazy" width="330" height="220" src="/img/illustrations/artemis-ii-crew-reunited-with-moonship-after-three-months.webp" className="featured-img wp-post-image" alt="" decoding="async" />
                                           </a>
                                         </div>
                                       </div>
                                       <div className="p-content">
                                         <div className="entry-title h4">
-                                          <a className="p-url" href="/technology/bloomberg-philanthropies-mayors-challenge-ai-improves-city-services" rel="bookmark">
-                                            {" "}Bloomberg Philanthropies Mayors Challenge Winners Use AI to Improve City Services.{" "}
-                                          </a>
+                                          <a className="p-url" href="/technology/artemis-ii-crew-reunited-with-moonship-after-three-months" rel="bookmark">{"Three months after their historic mission, the Artemis II crew are reunited with their moonship."}</a>
                                         </div>
                                         <div className="p-meta has-bookmark">
                                           <div className="meta-inner is-meta">
                                             <div className="meta-el meta-date">
-                                              <time className="date published" dateTime="2021-10-01T13:21:00+00:00">
-                                                March 05, 26
-                                              </time>
+                                              <time className="date published" dateTime="2026-07-09T14:03:00+00:00">Jul 09, 26</time>
                                             </div>
                                           </div>
                                         </div>
@@ -401,7 +367,7 @@ export default function HomeHeader() {
                                     <div className="p-wrap p-grid p-grid-small-1" data-pid="1079">
                                       <div className="feat-holder">
                                         <div className="p-featured">
-                                          <a className="p-flink" href="/technology/why-americans-love-iphones-but-wish-they-didnt-need-them" title="Apple iMac M1 Review: the All-In-One for Almost Everyone">
+                                          <a className="p-flink" href="/technology/why-americans-love-iphones-but-wish-they-didnt-need-them" title={"Americans love their iPhones though sometimes they wish they could live without them."}>
                                             <img loading="lazy" width="330" height="220" src="/img/illustrations/why-americans-love-iphones-but-wish-they-didnt-need-them.webp" className="featured-img wp-post-image" alt="" decoding="async" />
                                           </a>
                                         </div>
@@ -428,7 +394,7 @@ export default function HomeHeader() {
                                     <div className="p-wrap p-grid p-grid-small-1" data-pid="163">
                                       <div className="feat-holder">
                                         <div className="p-featured">
-                                          <a className="p-flink" href="/technology/trump-tariffs-us-stocks-plummet-ai-losers" title="Google’s Self-Designed Tensor Chips will Power Its Next">
+                                          <a className="p-flink" href="/technology/trump-tariffs-us-stocks-plummet-ai-losers" title={"Trump's increased tariffs cause US stocks to plummet, as investors dump possible AI losers.."}>
                                             <img loading="lazy" width="330" height="220" src="/img/illustrations/trump-tariffs-us-stocks-plummet-ai-losers.webp" className="featured-img wp-post-image" alt="" decoding="async" />
                                           </a>
                                         </div>
@@ -453,7 +419,7 @@ export default function HomeHeader() {
                                     <div className="p-wrap p-grid p-grid-small-1" data-pid="155">
                                       <div className="feat-holder">
                                         <div className="p-featured">
-                                          <a className="p-flink" href="http://1.envato.market/6bEx7Q" title="Sony WF-10XM4: Headphones Are Our Absolute Favorite">
+                                          <a className="p-flink" href="/technology/india-joins-us-effort-safe-technologies-supply-chains" title={"India joins the US-led effort to create supply chains for safe technologies.."}>
                                             <img loading="lazy" width="330" height="220" src="/img/illustrations/india-joins-us-effort-safe-technologies-supply-chains.webp" className="featured-img wp-post-image" alt="" decoding="async" />
                                           </a>
                                         </div>
@@ -482,23 +448,19 @@ export default function HomeHeader() {
                                     <div className="p-wrap p-grid p-grid-small-1" data-pid="1316">
                                       <div className="feat-holder">
                                         <div className="p-featured">
-                                          <a className="p-flink" href="#" title="Hands-On With the iPhone 13, Pro, Max, and Mini">
+                                          <a className="p-flink" href="/technology/love-my-woke-pope-leo-first-encyclical-viral-papal-approach" title={"Love my woke pope': Why Leo’s first encyclical went viral and how it speaks to his papal approach."}>
                                             <img loading="lazy" width="330" height="220" src="/img/illustrations/love-my-woke-pope-leo-first-encyclical-viral-papal-approach.webp" className="featured-img wp-post-image" alt="" decoding="async" />
                                           </a>
                                         </div>
                                       </div>
                                       <div className="p-content">
                                         <div className="entry-title h4">
-                                          <a className="p-url" href="/technology/gates-foundation-project-rwanda-ai-powered-technology-clinics" rel="bookmark">
-                                            {" "}Under a new Gates Foundation project, Rwanda will test AI-powered technology in clinics..{" "}
-                                          </a>
+                                          <a className="p-url" href="/technology/love-my-woke-pope-leo-first-encyclical-viral-papal-approach" rel="bookmark">{"Love my woke pope': Why Leo’s first encyclical went viral and how it speaks to his papal approach."}</a>
                                         </div>
                                         <div className="p-meta has-bookmark">
                                           <div className="meta-inner is-meta">
                                             <div className="meta-el meta-date">
-                                              <time className="date published" dateTime="2021-09-04T08:10:00+00:00">
-                                                March 05, 26
-                                              </time>
+                                              <time className="date published" dateTime="2026-06-02T14:03:00+00:00">Jun 02, 26</time>
                                             </div>
                                           </div>
                                         </div>
@@ -522,7 +484,7 @@ export default function HomeHeader() {
                         <li id="menu-item-1594" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1594">
                           <a href="/politics">
                             <span>
-                              politics
+                              Politics
                             </span>
                             <img width="12" height="12" src="/img/icons/chevron-down.svg" alt="chevron-down" />
                           </a>
@@ -632,7 +594,7 @@ export default function HomeHeader() {
                     <li className="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1542">
                       <a href="/us">
                         <span>
-                          U.S News
+                          U.S. News
                         </span>
                       </a>
                     </li>
@@ -653,7 +615,7 @@ export default function HomeHeader() {
                     <li className="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1544">
                       <a href="/politics">
                         <span>
-                          politics
+                          Politics
                         </span>
                       </a>
                     </li>
@@ -696,20 +658,7 @@ export default function HomeHeader() {
                         <span className="h5">
                           Search
                         </span>
-                        <form method="get" action="https://www.journopulse.com/" className="rb-search-form" data-search="post" data-limit="0" data-follow="0" data-tax="category" data-dsource="0" data-ptype="">
-                          <div className="search-form-inner">
-                            <span className="search-icon">
-                              <span className="search-icon-svg"></span>
-                            </span>
-                            <span className="search-text">
-                              <input type="text" className="field" placeholder="Search Headlines, News..." defaultValue="" name="s" />
-                            </span>
-                            <span className="rb-search-submit">
-                              <input type="submit" defaultValue="Search" />
-                              <i className="rbi rbi-cright" aria-hidden="true"></i>
-                            </span>
-                          </div>
-                        </form>
+                        <SearchForm inputId="site-search-2" />
                       </div>
                     </div>
                     <nav className="mobile-menu-wrap edge-padding">
@@ -738,7 +687,7 @@ export default function HomeHeader() {
                             <li id="menu-item-1548" className="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1548">
                               <a href="/us">
                                 <span>
-                                  U.S News
+                                  U.S. News
                                 </span>
                               </a>
                             </li>
@@ -759,7 +708,7 @@ export default function HomeHeader() {
                             <li id="menu-item-1551" className="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1551">
                               <a href="/politics">
                                 <span>
-                                  politics
+                                  Politics
                                 </span>
                               </a>
                             </li>

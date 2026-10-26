@@ -1,6 +1,6 @@
 import ShareTop from "./ShareTop";
 import ShareLeft from "./ShareLeft";
-import Pagination from "./Pagination";
+import { CATEGORY_LABELS } from "@/lib/categories";
 import EntryBottom from "./EntryBottom";
 import Sidebar from "./Sidebar";
 import RelatedLatest from "./RelatedLatest";
@@ -19,7 +19,7 @@ export default function ArticleView({ a }) {
                       <aside className="breadcrumb-wrap breadcrumb-navxt s-breadcrumb">
                         <div className="breadcrumb-inner" typeof="BreadcrumbList" vocab="https://schema.org/">
                           <span property="itemListElement" typeof="ListItem">
-                            <a className="home" href="/" property="item" title="" typeof="WebPage">
+                            <a className="home" href="/" property="item" title="journopulse">
                               <span property="name">
                                 journopulse news
                               </span>
@@ -37,9 +37,9 @@ export default function ArticleView({ a }) {
                           </span>
                           {" "}&gt;{" "}
                           <span property="itemListElement" typeof="ListItem">
-                            <a className="taxonomy category" href={a.categoryHref} property="item" title="" typeof="WebPage">
+                            <a className="taxonomy category" href={"/"+a.category} property="item" title="" typeof="WebPage">
                               <span property="name">
-                                {a.categoryName}
+                                {CATEGORY_LABELS[a.category] || a.categoryName}
                               </span>
                             </a>
                             <meta content="3" property="position" />
@@ -48,7 +48,7 @@ export default function ArticleView({ a }) {
                           <span property="itemListElement" typeof="ListItem">
                             <span className="post post-post current-item" property="name">
                               {a.title}
-                              <meta content={a.url} property="url" />
+                              <meta content={"https://www.journopulse.com/"+a.category+"/"+a.slug} property="url" />
                               <meta content="4" property="position" />
                             </span>
                           </span>
@@ -62,8 +62,8 @@ export default function ArticleView({ a }) {
                   <div className="single-header-content light-scheme">
                     <div className="s-cats ecat-bg-4 ecat-size-big">
                       <div className="p-categories">
-                        <a className="p-category category-id-13" href={a.categoryHref} rel="category">
-                          {a.categoryName}
+                        <a className="p-category category-id-13" href={"/"+a.category} rel="category">
+                          {CATEGORY_LABELS[a.category] || a.categoryName}
                         </a>
                       </div>
                     </div>
@@ -123,7 +123,6 @@ export default function ArticleView({ a }) {
                       <ShareLeft />
                       <div className="e-ct-outer">
                         <div className="entry-content rbct clearfix is-highlight-shares" dangerouslySetInnerHTML={{ __html: a.bodyHtml }} />
-                        <Pagination />
                         <EntryBottom />
                       </div>
                     </div>

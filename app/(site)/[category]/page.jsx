@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 import SiteShell from "@/components/SiteShell";
-import categories from "@/components/generated/categories";
+import CategoryView from "@/components/CategoryPage";
+import { CATEGORY_ORDER } from "@/lib/categories";
 import { metadataFor, JsonLd } from "@/lib/seo";
 import { allArticles } from "@/lib/articles";
 import TopicHubBox from "@/components/TopicHubBox";
@@ -22,7 +23,7 @@ function headerImage(category) {
 }
 
 export function generateStaticParams() {
-  return Object.keys(categories).map((category) => ({ category }));
+  return CATEGORY_ORDER.map((category) => ({ category }));
 }
 
 export async function generateMetadata({ params }) {
@@ -32,14 +33,13 @@ export async function generateMetadata({ params }) {
 
 export default async function CategoryPage({ params }) {
   const { category } = await params;
-  const Category = categories[category];
-  if (!Category) notFound();
+  if (!CATEGORY_ORDER.includes(category)) notFound();
   return (
     <SiteShell>
       <JsonLd route={"/" + category} />
       <style>{`.cate-sec-long-time-header-img{background-image:url('${headerImage(category)}')}`}</style>
       {category === "bancredito" && <TopicHubBox pillars={allPillars} />}
-      <Category />
+      <CategoryView category={category} />
     </SiteShell>
   );
 }

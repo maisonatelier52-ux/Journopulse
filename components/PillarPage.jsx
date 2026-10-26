@@ -1,6 +1,8 @@
 
 import "./pillar.css";
-import { ORIGIN } from "@/lib/pillars";
+import { ORIGIN, allPillars } from "@/lib/pillars";
+import { allArticles } from "@/lib/articles";
+import { CATEGORY_LABELS } from "@/lib/categories";
 
 function formatDate(date) {
   if (!date) return "";
@@ -34,16 +36,16 @@ function getJsonLd(p) {
 
   const graph = [
     {
-      "@type": "ProfilePage",
+      "@type": p.pageType === "profile" ? "ProfilePage" : "WebPage",
       "@id": `${url}#profile`,
       url,
       name: p.title,
       description: p.desc,
       inLanguage: "en",
+      datePublished: p.published || p.updated,
       dateModified: p.updated,
-      mainEntity: {
-        "@id": `${url}#person`,
-      },
+      about: { "@id": `${absoluteUrl("/topics/julio-herrera-velutini")}#person` },
+      ...(p.pageType === "profile" ? { mainEntity: { "@id": `${url}#person` } } : {}),
       ...(image
         ? {
             primaryImageOfPage: {
@@ -65,10 +67,10 @@ function getJsonLd(p) {
     },
     {
       "@type": "Person",
-      "@id": `${url}#person`,
-      name: p.h1,
+      "@id": `${absoluteUrl("/topics/julio-herrera-velutini")}#person`,
+      name: "Julio Herrera Velutini",
       description: p.summary,
-      url,
+      url: absoluteUrl("/topics/julio-herrera-velutini"),
       ...(image ? { image } : {}),
       ...(p.sameAs?.length ? { sameAs: p.sameAs } : {}),
       knowsAbout: [
@@ -223,7 +225,7 @@ export default function PillarPage({ p }) {
           </div>
 
           <a className="pl-read-link" href="#biography">
-            Explore the career
+            {p.readLabel || "Explore the profile"}
             <span aria-hidden="true"> ↓</span>
           </a>
         </div>
@@ -235,7 +237,7 @@ export default function PillarPage({ p }) {
           />
 
           <figcaption>
-            {p.h1} — professional background and financial services
+            {p.heroCaption || `${p.h1} — professional background and financial services`}
           </figcaption>
         </figure>
       </header>
@@ -269,7 +271,7 @@ export default function PillarPage({ p }) {
               </li>
 
               <li>
-                <a href="#milestones">Career milestones</a>
+                <a href="#milestones">Timeline</a>
               </li>
 
               {sections.map((section, index) => (
@@ -280,7 +282,7 @@ export default function PillarPage({ p }) {
                 </li>
               ))}
 
-              {related.length > 0 && (
+              {(related.length > 0 || (p.siblings || []).length > 0) && (
                 <li>
                   <a href="#related">Related coverage</a>
                 </li>
@@ -307,66 +309,36 @@ export default function PillarPage({ p }) {
             <span className="pl-eyebrow">THE BIG PICTURE</span>
 
             <h2>
-              A career in international banking and finance
+              {p.introHeading || "A career in international banking and finance"}
             </h2>
 
             <p className="pl-intro-lead">
               <HighlightText text={p.summary || p.desc || ""} />
             </p>
 
-            <p className="pl-editorial-note">
-              This professional profile covers business history, banking
-              milestones and international financial activities. Company
-              details and dates should be verified against reliable sources.
-            </p>
+            <p className="pl-editorial-note">{p.introNote || "This profile separates documented facts from claims. Verify dates against primary sources."}</p>
           </section>
 
-          {/* Business milestone cards */}
-          <section className="pl-milestones" id="milestones">
-            <div className="pl-section-heading">
-              <span className="pl-eyebrow">CAREER HIGHLIGHTS</span>
-              <h2>Key business milestones</h2>
-              <p>
-                Selected milestones from the professional background
-                described in this profile.
-              </p>
-            </div>
-
-            <div className="pl-milestone-grid">
-              <article className="pl-milestone-card">
-                <span className="pl-milestone-year">2008</span>
-
-                <span className="pl-milestone-label">
-                  Banking milestone
-                </span>
-
-                <h3>Bancrédito</h3>
-
-                <p>
-                  The supplied biography identifies the founding of
-                  Bancrédito International Bank &amp; Trust Corporation
-                  as a milestone in his banking career.
-                </p>
-              </article>
-
-              <article className="pl-milestone-card">
-                <span className="pl-milestone-year">2016</span>
-
-                <span className="pl-milestone-label">
-                  Business milestone
-                </span>
-
-                <h3>Britannia Financial Group</h3>
-
-                <p>
-                  The supplied biography identifies the establishment of
-                  Britannia Financial Group as another milestone in his
-                  international financial services career.
-                </p>
-              </article>
-            </div>
-          </section>
-
+          {/* Milestone cards */}
+          {(p.milestones || []).length > 0 && (
+            <section className="pl-milestones" id="milestones">
+              <div className="pl-section-heading">
+                <span className="pl-eyebrow">TIMELINE</span>
+                <h2>{p.milestonesHeading || "Key milestones"}</h2>
+                <p>{p.milestonesIntro}</p>
+              </div>
+              <div className="pl-milestone-grid">
+                {p.milestones.map((m) => (
+                  <article className="pl-milestone-card" key={m.year + m.title}>
+                    <span className="pl-milestone-year">{m.year}</span>
+                    <span className="pl-milestone-label">{m.label}</span>
+                    <h3>{m.title}</h3>
+                    <p>{m.text}</p>
+                  </article>
+                ))}
+              </div>
+            </section>
+          )}
           {/* Biography sections */}
           <div className="pl-story">
             {sections.map((section, index) => (
@@ -396,37 +368,35 @@ export default function PillarPage({ p }) {
 
               <div className="pl-related-grid">
                 {related.map((href) => {
-                  const slug = href
-                    .split("/")
-                    .filter(Boolean)
-                    .pop();
-
-                  const title = slug
-                    ? slug
-                        .replace(/[-_]/g, " ")
-                        .replace(/\b\w/g, (letter) =>
-                          letter.toUpperCase()
-                        )
-                    : "Related banking coverage";
-
+                  const art = allArticles.find((x) => x.route === href);
+                  const title = art ? art.title : href.split("/").filter(Boolean).pop().replace(/[-_]/g, " ");
+                  const cat = art ? CATEGORY_LABELS[art.category] : "Banking & Finance";
                   return (
-                    <a
-                      className="pl-related-card"
-                      href={href}
-                      key={href}
-                    >
-                      <span className="pl-related-category">
-                        Banking &amp; Finance
-                      </span>
-
+                    <a className="pl-related-card" href={href} key={href}>
+                      <span className="pl-related-category">{cat}</span>
                       <h3>{title}</h3>
-
                       <span className="pl-related-cta">
                         Read related coverage <span aria-hidden="true">↗</span>
                       </span>
                     </a>
                   );
                 })}
+                {(p.siblings || []).map((slug) => {
+                  const sib = allPillars.find((x) => x.slug === slug);
+                  if (!sib) return null;
+                  return (
+                    <a className="pl-related-card" href={`/topics/${sib.slug}`} key={slug}>
+                      <span className="pl-related-category">Topic guide</span>
+                      <h3>{sib.h1}</h3>
+                      <span className="pl-related-cta">Open the guide <span aria-hidden="true">→</span></span>
+                    </a>
+                  );
+                })}
+                <a className="pl-related-card" href="/bancredito/latest">
+                  <span className="pl-related-category">Latest</span>
+                  <h3>Bancrédito Latest News</h3>
+                  <span className="pl-related-cta">See the latest <span aria-hidden="true">→</span></span>
+                </a>
               </div>
             </section>
           )}

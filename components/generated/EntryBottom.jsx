@@ -27,12 +27,7 @@ export default function EntryBottom() {
                         <img width="12" height="12" src="/img/illustrations/author-ryan-sillers.webp" alt="plus" />
                       </i>
                       {" "}
-                      <a className="p-url" href="#" rel="bookmark">
-                        <span style={{color: "rgb(189, 71, 71)"}}>
-                          Real-time updates:
-                        </span>
-                        {" "}Supreme Court Strikes Down Trump’s Sweeping Tariffs,
-                      </a>
+                      <a className="p-url" href="/politics/florida-polls-open-2026-governor-race-successor-ron-desantis" rel="bookmark">{"Live updates: Polls open in Florida as state seeks a successor to Gov. Ron DeSantis."}</a>
                     </div>
                   </div>
                   <div className="p-wrap p-list-inline" data-pid="1316">
@@ -41,12 +36,7 @@ export default function EntryBottom() {
                         <img width="12" height="12" src="/img/illustrations/author-ryan-sillers.webp" alt="plus" />
                       </i>
                       {" "}
-                      <a className="p-url" href="#" rel="bookmark">
-                        <span style={{color: "rgb(189, 71, 71)"}}>
-                          Real-time updates:
-                        </span>
-                        The US State Department directs non-emergency personnel in Bahrain and Jordan to evacuate.
-                      </a>
+                      <a className="p-url" href="/politics/blanche-terminates-fund-for-trump-allies-after-gop-senators-threaten-to-block-attorney-general-bid" rel="bookmark">{"After GOP senators threaten to thwart Trump's bid for attorney general, Blanche closes the fund for his supporters."}</a>
                     </div>
                   </div>
                   {" "}

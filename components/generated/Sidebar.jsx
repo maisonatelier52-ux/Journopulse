@@ -138,13 +138,12 @@ export default function Sidebar() {
                           <div className="p-wrap p-grid p-grid-1" data-pid="152">
                             <div className="feat-holder">
                               <div className="p-featured">
-                                <a className="p-flink" href="/us/trump-gives-iran-10-15-days-deadline-agreement" title="">
+                                <a className="p-flink" href="/us/trump-gives-iran-10-15-days-deadline-agreement" title={"Ahead of the midterm elections, Trump's State of the Union will aim to allay voters' fears about .’the economy."}>
                                   <img alt="" className="featured-img wp-post-image" decoding="async" height="280" loading="lazy" src="/img/illustrations/trump-gives-iran-10-15-days-deadline-agreement.webp" width="420" />
                                 </a>
                               </div>
                               <div className="p-categories light-scheme p-top">
-                                <a className="p-category category-id-13" href="/politics" rel="category">
-                                  politics
+                                <a className="p-category category-id-13" href="/us" rel="category">U.S. News
                                 </a>
                               </div>
                             </div>
@@ -155,7 +154,7 @@ export default function Sidebar() {
                             </h3>
                             <div className="p-meta">
                               <div className="meta-inner is-meta">
-                                <a aria-label="Visit posts by Ryan Sillers" className="meta-el meta-avatar" href="/us/trump-gives-iran-10-15-days-deadline-agreement" rel="nofollow">
+                                <a aria-label="Visit posts by Ryan Sillers" className="meta-el meta-avatar" href="/author/ryan-sillers" rel="nofollow">
                                   <img alt="" className="photo avatar" decoding="async" height="150" loading="lazy" src="/img/illustrations/author-ryan-sillers.webp" width="150" />
                                 </a>
                                 <div className="meta-el meta-author">
@@ -177,9 +176,7 @@ export default function Sidebar() {
                                 <img width="12" height="12" src="/img/illustrations/author-ryan-sillers.webp" alt="plus" />
                               </i>
                               {" "}
-                              <a className="p-url" href="#" rel="bookmark">
-                                {" "}More than 550 people killed in Iran, Iranian Red Crescent Society says
-                              </a>
+                              <a className="p-url" href="/politics/florida-polls-open-2026-governor-race-successor-ron-desantis" rel="bookmark">{"Live updates: Polls open in Florida as state seeks a successor to Gov. Ron DeSantis."}</a>
                             </h5>
                           </div>
                           <div className="p-wrap p-list-inline" data-pid="228">
@@ -188,9 +185,7 @@ export default function Sidebar() {
                                 <img width="12" height="12" src="/img/illustrations/author-ryan-sillers.webp" alt="plus" />
                               </i>
                               {" "}
-                              <a className="p-url" href="#" rel="bookmark">
-                                {" "}Iran says it targeted a US aircraft that crashed in Kuwait{" "}
-                              </a>
+                              <a className="p-url" href="/politics/blanche-terminates-fund-for-trump-allies-after-gop-senators-threaten-to-block-attorney-general-bid" rel="bookmark">{"After GOP senators threaten to thwart Trump's bid for attorney general, Blanche closes the fund for his supporters."}</a>
                             </h5>
                           </div>
                           <div className="p-wrap p-list-inline" data-pid="237">
@@ -199,9 +194,7 @@ export default function Sidebar() {
                                 <img width="12" height="12" src="/img/illustrations/author-ryan-sillers.webp" alt="plus" />
                               </i>
                               {" "}
-                              <a className="p-url" href="#" rel="bookmark">
-                                {" "}Lebanese seek shelter from Israeli strikes in Beirut schools{" "}
-                              </a>
+                              <a className="p-url" href="/politics/iran-us-strait-of-hormuz-conflict-limits-of-escalating-bombing" rel="bookmark">{"Iran and the US close in over the Strait of Hormuz, demonstrating the limitations of stepping up bombing"}</a>
                             </h5>
                           </div>
                           <div className="p-wrap p-list-inline" data-pid="155">

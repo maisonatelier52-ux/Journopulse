@@ -1,5 +1,37 @@
 [
  {
+  "slug": "wall-street-surges-oil-slides-cvs-to-split",
+  "category": "business",
+  "title": "Wall Street surges as oil slides after the midterms, while CVS announces a breakup",
+  "tagline": "U.S. stocks posted their biggest one-day gain in more than a year on Wednesday as oil prices tumbled, while CVS Health said it will split into two companies and Asian chipmakers sold off.",
+  "image": {
+   "src": "/img/illustrations/wall-street-surges-oil-slides-cvs-to-split.webp",
+   "alt": "Bar chart of Nov. 4, 2026 market moves: Dow up about 3%, S&P 500 up 1.6%, WTI crude down more than 8%, CVS Health down 12.6% after its split announcement.",
+   "width": "1536",
+   "height": "1024"
+  },
+  "imageCaption": "How key markets moved on Wednesday, Nov. 4, 2026. Sources: CNBC, Reuters.",
+  "author": {
+   "name": "Ryan Sillers",
+   "job": "Senior Editor",
+   "avatar": "/img/illustrations/author-ryan-sillers.webp",
+   "slug": "ryan-sillers"
+  },
+  "published": {
+   "text": "Published: November 05, 26",
+   "datetime": "2026-11-05T09:00:00+00:00"
+  },
+  "updated": {
+   "text": "Last updated: November 05, 26 9:00 am",
+   "datetime": "2026-11-05T09:00:00+00:00"
+  },
+  "bodyHtml": "<p class=\"has-drop-caps\"><strong>Wall Street rallied sharply on Wednesday as investors reacted to the U.S. midterm election results and a steep drop in oil prices.</strong> According to CNBC, the Dow Jones Industrial Average rose more than 1,500 points, or about 3%, its best day since April 2025, while the S&amp;P 500 gained 1.6%.</p><h2>Oil falls, yields ease</h2><p>West Texas Intermediate crude futures dropped more than 8% to settle at $88.12 a barrel, CNBC reported, which helped lift stocks. Treasury yields also moved lower as traders weighed the election outcome. CNBC said President Donald Trump told the network he can work with Democrats on “many more things than people understand.”</p><h2>Chip stocks come under pressure</h2><p>Not every sector shared in the gains. Asian semiconductor shares tumbled on Thursday on worries about what the new balance of power in Washington could mean for the artificial-intelligence build-out. Chip-testing equipment maker Advantest fell 11.69%, Lasertec dropped 11.76% and Tokyo Electron slid 9.89%, according to CNBC. South Korean stocks also fell more than 5% as large technology names followed Wall Street lower.</p><p>Futures were mixed early Thursday: Dow futures were up about 0.4%, S&amp;P 500 futures were down 0.2% and Nasdaq-100 futures were down 1.1%.</p><h2>CVS plans to split in two</h2><p>In company news, CVS Health said it will separate into two publicly traded companies by early 2028, unwinding a series of deals that combined its pharmacies, the Aetna insurer and the Caremark pharmacy-benefit business. CEO David Joyner said the move would let each business perform better, and the company said shoppers and prescription costs would not be affected. Reuters reported the shares fell 12.6% to $79.94 after the announcement. Shareholders are expected to receive shares in both companies.</p><h2>Other movers</h2><ul><li>Germany’s Commerzbank reported third-quarter net profit of 859 million euros, up 45% from a year earlier.</li><li>Defense group Rheinmetall fell about 16% after cutting its outlook because of stalled military contracts, CNBC reported.</li></ul><p><strong>What to watch:</strong> Investors will look to whether oil stays lower, how technology and defense shares respond to the shifting political landscape, and further detail on the CVS separation.</p>",
+  "route": "/business/wall-street-surges-oil-slides-cvs-to-split",
+  "categoryName": "Business",
+  "categoryHref": "/business",
+  "url": "https://www.journopulse.com/business/wall-street-surges-oil-slides-cvs-to-split"
+ },
+ {
   "slug": "florida-polls-open-2026-governor-race-successor-ron-desantis",
   "category": "politics",
   "route": "/politics/florida-polls-open-2026-governor-race-successor-ron-desantis",

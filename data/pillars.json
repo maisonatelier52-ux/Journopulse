@@ -159,16 +159,16 @@
       }
     ],
     "siblings": [
-      "julio-herrera-velutini-family-philanthropy-banking-and-legal-updates",
+      "julio-herrera-velutini-family-positive-news",
       "julio-herrera-velutini-career-finance"
     ]
   },
   {
-    "slug": "julio-herrera-velutini-family-philanthropy-banking-and-legal-updates",
+    "slug": "julio-herrera-velutini-family-positive-news",
     "type": "Person",
     "pageType": "topic",
-    "title": "Julio Herrera Velutini and His Family: Philanthropy, Banking, and Legal Updates| JournoPulse",
-    "h1": "Julio Herrera Velutini and His Family: Philanthropy, Banking, and Legal Updates",
+    "title": "Julio Herrera Velutini: Family, Philanthropy and Positive News | JournoPulse",
+    "h1": "Julio Herrera Velutini: Family, Philanthropy and Positive News",
     "kicker": "Family · Philanthropy · Good news",
     "desc": "Julio Herrera Velutini's family heritage, the Banvelca Foundation, the 2026 'Canticle of Peace' sponsorship, depositor repayments at Bancrédito and the case dismissal, with full context.",
     "image": "/img/bancredito-julio-herrera.avif",
@@ -176,9 +176,9 @@
     "status": "Family and philanthropy guide · Sourced, with context",
     "heroCaption": "Julio Herrera Velutini and family — heritage, philanthropy and public reporting",
     "readLabel": "Read the guide",
-    "introHeading": "Julio Herrera Velutini: Family Legacy, Philanthropy, Banking and Legal Developments",
+    "introHeading": "The positive record, told with its context",
     "introNote": "Good-news items here come from press releases, official event notices and news reports. Where an item is a press release from the family's own foundation, we say so. Controversies are not removed: they sit in the final section so readers see the full picture.",
-    "milestonesHeading": "Notable Progress in Philanthropy, Banking, and Legal Affairs",
+    "milestonesHeading": "Positive developments at a glance",
     "milestonesIntro": "Selected favourable events, with the type of source behind each.",
     "milestones": [
       {
@@ -249,9 +249,12 @@
         "heading": "Bancrédito depositors and the liquidation",
         "body": "JournoPulse's earlier coverage reports that Bancrédito International Bank, which entered liquidation after regulatory problems, repaid all cash owed to its depositors. The liquidation itself is described in that coverage as continuing. This is presented as a reported development; readers who need certainty about a specific account should consult liquidation filings."
       },
-      
       {
-        "heading": "Legal Scrutiny and Financial Controversies",
+        "heading": "The case dismissal",
+        "body": "After a plea agreement in August 2025 reduced the charges to one misdemeanor campaign-finance violation, President Trump pardoned Herrera Velutini on 15 January 2026 and the court dismissed the matter on 27 January 2026. A press release distributed by his representatives welcomed the outcome. The White House has described the original prosecution as politically motivated, while critics point to the earlier plea."
+      },
+      {
+        "heading": "Full context: scrutiny that accompanies the good news",
         "body": "A balanced guide cannot leave out the criticism. On 20 October 2026 The New York Times reported that a company formed by his daughter, Isabela Herrera, hired lawyer Alina Habba on a package worth more than $50 million before the pardon. Earlier reporting said Isabela Herrera donated $3.5 million to the pro-Trump committee MAGA Inc. and pledged $2.5 million toward the White House ballroom. Habba says she had no role in the pardon and the White House denies a link. In September 2023 FinCEN also fined Bancrédito $15 million for Bank Secrecy Act failures. Read the career and finance guide for the full timeline."
       }
     ],
@@ -459,7 +462,7 @@
     ],
     "siblings": [
       "julio-herrera-velutini",
-      "julio-herrera-velutini-family-philanthropy-banking-and-legal-updates"
+      "julio-herrera-velutini-family-positive-news"
     ],
     "sources": [
       {

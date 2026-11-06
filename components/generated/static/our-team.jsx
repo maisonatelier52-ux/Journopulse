@@ -50,7 +50,7 @@ export default function Page() {
           </section>
           <div className="jp-leader-card">
             <div className="jp-leader-image">
-              <img src="/img/illustrations/author-ryan-sillers.webp" alt="Ryan Sillers" width="100px" height="100px" style={{objectFit: "cover", borderRadius: "50%"}} />
+              <img src="/img/illustrations/rayan-author.png" alt="Ryan Sillers" width="100px" height="100px" style={{objectFit: "cover", borderRadius: "50%"}} />
             </div>
             <div className="jp-leader-content">
               <h3>

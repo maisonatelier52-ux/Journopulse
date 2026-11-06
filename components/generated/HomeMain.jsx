@@ -11,6 +11,40 @@ export default function HomeMain() {
                     <div className="elementor-widget-container">
                       <div id="uid_9026557" className="block-wrap block-grid block-grid-1 rb-columns rb-col-4 rb-tcol-4 rb-mcol-2 is-gap-custom bottom-border is-b-border-dark-dot no-last-bb meta-s-default">
                         <div className="block-inner">
+                          <div className="p-wrap p-grid p-grid-1" data-pid="9001">
+                            <div className="feat-holder">
+                              <div className="p-featured">
+                                <a className="p-flink" href="/politics/democrats-win-house-and-senate-2026-midterms-trump-blames-iran-war" title={"Democrats win Congress in 2026 midterm sweep as Trump and Vance blame the Iran war"}>
+                                  <img loading="lazy" decoding="async" width="420" height="280" src="/img/illustrations/democrats-win-congress-2026-midterms-trump-iran-war.webp" className="featured-img wp-post-image" alt="2026 midterm results: Democrats win the House and Senate" />
+                                </a>
+                              </div>
+                            </div>
+                            <h3 className="entry-title is-p-protected">
+                              <a className="p-url" href="/politics/democrats-win-house-and-senate-2026-midterms-trump-blames-iran-war" rel="bookmark">
+                                {" "}Democrats win Congress in 2026 midterm sweep as Trump and Vance blame the Iran war{" "}
+                              </a>
+                            </h3>
+                            <div className="p-meta has-bookmark">
+                              <div className="meta-inner is-meta">
+                                <a className="meta-el meta-avatar tablet-hide mobile-hide" href="/author/ryan-sillers" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
+                                  <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/rayan-author.png" className="photo avatar" alt="" />
+                                </a>
+                                <div className="meta-el meta-author tablet-hide mobile-hide">
+                                  <a href="/politics/democrats-win-house-and-senate-2026-midterms-trump-blames-iran-war">
+                                    Ryan Sillers
+                                  </a>
+                                </div>
+                                <div className="meta-el meta-date mobile-last-meta tablet-last-meta">
+                                  <time className="date published" dateTime="2026-11-06T09:00:00+00:00">
+                                    November 06, 26
+                                  </time>
+                                </div>
+                              </div>
+                              <span className="rb-bookmark bookmark-trigger" data-pid="23">
+                                <img width="50" height="50" src="/img/icons/bookmark.svg" alt="bookmark-ribbon--v1" />
+                              </span>
+                            </div>
+                          </div>
                           <div className="p-wrap p-grid p-grid-1" data-pid="59">
                             <div className="feat-holder">
                               <div className="p-featured">
@@ -27,7 +61,7 @@ export default function HomeMain() {
                             <div className="p-meta has-bookmark">
                               <div className="meta-inner is-meta">
                                 <a className="meta-el meta-avatar tablet-hide mobile-hide" href="/author/ryan-sillers" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
-                                  <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/author-ryan-sillers.webp" className="photo avatar" alt="" />
+                                  <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/rayan-author.png" className="photo avatar" alt="" />
                                 </a>
                                 <div className="meta-el meta-author tablet-hide mobile-hide">
                                   <a href="/business/kremlin-claims-putin-will-travel-to-beijing-very-soon">
@@ -63,7 +97,7 @@ export default function HomeMain() {
                             <div className="p-meta has-bookmark">
                               <div className="meta-inner is-meta">
                                 <a className="meta-el meta-avatar tablet-hide mobile-hide" href="/author/ryan-sillers" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
-                                  <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/author-ryan-sillers.webp" className="photo avatar" alt="" />
+                                  <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/rayan-author.png" className="photo avatar" alt="" />
                                 </a>
                                 <div className="meta-el meta-author tablet-hide mobile-hide">
                                   <a href="/politics/trump-republicans-communist-attacks-democrats-midterms">
@@ -97,7 +131,7 @@ export default function HomeMain() {
                             <div className="p-meta has-bookmark">
                               <div className="meta-inner is-meta">
                                 <a className="meta-el meta-avatar tablet-hide mobile-hide" href="/author/ryan-sillers" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
-                                  <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/author-ryan-sillers.webp" className="photo avatar" alt="" />
+                                  <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/rayan-author.png" className="photo avatar" alt="" />
                                 </a>
                                 <div className="meta-el meta-author tablet-hide mobile-hide">
                                   <a href="/fashion/prada-luxury-fashion-pasta-pomodoro-milan-fashion-week">
@@ -107,40 +141,6 @@ export default function HomeMain() {
                                 <div className="meta-el meta-date mobile-last-meta tablet-last-meta">
                                   <time className="date published" dateTime="2021-08-28T09:05:46+00:00">
                                     July 15, 26
-                                  </time>
-                                </div>
-                              </div>
-                              <span className="rb-bookmark bookmark-trigger" data-pid="23">
-                                <img width="50" height="50" src="/img/icons/bookmark.svg" alt="bookmark-ribbon--v1" />
-                              </span>
-                            </div>
-                          </div>
-                          <div className="p-wrap p-grid p-grid-1" data-pid="1055">
-                            <div className="feat-holder">
-                              <div className="p-featured">
-                                <a className="p-flink" href="/politics/cornyn-avoided-trump-wrath-lost-seat-anyway" title={"Cornyn went to great lengths to avoid Trump’s wrath. The Texas senator lost his seat anyway."}>
-                                  <img loading="lazy" decoding="async" width="420" height="280" src="/img/illustrations/cornyn-avoided-trump-wrath-lost-seat-anyway.webp" className="featured-img wp-post-image" alt="" />
-                                </a>
-                              </div>
-                            </div>
-                            <h3 className="entry-title">
-                              <a className="p-url" href="/politics/cornyn-avoided-trump-wrath-lost-seat-anyway" rel="bookmark">
-                                {" "}Cornyn went to great lengths to avoid Trump’s wrath. The Texas senator lost his seat anyway.
-                              </a>
-                            </h3>
-                            <div className="p-meta has-bookmark">
-                              <div className="meta-inner is-meta">
-                                <a className="meta-el meta-avatar tablet-hide mobile-hide" href="/author/ryan-sillers" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
-                                  <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/author-ryan-sillers.webp" className="photo avatar" alt="" />
-                                </a>
-                                <div className="meta-el meta-author tablet-hide mobile-hide">
-                                  <a href="/politics/cornyn-avoided-trump-wrath-lost-seat-anyway">
-                                    Ryan Sillers
-                                  </a>
-                                </div>
-                                <div className="meta-el meta-date mobile-last-meta tablet-last-meta">
-                                  <time className="date published" dateTime="2021-08-08T09:06:00+00:00">
-                                    May 27, 26
                                   </time>
                                 </div>
                               </div>
@@ -431,7 +431,7 @@ export default function HomeMain() {
                             <div className="p-meta has-bookmark">
                               <div className="meta-inner is-meta">
                                 <a className="meta-el meta-avatar" href="/author" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
-                                  <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/author-ryan-sillers.webp" className="photo avatar" alt="" />
+                                  <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/rayan-author.png" className="photo avatar" alt="" />
                                 </a>
                                 <div className="meta-el meta-author">
                                   <a href="#">
@@ -894,6 +894,28 @@ export default function HomeMain() {
                     <div className="elementor-widget-container">
                       <div id="uid_3da6648" className="block-wrap block-grid block-grid-1 rb-columns rb-col-6 rb-tcol-3 rb-mcol-2 is-gap-custom meta-s-default">
                         <div className="block-inner">
+                          <div className="p-wrap p-grid p-grid-1" data-pid="9002">
+                            <div className="feat-holder">
+                              <div className="p-featured">
+                                <a className="p-flink" href="/business/julio-herrera-velutini-banker-britannia-financial-group-family-banking-dynasty" title={"Julio Herrera Velutini: The Billion-Dollar Banker Behind a Centuries-Old Financial Dynasty"}>
+                                  <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/julio-herrera-velutini.jpg" className="featured-img wp-post-image" alt="Julio Herrera Velutini, banker and founder of Britannia Financial Group" />
+                                </a>
+                              </div>
+                            </div>
+                            <h6 className="entry-title">
+                              <a className="p-url" href="/business/julio-herrera-velutini-banker-britannia-financial-group-family-banking-dynasty" rel="bookmark">{"Julio Herrera Velutini: The Billion-Dollar Banker Behind a Centuries-Old Financial Dynasty"}</a>
+                            </h6>
+                            <div className="p-meta has-bookmark">
+                              <div className="meta-inner is-meta">
+                                <div className="meta-el meta-date mobile-last-meta">
+                                  <time className="date published" dateTime="2026-11-06T09:00:00+00:00">Nov 06, 26</time>
+                                </div>
+                              </div>
+                              <span className="rb-bookmark bookmark-trigger" data-pid="9002">
+                                <img width="50" height="50" src="/img/icons/bookmark.svg" alt="bookmark-ribbon--v1" />
+                              </span>
+                            </div>
+                          </div>
                           <div className="p-wrap p-grid p-grid-1" data-pid="225">
                             <div className="feat-holder">
                               <div className="p-featured">
@@ -1005,32 +1027,6 @@ export default function HomeMain() {
                                 </div>
                               </div>
                               <span className="rb-bookmark bookmark-trigger" data-pid="234">
-                                <img width="50" height="50" src="/img/icons/bookmark.svg" alt="bookmark-ribbon--v1" />
-                              </span>
-                            </div>
-                          </div>
-                          <div className="p-wrap p-grid p-grid-1" data-pid="1307">
-                            <div className="feat-holder">
-                              <div className="p-featured">
-                                <a className="p-flink" href="/business/waymo-robotaxi-expansion-us" title={"With expansions in Texas and Florida, Waymo now deploys robotaxis in ten major United States markets."}>
-                                  <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/waymo-robotaxi-expansion-us.webp" className="featured-img wp-post-image" alt="" />
-                                </a>
-                              </div>
-                            </div>
-                            <h6 className="entry-title">
-                              <a className="p-url" href="/business/waymo-robotaxi-expansion-us" rel="bookmark">
-                                {" "}With expansions in Texas and Florida, Waymo now deploys robotaxis in ten major United States markets.
-                              </a>
-                            </h6>
-                            <div className="p-meta has-bookmark">
-                              <div className="meta-inner is-meta">
-                                <div className="meta-el meta-date mobile-last-meta">
-                                  <time className="date published" dateTime="2021-08-26T05:39:00+00:00">
-                                    Feb 25, 26
-                                  </time>
-                                </div>
-                              </div>
-                              <span className="rb-bookmark bookmark-trigger" data-pid="1307">
                                 <img width="50" height="50" src="/img/icons/bookmark.svg" alt="bookmark-ribbon--v1" />
                               </span>
                             </div>
@@ -1395,7 +1391,7 @@ export default function HomeMain() {
                                           <div className="p-meta has-bookmark">
                                             <div className="meta-inner is-meta">
                                               <a className="meta-el meta-avatar" href="/author" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
-                                                <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/author-ryan-sillers.webp" className="photo avatar" alt="" />
+                                                <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/rayan-author.png" className="photo avatar" alt="" />
                                               </a>
                                               <div className="meta-el meta-author">
                                                 <a href="/author">
@@ -1407,7 +1403,7 @@ export default function HomeMain() {
                                               </div>
                                             </div>
                                             <span className="rb-bookmark bookmark-trigger" data-pid="14">
-                                              <img width="50" height="50" src="/img/illustrations/author-ryan-sillers.webp" alt="bookmark-ribbon--v1" />
+                                              <img width="50" height="50" src="/img/illustrations/rayan-author.png" alt="bookmark-ribbon--v1" />
                                             </span>
                                           </div>
                                         </div>
@@ -1431,7 +1427,7 @@ export default function HomeMain() {
                                           <div className="p-meta has-bookmark">
                                             <div className="meta-inner is-meta">
                                               <a className="meta-el meta-avatar" href="/author/ryan-sillers" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
-                                                <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/author-ryan-sillers.webp" className="photo avatar" alt="" />
+                                                <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/rayan-author.png" className="photo avatar" alt="" />
                                               </a>
                                               <div className="meta-el meta-author">
                                                 <a href="/author">
@@ -1469,7 +1465,7 @@ export default function HomeMain() {
                                           <div className="p-meta has-bookmark">
                                             <div className="meta-inner is-meta">
                                               <a className="meta-el meta-avatar" href="/author/ryan-sillers" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
-                                                <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/author-ryan-sillers.webp" className="photo avatar" alt="" />
+                                                <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/rayan-author.png" className="photo avatar" alt="" />
                                               </a>
                                               <div className="meta-el meta-author">
                                                 <a href="/author">
@@ -1507,7 +1503,7 @@ export default function HomeMain() {
                                           <div className="p-meta has-bookmark">
                                             <div className="meta-inner is-meta">
                                               <a className="meta-el meta-avatar" href="/author/ryan-sillers" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
-                                                <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/author-ryan-sillers.webp" className="photo avatar" alt="" />
+                                                <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/rayan-author.png" className="photo avatar" alt="" />
                                               </a>
                                               <div className="meta-el meta-author">
                                                 <a href="/author">
@@ -1586,7 +1582,7 @@ export default function HomeMain() {
                                 <div className="p-meta has-bookmark">
                                   <div className="meta-inner is-meta">
                                     <a className="meta-el meta-avatar" href="/author/ryan-sillers" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
-                                      <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/author-ryan-sillers.webp" className="photo avatar" alt="" />
+                                      <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/rayan-author.png" className="photo avatar" alt="" />
                                     </a>
                                     <div className="meta-el meta-author">
                                       <a href="/author">
@@ -1631,7 +1627,7 @@ export default function HomeMain() {
                                 <div className="p-meta has-bookmark">
                                   <div className="meta-inner is-meta">
                                     <a className="meta-el meta-avatar" href="/author/ryan-sillers" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
-                                      <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/author-ryan-sillers.webp" className="photo avatar" alt="" />
+                                      <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/rayan-author.png" className="photo avatar" alt="" />
                                     </a>
                                     <div className="meta-el meta-author">
                                       <a href="/author">
@@ -1676,7 +1672,7 @@ export default function HomeMain() {
                                 <div className="p-meta has-bookmark">
                                   <div className="meta-inner is-meta">
                                     <a className="meta-el meta-avatar" href="/author/ryan-sillers" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
-                                      <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/author-ryan-sillers.webp" className="photo avatar" alt="" />
+                                      <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/rayan-author.png" className="photo avatar" alt="" />
                                     </a>
                                     <div className="meta-el meta-author">
                                       <a href="/author">
@@ -1719,7 +1715,7 @@ export default function HomeMain() {
                                 <div className="p-meta has-bookmark">
                                   <div className="meta-inner is-meta">
                                     <a className="meta-el meta-avatar" href="/author/ryan-sillers" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
-                                      <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/author-ryan-sillers.webp" className="photo avatar" alt="" />
+                                      <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/rayan-author.png" className="photo avatar" alt="" />
                                     </a>
                                     <div className="meta-el meta-author">
                                       <a href="/author">
@@ -1762,7 +1758,7 @@ export default function HomeMain() {
                                 <div className="p-meta has-bookmark">
                                   <div className="meta-inner is-meta">
                                     <a className="meta-el meta-avatar" href="/author/ryan-sillers" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
-                                      <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/author-ryan-sillers.webp" className="photo avatar" alt="" />
+                                      <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/rayan-author.png" className="photo avatar" alt="" />
                                     </a>
                                     <div className="meta-el meta-author">
                                       <a href="/author">
@@ -1805,7 +1801,7 @@ export default function HomeMain() {
                                 <div className="p-meta has-bookmark">
                                   <div className="meta-inner is-meta">
                                     <a className="meta-el meta-avatar" href="/author/ryan-sillers" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
-                                      <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/author-ryan-sillers.webp" className="photo avatar" alt="" />
+                                      <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/rayan-author.png" className="photo avatar" alt="" />
                                     </a>
                                     <div className="meta-el meta-author">
                                       <a href="/author">

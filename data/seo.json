@@ -8924,5 +8924,221 @@
     ]
    }
   ]
+ },
+ "/politics/democrats-win-house-and-senate-2026-midterms-trump-blames-iran-war": {
+  "title": "Democrats Win Congress in 2026 Midterms as Trump Blames Iran War | JournoPulse",
+  "meta": {
+   "description": "Democrats won the House and Senate in the 2026 midterms, flipping red states from Texas to Kansas, as Trump and Vance blamed the Iran war for Republican losses.",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot-news": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "og:site_name": "JournoPulse",
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Democrats Win Congress in 2026 Midterms as Trump Blames Iran War",
+   "og:description": "Democrats won the House and Senate in the 2026 midterms, flipping red states from Texas to Kansas, as Trump and Vance blamed the Iran war for Republican losses.",
+   "og:url": "https://www.journopulse.com/politics/democrats-win-house-and-senate-2026-midterms-trump-blames-iran-war",
+   "og:image": "https://www.journopulse.com/img/illustrations/democrats-win-congress-2026-midterms-trump-iran-war.webp",
+   "og:image:width": "1536",
+   "og:image:height": "1024",
+   "article:published_time": "2026-11-06T09:00:00+00:00",
+   "article:modified_time": "2026-11-06T09:00:00+00:00",
+   "article:author": "Ryan Sillers",
+   "article:section": "Politics",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Democrats Win Congress in 2026 Midterms as Trump Blames Iran War",
+   "twitter:description": "Democrats won the House and Senate in the 2026 midterms, flipping red states from Texas to Kansas, as Trump and Vance blamed the Iran war for Republican losses.",
+   "twitter:image": "https://www.journopulse.com/img/illustrations/democrats-win-congress-2026-midterms-trump-iran-war.webp",
+   "viewport": "width=device-width, initial-scale=1.0"
+  },
+  "canonical": "https://www.journopulse.com/politics/democrats-win-house-and-senate-2026-midterms-trump-blames-iran-war",
+  "ld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "NewsMediaOrganization",
+      "@id": "https://www.journopulse.com/#organization",
+      "name": "JournoPulse",
+      "url": "https://www.journopulse.com/",
+      "logo": {
+       "@type": "ImageObject",
+       "url": "https://www.journopulse.com/img/Group8%20(1).svg"
+      },
+      "sameAs": [
+       "https://www.facebook.com/journopulse"
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.journopulse.com/#website",
+      "url": "https://www.journopulse.com/",
+      "name": "JournoPulse",
+      "inLanguage": "en-US",
+      "publisher": {
+       "@id": "https://www.journopulse.com/#organization"
+      }
+     },
+     {
+      "@type": "NewsArticle",
+      "@id": "https://www.journopulse.com/politics/democrats-win-house-and-senate-2026-midterms-trump-blames-iran-war#article",
+      "mainEntityOfPage": {
+       "@type": "WebPage",
+       "@id": "https://www.journopulse.com/politics/democrats-win-house-and-senate-2026-midterms-trump-blames-iran-war"
+      },
+      "headline": "Democrats Win Congress in 2026 Midterms as Trump Blames Iran War",
+      "description": "Democrats won the House and Senate in the 2026 midterms, flipping red states from Texas to Kansas, as Trump and Vance blamed the Iran war for Republican losses.",
+      "image": {
+       "@type": "ImageObject",
+       "url": "https://www.journopulse.com/img/illustrations/democrats-win-congress-2026-midterms-trump-iran-war.webp",
+       "width": 1536,
+       "height": 1024
+      },
+      "datePublished": "2026-11-06T09:00:00+00:00",
+      "dateModified": "2026-11-06T09:00:00+00:00",
+      "author": {
+       "@type": "Person",
+       "name": "Ryan Sillers"
+      },
+      "publisher": {
+       "@id": "https://www.journopulse.com/#organization"
+      },
+      "isAccessibleForFree": true,
+      "inLanguage": "en-US",
+      "articleSection": "Politics"
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.journopulse.com/politics/democrats-win-house-and-senate-2026-midterms-trump-blames-iran-war#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.journopulse.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Politics",
+        "item": "https://www.journopulse.com/politics"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Democrats Win Congress in 2026 Midterms as Trump Blames Iran War"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "/business/julio-herrera-velutini-banker-britannia-financial-group-family-banking-dynasty": {
+  "title": "Julio Herrera Velutini: Banker Behind a Centuries-Old Dynasty | JournoPulse",
+  "meta": {
+   "description": "Julio Herrera Velutini, founder of Britannia Financial Group, carries a Venezuelan banking tradition dating to Banco Caracas (1890) into modern London finance.",
+   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "googlebot-news": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "og:site_name": "JournoPulse",
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Julio Herrera Velutini: Banker Behind a Centuries-Old Dynasty",
+   "og:description": "Julio Herrera Velutini, founder of Britannia Financial Group, carries a Venezuelan banking tradition dating to Banco Caracas (1890) into modern London finance.",
+   "og:url": "https://www.journopulse.com/business/julio-herrera-velutini-banker-britannia-financial-group-family-banking-dynasty",
+   "og:image": "https://www.journopulse.com/img/illustrations/julio-herrera-velutini.jpg",
+   "og:image:width": "1536",
+   "og:image:height": "1024",
+   "article:published_time": "2026-11-06T09:00:00+00:00",
+   "article:modified_time": "2026-11-06T09:00:00+00:00",
+   "article:author": "Ryan Sillers",
+   "article:section": "Business",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Julio Herrera Velutini: Banker Behind a Centuries-Old Dynasty",
+   "twitter:description": "Julio Herrera Velutini, founder of Britannia Financial Group, carries a Venezuelan banking tradition dating to Banco Caracas (1890) into modern London finance.",
+   "twitter:image": "https://www.journopulse.com/img/illustrations/julio-herrera-velutini.jpg",
+   "viewport": "width=device-width, initial-scale=1.0"
+  },
+  "canonical": "https://www.journopulse.com/business/julio-herrera-velutini-banker-britannia-financial-group-family-banking-dynasty",
+  "ld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "NewsMediaOrganization",
+      "@id": "https://www.journopulse.com/#organization",
+      "name": "JournoPulse",
+      "url": "https://www.journopulse.com/",
+      "logo": {
+       "@type": "ImageObject",
+       "url": "https://www.journopulse.com/img/Group8%20(1).svg"
+      },
+      "sameAs": [
+       "https://www.facebook.com/journopulse"
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.journopulse.com/#website",
+      "url": "https://www.journopulse.com/",
+      "name": "JournoPulse",
+      "inLanguage": "en-US",
+      "publisher": {
+       "@id": "https://www.journopulse.com/#organization"
+      }
+     },
+     {
+      "@type": "NewsArticle",
+      "@id": "https://www.journopulse.com/business/julio-herrera-velutini-banker-britannia-financial-group-family-banking-dynasty#article",
+      "mainEntityOfPage": {
+       "@type": "WebPage",
+       "@id": "https://www.journopulse.com/business/julio-herrera-velutini-banker-britannia-financial-group-family-banking-dynasty"
+      },
+      "headline": "Julio Herrera Velutini: Banker Behind a Centuries-Old Dynasty",
+      "description": "Julio Herrera Velutini, founder of Britannia Financial Group, carries a Venezuelan banking tradition dating to Banco Caracas (1890) into modern London finance.",
+      "image": {
+       "@type": "ImageObject",
+       "url": "https://www.journopulse.com/img/illustrations/julio-herrera-velutini.jpg",
+       "width": 1536,
+       "height": 1024
+      },
+      "datePublished": "2026-11-06T09:00:00+00:00",
+      "dateModified": "2026-11-06T09:00:00+00:00",
+      "author": {
+       "@type": "Person",
+       "name": "Ryan Sillers"
+      },
+      "publisher": {
+       "@id": "https://www.journopulse.com/#organization"
+      },
+      "isAccessibleForFree": true,
+      "inLanguage": "en-US",
+      "articleSection": "Business"
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.journopulse.com/business/julio-herrera-velutini-banker-britannia-financial-group-family-banking-dynasty#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.journopulse.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Business",
+        "item": "https://www.journopulse.com/business"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Julio Herrera Velutini: Banker Behind a Centuries-Old Dynasty"
+       }
+      ]
+     }
+    ]
+   }
+  ]
  }
 }

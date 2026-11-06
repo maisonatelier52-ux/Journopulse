@@ -18,24 +18,17 @@ export default function ArticleView({ a }) {
                     <div className="breadcrumb-absolute light-scheme">
                       <aside className="breadcrumb-wrap breadcrumb-navxt s-breadcrumb">
                         <div className="breadcrumb-inner" typeof="BreadcrumbList" vocab="https://schema.org/">
-                          <span property="itemListElement" typeof="ListItem">
+                          <span property="itemListElement">
                             <a className="home" href="/" property="item" title="journopulse">
                               <span property="name">
-                                journopulse news
+                                Home
                               </span>
                             </a>
                             <meta content="1" property="position" />
                           </span>
                           {" "}&gt;{" "}
-                          <span property="itemListElement" typeof="ListItem">
-                            <a className="post-root post post-post" href="/" property="item" title="" typeof="WebPage">
-                              <span property="name">
-                                Blog
-                              </span>
-                            </a>
-                            <meta content="2" property="position" />
-                          </span>
-                          {" "}&gt;{" "}
+                          
+                        
                           <span property="itemListElement" typeof="ListItem">
                             <a className="taxonomy category" href={"/"+a.category} property="item" title="" typeof="WebPage">
                               <span property="name">
@@ -45,7 +38,7 @@ export default function ArticleView({ a }) {
                             <meta content="3" property="position" />
                           </span>
                           {" "}&gt;{" "}
-                          <span property="itemListElement" typeof="ListItem">
+                          <span property="itemListElement">
                             <span className="post post-post current-item" property="name">
                               {a.title}
                               <meta content={"https://www.journopulse.com/"+a.category+"/"+a.slug} property="url" />
@@ -76,8 +69,15 @@ export default function ArticleView({ a }) {
                     <div className="single-meta yes-0">
                       <div className="smeta-in">
                         <a aria-label={'Visit posts by '+a.author.name} className="meta-el meta-avatar" href={'/author/'+a.author.slug} rel="nofollow">
-                          <img loading="lazy" decoding="async" width="150" height="150" src={a.author.avatar} className="photo avatar" alt="" />
-                        </a>
+<img
+  loading="lazy"
+  decoding="async"
+  width="150"
+  height="150"
+  src={a.author.avatar || "/img/illustrations/rayan-author.png"}
+  className="photo avatar author-avatar"
+  alt={`${a.author.name} - ${a.author.job}`}
+/>                        </a>
                         <div className="smeta-sec">
                           <div className="smeta-bottom meta-text">
                             <time className="updated-date" dateTime={a.updated.datetime}>

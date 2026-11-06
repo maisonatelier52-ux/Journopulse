@@ -155,7 +155,7 @@ export default function Sidebar() {
                             <div className="p-meta">
                               <div className="meta-inner is-meta">
                                 <a aria-label="Visit posts by Ryan Sillers" className="meta-el meta-avatar" href="/author/ryan-sillers" rel="nofollow">
-                                  <img alt="" className="photo avatar" decoding="async" height="150" loading="lazy" src="/img/illustrations/author-ryan-sillers.webp" width="150" />
+                                  <img alt="" className="photo avatar" decoding="async" height="150" loading="lazy" src="/img/illustrations/rayan-author.png" width="150" />
                                 </a>
                                 <div className="meta-el meta-author">
                                   <a href="/us/trump-gives-iran-10-15-days-deadline-agreement">
@@ -173,7 +173,7 @@ export default function Sidebar() {
                           <div className="p-wrap p-list-inline" data-pid="56">
                             <h5 className="entry-title is-p-protected">
                               <i aria-hidden="true" className="rbi">
-                                <img width="12" height="12" src="/img/illustrations/author-ryan-sillers.webp" alt="plus" />
+                                <img width="12" height="12" src="/img/illustrations/rayan-author.png" alt="plus" />
                               </i>
                               {" "}
                               <a className="p-url" href="/politics/florida-polls-open-2026-governor-race-successor-ron-desantis" rel="bookmark">{"Live updates: Polls open in Florida as state seeks a successor to Gov. Ron DeSantis."}</a>
@@ -182,7 +182,7 @@ export default function Sidebar() {
                           <div className="p-wrap p-list-inline" data-pid="228">
                             <h5 className="entry-title">
                               <i aria-hidden="true" className="rbi">
-                                <img width="12" height="12" src="/img/illustrations/author-ryan-sillers.webp" alt="plus" />
+                                <img width="12" height="12" src="/img/illustrations/rayan-author.png" alt="plus" />
                               </i>
                               {" "}
                               <a className="p-url" href="/politics/blanche-terminates-fund-for-trump-allies-after-gop-senators-threaten-to-block-attorney-general-bid" rel="bookmark">{"After GOP senators threaten to thwart Trump's bid for attorney general, Blanche closes the fund for his supporters."}</a>
@@ -191,7 +191,7 @@ export default function Sidebar() {
                           <div className="p-wrap p-list-inline" data-pid="237">
                             <h5 className="entry-title">
                               <i aria-hidden="true" className="rbi">
-                                <img width="12" height="12" src="/img/illustrations/author-ryan-sillers.webp" alt="plus" />
+                                <img width="12" height="12" src="/img/illustrations/rayan-author.png" alt="plus" />
                               </i>
                               {" "}
                               <a className="p-url" href="/politics/iran-us-strait-of-hormuz-conflict-limits-of-escalating-bombing" rel="bookmark">{"Iran and the US close in over the Strait of Hormuz, demonstrating the limitations of stepping up bombing"}</a>
@@ -200,7 +200,7 @@ export default function Sidebar() {
                           <div className="p-wrap p-list-inline" data-pid="155">
                             <h5 className="entry-title">
                               <i aria-hidden="true" className="rbi">
-                                <img width="12" height="12" src="/img/illustrations/author-ryan-sillers.webp" alt="plus" />
+                                <img width="12" height="12" src="/img/illustrations/rayan-author.png" alt="plus" />
                               </i>
                               {" "}
                               <a className="p-url" href="/puertorico/irans-ambassador-alleges-strikes-targeted-natanz-nuclear-facility" rel="noopener nofollow">

@@ -75,6 +75,16 @@
     background: linear-gradient(90deg, #e10600, #ff4d4d);
     border-radius: 2px;
 }
+.author-avatar {
+  width: 52px;
+  height: 52px;
+  min-width: 52px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  border: 2px solid #ffffff;
+}
         [data-theme=dark] .gb-header {
             background-color: var(--dark-header-bg, var(--header-bg, transparent))
         }

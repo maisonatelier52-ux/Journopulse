@@ -10,7 +10,7 @@ export default function EntryBottom() {
                   <div className="p-wrap p-list-inline" data-pid="163">
                     <div className="entry-title h4">
                       <i aria-hidden="true" className="rbi">
-                        <img width="12" height="12" src="/img/illustrations/author-ryan-sillers.webp" alt="plus" />
+                        <img width="12" height="12" src="/img/illustrations/rayan-author.png" alt="plus" />
                       </i>
                       {" "}
                       <a className="p-url" href="/us/trump-gives-iran-10-15-days-deadline-agreement" rel="bookmark">
@@ -24,7 +24,7 @@ export default function EntryBottom() {
                   <div className="p-wrap p-list-inline" data-pid="152">
                     <div className="entry-title h4">
                       <i aria-hidden="true" className="rbi">
-                        <img width="12" height="12" src="/img/illustrations/author-ryan-sillers.webp" alt="plus" />
+                        <img width="12" height="12" src="/img/illustrations/rayan-author.png" alt="plus" />
                       </i>
                       {" "}
                       <a className="p-url" href="/politics/florida-polls-open-2026-governor-race-successor-ron-desantis" rel="bookmark">{"Live updates: Polls open in Florida as state seeks a successor to Gov. Ron DeSantis."}</a>
@@ -33,7 +33,7 @@ export default function EntryBottom() {
                   <div className="p-wrap p-list-inline" data-pid="1316">
                     <div className="entry-title h4">
                       <i aria-hidden="true" className="rbi">
-                        <img width="12" height="12" src="/img/illustrations/author-ryan-sillers.webp" alt="plus" />
+                        <img width="12" height="12" src="/img/illustrations/rayan-author.png" alt="plus" />
                       </i>
                       {" "}
                       <a className="p-url" href="/politics/blanche-terminates-fund-for-trump-allies-after-gop-senators-threaten-to-block-attorney-general-bid" rel="bookmark">{"After GOP senators threaten to thwart Trump's bid for attorney general, Blanche closes the fund for his supporters."}</a>

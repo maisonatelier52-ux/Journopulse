@@ -18,23 +18,22 @@ export default function ShareLeft() {
               </i>
             </a>
             {" "}
-            <a aria-label="Share on X" className="share-action share-trigger icon-twitter" data-gravity="w" data-title="X" href="/bancredito/bancredito-bsa-fine-2023" rel="nofollow noopener">
-              <i aria-hidden="true" className="rbi">
-                <img width="25" height="25" src="/img/icons/chat.svg" alt="speech-bubble-with-dots" />
-              </i>
-            </a>
+            <a href="https://www.instagram.com/journopulse/" target="_blank" rel="noopener noreferrer" aria-label="Share on Instagram">
+  <img
+    width="24"
+    height="24"
+    src="/img/icons/instagram.png"
+    alt="Instagram"
+  />
+</a> 
             {" "}
-            <a aria-label="Email" className="share-action icon-email" data-gravity="w" data-title="Email" href="/bancredito/bancredito-bsa-fine-2023" rel="nofollow">
+            <a aria-label="Email" className="share-action icon-email" data-gravity="w" data-title="twitter" href="https://x.com/journopulse_" rel="nofollow">
               <i aria-hidden="true" className="rbi">
                 <img width="25" height="25" src="/img/icons/x.svg" alt="twitterx--v2" />
               </i>
             </a>
             {" "}
-            <a aria-label="Print" className="share-action icon-print" data-gravity="w" data-title="Print" href="/bancredito/bancredito-bsa-fine-2023" rel="nofollow" role="button">
-              <i aria-hidden="true" className="rbi">
-                <img width="20" height="20" src="/img/icons/ellipsis.svg" alt="ellipsis" />
-              </i>
-            </a>
+            
           </div>
         </div>
       </div>

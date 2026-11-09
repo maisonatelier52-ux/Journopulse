@@ -30,7 +30,7 @@ export default function ArticleView({ a }) {
                           
                         
                           <span property="itemListElement" typeof="ListItem">
-                            <a className="taxonomy category" href={"/"+a.category} property="item" title="" typeof="WebPage">
+                            <a className="taxonomy category" href={"/"+a.category} property="item" title="">
                               <span property="name">
                                 {CATEGORY_LABELS[a.category] || a.categoryName}
                               </span>

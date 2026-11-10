@@ -31396,7 +31396,7 @@ License URI:    https://themeforest.net/licenses/standard
             flex-direction: column;
             justify-content: flex-end;
             padding: 30px;
-            background-size: cover;
+            background-size: contain;
             background-position: center;
             min-height: 250px;
         }

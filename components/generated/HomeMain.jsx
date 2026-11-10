@@ -565,18 +565,37 @@ export default function HomeMain() {
                           <div className="p-wrap p-small p-list-small-2" data-pid="1079">
                             <div className="feat-holder">
                               <div className="p-featured ratio-v1">
-                                <a className="p-flink" href="/world/initial-deal-to-end-us-iran-war-moves-toward-formal-signing-despite-lingering-questions" title={"Despite unanswered issues, the initial agreement to terminate the US-Iran war is moving closer to formal signing."}>
-                                  <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/initial-deal-to-end-us-iran-war-moves-toward-formal-signing-despite-lingering-questions.webp" className="featured-img wp-post-image" alt="" />
-                                </a>
+                                <a
+  className="p-flink"
+  href="/sports/college-football-playoff-expands-24-teams-2027"
+  title="College Football Playoff expands to 24 teams beginning in the 2027-28 season."
+>
+  <img
+    loading="lazy"
+    decoding="async"
+    width="330"
+    height="220"
+    src="/img/illustrations/college-football-playoff-expands-24-teams-2027.png"
+    className="featured-img wp-post-image"
+    alt="College football championship stadium with trophy and expanded playoff bracket."
+  />
+</a>
                               </div>
                             </div>
                             <div className="p-content">
                               <div className="p-categories p-top">
-                                <a className="p-category category-id-13" href="/world" rel="category">World
+                                <a className="p-category category-id-13" href="/sports" rel="category">Sports
                                 </a>
                               </div>
                               <h3 className="entry-title">
-                                <a className="p-url" href="/world/initial-deal-to-end-us-iran-war-moves-toward-formal-signing-despite-lingering-questions" rel="bookmark">{"Despite unanswered issues, the initial agreement to terminate the US-Iran war is moving closer to formal signing."}</a>
+
+<a
+  className="p-url"
+  href="/sports/college-football-playoff-expands-24-teams-2027"
+  rel="bookmark"
+>
+  {"College Football Playoff expands to 24 teams, bringing a major shake-up to the 2027 season."}
+</a>
                               </h3>
                               <div className="p-meta has-bookmark">
                                 <div className="meta-inner is-meta">
@@ -586,8 +605,9 @@ export default function HomeMain() {
                                     </a>
                                   </div>
                                   <div className="meta-el meta-date">
-                                    <time className="date published" dateTime="2026-06-16T14:03:00+00:00">Jun 16, 26</time>
-                                  </div>
+<time className="date published" dateTime="2026-11-10T12:25:00+00:00">
+  Nov 10, 26
+</time>                                  </div>
                                 </div>
                                 <span className="rb-bookmark bookmark-trigger" data-pid="1079">
                                   <img width="50" height="50" src="/img/icons/bookmark.svg" alt="bookmark-ribbon--v1" />

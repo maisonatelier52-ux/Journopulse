@@ -9223,6 +9223,7 @@
     }
   ]
 },
+
 "/us/deportation-flight-iranians-canceled-last-minute-attorney-says": {
   "title": "Deportation Flight of Iranians From US Canceled at Last Minute | JournoPulse",
   "meta": {
@@ -9304,6 +9305,137 @@
       ]
     }
   ]
+},
+
+  "/sports/college-football-playoff-expands-24-teams-2027": {
+    "title": "College Football Playoff Expands to 24 Teams in 2027 | JournoPulse",
+    "meta": {
+      "description": "The College Football Playoff will expand to 24 teams in 2027-28, reshaping postseason football with new automatic bids, byes and an expanded ESPN deal.",
+      "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "googlebot-news": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "keywords": "College Football Playoff expansion, 24-team College Football Playoff, CFP 2027, college football news, ESPN CFP deal, 2027 college football season, college football championship",
+      "og:site_name": "JournoPulse",
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "College Football Playoff Expands to 24 Teams in 2027",
+      "og:description": "College football is preparing for a major postseason shake-up as the playoff expands from 12 to 24 teams beginning in the 2027-28 season.",
+      "og:url": "https://www.journopulse.com/sports/college-football-playoff-expands-24-teams-2027",
+      "og:image": "https://www.journopulse.com/img/illustrations/college-football-playoff-expands-24-teams-2027.webp",
+      "og:image:width": "1536",
+      "og:image:height": "1024",
+      "og:image:alt": "College football championship stadium illustrating the expanded 24-team playoff format.",
+      "article:published_time": "2026-11-10T12:25:00+00:00",
+      "article:modified_time": "2026-11-10T12:25:00+00:00",
+      "article:author": "Ryan Sillers",
+      "article:section": "U.S. Sports",
+      "article:tag": "College Football",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "College Football Playoff Expands to 24 Teams in 2027",
+      "twitter:description": "A major change is coming to college football. The CFP is expanding to 24 teams beginning with the 2027-28 season.",
+      "twitter:image": "https://www.journopulse.com/img/illustrations/college-football-playoff-expands-24-teams-2027.webp",
+      "twitter:image:alt": "An illuminated college football stadium with a championship trophy and playoff bracket.",
+      "viewport": "width=device-width, initial-scale=1.0"
+    },
+    "canonical": "https://www.journopulse.com/sports/college-football-playoff-expands-24-teams-2027",
+    "ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "NewsMediaOrganization",
+            "@id": "https://www.journopulse.com/#organization",
+            "name": "JournoPulse",
+            "url": "https://www.journopulse.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.journopulse.com/img/Group8%20(1).svg"
+            },
+            "sameAs": [
+              "https://www.facebook.com/journopulse"
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.journopulse.com/#website",
+            "url": "https://www.journopulse.com/",
+            "name": "JournoPulse",
+            "inLanguage": "en-US",
+            "publisher": {
+              "@id": "https://www.journopulse.com/#organization"
+            }
+          },
+          {
+            "@type": "NewsArticle",
+            "@id": "https://www.journopulse.com/sports/college-football-playoff-expands-24-teams-2027#article",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://www.journopulse.com/sports/college-football-playoff-expands-24-teams-2027"
+            },
+            "headline": "College Football Playoff Expands to 24 Teams in Major Shake-Up for 2027 Season",
+            "description": "The College Football Playoff will expand from 12 to 24 teams beginning in the 2027-28 season, creating more championship opportunities and reshaping the postseason landscape.",
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://www.journopulse.com/img/illustrations/college-football-playoff-expands-24-teams-2027.webp",
+              "width": 1536,
+              "height": 1024,
+              "caption": "An illustration of the expanded College Football Playoff and the race for the national championship."
+            },
+            "datePublished": "2026-11-10T12:25:00+00:00",
+            "dateModified": "2026-11-10T12:25:00+00:00",
+            "author": {
+              "@type": "Person",
+              "name": "Ryan Sillers"
+            },
+            "publisher": {
+              "@id": "https://www.journopulse.com/#organization"
+            },
+            "isAccessibleForFree": true,
+            "inLanguage": "en-US",
+            "articleSection": "U.S. Sports",
+            "keywords": [
+              "College Football Playoff",
+              "24-team playoff",
+              "CFP expansion 2027",
+              "ESPN college football",
+              "college football championship",
+              "2027 college football season"
+            ],
+            "about": {
+              "@type": "Thing",
+              "name": "College Football Playoff expansion"
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.journopulse.com/sports/college-football-playoff-expands-24-teams-2027#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.journopulse.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Sports",
+                "item": "https://www.journopulse.com/sports"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "College Football Playoff Expands to 24 Teams in 2027"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }
-}
+
+
+
+
+
 

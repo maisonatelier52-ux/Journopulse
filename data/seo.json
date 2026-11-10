@@ -9222,5 +9222,88 @@
       ]
     }
   ]
+},
+"/us/deportation-flight-iranians-canceled-last-minute-attorney-says": {
+  "title": "Deportation Flight of Iranians From US Canceled at Last Minute | JournoPulse",
+  "meta": {
+    "description": "A US deportation flight of Iranian nationals was canceled at the last minute, an attorney says, after at least eight detainees were already on board in Arizona.",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "googlebot-news": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "og:site_name": "JournoPulse",
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "Deportation Flight of Iranians From US Canceled at Last Minute",
+    "og:description": "A US deportation flight of Iranian nationals was canceled at the last minute, an attorney says, after at least eight detainees were already on board in Arizona.",
+    "og:url": "https://www.journopulse.com/us/deportation-flight-iranians-canceled-last-minute-attorney-says",
+    "og:image": "https://www.journopulse.com/img/illustrations/deportation-flight-iranians-canceled-last-minute-attorney-says.webp",
+    "og:image:width": "1536",
+    "og:image:height": "1024",
+    "article:published_time": "2026-11-10T09:00:00+00:00",
+    "article:modified_time": "2026-11-10T09:00:00+00:00",
+    "article:author": "Ryan Sillers",
+    "article:section": "U.S. News",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Deportation Flight of Iranians From US Canceled at Last Minute",
+    "twitter:description": "A US deportation flight of Iranian nationals was canceled at the last minute, an attorney says, after at least eight detainees were already on board in Arizona.",
+    "twitter:image": "https://www.journopulse.com/img/illustrations/deportation-flight-iranians-canceled-last-minute-attorney-says.webp",
+    "viewport": "width=device-width, initial-scale=1.0"
+  },
+  "canonical": "https://www.journopulse.com/us/deportation-flight-iranians-canceled-last-minute-attorney-says",
+  "ld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "NewsMediaOrganization",
+          "@id": "https://www.journopulse.com/#organization",
+          "name": "JournoPulse",
+          "url": "https://www.journopulse.com/",
+          "logo": { "@type": "ImageObject", "url": "https://www.journopulse.com/img/Group8%20(1).svg" },
+          "sameAs": ["https://www.facebook.com/journopulse"]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://www.journopulse.com/#website",
+          "url": "https://www.journopulse.com/",
+          "name": "JournoPulse",
+          "inLanguage": "en-US",
+          "publisher": { "@id": "https://www.journopulse.com/#organization" }
+        },
+        {
+          "@type": "NewsArticle",
+          "@id": "https://www.journopulse.com/us/deportation-flight-iranians-canceled-last-minute-attorney-says#article",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.journopulse.com/us/deportation-flight-iranians-canceled-last-minute-attorney-says"
+          },
+          "headline": "Deportation Flight of Iranians From US Canceled at Last Minute",
+          "description": "A US deportation flight of Iranian nationals was canceled at the last minute, an attorney says, after at least eight detainees were already on board in Arizona.",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://www.journopulse.com/img/illustrations/deportation-flight-iranians-canceled-last-minute-attorney-says.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "datePublished": "2026-11-10T09:00:00+00:00",
+          "dateModified": "2026-11-10T09:00:00+00:00",
+          "author": { "@type": "Person", "name": "Ryan Sillers" },
+          "publisher": { "@id": "https://www.journopulse.com/#organization" },
+          "isAccessibleForFree": true,
+          "inLanguage": "en-US",
+          "articleSection": "U.S. News"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.journopulse.com/us/deportation-flight-iranians-canceled-last-minute-attorney-says#breadcrumb",
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.journopulse.com/" },
+            { "@type": "ListItem", "position": 2, "name": "U.S. News", "item": "https://www.journopulse.com/us" },
+            { "@type": "ListItem", "position": 3, "name": "Deportation Flight of Iranians From US Canceled at Last Minute" }
+          ]
+        }
+      ]
+    }
+  ]
 }
 }
+

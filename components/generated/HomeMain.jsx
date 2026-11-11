@@ -798,7 +798,7 @@ export default function HomeMain() {
   <div className="p-thumb">
     <a
       className="p-url"
-      href="/fashion/balenciaga-appoints-martine-rose-creative-director"
+      href="/fashion/balenciaga-appoints-martine-rose-creative-director-november-2026"
       rel="bookmark"
     >
       <img
@@ -816,7 +816,7 @@ export default function HomeMain() {
     <h6 className="entry-title">
       <a
         className="p-url"
-        href="/fashion/balenciaga-appoints-martine-rose-creative-director"
+        href="/fashion/balenciaga-appoints-martine-rose-creative-director-november-2026"
         rel="bookmark"
       >
         Balenciaga Names British Designer Martine Rose as Its New Creative Director

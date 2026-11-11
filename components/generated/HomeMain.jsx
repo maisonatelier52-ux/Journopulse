@@ -793,37 +793,74 @@ export default function HomeMain() {
                               </div>
                             </div>
                           </div>
-                          <div className="p-wrap p-small p-list-small-1" data-pid="1300">
-                            <div className="p-content">
-                              <h6 className="entry-title">
-                                <a className="p-url" href="/fashion/fashion-week-siriano-inaugural-collection-fantasy-surrealism" rel="bookmark">
-                                  {" "}Fashion week: Siriano's inaugural collection is infused with "fantasy" and "surrealism."{" "}
-                                </a>
-                              </h6>
-                              <p className="entry-summary">
-                                Fantasy and surrealist elements run throughout Christian Siriano's debut collection, which features creative designs that combine dramatic silhouettes with artistic expression.…
-                              </p>
-                              <div className="p-meta has-bookmark">
-                                <div className="meta-inner is-meta">
-                                  <div className="meta-el meta-tax meta-bold">
-                                    <i className="rbi rbi-archive" aria-hidden="true"></i>
-                                    {" "}
-                                    <a className="meta-separate term-i-6" href="/fashion">
-                                      Fashion
-                                    </a>
-                                  </div>
-                                  <div className="meta-el meta-date">
-                                    <time className="date published" dateTime="2021-08-02T11:34:21+00:00">
-                                      Feb 24, 26
-                                    </time>
-                                  </div>
-                                </div>
-                                <span className="rb-bookmark bookmark-trigger" data-pid="1300">
-                                  <img width="50" height="50" src="/img/icons/bookmark.svg" alt="bookmark-ribbon--v1" />
-                                </span>
-                              </div>
-                            </div>
-                          </div>
+                         
+<div className="p-wrap p-small p-list-small-1" data-pid="1301">
+  <div className="p-thumb">
+    <a
+      className="p-url"
+      href="/fashion/balenciaga-appoints-martine-rose-creative-director"
+      rel="bookmark"
+    >
+      <img
+        loading="lazy"
+        decoding="async"
+        src="/img/illustrations/balenciaga-appoints-martine-rose-creative-director.png"
+        alt="Martine Rose named Balenciaga's new creative director"
+        width="300"
+        height="200"
+      />
+    </a>
+  </div>
+
+  <div className="p-content">
+    <h6 className="entry-title">
+      <a
+        className="p-url"
+        href="/fashion/balenciaga-appoints-martine-rose-creative-director"
+        rel="bookmark"
+      >
+        Balenciaga Names British Designer Martine Rose as Its New Creative Director
+      </a>
+    </h6>
+
+    <p className="entry-summary">
+      British designer Martine Rose takes the creative director role at
+      Balenciaga, marking a major leadership change for the luxury fashion
+      house and a new chapter in its creative direction.
+    </p>
+
+    <div className="p-meta has-bookmark">
+      <div className="meta-inner is-meta">
+        <div className="meta-el meta-tax meta-bold">
+          <i className="rbi rbi-archive" aria-hidden="true"></i>
+          {" "}
+          <a className="meta-separate term-i-6" href="/fashion">
+            Fashion
+          </a>
+        </div>
+
+        <div className="meta-el meta-date">
+          <time
+            className="date published"
+            dateTime="2026-11-11T09:00:00+00:00"
+          >
+            Nov 11, 26
+          </time>
+        </div>
+      </div>
+
+      <span className="rb-bookmark bookmark-trigger" data-pid="1301">
+        <img
+          width="50"
+          height="50"
+          src="/img/icons/bookmark.svg"
+          alt="bookmark"
+        />
+      </span>
+    </div>
+  </div>
+</div>
+
                           <div className="p-wrap p-small p-list-small-1" data-pid="164">
                             <div className="p-content">
                               <h6 className="entry-title">

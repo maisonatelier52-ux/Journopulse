@@ -722,25 +722,26 @@ export default function HomeMain() {
                           <div className="p-wrap p-small p-list-small-1" data-pid="56">
                             <div className="p-content">
                               <h6 className="entry-title is-p-protected">
-                                <a className="p-url" href="/us/northeast-us-recovers-severe-storm-flight-delays-school-closures" rel="bookmark">
-                                  {" "}The Northeast US recovers from a severe storm that caused aircraft delays and school closures.
+                                <a className="p-url" href="/world/greta-thunberg-urges-leaders-planet-over-profits-cop31" rel="bookmark">
+                                  {" "}Greta Thunberg Urges Leaders to Put the Planet Over Profits at COP31.
                                 </a>
                               </h6>
                               <p className="entry-summary">
-                                The northeastern region of the United States is recovering after a severe storm caused widespread aircraft delays and forced schools to close. Authorities are working to restore normal ..…
-                              </p>
+Climate activist Greta Thunberg urges world leaders to put people and
+      the planet before profits as she arrives at COP31 climate talks in
+      Antalya, Turkey, calling for meaningful climate action.                              </p>
                               <div className="p-meta has-bookmark">
                                 <div className="meta-inner is-meta">
                                   <div className="meta-el meta-tax meta-bold">
                                     <i className="rbi rbi-archive" aria-hidden="true"></i>
                                     {" "}
-                                    <a className="meta-separate term-i-10" href="/us">
-                                      U.S News
+                                    <a className="meta-separate term-i-10" href="/world">
+                                      World News
                                     </a>
                                   </div>
                                   <div className="meta-el meta-date">
-                                    <time className="date published" dateTime="2021-08-29T09:54:28+00:00">
-                                      Feb 24, 26
+                                    <time className="date published" dateTime="2026-11-11T09:00:00+00:00">
+                                      November 11, 26
                                     </time>
                                   </div>
                                 </div>

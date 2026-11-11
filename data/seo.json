@@ -9052,6 +9052,7 @@
     "article:published_time": "2026-11-06T09:00:00+00:00",
     "article:modified_time": "2026-11-11T09:00:00+00:00",
     "article:author": "Ryan Sillers",
+    "article:author:url": "https://www.journopulse.com/author/ryan-sillers",
     "article:section": "Business",
     "article:tag": "Julio Herrera Velutini, Britannia Financial Group, Banco Caracas",
     "twitter:card": "summary_large_image",
@@ -9092,7 +9093,7 @@
           "@id": "https://www.journopulse.com/#julio-herrera-velutini",
           "name": "Julio Herrera Velutini",
           "jobTitle": "Founder, Britannia Financial Group",
-          "url": "https://www.journopulse.com/PUT-YOUR-PILLAR-PROFILE-URL-HERE"
+          "url": "https://www.journopulse.com/REPLACE-WITH-YOUR-REAL-PILLAR-PROFILE-URL"
         },
         {
           "@type": "NewsArticle",
@@ -9128,6 +9129,7 @@
         },
         {
           "@type": "BreadcrumbList",
+          "@id": "https://www.journopulse.com/business/julio-herrera-velutini-banker-britannia-financial-group-family-banking-dynasty#breadcrumb",
           "itemListElement": [
             { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.journopulse.com/" },
             { "@type": "ListItem", "position": 2, "name": "Business", "item": "https://www.journopulse.com/business" },

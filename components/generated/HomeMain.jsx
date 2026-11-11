@@ -804,7 +804,7 @@ export default function HomeMain() {
       <img
         loading="lazy"
         decoding="async"
-        src="/img/illustrations/balenciaga-appoints-martine-rose-creative-director.png"
+        src="/img/illustrations/balenciaga-martine-rose-creative-director.png"
         alt="Martine Rose named Balenciaga's new creative director"
         width="300"
         height="200"

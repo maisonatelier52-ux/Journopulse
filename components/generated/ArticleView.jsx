@@ -5,7 +5,41 @@ import EntryBottom from "./EntryBottom";
 import Sidebar from "./Sidebar";
 import RelatedLatest from "./RelatedLatest";
 
+function slugify(t) {
+  return t
+    .replace(/<[^>]+>/g, "")
+    .toLowerCase()
+    .replace(/&[a-z#0-9]+;/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+// Adds ids to <h2> headings in the body and returns a table of contents.
+function prepareBody(html = "") {
+  const toc = [];
+  const used = new Set();
+  const out = html.replace(/<h2([^>]*)>([\s\S]*?)<\/h2>/gi, (m, attrs, inner) => {
+    const text = inner.replace(/<[^>]+>/g, "").trim();
+    const existing = attrs.match(/\sid=["']([^"']+)["']/i);
+    if (existing) {
+      toc.push({ id: existing[1], text });
+      return m;
+    }
+    const base = slugify(inner) || "section";
+    let id = base;
+    let n = 2;
+    while (used.has(id)) id = `${base}-${n++}`;
+    used.add(id);
+    toc.push({ id, text });
+    return `<h2${attrs} id="${id}">${inner}</h2>`;
+  });
+  return { html: out, toc };
+}
+
 export default function ArticleView({ a }) {
+  const categoryLabel = CATEGORY_LABELS[a.category] || a.categoryName;
+  const { html: bodyHtml, toc } = prepareBody(a.bodyHtml);
+
   return (
     <>
       <main className="site-wrap">
@@ -16,47 +50,47 @@ export default function ArticleView({ a }) {
                 <div className="single-header-inner">
                   <div className="s-feat-holder">
                     <div className="breadcrumb-absolute light-scheme">
-                      <aside className="breadcrumb-wrap breadcrumb-navxt s-breadcrumb">
-                        <div className="breadcrumb-inner" typeof="BreadcrumbList" vocab="https://schema.org/">
-                          <span property="itemListElement">
-                            <a className="home" href="/" property="item" title="journopulse">
-                              <span property="name">
-                                Home
-                              </span>
+                      {/* Visible breadcrumb only. Schema comes from JSON-LD in data/seo.json */}
+                      <aside className="breadcrumb-wrap breadcrumb-navxt s-breadcrumb" aria-label="Breadcrumb">
+                        <div className="breadcrumb-inner">
+                          <span>
+                            <a className="home" href="/" title="journopulse">
+                              <span>Home</span>
                             </a>
-                            <meta content="1" property="position" />
                           </span>
                           {" "}&gt;{" "}
-                          
-                        
-                          <span property="itemListElement">
-                            <a className="taxonomy category" href={"/"+a.category} property="item" title="">
-                              <span property="name">
-                                {CATEGORY_LABELS[a.category] || a.categoryName}
-                              </span>
+                          <span>
+                            <a className="taxonomy category" href={"/"+a.category} title={categoryLabel}>
+                              <span>{categoryLabel}</span>
                             </a>
-                            <meta content="3" property="position" />
                           </span>
                           {" "}&gt;{" "}
-                          <span property="itemListElement">
-                            <span className="post post-post current-item" property="name">
+                          <span>
+                            <span className="post post-post current-item" aria-current="page">
                               {a.title}
-                              <meta content={"https://www.journopulse.com/"+a.category+"/"+a.slug} property="url" />
-                              <meta content="4" property="position" />
                             </span>
                           </span>
                         </div>
                       </aside>
                     </div>
                     <div className="featured-lightbox-trigger" data-attribution={a.image.attribution} data-caption={a.image.caption} data-source={a.image.source}>
-                      <img alt={a.image.alt} className="featured-img wp-post-image" decoding="async" height={a.image.height} loading="lazy" src={a.image.src} width={a.image.width} />
+                      <img
+                        alt={a.image.alt}
+                        className="featured-img wp-post-image"
+                        decoding="async"
+                        fetchPriority="high"
+                        loading="eager"
+                        height={a.image.height}
+                        src={a.image.src}
+                        width={a.image.width}
+                      />
                     </div>
                   </div>
                   <div className="single-header-content light-scheme">
                     <div className="s-cats ecat-bg-4 ecat-size-big">
                       <div className="p-categories">
                         <a className="p-category category-id-13" href={"/"+a.category} rel="category">
-                          {CATEGORY_LABELS[a.category] || a.categoryName}
+                          {categoryLabel}
                         </a>
                       </div>
                     </div>
@@ -68,16 +102,17 @@ export default function ArticleView({ a }) {
                     </h2>
                     <div className="single-meta yes-0">
                       <div className="smeta-in">
-                        <a aria-label={'Visit posts by '+a.author.name} className="meta-el meta-avatar" href={'/author/'+a.author.slug} rel="nofollow">
-<img
-  loading="lazy"
-  decoding="async"
-  width="150"
-  height="150"
-  src={a.author.avatar || "/img/illustrations/rayan-author.png"}
-  className="photo avatar author-avatar"
-  alt={`${a.author.name} - ${a.author.job}`}
-/>                        </a>
+                        <a aria-label={'Visit posts by '+a.author.name} className="meta-el meta-avatar" href={'/author/'+a.author.slug}>
+                          <img
+                            loading="lazy"
+                            decoding="async"
+                            width="150"
+                            height="150"
+                            src={a.author.avatar || "/img/illustrations/rayan-author.png"}
+                            className="photo avatar author-avatar"
+                            alt={`${a.author.name} - ${a.author.job}`}
+                          />
+                        </a>
                         <div className="smeta-sec">
                           <div className="smeta-bottom meta-text">
                             <time className="updated-date" dateTime={a.updated.datetime}>
@@ -122,7 +157,19 @@ export default function ArticleView({ a }) {
                     <div className="s-ct-inner">
                       <ShareLeft />
                       <div className="e-ct-outer">
-                        <div className="entry-content rbct clearfix is-highlight-shares" dangerouslySetInnerHTML={{ __html: a.bodyHtml }} />
+                        {toc.length >= 3 && (
+                          <nav className="article-toc" aria-label="Table of contents">
+                            <p className="article-toc-title">In this article</p>
+                            <ol>
+                              {toc.map((t) => (
+                                <li key={t.id}>
+                                  <a href={"#" + t.id}>{t.text}</a>
+                                </li>
+                              ))}
+                            </ol>
+                          </nav>
+                        )}
+                        <div className="entry-content rbct clearfix is-highlight-shares" dangerouslySetInnerHTML={{ __html: bodyHtml }} />
                         <EntryBottom />
                       </div>
                     </div>

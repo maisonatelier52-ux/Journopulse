@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import SiteShell from "@/components/SiteShell";
 import ArticleView from "@/components/generated/ArticleView";
 import MoreToRead from "@/components/MoreToRead";
+import Breadcrumbs from "@/components/Breadcrumbs"; // NEW
 import { allArticles, getArticle } from "@/lib/articles";
 import { metadataFor, JsonLd } from "@/lib/seo";
 import TopicHubBox from "@/components/TopicHubBox";
@@ -22,9 +23,17 @@ export default async function ArticlePage({ params }) {
   const { category, slug } = await params;
   const a = getArticle(category, slug);
   if (!a) notFound();
+
+  const crumbs = [
+    { name: "Home", href: "/" },
+    { name: a.categoryLabel || category, href: `/${category}` },
+    { name: a.title },
+  ];
+
   return (
     <SiteShell topFooter>
       <JsonLd route={a.route} />
+      <Breadcrumbs items={crumbs} /> {/* NEW */}
       <ArticleView a={a} />
       <TopicHubBox pillars={pillarsForArticle(a.route)} />
       <MoreToRead a={a} />

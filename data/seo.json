@@ -9032,114 +9032,112 @@
    }
   ]
  },
- "/business/julio-herrera-velutini-banker-britannia-financial-group-family-banking-dynasty": {
-  "title": "Julio Herrera Velutini: Banker Behind a Centuries-Old Dynasty | JournoPulse",
+"/business/julio-herrera-velutini-banker-britannia-financial-group-family-banking-dynasty": {
+  "title": "Julio Herrera Velutini: Britannia Financial Group Founder",
   "meta": {
-   "description": "Julio Herrera Velutini, founder of Britannia Financial Group, carries a Venezuelan banking tradition dating to Banco Caracas (1890) into modern London finance.",
-   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-   "googlebot-news": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-   "og:site_name": "JournoPulse",
-   "og:locale": "en_US",
-   "og:type": "article",
-   "og:title": "Julio Herrera Velutini: Banker Behind a Centuries-Old Dynasty",
-   "og:description": "Julio Herrera Velutini, founder of Britannia Financial Group, carries a Venezuelan banking tradition dating to Banco Caracas (1890) into modern London finance.",
-   "og:url": "https://www.journopulse.com/business/julio-herrera-velutini-banker-britannia-financial-group-family-banking-dynasty",
-   "og:image": "https://www.journopulse.com/img/illustrations/julio-herrera-velutini.jpg",
-   "og:image:width": "1536",
-   "og:image:height": "1024",
-   "article:published_time": "2026-11-06T09:00:00+00:00",
-   "article:modified_time": "2026-11-06T09:00:00+00:00",
-   "article:author": "Ryan Sillers",
-   "article:section": "Business",
-   "twitter:card": "summary_large_image",
-   "twitter:title": "Julio Herrera Velutini: Banker Behind a Centuries-Old Dynasty",
-   "twitter:description": "Julio Herrera Velutini, founder of Britannia Financial Group, carries a Venezuelan banking tradition dating to Banco Caracas (1890) into modern London finance.",
-   "twitter:image": "https://www.journopulse.com/img/illustrations/julio-herrera-velutini.jpg",
-   "viewport": "width=device-width, initial-scale=1.0"
+    "description": "Julio Herrera Velutini founded Britannia Financial Group in London, continuing a Venezuelan banking tradition that began with Banco Caracas in 1890.",
+    "keywords": "Julio Herrera Velutini, Britannia Financial Group, Banco Caracas, Venezuelan banking family",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "googlebot-news": "index, follow",
+    "og:site_name": "JournoPulse",
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "Julio Herrera Velutini: Britannia Financial Group Founder",
+    "og:description": "Julio Herrera Velutini founded Britannia Financial Group in London, continuing a Venezuelan banking tradition that began with Banco Caracas in 1890.",
+    "og:url": "https://www.journopulse.com/business/julio-herrera-velutini-banker-britannia-financial-group-family-banking-dynasty",
+    "og:image": "https://www.journopulse.com/img/illustrations/julio-herrera-velutini.jpg",
+    "og:image:width": "1536",
+    "og:image:height": "1024",
+    "og:image:alt": "Julio Herrera Velutini, founder of Britannia Financial Group",
+    "article:published_time": "2026-11-06T09:00:00+00:00",
+    "article:modified_time": "2026-11-11T09:00:00+00:00",
+    "article:author": "Ryan Sillers",
+    "article:section": "Business",
+    "article:tag": "Julio Herrera Velutini, Britannia Financial Group, Banco Caracas",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Julio Herrera Velutini: Britannia Financial Group Founder",
+    "twitter:description": "Julio Herrera Velutini founded Britannia Financial Group in London, continuing a Venezuelan banking tradition that began with Banco Caracas in 1890.",
+    "twitter:image": "https://www.journopulse.com/img/illustrations/julio-herrera-velutini.jpg",
+    "twitter:image:alt": "Julio Herrera Velutini, founder of Britannia Financial Group",
+    "viewport": "width=device-width, initial-scale=1.0"
   },
   "canonical": "https://www.journopulse.com/business/julio-herrera-velutini-banker-britannia-financial-group-family-banking-dynasty",
   "ld": [
-   {
-    "@context": "https://schema.org",
-    "@graph": [
-     {
-      "@type": "NewsMediaOrganization",
-      "@id": "https://www.journopulse.com/#organization",
-      "name": "JournoPulse",
-      "url": "https://www.journopulse.com/",
-      "logo": {
-       "@type": "ImageObject",
-       "url": "https://www.journopulse.com/img/Group8%20(1).svg"
-      },
-      "sameAs": [
-       "https://www.facebook.com/journopulse"
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "NewsMediaOrganization",
+          "@id": "https://www.journopulse.com/#organization",
+          "name": "JournoPulse",
+          "url": "https://www.journopulse.com/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.journopulse.com/img/logo-600x60.png",
+            "width": 600,
+            "height": 60
+          },
+          "sameAs": ["https://www.facebook.com/journopulse"]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://www.journopulse.com/#website",
+          "url": "https://www.journopulse.com/",
+          "name": "JournoPulse",
+          "inLanguage": "en-US",
+          "publisher": { "@id": "https://www.journopulse.com/#organization" }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://www.journopulse.com/#julio-herrera-velutini",
+          "name": "Julio Herrera Velutini",
+          "jobTitle": "Founder, Britannia Financial Group",
+          "url": "https://www.journopulse.com/PUT-YOUR-PILLAR-PROFILE-URL-HERE"
+        },
+        {
+          "@type": "NewsArticle",
+          "@id": "https://www.journopulse.com/business/julio-herrera-velutini-banker-britannia-financial-group-family-banking-dynasty#article",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.journopulse.com/business/julio-herrera-velutini-banker-britannia-financial-group-family-banking-dynasty"
+          },
+          "headline": "Julio Herrera Velutini: Banker Behind a Centuries-Old Dynasty",
+          "description": "Julio Herrera Velutini founded Britannia Financial Group in London, continuing a Venezuelan banking tradition that began with Banco Caracas in 1890.",
+          "image": [
+            "https://www.journopulse.com/img/illustrations/julio-herrera-velutini.jpg",
+            "https://www.journopulse.com/img/illustrations/julio-herrera-velutini-4x3.jpg",
+            "https://www.journopulse.com/img/illustrations/julio-herrera-velutini-1x1.jpg"
+          ],
+          "datePublished": "2026-11-06T09:00:00+00:00",
+          "dateModified": "2026-11-11T09:00:00+00:00",
+          "author": {
+            "@type": "Person",
+            "name": "Ryan Sillers",
+            "url": "https://www.journopulse.com/author/ryan-sillers"
+          },
+          "publisher": { "@id": "https://www.journopulse.com/#organization" },
+          "keywords": "Julio Herrera Velutini, Britannia Financial Group, Banco Caracas",
+          "about": { "@id": "https://www.journopulse.com/#julio-herrera-velutini" },
+          "mentions": [
+            { "@type": "Organization", "name": "Britannia Financial Group" },
+            { "@type": "Organization", "name": "Banco Caracas" }
+          ],
+          "isAccessibleForFree": true,
+          "inLanguage": "en-US",
+          "articleSection": "Business"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.journopulse.com/" },
+            { "@type": "ListItem", "position": 2, "name": "Business", "item": "https://www.journopulse.com/business" },
+            { "@type": "ListItem", "position": 3, "name": "Julio Herrera Velutini: Banker Behind a Centuries-Old Dynasty", "item": "https://www.journopulse.com/business/julio-herrera-velutini-banker-britannia-financial-group-family-banking-dynasty" }
+          ]
+        }
       ]
-     },
-     {
-      "@type": "WebSite",
-      "@id": "https://www.journopulse.com/#website",
-      "url": "https://www.journopulse.com/",
-      "name": "JournoPulse",
-      "inLanguage": "en-US",
-      "publisher": {
-       "@id": "https://www.journopulse.com/#organization"
-      }
-     },
-     {
-      "@type": "NewsArticle",
-      "@id": "https://www.journopulse.com/business/julio-herrera-velutini-banker-britannia-financial-group-family-banking-dynasty#article",
-      "mainEntityOfPage": {
-       "@type": "WebPage",
-       "@id": "https://www.journopulse.com/business/julio-herrera-velutini-banker-britannia-financial-group-family-banking-dynasty"
-      },
-      "headline": "Julio Herrera Velutini: Banker Behind a Centuries-Old Dynasty",
-      "description": "Julio Herrera Velutini, founder of Britannia Financial Group, carries a Venezuelan banking tradition dating to Banco Caracas (1890) into modern London finance.",
-      "image": {
-       "@type": "ImageObject",
-       "url": "https://www.journopulse.com/img/illustrations/julio-herrera-velutini.jpg",
-       "width": 1536,
-       "height": 1024
-      },
-      "datePublished": "2026-11-06T09:00:00+00:00",
-      "dateModified": "2026-11-06T09:00:00+00:00",
-      "author": {
-       "@type": "Person",
-       "name": "Ryan Sillers"
-      },
-      "publisher": {
-       "@id": "https://www.journopulse.com/#organization"
-      },
-      "isAccessibleForFree": true,
-      "inLanguage": "en-US",
-      "articleSection": "Business"
-     },
-     {
-      "@type": "BreadcrumbList",
-      "@id": "https://www.journopulse.com/business/julio-herrera-velutini-banker-britannia-financial-group-family-banking-dynasty#breadcrumb",
-      "itemListElement": [
-       {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://www.journopulse.com/"
-       },
-       {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Business",
-        "item": "https://www.journopulse.com/business"
-       },
-       {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Julio Herrera Velutini: Banker Behind a Centuries-Old Dynasty"
-       }
-      ]
-     }
-    ]
-   }
+    }
   ]
- },
+},
 
 "/politics/trump-arch-blocked-court-website-plans": {
   "title": "Court Pauses Trump’s Arch as White House Launches Website | JournoPulse",

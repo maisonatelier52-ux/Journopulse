@@ -1040,19 +1040,40 @@ Climate activist Greta Thunberg urges world leaders to put people and
                           <div className="p-wrap p-grid p-grid-1" data-pid="240">
                             <div className="feat-holder">
                               <div className="p-featured">
-                                <a className="p-flink" href="/business/kosovo-poor-economy-struggles-iran-war-fuel-price-surge" title={"One of the poorest nations in Europe, Kosovo, suffers when the war in Iran raises fuel prices."}>
-                                  <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/kosovo-poor-economy-struggles-iran-war-fuel-price-surge.webp" className="featured-img wp-post-image" alt="" />
-                                </a>
+                               <a
+  className="p-flink"
+  href="/business/nvidia-jensen-huang-resigns-colette-kress-interim-ceo"
+  title="Nvidia CEO Jensen Huang Resigns; Colette Kress Named Interim CEO"
+>
+  <img
+    loading="lazy"
+    decoding="async"
+    width="330"
+    height="220"
+    src="/img/illustrations/nvidia-jensen-huang-colette-kress-ceo-transition.webp"
+    className="featured-img wp-post-image"
+    alt="Nvidia leadership transition featuring Jensen Huang and Colette Kress"
+  />
+</a>
                               </div>
                             </div>
                             <h6 className="entry-title">
-                              <a className="p-url" href="/business/kosovo-poor-economy-struggles-iran-war-fuel-price-surge" rel="bookmark">{"One of the poorest nations in Europe, Kosovo, suffers when the war in Iran raises fuel prices."}</a>
-                            </h6>
+<a
+  className="p-url"
+  href="/business/nvidia-jensen-huang-resigns-colette-kress-interim-ceo"
+  rel="bookmark"
+>
+  {"Nvidia CEO Jensen Huang Resigns; Colette Kress Named Interim CEO"}
+</a>                            </h6>
                             <div className="p-meta has-bookmark">
                               <div className="meta-inner is-meta">
                                 <div className="meta-el meta-date mobile-last-meta">
-                                  <time className="date published" dateTime="2026-03-30T14:03:00+00:00">Mar 30, 26</time>
-                                </div>
+<time
+  className="date published"
+  dateTime="2026-11-13T16:41:00+05:30"
+>
+  Nov 13, 26
+</time>                                </div>
                               </div>
                               <span className="rb-bookmark bookmark-trigger" data-pid="240">
                                 <img width="50" height="50" src="/img/icons/bookmark.svg" alt="bookmark-ribbon--v1" />

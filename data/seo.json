@@ -9769,34 +9769,35 @@
 
 
 
-  "/health/us-measles-outbreak-threatens-elimination-status-2026": {
-    "title": "US Measles Outbreak Threatens America's Elimination Status | JournoPulse",
+  
+  "/business/nvidia-jensen-huang-resigns-colette-kress-interim-ceo": {
+    "title": "Nvidia CEO Jensen Huang Resigns; Colette Kress Named Interim CEO | JournoPulse",
     "meta": {
-      "description": "The United States faces the possible loss of its measles-elimination status as infections exceed 5,100 in 2026. Health experts highlight vaccination as the key to stopping the outbreak.",
+      "description": "Nvidia announces a major leadership change as CEO Jensen Huang resigns and CFO Colette Kress takes over as interim chief while the board searches for a permanent successor.",
       "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       "googlebot-news": "index, follow, max-image-preview:large, max-video-preview:-1",
       "og:site_name": "JournoPulse",
       "og:locale": "en_US",
       "og:type": "article",
-      "og:title": "US Measles Outbreak Threatens America's Elimination Status",
-      "og:description": "More than 5,100 measles cases have been reported in the United States in 2026 as international health experts review the country's elimination status.",
-      "og:url": "https://www.journopulse.com/health/us-measles-outbreak-threatens-elimination-status-2026",
-      "og:image": "https://www.journopulse.com/img/illustrations/us-measles-vaccination-outbreak.webp",
+      "og:title": "Nvidia CEO Jensen Huang Resigns; Colette Kress Named Interim CEO",
+      "og:description": "Nvidia confirms a leadership transition as Jensen Huang steps down and CFO Colette Kress is appointed interim CEO.",
+      "og:url": "https://www.journopulse.com/business/nvidia-jensen-huang-resigns-colette-kress-interim-ceo",
+      "og:image": "https://www.journopulse.com/img/illustrations/nvidia-jensen-huang-colette-kress-ceo-transition.webp",
       "og:image:width": "1672",
       "og:image:height": "941",
       "og:image:type": "image/webp",
-      "article:published_time": "2026-11-13T08:15:00+00:00",
-      "article:modified_time": "2026-11-13T08:15:00+00:00",
+      "article:published_time": "2026-11-13T13:45:00+05:30",
+      "article:modified_time": "2026-11-13T13:45:00+05:30",
       "article:author": "Ryan Sillers",
-      "article:section": "Health News",
+      "article:section": "Business News",
       "twitter:card": "summary_large_image",
-      "twitter:title": "US Measles Cases Surge as Elimination Status Is Threatened",
-      "twitter:description": "The US could lose its measles-elimination status after thousands of infections in 2026. Experts urge stronger vaccination efforts.",
-      "twitter:image": "https://www.journopulse.com/img/illustrations/us-measles-vaccination-outbreak.webp",
-      "twitter:image:alt": "Healthcare worker preparing an MMR vaccine beside a US measles outbreak map",
+      "twitter:title": "Nvidia CEO Jensen Huang Resigns; Colette Kress Takes Over",
+      "twitter:description": "Nvidia faces a major leadership transition as Colette Kress becomes interim CEO following Jensen Huang's resignation.",
+      "twitter:image": "https://www.journopulse.com/img/illustrations/nvidia-jensen-huang-colette-kress-ceo-transition.webp",
+      "twitter:image:alt": "Nvidia leadership transition featuring Jensen Huang and Colette Kress",
       "viewport": "width=device-width, initial-scale=1.0"
     },
-    "canonical": "https://www.journopulse.com/health/us-measles-outbreak-threatens-elimination-status-2026",
+    "canonical": "https://www.journopulse.com/business/nvidia-jensen-huang-resigns-colette-kress-interim-ceo",
     "ld": [
       {
         "@context": "https://schema.org",
@@ -9826,21 +9827,21 @@
           },
           {
             "@type": "NewsArticle",
-            "@id": "https://www.journopulse.com/health/us-measles-outbreak-threatens-elimination-status-2026#article",
+            "@id": "https://www.journopulse.com/business/nvidia-jensen-huang-resigns-colette-kress-interim-ceo#article",
             "mainEntityOfPage": {
               "@type": "WebPage",
-              "@id": "https://www.journopulse.com/health/us-measles-outbreak-threatens-elimination-status-2026"
+              "@id": "https://www.journopulse.com/business/nvidia-jensen-huang-resigns-colette-kress-interim-ceo"
             },
-            "headline": "US Measles Outbreak Threatens America's Elimination Status",
-            "description": "The United States faces the possible loss of its measles-elimination status after more than 5,100 infections were reported in 2026.",
+            "headline": "Nvidia CEO Jensen Huang Resigns as Colette Kress Takes Over as Interim Chief",
+            "description": "Nvidia announces a leadership transition as Jensen Huang resigns and CFO Colette Kress is appointed interim CEO while the board searches for a permanent successor.",
             "image": {
               "@type": "ImageObject",
-              "url": "https://www.journopulse.com/img/illustrations/us-measles-vaccination-outbreak.webp",
+              "url": "https://www.journopulse.com/img/illustrations/nvidia-jensen-huang-colette-kress-ceo-transition.webp",
               "width": 1672,
               "height": 941
             },
-            "datePublished": "2026-11-13T08:15:00+00:00",
-            "dateModified": "2026-11-13T08:15:00+00:00",
+            "datePublished": "2026-11-13T13:45:00+05:30",
+            "dateModified": "2026-11-13T13:45:00+05:30",
             "author": {
               "@type": "Person",
               "name": "Ryan Sillers"
@@ -9850,11 +9851,18 @@
             },
             "isAccessibleForFree": true,
             "inLanguage": "en-US",
-            "articleSection": "Health News"
+            "articleSection": "Business News",
+            "keywords": [
+              "Nvidia CEO Jensen Huang resigns",
+              "Colette Kress interim CEO",
+              "Nvidia leadership change",
+              "Nvidia business news",
+              "AI semiconductor industry"
+            ]
           },
           {
             "@type": "BreadcrumbList",
-            "@id": "https://www.journopulse.com/health/us-measles-outbreak-threatens-elimination-status-2026#breadcrumb",
+            "@id": "https://www.journopulse.com/business/nvidia-jensen-huang-resigns-colette-kress-interim-ceo#breadcrumb",
             "itemListElement": [
               {
                 "@type": "ListItem",
@@ -9865,14 +9873,14 @@
               {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Health News",
-                "item": "https://www.journopulse.com/health"
+                "name": "Business News",
+                "item": "https://www.journopulse.com/business"
               },
               {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "US Measles Outbreak Threatens America's Elimination Status",
-                "item": "https://www.journopulse.com/health/us-measles-outbreak-threatens-elimination-status-2026"
+                "name": "Nvidia CEO Jensen Huang Resigns; Colette Kress Named Interim CEO",
+                "item": "https://www.journopulse.com/business/nvidia-jensen-huang-resigns-colette-kress-interim-ceo"
               }
             ]
           }

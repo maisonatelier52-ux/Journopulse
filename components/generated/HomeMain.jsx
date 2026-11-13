@@ -48,16 +48,36 @@ export default function HomeMain() {
                           <div className="p-wrap p-grid p-grid-1" data-pid="59">
                             <div className="feat-holder">
                               <div className="p-featured">
-                                <a className="p-flink" href="/business/kremlin-claims-putin-will-travel-to-beijing-very-soon" title={"The Kremlin claims that Putin will travel to Beijing \"very soon."}>
-                                  <img loading="lazy" decoding="async" width="420" height="280" src="/img/illustrations/kremlin-claims-putin-will-travel-to-beijing-very-soon.webp" className="featured-img wp-post-image" alt="governors-arrives" />
-                                </a>
+                                
+<a
+  className="p-flink"
+  href="/health/us-measles-outbreak-threatens-elimination-status-2026"
+  title="US Measles Outbreak Threatens America's Elimination Status"
+>
+  <img
+    loading="lazy"
+    decoding="async"
+    width="420"
+    height="280"
+    src="/img/illustrations/us-measles-vaccination-outbreak.webp"
+    className="featured-img wp-post-image"
+    alt="US measles outbreak and MMR vaccination campaign"
+  />
+</a>
+
                               </div>
                             </div>
-                            <h3 className="entry-title is-p-protected">
-                              <a className="p-url" href="/business/kremlin-claims-putin-will-travel-to-beijing-very-soon" rel="bookmark">
-                                {" "}The Kremlin claims that Putin will travel to Beijing "very soon..{" "}
-                              </a>
-                            </h3>
+                            
+<h3 className="entry-title is-p-protected">
+  <a
+    className="p-url"
+    href="/health/us-measles-outbreak-threatens-elimination-status-2026"
+    rel="bookmark"
+  >
+    {" "}US Measles Outbreak Threatens America's Elimination Status{" "}
+  </a>
+</h3>
+
                             <div className="p-meta has-bookmark">
                               <div className="meta-inner is-meta">
                                 <a className="meta-el meta-avatar tablet-hide mobile-hide" href="/author/ryan-sillers" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
@@ -69,9 +89,14 @@ export default function HomeMain() {
                                   </a>
                                 </div>
                                 <div className="meta-el meta-date mobile-last-meta tablet-last-meta">
-                                  <time className="date published" dateTime="2021-08-20T07:54:55+00:00">
-                                    March 31, 26
-                                  </time>
+                                  
+<time
+  className="date published"
+  dateTime="2026-11-13T08:15:00+00:00"
+>
+  Nov 13, 26
+</time>
+
                                 </div>
                               </div>
                               <span className="rb-bookmark bookmark-trigger" data-pid="23">
@@ -977,9 +1002,21 @@ Climate activist Greta Thunberg urges world leaders to put people and
                           <div className="p-wrap p-grid p-grid-1" data-pid="225">
                             <div className="feat-holder">
                               <div className="p-featured">
-                                <a className="p-flink" href="/business/us-gas-prices-hit-4-dollars-highest-since-2022" title={"The average price of a gallon of ordinary petrol in the US has risen beyond $4, the highest since 2022."}>
-                                  <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/us-gas-prices-hit-4-dollars-highest-since-2022.webp" className="featured-img wp-post-image" alt="" />
-                                </a>
+                               <a
+  className="p-flink"
+  href="/business/nvidia-jensen-huang-resigns-ai-industry-future"
+  title="Nvidia CEO Jensen Huang Resigns as AI Industry Faces Uncertainty"
+>
+  <img
+    loading="lazy"
+    decoding="async"
+    width="330"
+    height="220"
+    src="/img/illustrations/nvidia-leadership-ai-business.webp"
+    className="featured-img wp-post-image"
+    alt="Nvidia CEO Jensen Huang and the company's leadership transition"
+  />
+</a>
                               </div>
                             </div>
                             <h6 className="entry-title">
@@ -988,8 +1025,12 @@ Climate activist Greta Thunberg urges world leaders to put people and
                             <div className="p-meta has-bookmark">
                               <div className="meta-inner is-meta">
                                 <div className="meta-el meta-date mobile-last-meta">
-                                  <time className="date published" dateTime="2026-03-31T14:03:00+00:00">Mar 31, 26</time>
-                                </div>
+<time
+  className="date published"
+  dateTime="2026-11-13T14:03:00+00:00"
+>
+  Nov 13, 26
+</time>                                </div>
                               </div>
                               <span className="rb-bookmark bookmark-trigger" data-pid="225">
                                 <img width="50" height="50" src="/img/icons/bookmark.svg" alt="bookmark-ribbon--v1" />

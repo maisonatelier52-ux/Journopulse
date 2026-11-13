@@ -9653,7 +9653,236 @@
         ]
       }
     ]
+  },
+
+  "/business/nvidia-jensen-huang-resigns-ai-industry-future": {
+    "title": "Nvidia CEO Jensen Huang Resigns Amid AI Industry Uncertainty | JournoPulse",
+    "meta": {
+      "description": "Nvidia CEO Jensen Huang resigns as CFO Colette Kress takes over as interim chief executive. Explore the leadership shake-up and its impact on the global AI industry.",
+      "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "googlebot-news": "index, follow, max-image-preview:large, max-video-preview:-1",
+      "og:site_name": "JournoPulse",
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Nvidia CEO Jensen Huang Resigns Amid AI Industry Uncertainty",
+      "og:description": "Nvidia faces a major leadership transition after Jensen Huang's resignation, with Colette Kress appointed interim CEO as the AI industry watches.",
+      "og:url": "https://www.journopulse.com/business/nvidia-jensen-huang-resigns-ai-industry-future",
+      "og:image": "https://www.journopulse.com/img/illustrations/nvidia-leadership-ai-business.webp",
+      "og:image:width": "1536",
+      "og:image:height": "1024",
+      "og:image:type": "image/webp",
+      "article:published_time": "2026-11-13T08:00:00+00:00",
+      "article:modified_time": "2026-11-13T08:00:00+00:00",
+      "article:author": "Ryan Sillers",
+      "article:section": "Business News",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Nvidia CEO Jensen Huang Resigns: What's Next for AI?",
+      "twitter:description": "Nvidia appoints Colette Kress as interim CEO following Jensen Huang's sudden resignation, raising questions about the future of AI.",
+      "twitter:image": "https://www.journopulse.com/img/illustrations/nvidia-leadership-ai-business.webp",
+      "twitter:image:alt": "Editorial illustration of Nvidia semiconductor technology and financial market uncertainty",
+      "viewport": "width=device-width, initial-scale=1.0"
+    },
+    "canonical": "https://www.journopulse.com/business/nvidia-jensen-huang-resigns-ai-industry-future",
+    "ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "NewsMediaOrganization",
+            "@id": "https://www.journopulse.com/#organization",
+            "name": "JournoPulse",
+            "url": "https://www.journopulse.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.journopulse.com/img/Group8%20(1).svg"
+            },
+            "sameAs": [
+              "https://www.facebook.com/journopulse"
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.journopulse.com/#website",
+            "url": "https://www.journopulse.com/",
+            "name": "JournoPulse",
+            "inLanguage": "en-US",
+            "publisher": {
+              "@id": "https://www.journopulse.com/#organization"
+            }
+          },
+          {
+            "@type": "NewsArticle",
+            "@id": "https://www.journopulse.com/business/nvidia-jensen-huang-resigns-ai-industry-future#article",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://www.journopulse.com/business/nvidia-jensen-huang-resigns-ai-industry-future"
+            },
+            "headline": "Nvidia CEO Jensen Huang Resigns Amid AI Industry Uncertainty",
+            "description": "Nvidia CEO Jensen Huang resigns as Colette Kress takes over as interim chief executive, raising questions about the future of the AI industry.",
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://www.journopulse.com/img/illustrations/nvidia-leadership-ai-business.webp",
+              "width": 1536,
+              "height": 1024
+            },
+            "datePublished": "2026-11-13T08:00:00+00:00",
+            "dateModified": "2026-11-13T08:00:00+00:00",
+            "author": {
+              "@type": "Person",
+              "name": "Ryan Sillers"
+            },
+            "publisher": {
+              "@id": "https://www.journopulse.com/#organization"
+            },
+            "isAccessibleForFree": true,
+            "inLanguage": "en-US",
+            "articleSection": "Business News"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.journopulse.com/business/nvidia-jensen-huang-resigns-ai-industry-future#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.journopulse.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Business News",
+                "item": "https://www.journopulse.com/business"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Nvidia CEO Jensen Huang Resigns Amid AI Industry Uncertainty",
+                "item": "https://www.journopulse.com/business/nvidia-jensen-huang-resigns-ai-industry-future"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+
+
+  "/health/us-measles-outbreak-threatens-elimination-status-2026": {
+    "title": "US Measles Outbreak Threatens America's Elimination Status | JournoPulse",
+    "meta": {
+      "description": "The United States faces the possible loss of its measles-elimination status as infections exceed 5,100 in 2026. Health experts highlight vaccination as the key to stopping the outbreak.",
+      "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "googlebot-news": "index, follow, max-image-preview:large, max-video-preview:-1",
+      "og:site_name": "JournoPulse",
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "US Measles Outbreak Threatens America's Elimination Status",
+      "og:description": "More than 5,100 measles cases have been reported in the United States in 2026 as international health experts review the country's elimination status.",
+      "og:url": "https://www.journopulse.com/health/us-measles-outbreak-threatens-elimination-status-2026",
+      "og:image": "https://www.journopulse.com/img/illustrations/us-measles-vaccination-outbreak.webp",
+      "og:image:width": "1672",
+      "og:image:height": "941",
+      "og:image:type": "image/webp",
+      "article:published_time": "2026-11-13T08:15:00+00:00",
+      "article:modified_time": "2026-11-13T08:15:00+00:00",
+      "article:author": "Ryan Sillers",
+      "article:section": "Health News",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "US Measles Cases Surge as Elimination Status Is Threatened",
+      "twitter:description": "The US could lose its measles-elimination status after thousands of infections in 2026. Experts urge stronger vaccination efforts.",
+      "twitter:image": "https://www.journopulse.com/img/illustrations/us-measles-vaccination-outbreak.webp",
+      "twitter:image:alt": "Healthcare worker preparing an MMR vaccine beside a US measles outbreak map",
+      "viewport": "width=device-width, initial-scale=1.0"
+    },
+    "canonical": "https://www.journopulse.com/health/us-measles-outbreak-threatens-elimination-status-2026",
+    "ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "NewsMediaOrganization",
+            "@id": "https://www.journopulse.com/#organization",
+            "name": "JournoPulse",
+            "url": "https://www.journopulse.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.journopulse.com/img/Group8%20(1).svg"
+            },
+            "sameAs": [
+              "https://www.facebook.com/journopulse"
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.journopulse.com/#website",
+            "url": "https://www.journopulse.com/",
+            "name": "JournoPulse",
+            "inLanguage": "en-US",
+            "publisher": {
+              "@id": "https://www.journopulse.com/#organization"
+            }
+          },
+          {
+            "@type": "NewsArticle",
+            "@id": "https://www.journopulse.com/health/us-measles-outbreak-threatens-elimination-status-2026#article",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://www.journopulse.com/health/us-measles-outbreak-threatens-elimination-status-2026"
+            },
+            "headline": "US Measles Outbreak Threatens America's Elimination Status",
+            "description": "The United States faces the possible loss of its measles-elimination status after more than 5,100 infections were reported in 2026.",
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://www.journopulse.com/img/illustrations/us-measles-vaccination-outbreak.webp",
+              "width": 1672,
+              "height": 941
+            },
+            "datePublished": "2026-11-13T08:15:00+00:00",
+            "dateModified": "2026-11-13T08:15:00+00:00",
+            "author": {
+              "@type": "Person",
+              "name": "Ryan Sillers"
+            },
+            "publisher": {
+              "@id": "https://www.journopulse.com/#organization"
+            },
+            "isAccessibleForFree": true,
+            "inLanguage": "en-US",
+            "articleSection": "Health News"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.journopulse.com/health/us-measles-outbreak-threatens-elimination-status-2026#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.journopulse.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Health News",
+                "item": "https://www.journopulse.com/health"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "US Measles Outbreak Threatens America's Elimination Status",
+                "item": "https://www.journopulse.com/health/us-measles-outbreak-threatens-elimination-status-2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
+
+
+
 }
 
 

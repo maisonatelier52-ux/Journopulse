@@ -9767,9 +9767,6 @@
     ]
   },
 
-
-
-  
   "/business/nvidia-jensen-huang-resigns-colette-kress-interim-ceo": {
     "title": "Nvidia CEO Jensen Huang Resigns; Colette Kress Named Interim CEO | JournoPulse",
     "meta": {
@@ -9887,11 +9884,377 @@
         ]
       }
     ]
+  },
+
+  "/world/trump-xi-putin-trilateral-meeting-nuclear-arms-talks": {
+    "title": "Trump, Xi and Putin to Meet: Nuclear Talks and US Relations | JournoPulse",
+    "meta": {
+      "description": "Donald Trump is expected to meet Xi Jinping and Vladimir Putin in China. Here's what the planned talks could mean for US foreign policy and nuclear security.",
+      "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "googlebot-news": "index, follow, max-image-preview:large, max-video-preview:-1",
+      "og:site_name": "JournoPulse",
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Trump, Xi and Putin to Meet in China for High-Stakes Talks",
+      "og:description": "The planned meeting between the US, Chinese and Russian leaders could put nuclear security and international relations in focus.",
+      "og:url": "https://www.journopulse.com/world/trump-xi-putin-trilateral-meeting-nuclear-arms-talks",
+      "og:image": "https://www.journopulse.com/img/illustrations/trump-xi-putin-trilateral-meeting.webp",
+      "og:image:width": "1672",
+      "og:image:height": "941",
+      "og:image:type": "image/webp",
+      "article:published_time": "2026-11-14",
+      "article:modified_time": "2026-11-14",
+      "article:author": "Ryan Sillers",
+      "article:section": "World News",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Trump, Xi and Putin to Meet in China | JournoPulse",
+      "twitter:description": "Why the planned meeting between Trump, Xi and Putin matters for US foreign policy and global nuclear security.",
+      "twitter:image": "https://www.journopulse.com/img/illustrations/trump-xi-putin-trilateral-meeting.webp",
+      "twitter:image:alt": "Editorial illustration representing a planned meeting between US, Chinese and Russian leaders",
+      "viewport": "width=device-width, initial-scale=1.0"
+    },
+    "canonical": "https://www.journopulse.com/world/trump-xi-putin-trilateral-meeting-nuclear-arms-talks",
+    "ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "NewsMediaOrganization",
+            "@id": "https://www.journopulse.com/#organization",
+            "name": "JournoPulse",
+            "url": "https://www.journopulse.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.journopulse.com/img/Group8%20(1).svg"
+            },
+            "sameAs": [
+              "https://www.facebook.com/journopulse"
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.journopulse.com/#website",
+            "url": "https://www.journopulse.com/",
+            "name": "JournoPulse",
+            "inLanguage": "en-US",
+            "publisher": {
+              "@id": "https://www.journopulse.com/#organization"
+            }
+          },
+          {
+            "@type": "NewsArticle",
+            "@id": "https://www.journopulse.com/world/trump-xi-putin-trilateral-meeting-nuclear-arms-talks#article",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://www.journopulse.com/world/trump-xi-putin-trilateral-meeting-nuclear-arms-talks"
+            },
+            "headline": "Trump to Meet Xi and Putin in Unprecedented Trilateral Talks in China",
+            "description": "Donald Trump is expected to meet Xi Jinping and Vladimir Putin in China, with nuclear security and international relations among the key issues.",
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://www.journopulse.com/img/illustrations/trump-xi-putin-trilateral-meeting.webp",
+              "width": 1672,
+              "height": 941
+            },
+            "datePublished": "2026-11-14",
+            "dateModified": "2026-11-14",
+            "author": {
+              "@type": "Person",
+              "name": "Ryan Sillers"
+            },
+            "publisher": {
+              "@id": "https://www.journopulse.com/#organization"
+            },
+            "isAccessibleForFree": true,
+            "inLanguage": "en-US",
+            "articleSection": "World News",
+            "keywords": [
+              "Trump Xi Putin meeting",
+              "Trump China visit",
+              "US China relations",
+              "US Russia relations",
+              "nuclear arms talks",
+              "global security",
+              "World News"
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.journopulse.com/world/trump-xi-putin-trilateral-meeting-nuclear-arms-talks#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.journopulse.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "World News",
+                "item": "https://www.journopulse.com/world"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Trump, Xi and Putin to Meet",
+                "item": "https://www.journopulse.com/world/trump-xi-putin-trilateral-meeting-nuclear-arms-talks"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+   "/world/asean-summit-trump-southeast-asia-us-relations": {
+    "title": "ASEAN Summit 2026: Trump, China and US Interests in Asia | JournoPulse",
+    "meta": {
+      "description": "ASEAN leaders prepare to discuss regional security, the South China Sea and Myanmar. Here's why the summit matters to the United States.",
+      "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "googlebot-news": "index, follow, max-image-preview:large, max-video-preview:-1",
+      "og:site_name": "JournoPulse",
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "ASEAN Summit 2026: Regional Security and Trump's Role",
+      "og:description": "Regional leaders prepare for talks on the South China Sea, Myanmar and international conflicts as the US looks to strengthen its role in Southeast Asia.",
+      "og:url": "https://www.journopulse.com/world/asean-summit-trump-southeast-asia-us-relations",
+      "og:image": "https://www.journopulse.com/img/illustrations/asean-summit-trump-southeast-asia.webp",
+      "og:image:width": "1672",
+      "og:image:height": "941",
+      "og:image:type": "image/webp",
+      "article:published_time": "2026-11-14",
+      "article:modified_time": "2026-11-14",
+      "article:author": "Ryan Sillers",
+      "article:section": "World News",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "ASEAN Summit 2026: Why It Matters to the US",
+      "twitter:description": "South China Sea tensions, regional security and Trump's planned participation put the ASEAN summit in focus.",
+      "twitter:image": "https://www.journopulse.com/img/illustrations/asean-summit-trump-southeast-asia.webp",
+      "twitter:image:alt": "Editorial illustration of Southeast Asian leaders at an international summit",
+      "viewport": "width=device-width, initial-scale=1.0"
+    },
+    "canonical": "https://www.journopulse.com/world/asean-summit-trump-southeast-asia-us-relations",
+    "ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "NewsMediaOrganization",
+            "@id": "https://www.journopulse.com/#organization",
+            "name": "JournoPulse",
+            "url": "https://www.journopulse.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.journopulse.com/img/Group8%20(1).svg"
+            },
+            "sameAs": [
+              "https://www.facebook.com/journopulse"
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.journopulse.com/#website",
+            "url": "https://www.journopulse.com/",
+            "name": "JournoPulse",
+            "inLanguage": "en-US",
+            "publisher": {
+              "@id": "https://www.journopulse.com/#organization"
+            }
+          },
+          {
+            "@type": "NewsArticle",
+            "@id": "https://www.journopulse.com/world/asean-summit-trump-southeast-asia-us-relations#article",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://www.journopulse.com/world/asean-summit-trump-southeast-asia-us-relations"
+            },
+            "headline": "ASEAN Summit Focuses on Regional Conflicts as Trump Prepares to Join Talks",
+            "description": "Southeast Asian leaders prepare to discuss the South China Sea, Myanmar and regional security, with implications for US relations in the Indo-Pacific.",
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://www.journopulse.com/img/illustrations/asean-summit-trump-southeast-asia.webp",
+              "width": 1672,
+              "height": 941
+            },
+            "datePublished": "2026-11-14",
+            "dateModified": "2026-11-14",
+            "author": {
+              "@type": "Person",
+              "name": "Ryan Sillers"
+            },
+            "publisher": {
+              "@id": "https://www.journopulse.com/#organization"
+            },
+            "isAccessibleForFree": true,
+            "inLanguage": "en-US",
+            "articleSection": "World News",
+            "keywords": [
+              "ASEAN summit 2026",
+              "Trump Southeast Asia",
+              "US ASEAN relations",
+              "South China Sea tensions",
+              "Southeast Asia security",
+              "Myanmar crisis",
+              "Indo-Pacific news"
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.journopulse.com/world/asean-summit-trump-southeast-asia-us-relations#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.journopulse.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "World News",
+                "item": "https://www.journopulse.com/world"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "ASEAN Summit 2026",
+                "item": "https://www.journopulse.com/world/asean-summit-trump-southeast-asia-us-relations"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+  "/world/china-taiwan-military-drills-us-security-semiconductor-supply": {
+    "title": "China-Taiwan Tensions: US Security and Global Chip Supply | JournoPulse",
+    "meta": {
+      "description": "Chinese military activity around Taiwan raises concerns over US security, regional stability and the global semiconductor supply chain.",
+      "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "googlebot-news": "index, follow, max-image-preview:large, max-video-preview:-1",
+      "og:site_name": "JournoPulse",
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "China-Taiwan Military Tensions Raise US Security Concerns",
+      "og:description": "Military activity around Taiwan puts Indo-Pacific security and the global semiconductor supply chain under the spotlight.",
+      "og:url": "https://www.journopulse.com/world/china-taiwan-military-drills-us-security-semiconductor-supply",
+      "og:image": "https://www.journopulse.com/img/illustrations/china-taiwan-military-drills.webp",
+      "og:image:width": "1672",
+      "og:image:height": "941",
+      "og:image:type": "image/webp",
+      "article:published_time": "2026-11-14",
+      "article:modified_time": "2026-11-14",
+      "article:author": "Ryan Sillers",
+      "article:section": "World News",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "China-Taiwan Tensions and Their Impact on the US",
+      "twitter:description": "Why military tensions around Taiwan matter for US security, global trade and semiconductor supply chains.",
+      "twitter:image": "https://www.journopulse.com/img/illustrations/china-taiwan-military-drills.webp",
+      "twitter:image:alt": "Editorial illustration of naval activity near Taiwan amid regional tensions",
+      "viewport": "width=device-width, initial-scale=1.0"
+    },
+    "canonical": "https://www.journopulse.com/world/china-taiwan-military-drills-us-security-semiconductor-supply",
+    "ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "NewsMediaOrganization",
+            "@id": "https://www.journopulse.com/#organization",
+            "name": "JournoPulse",
+            "url": "https://www.journopulse.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.journopulse.com/img/Group8%20(1).svg"
+            },
+            "sameAs": [
+              "https://www.facebook.com/journopulse"
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.journopulse.com/#website",
+            "url": "https://www.journopulse.com/",
+            "name": "JournoPulse",
+            "inLanguage": "en-US",
+            "publisher": {
+              "@id": "https://www.journopulse.com/#organization"
+            }
+          },
+          {
+            "@type": "NewsArticle",
+            "@id": "https://www.journopulse.com/world/china-taiwan-military-drills-us-security-semiconductor-supply#article",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://www.journopulse.com/world/china-taiwan-military-drills-us-security-semiconductor-supply"
+            },
+            "headline": "China's Military Drills Around Taiwan Raise Concerns for US and Global Chip Supply",
+            "description": "Chinese military activity around Taiwan raises questions about Indo-Pacific security, US defence planning and the global semiconductor supply chain.",
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://www.journopulse.com/img/illustrations/china-taiwan-military-drills.webp",
+              "width": 1672,
+              "height": 941
+            },
+            "datePublished": "2026-11-14",
+            "dateModified": "2026-11-14",
+            "author": {
+              "@type": "Person",
+              "name": "Ryan Sillers"
+            },
+            "publisher": {
+              "@id": "https://www.journopulse.com/#organization"
+            },
+            "isAccessibleForFree": true,
+            "inLanguage": "en-US",
+            "articleSection": "World News",
+            "keywords": [
+              "China Taiwan tensions",
+              "China military drills",
+              "Taiwan news",
+              "US Taiwan relations",
+              "Indo-Pacific security",
+              "semiconductor supply chain",
+              "global chip industry"
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.journopulse.com/world/china-taiwan-military-drills-us-security-semiconductor-supply#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.journopulse.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "World News",
+                "item": "https://www.journopulse.com/world"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "China-Taiwan Military Tensions",
+                "item": "https://www.journopulse.com/world/china-taiwan-military-drills-us-security-semiconductor-supply"
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 
-
-
 }
+
+
+
+
+
 
 
 

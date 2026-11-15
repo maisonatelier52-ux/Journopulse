@@ -131,7 +131,7 @@ export default function HomeMain() {
                                 </div>
                                 <div className="meta-el meta-date mobile-last-meta tablet-last-meta">
                                   <time className="date published" dateTime="2021-08-28T09:00:40+00:00">
-                                    JUly 06, 26
+                                    NOVEMBER 15, 26
                                   </time>
                                 </div>
                               </div>

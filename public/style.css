@@ -31973,3 +31973,24 @@ License URI:    https://themeforest.net/licenses/standard
 .article-toc a:hover { text-decoration: underline; }
 html { scroll-behavior: smooth; }
 .entry-content h2 { scroll-margin-top: 90px; }
+.net-worth-highlight {
+  padding: 28px;
+  margin: 28px 0;
+  text-align: center;
+  background: #f4f0e7;
+  border: 1px solid #d8c9a5;
+  border-radius: 12px;
+}
+
+.net-worth-highlight strong {
+  display: block;
+  font-size: clamp(32px, 5vw, 48px);
+  color: #92702e;
+  margin: 12px 0;
+}
+
+.net-worth-highlight small {
+  display: block;
+  margin-top: 10px;
+  color: #777;
+}

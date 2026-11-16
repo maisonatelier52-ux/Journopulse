@@ -143,15 +143,31 @@ export default function HomeMain() {
                           <div className="p-wrap p-grid p-grid-1" data-pid="23">
                             <div className="feat-holder">
                               <div className="p-featured">
-                                <a className="p-flink" href="/fashion/prada-luxury-fashion-pasta-pomodoro-milan-fashion-week" title={"Prada serves up luxury fashion’s version of pasta pomodoro at Milan Fashion Week"}>
-                                  <img loading="lazy" decoding="async" width="420" height="280" src="/img/illustrations/prada-luxury-fashion-pasta-pomodoro-milan-fashion-week.webp" className="featured-img wp-post-image" alt="" />
-                                </a>
+                               <a
+  className="p-flink"
+  href="/us/faa-smart-ai-system-raises-questions-after-nationwide-ground-stop"
+  title="Questions Swirl Around FAA’s New SMART AI System, Though Officials Say No Link to Ground Stop"
+>
+  <img
+    loading="lazy"
+    decoding="async"
+    width="420"
+    height="280"
+    src="/img/illustrations/faa-smart-ai-air-traffic-control.webp"
+    className="featured-img wp-post-image"
+    alt="FAA SMART AI air traffic control system monitoring US flight routes"
+  />
+</a>
                               </div>
                             </div>
                             <h3 className="entry-title">
-                              <a className="p-url" href="/fashion/prada-luxury-fashion-pasta-pomodoro-milan-fashion-week" rel="bookmark">
-                                {" "}Prada serves up luxury fashion’s version of pasta pomodoro at Milan Fashion Week
-                              </a>
+                             <a
+  className="p-url"
+  href="/us/faa-smart-ai-system-raises-questions-after-nationwide-ground-stop"
+  rel="bookmark"
+>
+  Questions Swirl Around FAA’s New SMART AI System, Though Officials Say No Link to Ground Stop
+</a>
                             </h3>
                             <div className="p-meta has-bookmark">
                               <div className="meta-inner is-meta">
@@ -159,14 +175,17 @@ export default function HomeMain() {
                                   <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/rayan-author.png" className="photo avatar" alt="" />
                                 </a>
                                 <div className="meta-el meta-author tablet-hide mobile-hide">
-                                  <a href="/fashion/prada-luxury-fashion-pasta-pomodoro-milan-fashion-week">
+                                  <a href="/author/ryan-sillers">
                                     Ryan Sillers
                                   </a>
                                 </div>
                                 <div className="meta-el meta-date mobile-last-meta tablet-last-meta">
-                                  <time className="date published" dateTime="2021-08-28T09:05:46+00:00">
-                                    July 15, 26
-                                  </time>
+                                  <time
+  className="date published"
+  dateTime="2026-11-16T09:00:00+00:00"
+>
+  Nov 16, 26
+</time>
                                 </div>
                               </div>
                               <span className="rb-bookmark bookmark-trigger" data-pid="23">

@@ -457,9 +457,21 @@ export default function HomeMain() {
                           <div className="p-wrap p-grid p-classic-1 p-grid-1" data-pid="1350">
                             <div className="feat-holder">
                               <div className="p-featured">
-                                <a className="p-flink" href="/politics/florida-polls-open-2026-governor-race-successor-ron-desantis" title={"Live updates: Polls open in Florida as state seeks a successor to Gov. Ron DeSantis."}>
-                                  <img loading="lazy" decoding="async" width="860" height="573" src="/img/illustrations/florida-polls-open-2026-governor-race-successor-ron-desantis.webp" className="featured-img wp-post-image" alt="" />
-                                </a>
+                                <a
+  className="p-flink"
+  href="/uk/labour-mps-rebellion-rosebank-oilfield-north-sea-drilling"
+  title="Labour Faces Major Rebellion as MPs Challenge Government Over Rosebank Oilfield"
+>
+  <img
+    loading="lazy"
+    decoding="async"
+    width="860"
+    height="573"
+    src="/img/illustrations/labour-rosebank-oilfield-uk-politics.webp"
+    className="featured-img wp-post-image"
+    alt="UK Labour MPs debate the Rosebank oilfield and North Sea energy policy"
+  />
+</a>
                               </div>
                               <div className="p-categories light-scheme p-top">
                                 <a className="p-category category-id-13" href="/politics" rel="category">Politics
@@ -467,11 +479,16 @@ export default function HomeMain() {
                               </div>
                             </div>
                             <h2 className="entry-title h1">
-                              <a className="p-url" href="/politics/florida-polls-open-2026-governor-race-successor-ron-desantis" rel="bookmark">{"Live updates: Polls open in Florida as state seeks a successor to Gov. Ron DeSantis."}</a>
-                            </h2>
+<a
+  className="p-url"
+  href="/uk/labour-mps-rebellion-rosebank-oilfield-north-sea-drilling"
+  rel="bookmark"
+>
+  Labour Faces Major Rebellion as MPs Challenge Government Over Rosebank Oilfield
+</a>                            </h2>
                             <p className="entry-summary">
-                              {"Florida voters head to the polls for the 2026 primaries, with Republicans and Democrats choosing their nominees to succeed term-limited Gov. Ron DeSantis. The results…"}
-                            </p>
+  {"Labour faces growing internal opposition over the controversial Rosebank oilfield, as MPs challenge the government's North Sea drilling policy amid concerns over climate commitments, energy security and jobs. The dispute…"}
+</p>
                             <div className="p-meta has-bookmark">
                               <div className="meta-inner is-meta">
                                 <a className="meta-el meta-avatar" href="/author" rel="nofollow" aria-label="Visit posts by Ryan Sillers">
@@ -483,8 +500,12 @@ export default function HomeMain() {
                                   </a>
                                 </div>
                                 <div className="meta-el meta-date">
-                                  <time className="date published" dateTime="2026-08-18T14:03:00+00:00">Aug 18, 26</time>
-                                </div>
+<time
+  className="date published"
+  dateTime="2026-11-16T09:00:00+00:00"
+>
+  Nov 16, 26
+</time>                                </div>
                               </div>
                               <span className="rb-bookmark bookmark-trigger" data-pid="1350">
                                 <img width="50" height="50" src="/img/icons/bookmark.svg" alt="bookmark-ribbon--v1" />

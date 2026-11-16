@@ -10373,7 +10373,135 @@
         ]
       }
     ]
+  },
+
+
+  "/uk/labour-mps-rebellion-rosebank-oilfield-north-sea-drilling": {
+    "title": "Labour Rosebank Oilfield Rebellion: MPs Challenge UK Government | JournoPulse",
+    "meta": {
+      "description": "Labour MPs are preparing a major rebellion over the Rosebank oilfield, challenging the UK government's North Sea drilling policy, climate commitments and energy security strategy.",
+      "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "googlebot-news": "index, follow, max-image-preview:large, max-video-preview:-1",
+      "og:site_name": "JournoPulse",
+      "og:locale": "en_GB",
+      "og:type": "article",
+      "og:title": "Labour MPs Revolt Over Rosebank Oilfield as UK Political Tensions Grow",
+      "og:description": "A growing Labour rebellion over North Sea oil drilling puts pressure on the UK government over climate policy, energy security and jobs.",
+      "og:url": "https://www.journopulse.com/uk/labour-mps-rebellion-rosebank-oilfield-north-sea-drilling",
+      "og:image": "https://www.journopulse.com/img/illustrations/labour-rosebank-oilfield-uk-politics.webp",
+      "og:image:width": "1536",
+      "og:image:height": "1024",
+      "og:image:type": "image/webp",
+      "article:published_time": "2026-11-16",
+      "article:modified_time": "2026-11-16",
+      "article:author": "Ryan Sillers",
+      "article:section": "UK Politics",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Labour Rosebank Oilfield Rebellion: UK Politics",
+      "twitter:description": "Why Labour MPs are challenging the government's Rosebank oilfield position and what it means for Britain's energy future.",
+      "twitter:image": "https://www.journopulse.com/img/illustrations/labour-rosebank-oilfield-uk-politics.webp",
+      "twitter:image:alt": "UK parliamentary debate over North Sea oil drilling and renewable energy",
+      "viewport": "width=device-width, initial-scale=1.0"
+    },
+    "canonical": "https://www.journopulse.com/uk/labour-mps-rebellion-rosebank-oilfield-north-sea-drilling",
+    "ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "NewsMediaOrganization",
+            "@id": "https://www.journopulse.com/#organization",
+            "name": "JournoPulse",
+            "url": "https://www.journopulse.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.journopulse.com/img/Group8%20(1).svg"
+            },
+            "sameAs": [
+              "https://www.facebook.com/journopulse"
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.journopulse.com/#website",
+            "url": "https://www.journopulse.com/",
+            "name": "JournoPulse",
+            "inLanguage": "en-GB",
+            "publisher": {
+              "@id": "https://www.journopulse.com/#organization"
+            }
+          },
+          {
+            "@type": "NewsArticle",
+            "@id": "https://www.journopulse.com/uk/labour-mps-rebellion-rosebank-oilfield-north-sea-drilling#article",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://www.journopulse.com/uk/labour-mps-rebellion-rosebank-oilfield-north-sea-drilling"
+            },
+            "headline": "Labour Faces Major Rebellion as MPs Challenge Government Over Rosebank Oilfield",
+            "description": "Labour MPs are preparing to oppose the controversial Rosebank oilfield, increasing pressure on the UK government over North Sea drilling, climate commitments and energy security.",
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://www.journopulse.com/img/illustrations/labour-rosebank-oilfield-uk-politics.webp",
+              "width": 1536,
+              "height": 1024
+            },
+            "datePublished": "2026-11-16",
+            "dateModified": "2026-11-16",
+            "author": {
+              "@type": "Person",
+              "name": "Ryan Sillers"
+            },
+            "publisher": {
+              "@id": "https://www.journopulse.com/#organization"
+            },
+            "isAccessibleForFree": true,
+            "inLanguage": "en-GB",
+            "articleSection": "UK Politics",
+            "keywords": [
+              "Labour Rosebank oilfield rebellion",
+              "Rosebank oilfield",
+              "UK politics news",
+              "Labour MPs",
+              "Andy Burnham",
+              "North Sea oil drilling",
+              "UK energy policy",
+              "British climate policy",
+              "UK energy security",
+              "Scottish oil industry",
+              "North Sea oil and gas"
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.journopulse.com/uk/labour-mps-rebellion-rosebank-oilfield-north-sea-drilling#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.journopulse.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "UK News",
+                "item": "https://www.journopulse.com/uk"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Labour Rosebank Oilfield Rebellion",
+                "item": "https://www.journopulse.com/uk/labour-mps-rebellion-rosebank-oilfield-north-sea-drilling"
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
+
+
 }
 
 

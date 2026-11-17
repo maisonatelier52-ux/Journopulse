@@ -10499,7 +10499,259 @@
         ]
       }
     ]
-  }
+  },
+
+
+"/us/jpmorgan-chase-online-banking-outage-us-banks-delays": {
+  "title": "JPMorgan Chase Banking Disruption Delays Transactions Across Major US Banks | JournoPulse",
+  "meta": {
+    "description": "A technical issue at JPMorgan Chase triggered online banking delays affecting transactions involving major US banks, including Wells Fargo and Truist, and Zelle payments.",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "googlebot-news": "index, follow, max-image-preview:large, max-video-preview:-1",
+    "og:site_name": "JournoPulse",
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "JPMorgan Chase Technical Issue Triggers US Banking Delays",
+    "og:description": "A software issue at JPMorgan Chase disrupts online banking transactions and causes delays involving major US banks.",
+    "og:url": "https://www.journopulse.com/us/jpmorgan-chase-online-banking-outage-us-banks-delays",
+    "og:image": "https://www.journopulse.com/img/illustrations/jpmorgan-chase-online-banking-outage.webp",
+    "og:image:width": "1536",
+    "og:image:height": "1024",
+    "og:image:type": "image/webp",
+    "article:published_time": "2026-11-16",
+    "article:modified_time": "2026-11-17",
+    "article:author": "Ryan Sillers",
+    "article:section": "US News",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "JPMorgan Chase Banking Disruption Affects US Banks",
+    "twitter:description": "A technical issue at Chase triggers online banking delays involving major US financial institutions.",
+    "twitter:image": "https://www.journopulse.com/img/illustrations/jpmorgan-chase-online-banking-outage.webp",
+    "twitter:image:alt": "JPMorgan Chase banking disruption and online transaction delays",
+    "viewport": "width=device-width, initial-scale=1.0"
+  },
+  "canonical": "https://www.journopulse.com/us/jpmorgan-chase-online-banking-outage-us-banks-delays",
+  "ld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "NewsMediaOrganization",
+          "@id": "https://www.journopulse.com/#organization",
+          "name": "JournoPulse",
+          "url": "https://www.journopulse.com/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.journopulse.com/img/Group8%20(1).svg"
+          },
+          "sameAs": [
+            "https://www.facebook.com/journopulse"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://www.journopulse.com/#website",
+          "url": "https://www.journopulse.com/",
+          "name": "JournoPulse",
+          "inLanguage": "en-US",
+          "publisher": {
+            "@id": "https://www.journopulse.com/#organization"
+          }
+        },
+        {
+          "@type": "NewsArticle",
+          "@id": "https://www.journopulse.com/us/jpmorgan-chase-online-banking-outage-us-banks-delays#article",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.journopulse.com/us/jpmorgan-chase-online-banking-outage-us-banks-delays"
+          },
+          "headline": "JPMorgan Chase Technical Issue Triggers Online Banking Delays Across Major US Banks",
+          "description": "A technical issue at JPMorgan Chase triggered online banking delays affecting transactions involving major US banks and Zelle.",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://www.journopulse.com/img/illustrations/jpmorgan-chase-online-banking-outage.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "datePublished": "2026-11-16",
+          "dateModified": "2026-11-17",
+          "author": {
+            "@type": "Person",
+            "name": "Ryan Sillers"
+          },
+          "publisher": {
+            "@id": "https://www.journopulse.com/#organization"
+          },
+          "isAccessibleForFree": true,
+          "inLanguage": "en-US",
+          "articleSection": "US News",
+          "keywords": [
+            "JPMorgan Chase banking outage",
+            "Chase online banking delays",
+            "US bank technical issue",
+            "Wells Fargo banking delays",
+            "Truist banking problems",
+            "Zelle payment delays",
+            "US banking news",
+            "American financial institutions",
+            "online banking disruption"
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.journopulse.com/us/jpmorgan-chase-online-banking-outage-us-banks-delays#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://www.journopulse.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "US News",
+              "item": "https://www.journopulse.com/us"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "JPMorgan Chase Banking Delays",
+              "item": "https://www.journopulse.com/us/jpmorgan-chase-online-banking-outage-us-banks-delays"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+
+
+"/health/who-antimicrobial-resistance-global-health-2030-targets": {
+  "title": "WHO Warns Antibiotic Resistance Efforts Lag Behind 2030 Targets | JournoPulse",
+  "meta": {
+    "description": "The WHO warns that global antimicrobial resistance efforts remain behind 2030 targets, with insufficient funding, diagnostic testing and infection prevention.",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "googlebot-news": "index, follow, max-image-preview:large, max-video-preview:-1",
+    "og:site_name": "JournoPulse",
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "WHO Warns Global Antibiotic Resistance Efforts Remain Behind 2030 Targets",
+    "og:description": "Only 42 of 183 surveyed countries report fully funded and implemented antimicrobial resistance plans, according to the WHO.",
+    "og:url": "https://www.journopulse.com/health/who-antimicrobial-resistance-global-health-2030-targets",
+    "og:image": "https://www.journopulse.com/img/illustrations/who-antimicrobial-resistance-health-news.webp",
+    "og:image:width": "1536",
+    "og:image:height": "1024",
+    "og:image:type": "image/webp",
+    "article:published_time": "2026-11-16",
+    "article:modified_time": "2026-11-17",
+    "article:author": "Ryan Sillers",
+    "article:section": "Health",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "WHO Warns Antibiotic Resistance Efforts Lag Behind 2030 Targets",
+    "twitter:description": "Global health authorities warn that antimicrobial resistance programmes need more funding, testing and prevention.",
+    "twitter:image": "https://www.journopulse.com/img/illustrations/who-antimicrobial-resistance-health-news.webp",
+    "twitter:image:alt": "Scientist examining antibiotic-resistant bacteria in a laboratory",
+    "viewport": "width=device-width, initial-scale=1.0"
+  },
+  "canonical": "https://www.journopulse.com/health/who-antimicrobial-resistance-global-health-2030-targets",
+  "ld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "NewsMediaOrganization",
+          "@id": "https://www.journopulse.com/#organization",
+          "name": "JournoPulse",
+          "url": "https://www.journopulse.com/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.journopulse.com/img/Group8%20(1).svg"
+          },
+          "sameAs": [
+            "https://www.facebook.com/journopulse"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://www.journopulse.com/#website",
+          "url": "https://www.journopulse.com/",
+          "name": "JournoPulse",
+          "inLanguage": "en-US",
+          "publisher": {
+            "@id": "https://www.journopulse.com/#organization"
+          }
+        },
+        {
+          "@type": "NewsArticle",
+          "@id": "https://www.journopulse.com/health/who-antimicrobial-resistance-global-health-2030-targets#article",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.journopulse.com/health/who-antimicrobial-resistance-global-health-2030-targets"
+          },
+          "headline": "WHO Warns Global Antibiotic Resistance Efforts Remain Behind 2030 Targets",
+          "description": "The WHO warns that global efforts to tackle antimicrobial resistance remain behind 2030 targets, with funding, testing and infection prevention gaps continuing worldwide.",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://www.journopulse.com/img/illustrations/who-antimicrobial-resistance-health-news.webp",
+            "width": 1536,
+            "height": 1024
+          },
+          "datePublished": "2026-11-16",
+          "dateModified": "2026-11-17",
+          "author": {
+            "@type": "Person",
+            "name": "Ryan Sillers"
+          },
+          "publisher": {
+            "@id": "https://www.journopulse.com/#organization"
+          },
+          "isAccessibleForFree": true,
+          "inLanguage": "en-US",
+          "articleSection": "Health",
+          "keywords": [
+            "antimicrobial resistance",
+            "antibiotic resistance",
+            "WHO health news",
+            "global health news",
+            "drug-resistant infections",
+            "WHO 2030 targets",
+            "antibiotic development",
+            "infection prevention",
+            "medical laboratory testing",
+            "World AMR Awareness Week",
+            "healthcare news 2026"
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.journopulse.com/health/who-antimicrobial-resistance-global-health-2030-targets#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://www.journopulse.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Health",
+              "item": "https://www.journopulse.com/health"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "WHO Antibiotic Resistance Warning",
+              "item": "https://www.journopulse.com/health/who-antimicrobial-resistance-global-health-2030-targets"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+
 
 
 }

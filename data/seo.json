@@ -10749,12 +10749,271 @@
       ]
     }
   ]
+},
+
+
+  "/business/nvidia-ai-trade-hanging-purgatory-market-uncertainty": {
+    "title": "Nvidia Leaves the AI Trade Hanging in Purgatory | JournoPulse",
+    "meta": {
+      "description": "Nvidia reports $116 billion in quarterly revenue, but leadership uncertainty, AI investment risks and China chip restrictions leave investors questioning the future of the AI trade.",
+      "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "googlebot-news": "index, follow, max-image-preview:large, max-video-preview:-1",
+      "og:site_name": "JournoPulse",
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Nvidia Leaves the AI Trade Hanging in Purgatory",
+      "og:description": "Strong Nvidia earnings fail to eliminate investor concerns over leadership changes, AI spending, export restrictions and the future of the artificial intelligence boom.",
+      "og:url": "https://www.journopulse.com/business/nvidia-ai-trade-hanging-purgatory-market-uncertainty",
+      "og:image": "https://www.journopulse.com/img/illustrations/nvidia-ai-trade-purgatory.webp",
+      "og:image:width": "1536",
+      "og:image:height": "1024",
+      "og:image:type": "image/webp",
+      "article:published_time": "2026-11-18",
+      "article:modified_time": "2026-11-18",
+      "article:author": "Ryan Sillers",
+      "article:section": "Business",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Nvidia Leaves the AI Trade Hanging in Purgatory",
+      "twitter:description": "Nvidia's strong financial results cannot remove investor uncertainty surrounding the global AI investment boom.",
+      "twitter:image": "https://www.journopulse.com/img/illustrations/nvidia-ai-trade-purgatory.webp",
+      "twitter:image:alt": "AI processor and data centre servers surrounded by volatile financial market charts",
+      "viewport": "width=device-width, initial-scale=1.0"
+    },
+    "canonical": "https://www.journopulse.com/business/nvidia-ai-trade-hanging-purgatory-market-uncertainty",
+    "ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "NewsMediaOrganization",
+            "@id": "https://www.journopulse.com/#organization",
+            "name": "JournoPulse",
+            "url": "https://www.journopulse.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.journopulse.com/img/Group8%20(1).svg"
+            },
+            "sameAs": [
+              "https://www.facebook.com/journopulse"
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.journopulse.com/#website",
+            "url": "https://www.journopulse.com/",
+            "name": "JournoPulse",
+            "inLanguage": "en-US",
+            "publisher": {
+              "@id": "https://www.journopulse.com/#organization"
+            }
+          },
+          {
+            "@type": "NewsArticle",
+            "@id": "https://www.journopulse.com/business/nvidia-ai-trade-hanging-purgatory-market-uncertainty#article",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://www.journopulse.com/business/nvidia-ai-trade-hanging-purgatory-market-uncertainty"
+            },
+            "headline": "Nvidia Leaves the AI Trade Hanging in Purgatory",
+            "description": "Nvidia's strong quarterly earnings contrast with uncertainty surrounding its leadership, AI infrastructure investments, export restrictions and customer financing.",
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://www.journopulse.com/img/illustrations/nvidia-ai-trade-purgatory.webp",
+              "width": 1536,
+              "height": 1024
+            },
+            "datePublished": "2026-11-18",
+            "dateModified": "2026-11-18",
+            "author": {
+              "@type": "Person",
+              "name": "Ryan Sillers"
+            },
+            "publisher": {
+              "@id": "https://www.journopulse.com/#organization"
+            },
+            "isAccessibleForFree": true,
+            "inLanguage": "en-US",
+            "articleSection": "Business",
+            "keywords": [
+              "Nvidia news 2026",
+              "Nvidia earnings",
+              "AI investment",
+              "artificial intelligence industry",
+              "AI stock market",
+              "Jensen Huang",
+              "Nvidia leadership",
+              "AI infrastructure spending",
+              "semiconductor industry",
+              "China chip restrictions",
+              "technology business news",
+              "global business news"
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.journopulse.com/business/nvidia-ai-trade-hanging-purgatory-market-uncertainty#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.journopulse.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Business",
+                "item": "https://www.journopulse.com/business"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Nvidia AI Trade Uncertainty",
+                "item": "https://www.journopulse.com/business/nvidia-ai-trade-hanging-purgatory-market-uncertainty"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+
+
+  "/business/canada-inflation-rate-31-percent-october-2026": {
+    "title": "Canada Inflation Rate Holds Steady at 3.1% in October | JournoPulse",
+    "meta": {
+      "description": "Canada's annual inflation rate stayed at 3.1% in October 2026 as higher gasoline, grocery and clothing prices offset easing costs elsewhere.",
+      "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "googlebot-news": "index, follow, max-image-preview:large, max-video-preview:-1",
+      "og:site_name": "JournoPulse",
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Canada's Annual Inflation Rate Holds Steady at 3.1% in October",
+      "og:description": "Statistics Canada reports unchanged annual inflation as fuel, grocery and clothing prices continue to affect Canadian consumers.",
+      "og:url": "https://www.journopulse.com/business/canada-inflation-rate-31-percent-october-2026",
+      "og:image": "https://www.journopulse.com/img/illustrations/canada-inflation-rate-october-2026.webp",
+      "og:image:width": "1536",
+      "og:image:height": "1024",
+      "og:image:type": "image/webp",
+      "article:published_time": "2026-11-16",
+      "article:modified_time": "2026-11-18",
+      "article:author": "Ryan Sillers",
+      "article:section": "Business",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Canada Inflation Remains at 3.1% in October",
+      "twitter:description": "Higher gasoline and grocery costs keep pressure on Canadian households as annual inflation holds at 3.1%.",
+      "twitter:image": "https://www.journopulse.com/img/illustrations/canada-inflation-rate-october-2026.webp",
+      "twitter:image:alt": "Canadian consumer prices, grocery shopping and inflation economic illustration",
+      "viewport": "width=device-width, initial-scale=1.0"
+    },
+    "canonical": "https://www.journopulse.com/business/canada-inflation-rate-31-percent-october-2026",
+    "ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "NewsMediaOrganization",
+            "@id": "https://www.journopulse.com/#organization",
+            "name": "JournoPulse",
+            "url": "https://www.journopulse.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.journopulse.com/img/Group8%20(1).svg"
+            },
+            "sameAs": [
+              "https://www.facebook.com/journopulse"
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.journopulse.com/#website",
+            "url": "https://www.journopulse.com/",
+            "name": "JournoPulse",
+            "inLanguage": "en-US",
+            "publisher": {
+              "@id": "https://www.journopulse.com/#organization"
+            }
+          },
+          {
+            "@type": "NewsArticle",
+            "@id": "https://www.journopulse.com/business/canada-inflation-rate-31-percent-october-2026#article",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://www.journopulse.com/business/canada-inflation-rate-31-percent-october-2026"
+            },
+            "headline": "Canada's Annual Inflation Rate Holds Steady at 3.1% in October",
+            "description": "Canada's annual inflation rate remained at 3.1% in October as gasoline, grocery and clothing prices continued to influence consumer costs.",
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://www.journopulse.com/img/illustrations/canada-inflation-rate-october-2026.webp",
+              "width": 1536,
+              "height": 1024
+            },
+            "datePublished": "2026-11-16",
+            "dateModified": "2026-11-18",
+            "author": {
+              "@type": "Person",
+              "name": "Ryan Sillers"
+            },
+            "publisher": {
+              "@id": "https://www.journopulse.com/#organization"
+            },
+            "isAccessibleForFree": true,
+            "inLanguage": "en-US",
+            "articleSection": "Business",
+            "keywords": [
+              "Canada inflation rate",
+              "Canada CPI October 2026",
+              "Canadian economy",
+              "Statistics Canada inflation",
+              "Canada cost of living",
+              "gasoline prices Canada",
+              "Canadian grocery prices",
+              "food inflation",
+              "Bank of Canada",
+              "economic news 2026",
+              "global business news",
+              "October inflation report"
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.journopulse.com/business/canada-inflation-rate-31-percent-october-2026#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.journopulse.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Business",
+                "item": "https://www.journopulse.com/business"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Canada Inflation Rate October 2026",
+                "item": "https://www.journopulse.com/business/canada-inflation-rate-31-percent-october-2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+
 }
 
 
 
 
-}
+
+
 
 
 

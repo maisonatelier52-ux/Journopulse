@@ -1123,20 +1123,44 @@ Climate activist Greta Thunberg urges world leaders to put people and
                           <div className="p-wrap p-grid p-grid-1" data-pid="222">
                             <div className="feat-holder">
                               <div className="p-featured">
-                                <a className="p-flink" href="/world/world-cup-2026-what-to-know-where-to-watch-schedules-and-more" title={"World Cup 2026: Here’s what to know, where to watch, schedules and more"}>
-                                  <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/world-cup-2026-what-to-know-where-to-watch-schedules-and-more.webp" className="featured-img wp-post-image" alt="" />
-                                </a>
+                                
+<a
+  className="p-flink"
+  href="/business/nvidia-ai-trade-hanging-purgatory-market-uncertainty"
+  title={"Nvidia Leaves the AI Trade Hanging in Purgatory"}
+>
+  <img
+    loading="lazy"
+    decoding="async"
+    width="330"
+    height="220"
+    src="/img/illustrations/nvidia-ai-trade-purgatory.webp"
+    className="featured-img wp-post-image"
+    alt="Nvidia AI processor, data centre servers and financial market uncertainty"
+  />
+</a>
+
                               </div>
                             </div>
                             <h6 className="entry-title">
-                              <a className="p-url" href="/world/world-cup-2026-what-to-know-where-to-watch-schedules-and-more" rel="noopener nofollow">{"World Cup 2026: Here’s what to know, where to watch, schedules and more"}</a>
+
+<a
+  className="p-url"
+  href="/business/nvidia-ai-trade-hanging-purgatory-market-uncertainty"
+  rel="bookmark"
+>
+  {"Nvidia Leaves the AI Trade Hanging in Purgatory"}
+</a>
                             </h6>
                             <div className="sponsor-meta meta-text sponsor-logo">
                               <div className="sponsor-inner">
                                 <a className="sponsor-link" href="http://1.envato.market/6bEx7Q" target="_blank" rel="noopener nofollow" aria-label="Ororin">
                                   <div className="sponlogo-wrap meta-bold">
                                     <div className="meta-el meta-date mobile-last-meta">
-                                      <time className="date published" dateTime="2026-06-11T14:03:00+00:00">Jun 11, 26</time>
+
+<time className="date published" dateTime="2026-11-18T14:03:00+00:00">
+  Nov 18, 26
+</time>
                                     </div>
                                     <img loading="lazy" decoding="async" className="sponsor-brand-logo" data-mode="dark" src="/img/ads/sponsor-logo.webp" width="168" height="52" alt="Ororin" />
                                   </div>
@@ -1150,18 +1174,45 @@ Climate activist Greta Thunberg urges world leaders to put people and
                           <div className="p-wrap p-grid p-grid-1" data-pid="237">
                             <div className="feat-holder">
                               <div className="p-featured">
-                                <a className="p-flink" href="/world/hantavirus-cruise-ship-passengers-depart-after-first-fatality" title={"Following the first fatality, dozens of passengers departed the hantavirus-affected cruise ship."}>
-                                  <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/hantavirus-cruise-ship-passengers-depart-after-first-fatality.webp" className="featured-img wp-post-image" alt="" />
-                                </a>
+                               
+<a
+  className="p-flink"
+  href="/business/canada-inflation-rate-31-percent-october-2026"
+  title={"Canada's Annual Inflation Rate Holds Steady at 3.1% in October"}
+>
+  <img
+    loading="lazy"
+    decoding="async"
+    width="330"
+    height="220"
+    src="/img/illustrations/canada-inflation-rate-october-2026.webp"
+    className="featured-img wp-post-image"
+    alt="Canada inflation, grocery prices and rising fuel costs in October 2026"
+  />
+</a>
+
                               </div>
                             </div>
                             <h6 className="entry-title">
-                              <a className="p-url" href="/world/hantavirus-cruise-ship-passengers-depart-after-first-fatality" rel="bookmark">{"Following the first fatality, dozens of passengers departed the hantavirus-affected cruise ship."}</a>
+
+<a
+  className="p-url"
+  href="/business/canada-inflation-rate-31-percent-october-2026"
+  rel="bookmark"
+>
+  {"Canada's Annual Inflation Rate Holds Steady at 3.1% in October"}
+</a>
                             </h6>
                             <div className="p-meta has-bookmark">
                               <div className="meta-inner is-meta">
                                 <div className="meta-el meta-date mobile-last-meta">
-                                  <time className="date published" dateTime="2026-05-07T14:03:00+00:00">May 07, 26</time>
+
+<time
+  className="date published"
+  dateTime="2026-11-16T14:03:00+00:00"
+>
+  Nov 16, 26
+</time>
                                 </div>
                               </div>
                               <span className="rb-bookmark bookmark-trigger" data-pid="237">

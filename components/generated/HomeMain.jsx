@@ -225,23 +225,41 @@ export default function HomeMain() {
                           <div className="p-wrap p-grid p-grid-1" data-pid="1093">
                             <div className="feat-holder">
                               <div className="p-featured">
-                                <a className="p-flink" href="/technology/love-my-woke-pope-leo-first-encyclical-viral-papal-approach" title={"Love my woke pope': Why Leo’s first encyclical went viral and how it speaks to his papal approach."}>
-                                  <img loading="lazy" decoding="async" width="420" height="280" src="/img/illustrations/love-my-woke-pope-leo-first-encyclical-viral-papal-approach.webp" className="featured-img wp-post-image" alt="" />
-                                </a>
+                                <a
+  className="p-flink"
+  href="/business/comms-pros-advise-against-nvidia-bringing-back-jensen-huang-ceo"
+  title="Comms Pros Advise Against Nvidia Bringing Back Jensen Huang as CEO: He's Not a Rock Star"
+>
+  <img
+    loading="lazy"
+    decoding="async"
+    width="420"
+    height="280"
+    src="/img/illustrations/nvidia-jensen-huang-ceo-pr-advice.webp"
+    className="featured-img wp-post-image"
+    alt="Nvidia leadership and corporate communications editorial illustration"
+  />
+</a>
                               </div>
                               <div className="p-categories light-scheme p-top">
-                                <a className="p-category category-id-13" href="/technology" rel="category">Technology
+                                <a className="p-category category-id-13" href="/business" rel="category">Business
                                 </a>
                               </div>
                             </div>
                             <h4 className="entry-title">
-                              <a className="p-url" href="/technology/love-my-woke-pope-leo-first-encyclical-viral-papal-approach" rel="bookmark">
-                                {" "}Love my woke pope': Why Leo’s first encyclical went viral and how it speaks to his papal approach..{" "}
-                              </a>
+                              <a
+  className="p-url"
+  href="/business/comms-pros-advise-against-nvidia-bringing-back-jensen-huang-ceo"
+  rel="bookmark"
+>
+  {" "}
+  Comms Pros Advise Against Nvidia Bringing Back Jensen Huang as CEO: ‘He’s Not a Rock Star’
+  {" "}
+</a>
                             </h4>
                             <p className="entry-summary">
-                              Winners of the Bloomberg Philanthropies Mayors Challenge enhance city services using AI and citizen feedback…
-                            </p>
+  Communications professionals question the reputational risks of bringing Jensen Huang back as Nvidia CEO, highlighting leadership credibility, corporate reputation and public trust…
+</p>
                             <div className="review-meta is-meta is-rstyle-0 type-star has-bookmark">
                               <div className="review-meta-inner"></div>
                               <span className="rb-bookmark bookmark-trigger" data-pid="23">

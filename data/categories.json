@@ -25,5 +25,8 @@
   },
   "world": {
     "name": "World News"
+  },
+  "pr": {
+    "name": "PR & Communications"
   }
 }

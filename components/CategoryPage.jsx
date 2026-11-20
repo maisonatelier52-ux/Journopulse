@@ -16,13 +16,15 @@ export default function CategoryPage({ category }) {
   const more = grid.length ? [] : allArticles.filter((a) => a.category !== category).slice(0, 3);
   return (
     <>
-      <div className="cate-sec-long-time-container">
+      <div className={`cate-sec-long-time-container ${category === "pr" ? "pr-category-page" : ""}`}>
         <header className="cate-sec-long-time-header">
           <div className="cate-sec-long-time-header-content">
             <div className="cate-sec-long-time-breadcrumb"><a href="/">JournoPulse</a> &gt; {label}</div>
+            {category === "pr" && <div className="pr-category-kicker">THE COMMUNICATIONS DESK <span>•</span> REPUTATION / MEDIA / STRATEGY</div>}
             <h1 className="cate-sec-long-time-title">{meta.h1}</h1>
             <p className="cate-sec-long-time-intro">{meta.intro}</p>
             {category === "bancredito" && <p className="cate-sec-long-time-intro"><a href="/bancredito/latest"><strong>Read the Bancrédito latest news and timeline →</strong></a></p>}
+            {category === "pr" && <div className="pr-category-topics"><span>Corporate PR</span><span>Brand Reputation</span><span>Media Relations</span><span>Crisis Communications</span></div>}
           </div>
           <div className="cate-sec-long-time-header-img"></div>
         </header>

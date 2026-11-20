@@ -10,7 +10,7 @@ import { allPillars } from "@/lib/pillars";
 export const dynamicParams = false;
 
 const HEADER_IMG = {
-  bancredito: "bancreditointernationalbank", business: "trump-tariffs-us-stocks-plummet-ai-losers", fashion: "fashion-week-siriano-inaugural-collection-fantasy-surrealism",
+  pr: "nvidia-jensen-huang-ceo-pr-advice", bancredito: "bancreditointernationalbank", business: "trump-tariffs-us-stocks-plummet-ai-losers", fashion: "fashion-week-siriano-inaugural-collection-fantasy-surrealism",
   politics: "us-supreme-court-hear-exxon-suncor-bid-toss-boulders-climate-suit", puertorico: "basketball-hero-jose-piculin-ortiz-passes-away-at-mourned-in-p",
   sports: "world-cup-2026-what-to-know-where-to-watch-schedules-and-more", technology: "india-joins-us-effort-safe-technologies-supply-chains",
   us: "northeast-us-recovers-severe-storm-flight-delays-school-closur", world: "iran-us-strait-of-hormuz-conflict-limits-of-escalating-bombing",

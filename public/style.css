@@ -31994,3 +31994,63 @@ html { scroll-behavior: smooth; }
   margin-top: 10px;
   color: #777;
 }
+/* PR & Communications category identity — intentionally scoped to /pr only */
+.pr-category-page { --pr-ink:#15263b; --pr-accent:#d84a36; --pr-muted:#64748b; }
+.pr-category-page .cate-sec-long-time-header { background:linear-gradient(120deg,#101f33 0%,#1b3852 58%,#e9eff3 58%,#f5f7f8 100%); border-radius:3px; overflow:hidden; min-height:250px; }
+.pr-category-page .cate-sec-long-time-header-content { color:#fff; padding:20px; position:relative; z-index:2; }
+.pr-category-page .cate-sec-long-time-breadcrumb, .pr-category-page .cate-sec-long-time-breadcrumb a { color:#d8e3ec; }
+.pr-category-page .cate-sec-long-time-title { color:#fff; font-size:clamp(34px,4vw,54px); letter-spacing:-1.5px; max-width:720px; }
+.pr-category-page .cate-sec-long-time-intro { color:#e1eaf1; max-width:680px; font-size:15px; line-height:1.65; }
+.pr-category-page .pr-category-kicker { color:#ffb7a8; font-size:11px; font-weight:800; letter-spacing:2px; margin:18px 0 8px; }
+.pr-category-page .pr-category-kicker span { padding:0 8px; color:#fff; }
+.pr-category-page .pr-category-topics { display:flex; flex-wrap:wrap; gap:8px; margin-top:18px; }
+.pr-category-page .pr-category-topics span { border:1px solid rgba(255,255,255,.35); color:#fff; border-radius:2px; padding:7px 11px; font-size:11px; text-transform:uppercase; letter-spacing:.7px; }
+.pr-category-page .cate-sec-long-time-header-img { opacity:.22; filter:grayscale(1); }
+.pr-category-page .cate-sec-long-time-badge { background:#d84a36; color:#fff; letter-spacing:1px; text-transform:uppercase; }
+.pr-category-page .cate-sec-long-time-grid { gap:14px; }
+.pr-category-page .cate-sec-long-time-card { border-radius:3px; }
+.pr-category-page .cate-sec-long-time-main-title, .pr-category-page .cate-sec-long-time-side-title { text-wrap:balance; }
+.pr-category-page .cat-sec-grid-layout-header-title { color:#15263b; letter-spacing:-.3px; }
+.pr-category-page .cat-sec-grid-layout-header-bar { background:#d84a36; }
+.pr-category-page .cate-sec-long-time-card {
+    position: relative;
+    border-radius: 8px;
+    overflow: hidden;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 30px;
+    background-size: cover;
+    background-position: center;
+    min-height: 250px;
+}
+
+/* Dark overlay for better text visibility */
+.pr-category-page .cate-sec-long-time-card::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+        to top,
+        rgba(0, 0, 0, 0.85) 0%,
+        rgba(0, 0, 0, 0.45) 50%,
+        rgba(0, 0, 0, 0.1) 100%
+    );
+    z-index: 1;
+}
+
+/* Keep text above overlay */
+.pr-category-page .cate-sec-long-time-card > * {
+    position: relative;
+    z-index: 2;
+}
+
+/* Text styling */
+.pr-category-page .cate-sec-long-time-card h2,
+.pr-category-page .cate-sec-long-time-card h3,
+.pr-category-page .cate-sec-long-time-card p {
+    color: #fff;
+    text-shadow: 0 2px 5px rgba(0, 0, 0, 0.7);
+}
+@media(max-width:767px){.pr-category-page .cate-sec-long-time-header-content{padding:25px 20px}.pr-category-page .cate-sec-long-time-header{background:linear-gradient(155deg,#101f33 0%,#1b3852 72%,#e9eff3 72%);}}

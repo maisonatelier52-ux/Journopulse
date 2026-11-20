@@ -33,6 +33,7 @@ export default function Footer() {
                 </a>
               </li>
               <li>
+                <a href="/pr"><span>PR &amp; Communications</span></a>
                 <a href="/business">
                   Business
                 </a>

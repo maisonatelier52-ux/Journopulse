@@ -601,18 +601,32 @@ export default function HomeMain() {
                           <div className="p-wrap p-small p-list-small-2" data-pid="1025">
                             <div className="feat-holder">
                               <div className="p-featured ratio-v1">
-                                <a className="p-flink" href="/politics/republicans-show-rare-defiance-to-trump" title={"Republicans exhibit uncommon resistance of Trump's demands when pushed to the brink."}>
-                                  <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/republicans-show-rare-defiance-to-trump.webp" className="featured-img wp-post-image" alt="" />
-                                </a>
+                                <a
+  className="p-flink"
+  href="/pr/boots-launches-2026-christmas-brand-promotion-campaign"
+  title="Boots Launches Bold Christmas Brand Campaign to Strengthen Its UK Market Position"
+  aria-label="Read Boots UK Christmas Brand Promotion 2026 news"
+>
+  <img
+    loading="lazy"
+    decoding="async"
+    width="330"
+    height="220"
+    src="/img/illustrations/boots-uk-christmas-brand-promotion-2026.webp"
+    className="featured-img wp-post-image"
+    alt="Boots UK Christmas 2026 brand promotion campaign featuring festive gifts, beauty products and seasonal retail marketing"
+    title="Boots Christmas Brand Promotion Campaign 2026"
+  />
+</a>
                               </div>
                             </div>
                             <div className="p-content">
                               <div className="p-categories p-top">
-                                <a className="p-category category-id-6" href="/politics" rel="category">Politics
+                                <a className="p-category category-id-6" href="/pr" rel="category">Pr&Communication
                                 </a>
                               </div>
                               <h3 className="entry-title">
-                                <a className="p-url" href="/politics/republicans-show-rare-defiance-to-trump" rel="bookmark">{"Republicans exhibit uncommon resistance of Trump's demands when pushed to the brink."}</a>
+                                <a className="p-url"  href="/pr/boots-launches-2026-christmas-brand-promotion-campaign" rel="bookmark">{"Boots Launches Bold Christmas Brand Campaign to Strengthen Its UK Market Position."}</a>
                               </h3>
                               <div className="p-meta has-bookmark">
                                 <div className="meta-inner is-meta">
@@ -622,8 +636,12 @@ export default function HomeMain() {
                                     </a>
                                   </div>
                                   <div className="meta-el meta-date">
-                                    <time className="date published" dateTime="2026-05-22T14:03:00+00:00">May 22, 26</time>
-                                  </div>
+<time
+  className="date published"
+  dateTime="2026-11-20T00:00:00+00:00"
+>
+  Nov 20, 26
+</time>                                  </div>
                                 </div>
                                 <span className="rb-bookmark bookmark-trigger" data-pid="1025">
                                   <img width="50" height="50" src="/img/icons/bookmark.svg" alt="bookmark-ribbon--v1" />

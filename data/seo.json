@@ -11187,5 +11187,137 @@
         ]
       }
     ]
+  },
+
+
+  "/business/hargreaves-lansdown-appoints-stitchy-as-lead-brand-strategy-communications-uk": {
+    "title": "Hargreaves Lansdown Appoints Stitchy to Lead Brand Strategy and Communications in the UK | JournoPulse",
+    "meta": {
+      "description": "Hargreaves Lansdown appoints London-based agency Stitchy as its lead creative and strategy partner, expanding its role in brand communications, advertising campaigns and social media.",
+      "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "googlebot-news": "index, follow, max-image-preview:large, max-video-preview:-1",
+      "og:site_name": "JournoPulse",
+      "og:locale": "en_GB",
+      "og:type": "article",
+      "og:title": "Hargreaves Lansdown Appoints Stitchy to Lead Brand Strategy and Communications",
+      "og:description": "Stitchy expands its partnership with Hargreaves Lansdown, taking a leading role in creative strategy, advertising campaigns and brand communications across the UK.",
+      "og:url": "https://www.journopulse.com/business/hargreaves-lansdown-appoints-stitchy-as-lead-brand-strategy-communications-uk",
+      "og:image": "https://www.journopulse.com/img/illustrations/hargreaves-lansdown-stitchy-brand-strategy.webp",
+      "og:image:width": "1536",
+      "og:image:height": "1024",
+      "og:image:type": "image/webp",
+      "article:published_time": "2026-11-17",
+      "article:modified_time": "2026-11-20",
+      "article:author": "JournoPulse Editorial Team",
+      "article:section": "Business",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Hargreaves Lansdown Appoints Stitchy as Lead Creative and Strategy Agency",
+      "twitter:description": "Hargreaves Lansdown expands its partnership with Stitchy to strengthen brand strategy, creative campaigns and communications.",
+      "twitter:image": "https://www.journopulse.com/img/illustrations/hargreaves-lansdown-stitchy-brand-strategy.webp",
+      "twitter:image:alt": "Hargreaves Lansdown and Stitchy creative agency partnership and brand strategy",
+      "viewport": "width=device-width, initial-scale=1.0"
+    },
+    "canonical": "https://www.journopulse.com/business/hargreaves-lansdown-appoints-stitchy-as-lead-brand-strategy-communications-uk",
+    "ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "NewsMediaOrganization",
+            "@id": "https://www.journopulse.com/#organization",
+            "name": "JournoPulse",
+            "url": "https://www.journopulse.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.journopulse.com/img/Group8%20(1).svg"
+            },
+            "sameAs": [
+              "https://www.facebook.com/journopulse"
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.journopulse.com/#website",
+            "url": "https://www.journopulse.com/",
+            "name": "JournoPulse",
+            "inLanguage": "en-GB",
+            "publisher": {
+              "@id": "https://www.journopulse.com/#organization"
+            }
+          },
+          {
+            "@type": "NewsArticle",
+            "@id": "https://www.journopulse.com/business/hargreaves-lansdown-appoints-stitchy-as-lead-brand-strategy-communications-uk#article",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://www.journopulse.com/business/hargreaves-lansdown-appoints-stitchy-as-lead-brand-strategy-communications-uk"
+            },
+            "headline": "Hargreaves Lansdown Appoints Stitchy to Lead Brand Strategy and Communications in the UK",
+            "description": "Hargreaves Lansdown has expanded its partnership with independent East London agency Stitchy, appointing it as its creative and strategy agency to lead creative campaigns, brand communications and marketing strategy.",
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://www.journopulse.com/img/illustrations/hargreaves-lansdown-stitchy-brand-strategy.webp",
+              "width": 1536,
+              "height": 1024
+            },
+            "datePublished": "2026-11-17",
+            "dateModified": "2026-11-20",
+            "author": {
+              "@type": "Organization",
+              "name": "JournoPulse Editorial Team"
+            },
+            "publisher": {
+              "@id": "https://www.journopulse.com/#organization"
+            },
+            "isAccessibleForFree": true,
+            "inLanguage": "en-GB",
+            "articleSection": "Business",
+            "keywords": [
+              "Hargreaves Lansdown news",
+              "Stitchy creative agency",
+              "Hargreaves Lansdown Stitchy partnership",
+              "UK business news",
+              "UK financial services",
+              "brand strategy",
+              "brand communications",
+              "creative agency appointment",
+              "marketing strategy",
+              "advertising campaigns",
+              "Active Savings campaign",
+              "social media marketing",
+              "financial services marketing",
+              "business PR news",
+              "JournoPulse"
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.journopulse.com/business/hargreaves-lansdown-appoints-stitchy-as-lead-brand-strategy-communications-uk#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.journopulse.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Business",
+                "item": "https://www.journopulse.com/business"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Hargreaves Lansdown Appoints Stitchy",
+                "item": "https://www.journopulse.com/business/hargreaves-lansdown-appoints-stitchy-as-lead-brand-strategy-communications-uk"
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 }
+
+

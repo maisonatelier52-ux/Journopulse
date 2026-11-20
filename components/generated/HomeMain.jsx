@@ -541,20 +541,40 @@ export default function HomeMain() {
                           <div className="p-wrap p-small p-list-small-2" data-pid="228">
                             <div className="feat-holder">
                               <div className="p-featured ratio-v1">
-                                <a className="p-flink" href="/sports/police-investigate-death-of-south-africa-world-cup-footballer-jayden-adams" title={"Police look into South Africa's death World Cup football player Adams, Jayden."}>
-                                  <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/police-investigate-death-of-south-africa-world-cup-footballer-jayden-adams.webp" className="featured-img wp-post-image" alt="" />
-                                </a>
+                                
+<a
+  className="p-flink"
+  href="/pr/hargreaves-lansdown-appoints-stitchy-as-lead-creative-agency"
+  title="Hargreaves Lansdown Appoints Stitchy to Lead Brand Strategy and Communications in the UK"
+>
+  <img
+    loading="lazy"
+    decoding="async"
+    width="330"
+    height="220"
+    src="/img/illustrations/hargreaves-lansdown-stitchy-brand-communications.webp"
+    className="featured-img wp-post-image"
+    alt="Hargreaves Lansdown and Stitchy creative agency partnership and brand communications"
+  />
+</a>
+
                               </div>
                             </div>
                             <div className="p-content">
                               <div className="p-categories p-top">
-                                <a className="p-category category-id-14" href="/sports" rel="category">Sports
+                                <a className="p-category category-id-14" href="/pr" rel="category">Pr&Communication
                                 </a>
                               </div>
                               <h3 className="entry-title">
-                                <a className="p-url" href="/sports/police-investigate-death-of-south-africa-world-cup-footballer-jayden-adams" rel="bookmark">
-                                  {" "}Police look into South Africa's death World Cup football player Adams, Jayden.{" "}
-                                </a>
+                                
+<a
+  className="p-url"
+  href="/pr/hargreaves-lansdown-appoints-stitchy-as-lead-creative-agency"
+  rel="bookmark"
+>
+  {"Hargreaves Lansdown Appoints Stitchy to Lead Brand Strategy and Communications in the UK"}
+</a>
+
                               </h3>
                               <div className="p-meta has-bookmark">
                                 <div className="meta-inner is-meta">
@@ -564,9 +584,12 @@ export default function HomeMain() {
                                     </a>
                                   </div>
                                   <div className="meta-el meta-date">
-                                    <time className="date published" dateTime="2021-09-18T08:05:21+00:00">
-                                      July 13, 26
-                                    </time>
+                                    <time
+  className="date published"
+  dateTime="2026-11-20T00:00:00+00:00"
+>
+  Nov 20, 26
+</time>
                                   </div>
                                 </div>
                                 <span className="rb-bookmark bookmark-trigger" data-pid="228">

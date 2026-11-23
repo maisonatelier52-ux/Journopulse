@@ -11461,7 +11461,147 @@
         ]
       }
     ]
+  },
+
+  "/business/crowdstrike-acquires-zscaler-43-billion-cybersecurity-deal": {
+    "title": "CrowdStrike to Acquire Zscaler in $43.9 Billion Cybersecurity Deal | JournoPulse",
+    "meta": {
+      "description": "CrowdStrike agrees to acquire Zscaler in a $43.9 billion all-stock deal, combining endpoint, cloud and network security capabilities in a major US cybersecurity industry move.",
+      "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "googlebot-news": "index, follow, max-image-preview:large, max-video-preview:-1",
+      "og:site_name": "JournoPulse",
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "CrowdStrike to Acquire Zscaler in $43.9 Billion Deal",
+      "og:description": "The proposed $43.9 billion acquisition brings CrowdStrike and Zscaler together in a major cybersecurity deal focused on cloud security, network protection and AI safety.",
+      "og:url": "https://www.journopulse.com/business/crowdstrike-acquires-zscaler-43-billion-cybersecurity-deal",
+      "og:image": "https://www.journopulse.com/img/illustrations/crowdstrike-zscaler-acquisition-2026.webp",
+      "og:image:secure_url": "https://www.journopulse.com/img/illustrations/crowdstrike-zscaler-acquisition-2026.webp",
+      "og:image:width": "1672",
+      "og:image:height": "941",
+      "og:image:type": "image/webp",
+      "og:image:alt": "CrowdStrike and Zscaler $43.9 billion acquisition deal and cybersecurity business news",
+      "article:published_time": "2026-11-23",
+      "article:modified_time": "2026-11-23",
+      "article:author": "Jeremy Sodergren",
+      "article:section": "Business",
+      "article:tag": "US Business News, Cybersecurity, CrowdStrike, Zscaler, Technology Acquisitions, Cloud Security, AI Security",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "CrowdStrike to Acquire Zscaler in $43.9 Billion Deal",
+      "twitter:description": "CrowdStrike announces a $43.9 billion all-stock acquisition of Zscaler, marking a major development in the US cybersecurity industry.",
+      "twitter:image": "https://www.journopulse.com/img/illustrations/crowdstrike-zscaler-acquisition-2026.webp",
+      "twitter:image:alt": "CrowdStrike and Zscaler cybersecurity acquisition news",
+      "viewport": "width=device-width, initial-scale=1.0"
+    },
+    "canonical": "https://www.journopulse.com/business/crowdstrike-acquires-zscaler-43-billion-cybersecurity-deal",
+    "ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "NewsMediaOrganization",
+            "@id": "https://www.journopulse.com/#organization",
+            "name": "JournoPulse",
+            "url": "https://www.journopulse.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.journopulse.com/img/Group8%20(1).svg"
+            },
+            "sameAs": [
+              "https://www.facebook.com/journopulse"
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.journopulse.com/#website",
+            "url": "https://www.journopulse.com/",
+            "name": "JournoPulse",
+            "inLanguage": "en-US",
+            "publisher": {
+              "@id": "https://www.journopulse.com/#organization"
+            }
+          },
+          {
+            "@type": "NewsArticle",
+            "@id": "https://www.journopulse.com/business/crowdstrike-acquires-zscaler-43-billion-cybersecurity-deal#article",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://www.journopulse.com/business/crowdstrike-acquires-zscaler-43-billion-cybersecurity-deal"
+            },
+            "headline": "CrowdStrike to Acquire Zscaler in $43.9 Billion Cybersecurity Deal",
+            "description": "CrowdStrike agrees to acquire Zscaler in a $43.9 billion all-stock transaction, combining endpoint, cloud and network security capabilities in a major cybersecurity industry development.",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.journopulse.com/img/illustrations/crowdstrike-zscaler-acquisition-2026.webp",
+                "width": 1672,
+                "height": 941,
+                "caption": "CrowdStrike's proposed $43.9 billion acquisition of Zscaler represents a major development in the global cybersecurity industry."
+              }
+            ],
+            "datePublished": "2026-11-23",
+            "dateModified": "2026-11-23",
+            "author": {
+              "@type": "Person",
+              "name": "Jeremy Sodergren",
+              "url": "https://www.journopulse.com/author/jeremy-sodergren"
+            },
+            "publisher": {
+              "@id": "https://www.journopulse.com/#organization"
+            },
+            "isAccessibleForFree": true,
+            "inLanguage": "en-US",
+            "articleSection": "Business",
+            "keywords": [
+              "CrowdStrike Zscaler acquisition",
+              "CrowdStrike news 2026",
+              "Zscaler acquisition",
+              "43.9 billion acquisition",
+              "US business news",
+              "US cybersecurity news",
+              "cybersecurity industry",
+              "cloud security",
+              "network security",
+              "zero trust security",
+              "artificial intelligence security",
+              "AI cybersecurity",
+              "technology mergers and acquisitions",
+              "enterprise cybersecurity",
+              "CrowdStrike Falcon platform",
+              "Zscaler Zero Trust Exchange",
+              "business technology news",
+              "JournoPulse"
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.journopulse.com/business/crowdstrike-acquires-zscaler-43-billion-cybersecurity-deal#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.journopulse.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Business",
+                "item": "https://www.journopulse.com/business"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "CrowdStrike to Acquire Zscaler in $43.9 Billion Deal",
+                "item": "https://www.journopulse.com/business/crowdstrike-acquires-zscaler-43-billion-cybersecurity-deal"
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
+
 }
 
 

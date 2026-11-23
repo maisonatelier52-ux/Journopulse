@@ -2742,9 +2742,11 @@
   },
   "imageCaption": "The $43.9 billion agreement aims to combine endpoint, cloud and network security capabilities.",
   "author": {
-    "name": "Jeremy Sodergren",
-    "job": "Author",
-    "slug": "jeremy-sodergren"
+  "name": "Jeremy Sodergren",
+  "job": "Author",
+  "slug": "jeremy-sodergren",
+  "image": "/img/authors/jeremy-sodergren-author.webp"
+
   },
   "published": {
     "text": "Published: Nov 23, 26",

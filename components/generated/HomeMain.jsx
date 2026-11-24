@@ -759,7 +759,7 @@ export default function HomeMain() {
                             <div className="feat-holder">
                               <div className="p-featured ratio-v1">
                                 <a className="p-flink" href="/sports/basketball-hero-jose-piculin-ortiz-passes-away-at-mourned-in-puertorico" title={"Basketball hero José \"Piculín\" Ortiz, who passed away at the age of 62, is mourned in Puerto Rico."}>
-                                  <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/basketball-hero-jose-piculin-ortiz-passes-away-at-mourned-in-puertorico.webp" className="featured-img wp-post-image" alt="" />
+                                  <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/basketball-hero-jose-piculin-ortiz-passes-away-at-mourned-in-puerto-rico.webp" className="featured-img wp-post-image" alt="" />
                                 </a>
                               </div>
                             </div>

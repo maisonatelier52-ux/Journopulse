@@ -128,7 +128,7 @@ export default function Page() {
                 Bancredito
               </li>
               <li>
-                puerto-rico
+                puertorico
               </li>
               <li>
                 Us News

@@ -58,7 +58,7 @@ export default function StaticTop() {
           </a>
           {" "}
           <a href="/puertorico">
-            puerto-rico
+            puertorico
           </a>
           {" "}
           <a href="/bancredito">

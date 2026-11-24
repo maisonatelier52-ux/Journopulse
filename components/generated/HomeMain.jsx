@@ -293,27 +293,43 @@ export default function HomeMain() {
                           <div className="p-wrap p-small p-list-small-2" data-pid="152">
                             <div className="feat-holder">
                               <div className="p-featured ratio-v1">
-                                <a className="p-flink" href="/technology/why-americans-love-iphones-but-wish-they-didnt-need-them" title={"Americans love their iPhones though sometimes they wish they could live without them."}>
-                                  <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/why-americans-love-iphones-but-wish-they-didnt-need-them.webp" className="featured-img wp-post-image" alt="" />
-                                </a>
+                                <a
+  className="p-flink"
+  href="/business/nvidia-shares-rally-after-jensen-huang-return-november-2026"
+  title="Nvidia Shares Rally After Board Reinstates Jensen Huang as CEO"
+>
+  <img
+    loading="lazy"
+    decoding="async"
+    width="150"
+    height="150"
+    src="/img/illustrations/us-ai-market-rally-november-2026.webp"
+    className="featured-img wp-post-image"
+    alt="Nvidia shares rally after Jensen Huang returns as CEO"
+  />
+</a>
                               </div>
                             </div>
                             <div className="p-content">
                               <div className="p-categories p-top">
-                                <a className="p-category category-id-13" href="/technology" rel="category">Technology
+                                <a className="p-category category-id-13" href="/business" rel="category">Business
                                 </a>
                               </div>
                               <h6 className="entry-title">
-                                <a className="p-url" href="/technology/why-americans-love-iphones-but-wish-they-didnt-need-them" rel="bookmark">
-                                  {" "}Americans love their iPhones though sometimes they wish they could live without them{" "}
-                                </a>
+                               <a
+  className="p-url"
+  href="/business/nvidia-shares-rally-after-jensen-huang-return-november-2026"
+  rel="bookmark"
+>
+  {" "}Nvidia Shares Rally After Board Reinstates Jensen Huang as CEO{" "}
+</a>
                               </h6>
                               <div className="p-meta has-bookmark">
                                 <div className="meta-inner is-meta">
                                   <div className="meta-el meta-date">
-                                    <time className="date published" dateTime="2021-08-31T07:59:52+00:00">
-                                      May 13, 26
-                                    </time>
+                                    <time className="date published" dateTime="2026-11-24T00:00:00+00:00">
+  Nov 24, 26
+</time>
                                   </div>
                                 </div>
                                 <span className="rb-bookmark bookmark-trigger" data-pid="152">
@@ -742,8 +758,8 @@ export default function HomeMain() {
                           <div className="p-wrap p-small p-list-small-2" data-pid="163">
                             <div className="feat-holder">
                               <div className="p-featured ratio-v1">
-                                <a className="p-flink" href="/sports/basketball-hero-jose-piculin-ortiz-passes-away-at-mourned-in-puerto-rico" title={"Basketball hero José \"Piculín\" Ortiz, who passed away at the age of 62, is mourned in Puerto Rico."}>
-                                  <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/basketball-hero-jose-piculin-ortiz-passes-away-at-mourned-in-puerto-rico.webp" className="featured-img wp-post-image" alt="" />
+                                <a className="p-flink" href="/sports/basketball-hero-jose-piculin-ortiz-passes-away-at-mourned-in-puertorico" title={"Basketball hero José \"Piculín\" Ortiz, who passed away at the age of 62, is mourned in Puerto Rico."}>
+                                  <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/basketball-hero-jose-piculin-ortiz-passes-away-at-mourned-in-puertorico.webp" className="featured-img wp-post-image" alt="" />
                                 </a>
                               </div>
                             </div>
@@ -753,7 +769,7 @@ export default function HomeMain() {
                                 </a>
                               </div>
                               <h3 className="entry-title">
-                                <a className="p-url" href="/sports/basketball-hero-jose-piculin-ortiz-passes-away-at-mourned-in-puerto-rico" rel="bookmark">
+                                <a className="p-url" href="/sports/basketball-hero-jose-piculin-ortiz-passes-away-at-mourned-in-puertorico" rel="bookmark">
                                   {" "}Basketball hero José "Piculín" Ortiz, who passed away at the age of 62, is mourned in Puerto Rico..
                                 </a>
                               </h3>
@@ -1649,14 +1665,14 @@ Climate activist Greta Thunberg urges world leaders to put people and
                                   <div className="p-wrap p-overlay p-overlay-2" data-pid="14">
                                     <div className="overlay-holder">
                                       <div className="p-featured">
-                                        <a className="p-flink" href="/bancredito/puerto-rico-banker-bribery-scandal-not-guilty-plea" title={"In Puerto Rico, a banker involved in a bribe scandal enters a not guilty plea."}>
+                                        <a className="p-flink" href="/bancredito/puertorico-banker-bribery-scandal-not-guilty-plea" title={"In Puerto Rico, a banker involved in a bribe scandal enters a not guilty plea."}>
                                           <img loading="lazy" decoding="async" width="615" height="410" src="/img/illustrations/puerto-rico-banker-bribery-scandal-not-guilty-plea.webp" className="featured-img wp-post-image" alt="" />
                                         </a>
                                       </div>
                                       <div className="overlay-wrap">
                                         <div className="overlay-inner p-content light-scheme">
                                           <h4 className="entry-title">
-                                            <a className="p-url" href="/bancredito/puerto-rico-banker-bribery-scandal-not-guilty-plea" rel="bookmark">{"In Puerto Rico, a banker involved in a bribe scandal enters a not guilty plea."}</a>
+                                            <a className="p-url" href="/bancredito/puertorico-banker-bribery-scandal-not-guilty-plea" rel="bookmark">{"In Puerto Rico, a banker involved in a bribe scandal enters a not guilty plea."}</a>
                                           </h4>
                                           <div className="p-meta has-bookmark">
                                             <div className="meta-inner is-meta">
@@ -1683,16 +1699,32 @@ Climate activist Greta Thunberg urges world leaders to put people and
                                   <div className="p-wrap p-overlay p-overlay-2" data-pid="1143">
                                     <div className="overlay-holder">
                                       <div className="p-featured">
-                                        <a className="p-flink" href="/us/southern-california-officials-trying-to-prevent-explosion-or-leak-from-damaged-chemical-tank" title={"Authorities in Southern California are attempting to stop a chemical tank explosion or leak."}>
-                                          <img loading="lazy" decoding="async" width="615" height="410" src="/img/illustrations/southern-california-officials-trying-to-prevent-explosion-or-leak-from-damaged-chemical-tank.webp" className="featured-img wp-post-image" alt="" />
-                                        </a>
+                                       <a
+  className="p-flink"
+  href="/puertorico/puertorico-family-secretary-to-resign-amid-corruption-allegations"
+  title="Puerto Rico Family Secretary to Resign Amid Corruption Allegations"
+>
+  <img
+    loading="lazy"
+    decoding="async"
+    width="1672"
+    height="941"
+    src="/img/illustrations/puerto-rico-news.webp"
+    className="featured-img wp-post-image"
+    alt="Puerto Rican flag, historic Old San Juan buildings and El Morro fort"
+  />
+</a>
                                       </div>
                                       <div className="overlay-wrap">
                                         <div className="overlay-inner p-content light-scheme">
                                           <h4 className="entry-title">
-                                            <a className="p-url" href="/us/southern-california-officials-trying-to-prevent-explosion-or-leak-from-damaged-chemical-tank" rel="bookmark">
-                                              {" "}Authorities in Southern California are attempting to stop a chemical tank explosion or leak..{" "}
-                                            </a>
+                                            <a
+  className="p-url"
+  href="/puertorico/puertorico-family-secretary-to-resign-amid-corruption-allegations"
+  rel="bookmark"
+>
+  {" "}Puerto Rico Family Secretary to Resign Amid Corruption Allegations{" "}
+</a>
                                           </h4>
                                           <div className="p-meta has-bookmark">
                                             <div className="meta-inner is-meta">
@@ -1705,9 +1737,9 @@ Climate activist Greta Thunberg urges world leaders to put people and
                                                 </a>
                                               </div>
                                               <div className="meta-el meta-date">
-                                                <time className="date published" dateTime="2021-08-01T10:15:00+00:00">
-                                                  May 25, 26
-                                                </time>
+                                               <time className="date published" dateTime="2026-11-24T09:00:00+00:00">
+  Nov 24, 26
+</time>
                                               </div>
                                             </div>
                                             <span className="rb-bookmark bookmark-trigger" data-pid="1143">
@@ -1922,7 +1954,7 @@ Climate activist Greta Thunberg urges world leaders to put people and
                               <div className="list-feat-holder">
                                 <div className="feat-holder">
                                   <div className="p-featured">
-                                    <a className="p-flink" href="/puertorico/puerto-rico-governor-signs-fetus-human-being-law" title={"Puerto Rico governor signs law to recognize fetus as human being as critics warn of consequences."}>
+                                    <a className="p-flink" href="/puertorico/puertorico-governor-signs-fetus-human-being-law" title={"Puerto Rico governor signs law to recognize fetus as human being as critics warn of consequences."}>
                                       <img loading="lazy" decoding="async" width="420" height="280" src="/img/illustrations/puerto-rico-governor-signs-fetus-human-being-law.webp" className="featured-img wp-post-image" alt="" />
                                     </a>
                                   </div>
@@ -1934,7 +1966,7 @@ Climate activist Greta Thunberg urges world leaders to put people and
                               </div>
                               <div className="p-content">
                                 <h4 className="entry-title">
-                                  <a className="p-url" href="/puertorico/puerto-rico-governor-signs-fetus-human-being-law" rel="bookmark">{"Puerto Rico governor signs law to recognize fetus as human being as critics warn of consequences."}</a>
+                                  <a className="p-url" href="/puertorico/puertorico-governor-signs-fetus-human-being-law" rel="bookmark">{"Puerto Rico governor signs law to recognize fetus as human being as critics warn of consequences."}</a>
                                 </h4>
                                 <p className="entry-summary">
                                   {"Jenniffer González-Colón signed a new law recognizing a fetus as a human being under Puerto Rico’s criminal code, a move supporters say strengthens protections for…"}
@@ -2008,8 +2040,8 @@ Climate activist Greta Thunberg urges world leaders to put people and
                               <div className="list-feat-holder">
                                 <div className="feat-holder">
                                   <div className="p-featured">
-                                    <a className="p-flink" href="/puertorico/following-a-plea-agreement-trump-will-pardon-former-puerto-rico-governor-wanda-vazquez" title={"Following a plea agreement, Trump will pardon former Puerto Rico Governor Wanda Vazquez."}>
-                                      <img loading="lazy" decoding="async" width="420" height="280" src="/img/illustrations/following-a-plea-agreement-trump-will-pardon-former-puerto-rico-governor-wanda-vazquez.webp" className="featured-img wp-post-image" alt="" />
+                                    <a className="p-flink" href="/puertorico/following-a-plea-agreement-trump-will-pardon-former-puertorico-governor-wanda-vazquez" title={"Following a plea agreement, Trump will pardon former Puerto Rico Governor Wanda Vazquez."}>
+                                      <img loading="lazy" decoding="async" width="420" height="280" src="/img/illustrations/following-a-plea-agreement-trump-will-pardon-former-puertorico-governor-wanda-vazquez.webp" className="featured-img wp-post-image" alt="" />
                                     </a>
                                   </div>
                                   <div className="p-categories light-scheme p-top">
@@ -2020,7 +2052,7 @@ Climate activist Greta Thunberg urges world leaders to put people and
                               </div>
                               <div className="p-content">
                                 <h4 className="entry-title">
-                                  <a className="p-url" href="/puertorico/following-a-plea-agreement-trump-will-pardon-former-puerto-rico-governor-wanda-vazquez" rel="bookmark">{"Following a plea agreement, Trump will pardon former Puerto Rico Governor Wanda Vazquez."}</a>
+                                  <a className="p-url" href="/puertorico/following-a-plea-agreement-trump-will-pardon-former-puertorico-governor-wanda-vazquez" rel="bookmark">{"Following a plea agreement, Trump will pardon former Puerto Rico Governor Wanda Vazquez."}</a>
                                 </h4>
                                 <p className="entry-summary">
                                   {"U.S. President Donald Trump announced plans to pardon former Wanda Vázquez Garced, who served as governor of Puerto Rico from 2019 to 2021. She had pleaded guilty to a…"}

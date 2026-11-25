@@ -1718,10 +1718,11 @@ Climate activist Greta Thunberg urges world leaders to put people and
                                   <div className="p-wrap p-overlay p-overlay-2" data-pid="1143">
                                     <div className="overlay-holder">
                                       <div className="p-featured">
-                                       <a
+                                      
+<a
   className="p-flink"
   href="/puertorico/puertorico-family-secretary-to-resign-amid-corruption-allegations"
-  title="Puerto Rico Family Secretary to Resign Amid Corruption Allegations"
+  title="Puerto Rico Family Secretary Suzanne Roig to Resign Amid Corruption Allegations"
 >
   <img
     loading="lazy"
@@ -1730,20 +1731,23 @@ Climate activist Greta Thunberg urges world leaders to put people and
     height="941"
     src="/img/illustrations/puerto-rico-news.webp"
     className="featured-img wp-post-image"
-    alt="Puerto Rican flag, historic Old San Juan buildings and El Morro fort"
+    alt="Puerto Rico flag flying above historic Old San Juan buildings, representing the political developments surrounding Family Secretary Suzanne Roig's resignation"
   />
 </a>
+
                                       </div>
                                       <div className="overlay-wrap">
                                         <div className="overlay-inner p-content light-scheme">
                                           <h4 className="entry-title">
-                                            <a
+                                           
+<a
   className="p-url"
-  href="/puertorico/puertorico-family-secretary-to-resign-amid-corruption-allegations"
+  href="/business/puerto-rico-electricity-bill-increase-luma-93-million-fuel-costs-november-2026"
   rel="bookmark"
 >
-  {" "}Puerto Rico Family Secretary to Resign Amid Corruption Allegations{" "}
+  {" "}Puerto Rico Faces Potential Electricity Bill Increase as LUMA Reports $93 Million in Additional Fuel Costs{" "}
 </a>
+
                                           </h4>
                                           <div className="p-meta has-bookmark">
                                             <div className="meta-inner is-meta">
@@ -1756,9 +1760,11 @@ Climate activist Greta Thunberg urges world leaders to put people and
                                                 </a>
                                               </div>
                                               <div className="meta-el meta-date">
-                                               <time className="date published" dateTime="2026-11-24T09:00:00+00:00">
-  Nov 24, 26
+                                               
+<time className="date published" dateTime="2026-11-25T09:00:00+00:00">
+  Nov 25, 26
 </time>
+
                                               </div>
                                             </div>
                                             <span className="rb-bookmark bookmark-trigger" data-pid="1143">

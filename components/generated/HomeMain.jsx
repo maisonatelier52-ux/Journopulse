@@ -341,20 +341,39 @@ export default function HomeMain() {
                           <div className="p-wrap p-small p-list-small-2" data-pid="155">
                             <div className="feat-holder">
                               <div className="p-featured ratio-v1">
-                                <a className="p-flink" href="/technology/trump-tariffs-us-stocks-plummet-ai-losers" title={"Trump's increased tariffs cause US stocks to plummet, as investors dump possible AI losers.."}>
-                                  <img loading="lazy" decoding="async" width="150" height="150" src="/img/illustrations/trump-tariffs-us-stocks-plummet-ai-losers.webp" className="featured-img wp-post-image" alt="" />
-                                </a>
+                                
+<a
+  className="p-flink"
+  href="/world/melania-trump-reunites-seventh-group-ukrainian-russian-children-november-2026"
+  title="Melania Trump reunites seventh group of Ukrainian and Russian children with their families"
+>
+  <img
+    loading="lazy"
+    decoding="async"
+    width="150"
+    height="150"
+    src="/img/illustrations/melania-trump-family-reunification-november-2026.webp"
+    className="featured-img wp-post-image"
+    alt="Families reunited through Melania Trump's humanitarian initiative"
+  />
+</a>
+
                               </div>
                             </div>
                             <div className="p-content">
                               <div className="p-categories p-top">
-                                <a className="p-category category-id-13" href="/technology" rel="category">Technology
+                                <a className="p-category category-id-13" href="/world" rel="category">World
                                 </a>
                               </div>
                               <h6 className="entry-title">
-                                <a className="p-url" href="/technology/trump-tariffs-us-stocks-plummet-ai-losers" rel="noopener nofollow">
-                                  {" "}Trump's increased tariffs cause US stocks to plummet, as investors dump possible AI losers.{" "}
-                                </a>
+                                
+<a
+  className="p-url"
+  href="/world/melania-trump-reunites-seventh-group-ukrainian-russian-children-november-2026"
+>
+  {" "}Melania Trump reunites seventh group of Ukrainian and Russian children with their families.{" "}
+</a>
+
                               </h6>
                               <div className="sponsor-meta meta-text sponsor-logo">
                                 <div className="sponsor-inner">

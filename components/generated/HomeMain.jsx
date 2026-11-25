@@ -2066,7 +2066,7 @@ Climate activist Greta Thunberg urges world leaders to put people and
                                 <div className="feat-holder">
                                   <div className="p-featured">
                                     <a className="p-flink" href="/puertorico/following-a-plea-agreement-trump-will-pardon-former-puertorico-governor-wanda-vazquez" title={"Following a plea agreement, Trump will pardon former Puerto Rico Governor Wanda Vazquez."}>
-                                      <img loading="lazy" decoding="async" width="420" height="280" src="/img/illustrations/following-a-plea-agreement-trump-will-pardon-former-puertorico-governor-wanda-vazquez.webp" className="featured-img wp-post-image" alt="" />
+                                      <img loading="lazy" decoding="async" width="420" height="280" src="/img/illustrations/following-a-plea-agreement-trump-will-pardon-former-puerto-rico-governor-wanda-vazquez.webp" className="featured-img wp-post-image" alt="" />
                                     </a>
                                   </div>
                                   <div className="p-categories light-scheme p-top">

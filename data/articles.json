@@ -2891,7 +2891,99 @@
     "datetime": "2026-11-25"
   },
   "bodyHtml": "<p class=\"has-drop-cap\"><strong>SAN JUAN, Puerto Rico</strong> — Puerto Rico could face another increase in electricity bills after LUMA Energy reported approximately $93 million in additional fuel-related costs, raising concerns about the financial pressure facing households and businesses across the island.</p><p>In a November 17 filing submitted to the Puerto Rico Energy Bureau, LUMA reported a net fuel and purchased-power adjustment shortfall of approximately $90.93 million for September and October 2026. The amount follows a reconciliation of fuel charges and purchased-power credits and remains subject to regulatory review and approval.</p><h2>Fuel costs put renewed pressure on electricity bills</h2><p>The filing shows a combined fuel charge adjustment insufficiency of approximately $99.52 million across the two months. This was partly offset by approximately $8.60 million in purchased-power credits, leaving a net amount of $90.93 million to be recovered from customers through the applicable adjustment process.</p><p>LUMA has indicated that the costs could be addressed through a quarterly rate adjustment. However, the Puerto Rico Energy Bureau must review and approve any recovery before the amount can be reflected in customers' bills.</p><h2>Natural gas shortages and diesel consumption drive costs</h2><p>According to LUMA's regulatory filing, several factors contributed to the increase in fuel-related expenses. These included higher diesel consumption, above-normal temperatures that increased electricity demand, interruptions in natural gas supply to the San Juan combined-cycle generating units and unexpected problems across the generation fleet.</p><p>Natural gas supply difficulties forced generating units to rely on diesel for longer periods, increasing operating expenses. Forced outages involving large generating units also contributed to higher fuel expenditures.</p><h2>Households and businesses face further uncertainty</h2><p>The possibility of another electricity rate adjustment comes at a difficult time for Puerto Rican consumers. Households and businesses are already dealing with elevated electricity costs, making another fuel-related increase a significant concern.</p><p>Higher electricity expenses can affect household budgets, retail operations, restaurants, manufacturers and other energy-dependent businesses. Smaller businesses may have fewer options to absorb additional operating costs without adjusting prices or reducing other expenses.</p><h2>LUMA explains its role in the fuel adjustment</h2><p>LUMA manages Puerto Rico's electricity transmission and distribution network and prepares the regulatory reconciliations used to calculate fuel and purchased-power adjustments. However, the company stated in its filing that it does not own or operate generation facilities, purchase fuel for electricity generation or control fuel prices.</p><p>The expenses are associated with electricity generation and the costs incurred by generating companies. LUMA submits the relevant calculations to the Energy Bureau, which is responsible for reviewing the figures and determining whether the proposed adjustments should be approved.</p><h2>Energy regulator faces the next decision</h2><p>The Puerto Rico Energy Bureau will play a central role in determining how the reported shortfall is handled. The regulatory process will establish whether the amount can be recovered from customers and how any approved adjustment should be applied.</p><p>For consumers, the key question is how much of the additional cost could ultimately appear on electricity bills and when any adjustment would take effect.</p><p>The latest filing highlights the continuing challenges facing Puerto Rico's electricity system, including dependence on costly backup fuels, generation reliability problems and exposure to fluctuations in energy markets.</p><h2>Sources and further reporting</h2><ul><li><a href=\"https://energia.pr.gov/wp-content/uploads/sites/7/2026/11/20261117-MI20200001-LUMA-October-2026-FCA-and-PPCA-Reconciliation.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Puerto Rico Energy Bureau: LUMA October 2026 Fuel Charge and Purchased Power Reconciliation, November 17, 2026</a></li><li><a href=\"https://lumapr.com/news/higher-energy-production-costs-and-generation-shortfalls-could-lead-to-higher-bills-in-the-final-quarter-of-the-year-the-bill-increase-currently-under-consideration-by-the-puerto-rico-energy-bure-2/?lang=en\" target=\"_blank\" rel=\"noopener noreferrer\">LUMA Energy: Higher Energy Production Costs and Generation Shortfalls Could Lead to Higher Bills</a></li><li><a href=\"https://www.puertorico.com/news/luma-seeks-another-energy-rate-hike-for-november-and-december\" target=\"_blank\" rel=\"noopener noreferrer\">PuertoRico.com: LUMA Seeks Another Energy Rate Hike</a></li></ul>"
+},
+
+
+{
+  "slug": "puerto-rico-electricity-bill-increase-luma-93-million-fuel-costs-november-2026",
+  "category": "business",
+  "route": "/business/puerto-rico-electricity-bill-increase-luma-93-million-fuel-costs-november-2026",
+  "categoryName": "Business News",
+  "title": "Puerto Rico Faces Potential Electricity Bill Increase as LUMA Reports $93 Million in Additional Fuel Costs",
+  "tagline": "LUMA reports a major fuel-cost shortfall as Puerto Rico faces another turning point in its electricity sector.",
+  "author": {
+    "name": "Ryan Sillers"
+  },
+  "published": {
+    "text": "November 25, 2026",
+    "datetime": "2026-11-25T00:00:00-04:00"
+  },
+  "updated": {
+    "text": "Last updated: November 26, 2026",
+    "datetime": "2026-11-26T09:00:00-04:00"
+  },
+  "image": {
+    "src": "/img/illustrations/puerto-rico-electricity-grid-update.webp",
+    "alt": "Editorial illustration showing Puerto Rico's electricity transmission network and power generation infrastructure",
+    "width": 1200,
+    "height": 675,
+    "format": "webp",
+    "attribution": "JournoPulse AI-generated illustration",
+    "caption": "Puerto Rico's electricity infrastructure faces uncertainty over fuel costs and the future of its power-grid operator."
+  },
+  "breakingUpdate": {
+    "label": "LATEST UPDATE",
+    "date": "November 26, 2026",
+    "title": "Puerto Rico Supreme Court Cancels LUMA Energy Contract in 5–4 Ruling",
+    "bodyHtml": "<p>Puerto Rico's Supreme Court has ruled 5–4 in favor of cancelling the government's contract with LUMA Energy. The decision, made public on November 25, 2026, provides for a one-year transition period to determine how electricity transmission and distribution operations will be managed in the future.</p><p>Governor Jenniffer González has said her administration will seek a replacement operator and has rejected a return to the previous arrangement under the Puerto Rico Electric Power Authority. The transition raises questions about who will take over the electricity system and how continuity of service will be maintained.</p><p>LUMA has disagreed with the ruling and is evaluating its available legal options. The decision comes as Puerto Rico continues to face electricity outages, infrastructure challenges and public concern over power costs.</p><p>This court ruling is separate from the approximately $90.93 million net fuel and purchased-power adjustment shortfall reported by LUMA in its November 17 regulatory filing. That adjustment remains subject to review by the Puerto Rico Energy Bureau. The court decision does not itself approve or cancel those charges.</p>",
+    "sources": [
+      {
+        "name": "Associated Press",
+        "url": "https://abcnews.com/International/wireStory/puerto-ricos-supreme-court-cancels-key-power-contract-138448039"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract"
+      },
+      {
+        "name": "Puerto Rico Energy Bureau",
+        "url": "https://energia.pr.gov/numero_orden/nerp-mi-2020-0001/"
+      }
+    ]
+  },
+  "bodyHtml": "<p>Electricity customers in Puerto Rico could face continued pressure on their power bills after LUMA Energy reported approximately $93 million in additional fuel and purchased-power costs in a regulatory filing submitted to the Puerto Rico Energy Bureau.</p><p>The November 17, 2026 filing reports a net adjustment shortfall of approximately $90.93 million for September and October 2026. The amount reflects a $99.52 million insufficiency in the Fuel Charge Adjustment, partially offset by approximately $8.60 million in Purchased Power Cost Adjustment credits.</p><p>The filing does not mean that the full amount has automatically been approved for collection from customers. The Puerto Rico Energy Bureau must review the reconciliation and determine how the reported costs should be handled under the applicable regulatory process.</p><h2>What LUMA reported in its November filing</h2><p>According to the regulatory filing, LUMA reported a gross Fuel Charge Adjustment insufficiency of $99,522,168.30. Credits of $8,596,039.12 associated with the Purchased Power Cost Adjustment reduced the combined net shortfall to $90,926,129.18.</p><p>The figures cover the September and October 2026 reconciliation period. They relate to fuel and purchased-power costs used to operate Puerto Rico's electricity system.</p><p>The reported amount is a regulatory cost adjustment, not a confirmed individual bill increase. The impact on customer bills depends on the Energy Bureau's review and the applicable billing adjustments.</p><h2>Why fuel and purchased-power costs increased</h2><p>LUMA's filing describes several factors affecting electricity generation costs, including elevated diesel consumption, above-normal temperatures, natural gas supply problems and generation-unit outages.</p><p>Supply constraints reportedly required prolonged use of diesel at the San Juan combined-cycle generation units. Greater reliance on more expensive fuel can increase the cost of producing electricity, particularly when other generating units are unavailable.</p><p>These operating and fuel-supply challenges add to the financial pressure on an electricity system that has faced years of reliability concerns and infrastructure problems.</p><h2>Will Puerto Rico electricity bills increase?</h2><p>The filing raises the possibility of further pressure on electricity bills, but it should not be interpreted as confirmation that customers will immediately pay an additional $90.93 million or that a specific rate increase has already been approved.</p><p>The Puerto Rico Energy Bureau is responsible for reviewing the filing and determining the treatment of the reported fuel and purchased-power adjustments. Any customer impact will depend on the regulator's decision and the way approved costs are reflected in future billing periods.</p><p>Customers should distinguish between costs reported by the utility and charges formally approved by the regulator. The November filing documents LUMA's reported shortfall; it does not, by itself, establish a final bill increase.</p><h2>Supreme Court cancels LUMA Energy contract</h2><p>In a separate development, Puerto Rico's Supreme Court ruled 5–4 in favor of cancelling the government's contract with LUMA Energy. The decision was made public on November 25, 2026, and provides for a one-year transition period.</p><p>Governor Jenniffer González has said her administration will seek a replacement operator. The transition leaves important questions about the future management of electricity transmission and distribution.</p><p>LUMA has disagreed with the ruling and is evaluating its legal options. The transition will be closely watched by electricity customers, businesses and public officials because reliable power service remains essential to Puerto Rico's economy.</p><p>The contract ruling and the fuel-cost filing are separate matters. The Supreme Court decision concerns the government's contract with LUMA, while the $90.93 million adjustment is a regulatory filing that remains subject to Energy Bureau review.</p><h2>What happens next?</h2><p>The immediate next step on the fuel-cost issue is the Puerto Rico Energy Bureau's review of LUMA's reconciliation filing. The regulator's handling of the reported shortfall will determine whether and how the costs are reflected in future customer charges.</p><p>Separately, government officials and relevant authorities must address the one-year transition following the Supreme Court's decision. The selection of a future operator and the practical arrangements for maintaining electricity service will be important issues during that period.</p><p>For residents and businesses, both developments matter: fuel and purchased-power costs can affect electricity expenses, while changes to the utility's operating arrangement could influence the longer-term management of the power grid.</p><h2>Sources and documents</h2><ul><li><a href=\"https://energia.pr.gov/wp-content/uploads/sites/7/2026/11/20261117-MI20200001-LUMA-October-2026-FCA-and-PPCA-Reconciliation.pdf\">Puerto Rico Energy Bureau: LUMA October 2026 FCA and PPCA Reconciliation</a></li><li><a href=\"https://energia.pr.gov/numero_orden/nerp-mi-2020-0001/\">Puerto Rico Energy Bureau regulatory docket</a></li><li><a href=\"https://abcnews.com/International/wireStory/puerto-ricos-supreme-court-cancels-key-power-contract-138448039\">Associated Press: Puerto Rico Supreme Court ruling on the LUMA contract</a></li><li><a href=\"https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract\">Al Jazeera: Puerto Rico Supreme Court cancels major power contract</a></li><li><a href=\"https://www.lumapr.com/\">LUMA Energy</a></li></ul><p><em>JournoPulse will continue monitoring Energy Bureau decisions, electricity billing developments and the transition following the Supreme Court ruling.</em></p>",
+  "supportingImages": [
+    {
+      "src": "/img/illustrations/puerto-rico-san-juan-power-infrastructure.webp",
+      "alt": "Editorial illustration of San Juan's skyline and electricity infrastructure",
+      "width": 1200,
+      "height": 675,
+      "format": "webp",
+      "attribution": "JournoPulse AI-generated illustration",
+      "caption": "Puerto Rico's electricity infrastructure remains central to the island's economic and public-service challenges."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Puerto Rico Energy Bureau",
+      "title": "LUMA October 2026 FCA and PPCA Reconciliation",
+      "date": "November 17, 2026",
+      "url": "https://energia.pr.gov/wp-content/uploads/sites/7/2026/11/20261117-MI20200001-LUMA-October-2026-FCA-and-PPCA-Reconciliation.pdf"
+    },
+    {
+      "name": "Puerto Rico Energy Bureau",
+      "title": "Regulatory docket",
+      "url": "https://energia.pr.gov/numero_orden/nerp-mi-2020-0001/"
+    },
+    {
+      "name": "Associated Press",
+      "title": "Puerto Rico Supreme Court cancels key power contract",
+      "url": "https://abcnews.com/International/wireStory/puerto-ricos-supreme-court-cancels-key-power-contract-138448039"
+    },
+    {
+      "name": "Al Jazeera",
+      "title": "Puerto Rico's Supreme Court cancels major power contract",
+      "date": "November 26, 2026",
+      "url": "https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract"
+    },
+    {
+      "name": "LUMA Energy",
+      "title": "Official website",
+      "url": "https://www.lumapr.com/"
+    }
+  ]
 }
+
 
 
 

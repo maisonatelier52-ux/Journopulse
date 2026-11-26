@@ -777,19 +777,19 @@ export default function HomeMain() {
                           <div className="p-wrap p-small p-list-small-2" data-pid="163">
                             <div className="feat-holder">
                               <div className="p-featured ratio-v1">
-                                <a className="p-flink" href="/sports/basketball-hero-jose-piculin-ortiz-passes-away-at-mourned-in-puertorico" title={"Basketball hero José \"Piculín\" Ortiz, who passed away at the age of 62, is mourned in Puerto Rico."}>
-                                  <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/basketball-hero-jose-piculin-ortiz-passes-away-at-mourned-in-puerto-rico.webp" className="featured-img wp-post-image" alt="" />
+                                <a className="p-flink" href="/business/puerto-rico-electricity-bill-increase-luma-93-million-fuel-costs-november-2026" title={"Puerto Rico Faces Potential Electricity Bill Increase as LUMA Reports $93 Million in Additional Fuel Costs."}>
+                                  <img loading="lazy" decoding="async" width="330" height="220" src="/img/illustrations/puerto-rico-electricity-grid-update.webp" className="featured-img wp-post-image" alt="" />
                                 </a>
                               </div>
                             </div>
                             <div className="p-content">
                               <div className="p-categories p-top">
-                                <a className="p-category category-id-13" href="/sports" rel="category">Sports
+                                <a className="p-category category-id-13" href="/business" rel="category">Puertorico
                                 </a>
                               </div>
                               <h3 className="entry-title">
-                                <a className="p-url" href="/sports/basketball-hero-jose-piculin-ortiz-passes-away-at-mourned-in-puertorico" rel="bookmark">
-                                  {" "}Basketball hero José "Piculín" Ortiz, who passed away at the age of 62, is mourned in Puerto Rico..
+                                <a className="p-url" href="/business/puerto-rico-electricity-bill-increase-luma-93-million-fuel-costs-november-2026" rel="bookmark">
+                                  {" "}Puerto Rico Faces Potential Electricity Bill Increase as LUMA Reports $93 Million in Additional Fuel Costs..
                                 </a>
                               </h3>
                               <div className="p-meta has-bookmark">
@@ -800,8 +800,8 @@ export default function HomeMain() {
                                     </a>
                                   </div>
                                   <div className="meta-el meta-date">
-                                    <time className="date published" dateTime="2021-09-08T08:01:50+00:00">
-                                      May 11, 26
+                                    <time className="date published" dateTime="2026-11-26T08:01:50+00:00">
+                                      November 26, 26
                                     </time>
                                   </div>
                                 </div>

@@ -11900,9 +11900,7 @@
     ]
   },
 
-
-
-  "/business/puerto-rico-electricity-bill-increase-luma-93-million-fuel-costs-november-2026": {
+   "/business/puerto-rico-electricity-bill-increase-luma-93-million-fuel-costs-november-2026": {
     "title": "Puerto Rico Faces Potential Electricity Bill Increase as LUMA Reports $93 Million in Additional Fuel Costs | JournoPulse",
     "meta": {
       "description": "Puerto Rico faces a potential electricity bill increase after LUMA reports nearly $93 million in additional fuel costs, with regulators reviewing the proposed recovery.",
@@ -12055,8 +12053,174 @@
         ]
       }
     ]
+  },
+
+
+
+  "/business/puerto-rico-electricity-bill-increase-luma-93-million-fuel-costs-november-2026": {
+    "title": "Puerto Rico Power Bills: LUMA Reports $90.9 Million Fuel Shortfall as Supreme Court Cancels Contract | JournoPulse",
+    "meta": {
+      "description": "Puerto Rico faces electricity cost uncertainty after LUMA reported a $90.93 million net fuel shortfall and the Supreme Court ruled to cancel its power contract.",
+      "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "googlebot-news": "index, follow, max-image-preview:large, max-video-preview:-1",
+      "og:site_name": "JournoPulse",
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Puerto Rico Power Bills: $90.9 Million Fuel Shortfall as Supreme Court Cancels LUMA Contract",
+      "og:description": "LUMA reported a $90.93 million net fuel-cost shortfall as Puerto Rico's Supreme Court separately ruled to cancel the utility's government contract, creating uncertainty for the island's electricity system.",
+      "og:url": "https://www.journopulse.com/business/puerto-rico-electricity-bill-increase-luma-93-million-fuel-costs-november-2026",
+      "og:image": "https://www.journopulse.com/img/illustrations/puerto-rico-luma-93-million-fuel-costs-november-2026.webp",
+      "og:image:secure_url": "https://www.journopulse.com/img/illustrations/puerto-rico-luma-93-million-fuel-costs-november-2026.webp",
+      "og:image:width": "1536",
+      "og:image:height": "1024",
+      "og:image:type": "image/webp",
+      "og:image:alt": "Editorial illustration of Puerto Rico electricity infrastructure and power generation, representing fuel-cost concerns and the LUMA contract transition.",
+      "article:published_time": "2026-11-25T00:00:00-04:00",
+      "article:modified_time": "2026-11-26T09:00:00-04:00",
+      "article:author": "Ryan Sillers",
+      "article:section": "Business",
+      "article:tag": "Puerto Rico Electricity Bills, LUMA Energy, Puerto Rico Supreme Court, LUMA Contract Cancellation, Puerto Rico Energy Crisis, Fuel Costs, Electricity Rate Adjustment, Puerto Rico Energy Bureau, Natural Gas Supply, Diesel Costs, Power Generation, San Juan, Caribbean Energy, Puerto Rico Business News",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Puerto Rico Power Bills: $90.9M Fuel Shortfall as Supreme Court Cancels LUMA Contract",
+      "twitter:description": "LUMA reported a $90.93 million net fuel shortfall as Puerto Rico faces a separate one-year transition following the Supreme Court's contract ruling.",
+      "twitter:image": "https://www.journopulse.com/img/illustrations/puerto-rico-luma-93-million-fuel-costs-november-2026.webp",
+      "twitter:image:alt": "Editorial illustration of Puerto Rico's electricity infrastructure and power generation",
+      "viewport": "width=device-width, initial-scale=1.0"
+    },
+    "canonical": "https://www.journopulse.com/business/puerto-rico-electricity-bill-increase-luma-93-million-fuel-costs-november-2026",
+    "ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "NewsMediaOrganization",
+            "@id": "https://www.journopulse.com/#organization",
+            "name": "JournoPulse",
+            "url": "https://www.journopulse.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.journopulse.com/img/Group8%20(1).svg"
+            },
+            "sameAs": [
+              "https://www.facebook.com/journopulse"
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.journopulse.com/#website",
+            "url": "https://www.journopulse.com/",
+            "name": "JournoPulse",
+            "inLanguage": "en-US",
+            "publisher": {
+              "@id": "https://www.journopulse.com/#organization"
+            }
+          },
+          {
+            "@type": "NewsArticle",
+            "@id": "https://www.journopulse.com/business/puerto-rico-electricity-bill-increase-luma-93-million-fuel-costs-november-2026#article",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://www.journopulse.com/business/puerto-rico-electricity-bill-increase-luma-93-million-fuel-costs-november-2026"
+            },
+            "headline": "Puerto Rico Faces Potential Electricity Bill Increase as LUMA Reports $93 Million in Additional Fuel Costs",
+            "description": "LUMA reported a $90.93 million net fuel and purchased-power adjustment shortfall for September and October 2026, subject to regulatory review. Separately, Puerto Rico's Supreme Court ruled to cancel the government's LUMA contract, beginning a one-year transition period.",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.journopulse.com/img/illustrations/puerto-rico-luma-93-million-fuel-costs-november-2026.webp",
+                "width": 1536,
+                "height": 1024,
+                "caption": "Editorial illustration of Puerto Rico's electricity infrastructure amid fuel-cost concerns and uncertainty over the future of LUMA Energy."
+              }
+            ],
+            "datePublished": "2026-11-25T00:00:00-04:00",
+            "dateModified": "2026-11-26T09:00:00-04:00",
+            "author": {
+              "@type": "Person",
+              "name": "Ryan Sillers",
+              "url": "https://www.journopulse.com/author/ryan-sillers"
+            },
+            "publisher": {
+              "@id": "https://www.journopulse.com/#organization"
+            },
+            "isAccessibleForFree": true,
+            "inLanguage": "en-US",
+            "articleSection": "Business",
+            "keywords": [
+              "Puerto Rico electricity bill increase",
+              "LUMA Energy fuel costs",
+              "90.93 million fuel shortfall",
+              "Puerto Rico electricity prices",
+              "Puerto Rico energy crisis",
+              "LUMA contract cancellation",
+              "Puerto Rico Supreme Court ruling",
+              "Puerto Rico Energy Bureau",
+              "Puerto Rico power bills",
+              "fuel charge adjustment",
+              "purchased power adjustment",
+              "diesel consumption Puerto Rico",
+              "natural gas supply problems",
+              "Puerto Rico electricity generation",
+              "San Juan power plants",
+              "Caribbean energy news",
+              "Puerto Rico business news",
+              "November 2026 energy news",
+              "JournoPulse"
+            ],
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "LUMA Energy"
+              },
+              {
+                "@type": "Organization",
+                "name": "Puerto Rico Energy Bureau"
+              },
+              {
+                "@type": "Place",
+                "name": "Puerto Rico"
+              },
+              {
+                "@type": "Thing",
+                "name": "Electricity generation and distribution"
+              }
+            ],
+            "isPartOf": {
+              "@id": "https://www.journopulse.com/#website"
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.journopulse.com/business/puerto-rico-electricity-bill-increase-luma-93-million-fuel-costs-november-2026#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.journopulse.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Business",
+                "item": "https://www.journopulse.com/business"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Puerto Rico Electricity Costs and LUMA Contract Ruling",
+                "item": "https://www.journopulse.com/business/puerto-rico-electricity-bill-increase-luma-93-million-fuel-costs-november-2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 }
+
+
+
 
 
 

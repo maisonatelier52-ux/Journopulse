@@ -2902,7 +2902,10 @@
   "title": "Puerto Rico Faces Potential Electricity Bill Increase as LUMA Reports $93 Million in Additional Fuel Costs",
   "tagline": "LUMA reports a major fuel-cost shortfall as Puerto Rico faces another turning point in its electricity sector.",
   "author": {
-    "name": "Ryan Sillers"
+    "name": "Ryan Sillers",
+    "job": "Senior Editor",
+    "avatar": "/img/illustrations/rayan-author.png",
+    "slug": "ryan-sillers"
   },
   "published": {
     "text": "November 25, 2026",
@@ -2982,7 +2985,92 @@
       "url": "https://www.lumapr.com/"
     }
   ]
-}
+},
+    {
+      "slug": "republicans-rethink-tariffs-democrats-opening-challenge-trump-november-2026",
+      "category": "politics",
+      "route": "/politics/republicans-rethink-tariffs-democrats-opening-challenge-trump-november-2026",
+      "categoryName": "Politics News",
+      "title": "Republicans rethink tariffs, giving Democrats an opening to challenge Trump",
+      "tagline": "Some congressional Republicans are open to reviewing Trump's tariffs, potentially creating room for bipartisan action when Democrats take control of Congress.",
+      "author": {
+        "name": "Ryan Sillers",
+        "job": "Senior Editor",
+    "avatar": "/img/illustrations/rayan-author.png",
+    "slug": "ryan-sillers"
+      },
+      "published": {
+        "text": "November 27, 2026",
+        "datetime": "2026-11-27T12:30:49Z"
+      },
+    
+    "updated": {
+    "text": "Last updated: Nov 27, 26",
+    "datetime": "2026-11-27"
+      },
+      "image": {
+        "src": "/img/illustrations/republicans-rethink-tariffs-2026.webp",
+        "alt": "Editorial illustration of lawmakers debating trade tariffs near the US Capitol and shipping containers",
+        "width": 1200,
+        "height": 675,
+        "format": "webp",
+        "attribution": "AI-generated editorial illustration",
+        "caption": "Republicans' willingness to revisit some tariffs could give Democrats an opening for bipartisan action."
+      },
+      "bodyHtml": "<p>Some congressional Republicans are reconsidering President Donald Trump's tariffs after election losses in which rising costs were a major concern. Their willingness to review the levies could give Democrats an opportunity to seek bipartisan changes when they take control of Congress.</p><p>In interviews with more than half a dozen Republicans, most said they were open to examining tariffs case by case. Several called for more predictable trade policy and a greater role for Congress, while stopping short of supporting broad limits on the president's tariff authority.</p><h2>Canada tariffs could become an early test</h2><p>Tariffs on Canada may offer an early area of agreement. Some Republicans have questioned whether those duties are justified, while Democrats have identified them as a possible first target. Democratic lawmakers hope that success on Canada could build momentum for challenging other tariffs.</p><p>Republican views remain mixed. Some lawmakers continue to support tariffs on countries such as China and warn against an abrupt reversal of trade policy. Others say broad or unpredictable duties can raise costs for manufacturers, farms, small businesses and household budgets.</p><h2>Congress faces a difficult path</h2><p>Any effort to repeal or limit tariffs would face a significant obstacle: President Trump could veto legislation. Overriding a veto would require a two-thirds majority in the Senate, making broad changes difficult even if some Republicans join Democrats.</p><p>The debate could test how independently congressional Republicans are willing to act after the election and how far Democrats can go in building bipartisan support for changes to the administration's trade policy.</p><p><em>Based on Associated Press reporting published November 27, 2026.</em></p>",
+      "sources": [
+        {
+          "name": "Associated Press",
+          "title": "Republicans rethink tariffs, giving Democrats an opening to challenge Trump",
+          "date": "November 27, 2026",
+          "url": "https://apnews.com/article/trump-tariffs-republicans-congress-a438d0649e3b905804eafb63e9803bb3"
+        }
+      ]
+    },
+
+    {
+      "slug": "black-friday-macys-shopping-ritual-retail-deals-november-2026",
+      "category": "business",
+      "route": "/business/black-friday-macys-shopping-ritual-retail-deals-november-2026",
+      "categoryName": "Business News",
+      "title": "Before sunrise at Macy's, a familiar Black Friday ritual returns despite weeks of online deals",
+      "tagline": "Shoppers returned to stores for Black Friday as retailers balanced in-person traditions, early online promotions and pressure on household budgets.",
+      "author": {
+        "name": "Ryan Sillers",
+        "job": "Senior Editor",
+        "avatar": "/img/illustrations/rayan-author.png",
+        "slug": "ryan-sillers"
+      },
+      "published": {
+        "text": "November 27, 2026",
+        "datetime": "2026-11-27T00:52:50Z"
+      },
+      "updated": {
+    "text": "Last updated: Nov 27, 26",
+    "datetime": "2026-11-27"
+      },
+      "image": {
+        "src": "/img/illustrations/black-friday-macys-shopping-2026.webp",
+        "alt": "Editorial illustration of shoppers and a Black Friday sale sign inside a busy department store",
+        "width": 1200,
+        "height": 675,
+        "format": "webp",
+        "attribution": "AI-generated editorial illustration",
+        "caption": "Black Friday shoppers returned to physical stores even after weeks of online holiday promotions."
+      },
+      "bodyHtml": "<p>Black Friday shoppers returned to physical stores across the United States, including Macy's Herald Square in New York, where a line formed before the department store opened at 6 a.m. The familiar in-person shopping ritual continued despite retailers offering online promotions for weeks ahead of the holiday.</p><p>Retailers are counting on the holiday season to deliver strong sales, even as consumers contend with inflation and concerns about everyday costs. The National Retail Federation forecast that November and December retail sales would reach $1.01 trillion, a 4.1% increase, with higher prices accounting for about half of the projected growth.</p><h2>Shoppers are buying essentials as well as gifts</h2><p>Black Friday promotions increasingly encourage shoppers to purchase everyday necessities alongside holiday gifts. Online sales of household cleaning products and clothing basics rose during the first three weeks of November compared with the October average, according to Adobe Digital Insights.</p><h2>Retailers hold some discounts for Black Friday</h2><p>Although early November promotions were stronger than the previous year, retailers were expected to reserve some of their deepest discounts for Thanksgiving and Black Friday. Adobe forecast that average television discounts would reach 23% on Friday, compared with 11% during the first 22 days of November.</p><h2>Online shopping and AI tools gain ground</h2><p>Online spending reached $82.5 billion from November 1 through November 22, up 9.1% from the same period a year earlier, according to Adobe Digital Insights. Traffic to retail websites from AI-powered shopping tools also more than doubled compared with November 2025.</p><p><em>Based on Associated Press reporting published November 27, 2026.</em></p>",
+      "sources": [
+        {
+          "name": "Associated Press",
+          "title": "Before sunrise at Macy's, a familiar Black Friday ritual returns despite weeks of online deals",
+          "date": "November 27, 2026",
+          "url": "https://apnews.com/article/21e10113de5d5941024b3220bec29433"
+        }
+      ]
+    }
+  
+
+
 
 
 

@@ -12216,19 +12216,269 @@
         ]
       }
     ]
+  },
+
+    "/politics/republicans-rethink-tariffs-democrats-opening-challenge-trump-november-2026": {
+      "title": "Republicans rethink tariffs, giving Democrats an opening to challenge Trump | JournoPulse",
+      "meta": {
+        "description": "Some congressional Republicans are open to reviewing Trump's tariffs, potentially creating room for bipartisan action when Democrats take control of Congress.",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "googlebot-news": "index, follow, max-image-preview:large, max-video-preview:-1",
+        "og:site_name": "JournoPulse",
+        "og:locale": "en_US",
+        "og:type": "article",
+        "og:title": "Republicans rethink tariffs, giving Democrats an opening to challenge Trump",
+        "og:description": "Some congressional Republicans are open to reviewing Trump's tariffs, potentially creating room for bipartisan action when Democrats take control of Congress.",
+        "og:url": "https://www.journopulse.com/politics/republicans-rethink-tariffs-democrats-opening-challenge-trump-november-2026",
+        "og:image": "https://www.journopulse.com/img/illustrations/republicans-rethink-tariffs-2026.webp",
+        "og:image:secure_url": "https://www.journopulse.com/img/illustrations/republicans-rethink-tariffs-2026.webp",
+        "og:image:width": "1200",
+        "og:image:height": "675",
+        "og:image:type": "image/webp",
+        "og:image:alt": "Editorial illustration of lawmakers debating trade tariffs near the US Capitol and shipping containers",
+        "article:published_time": "2026-11-27T12:30:49Z",
+        "article:modified_time": "2026-11-27T12:30:49Z",
+        "article:author": "Associated Press",
+        "article:section": "Politics",
+        "article:tag": "Donald Trump tariffs, Republicans, Democrats, US Congress, US trade policy, tariff debate, Canada tariffs, American politics, Associated Press, November 2026",
+        "twitter:card": "summary_large_image",
+        "twitter:title": "Republicans rethink tariffs, giving Democrats an opening to challenge Trump",
+        "twitter:description": "Some congressional Republicans are open to reviewing Trump's tariffs, potentially creating room for bipartisan action when Democrats take control of Congress.",
+        "twitter:image": "https://www.journopulse.com/img/illustrations/republicans-rethink-tariffs-2026.webp",
+        "twitter:image:alt": "Editorial illustration of lawmakers debating trade tariffs near the US Capitol and shipping containers",
+        "viewport": "width=device-width, initial-scale=1.0"
+      },
+      "canonical": "https://www.journopulse.com/politics/republicans-rethink-tariffs-democrats-opening-challenge-trump-november-2026",
+      "ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "NewsMediaOrganization",
+              "@id": "https://www.journopulse.com/#organization",
+              "name": "JournoPulse",
+              "url": "https://www.journopulse.com/",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.journopulse.com/img/Group8%20(1).svg"
+              },
+              "sameAs": [
+                "https://www.facebook.com/journopulse"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.journopulse.com/#website",
+              "url": "https://www.journopulse.com/",
+              "name": "JournoPulse",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://www.journopulse.com/#organization"
+              }
+            },
+            {
+              "@type": "NewsArticle",
+              "@id": "https://www.journopulse.com/politics/republicans-rethink-tariffs-democrats-opening-challenge-trump-november-2026#article",
+              "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.journopulse.com/politics/republicans-rethink-tariffs-democrats-opening-challenge-trump-november-2026"
+              },
+              "headline": "Republicans rethink tariffs, giving Democrats an opening to challenge Trump",
+              "description": "Some congressional Republicans are open to reviewing Trump's tariffs, potentially creating room for bipartisan action when Democrats take control of Congress.",
+              "image": [
+                {
+                  "@type": "ImageObject",
+                  "url": "https://www.journopulse.com/img/illustrations/republicans-rethink-tariffs-2026.webp",
+                  "width": 1200,
+                  "height": 675,
+                  "caption": "Republicans' willingness to revisit some tariffs could give Democrats an opening for bipartisan action."
+                }
+              ],
+              "datePublished": "2026-11-27T12:30:49Z",
+              "dateModified": "2026-11-27T12:30:49Z",
+              "author": {
+                "@type": "Organization",
+                "name": "Associated Press"
+              },
+              "publisher": {
+                "@id": "https://www.journopulse.com/#organization"
+              },
+              "isAccessibleForFree": true,
+              "inLanguage": "en-US",
+              "articleSection": "Politics",
+              "keywords": [
+                "Republicans rethink tariffs",
+                "Trump tariffs",
+                "Democrats challenge Trump",
+                "Congress tariff debate",
+                "Republican tariff opposition",
+                "US trade policy",
+                "Canada tariffs",
+                "November 2026 politics news",
+                "Associated Press"
+              ],
+              "isPartOf": {
+                "@id": "https://www.journopulse.com/#website"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://www.journopulse.com/politics/republicans-rethink-tariffs-democrats-opening-challenge-trump-november-2026#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://www.journopulse.com/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Politics",
+                  "item": "https://www.journopulse.com/politics"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Republicans Rethink Tariffs",
+                  "item": "https://www.journopulse.com/politics/republicans-rethink-tariffs-democrats-opening-challenge-trump-november-2026"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    "/business/black-friday-macys-shopping-ritual-retail-deals-november-2026": {
+      "title": "Before sunrise at Macy's, a familiar Black Friday ritual returns despite weeks of online deals | JournoPulse",
+      "meta": {
+        "description": "Shoppers returned to stores for Black Friday as retailers balanced in-person traditions, early online promotions and pressure on household budgets.",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "googlebot-news": "index, follow, max-image-preview:large, max-video-preview:-1",
+        "og:site_name": "JournoPulse",
+        "og:locale": "en_US",
+        "og:type": "article",
+        "og:title": "Before sunrise at Macy's, a familiar Black Friday ritual returns despite weeks of online deals",
+        "og:description": "Shoppers returned to stores for Black Friday as retailers balanced in-person traditions, early online promotions and pressure on household budgets.",
+        "og:url": "https://www.journopulse.com/business/black-friday-macys-shopping-ritual-retail-deals-november-2026",
+        "og:image": "https://www.journopulse.com/img/illustrations/black-friday-macys-shopping-2026.webp",
+        "og:image:secure_url": "https://www.journopulse.com/img/illustrations/black-friday-macys-shopping-2026.webp",
+        "og:image:width": "1200",
+        "og:image:height": "675",
+        "og:image:type": "image/webp",
+        "og:image:alt": "Editorial illustration of shoppers and a Black Friday sale sign inside a busy department store",
+        "article:published_time": "2026-11-27T00:52:50Z",
+        "article:modified_time": "2026-11-27T00:52:50Z",
+        "article:author": "Associated Press",
+        "article:section": "Business",
+        "article:tag": "Black Friday 2026, holiday shopping, Macy's Herald Square, US retail sales, Black Friday deals, online shopping, holiday retail season, Associated Press, November 2026",
+        "twitter:card": "summary_large_image",
+        "twitter:title": "Before sunrise at Macy's, a familiar Black Friday ritual returns despite weeks of online deals",
+        "twitter:description": "Shoppers returned to stores for Black Friday as retailers balanced in-person traditions, early online promotions and pressure on household budgets.",
+        "twitter:image": "https://www.journopulse.com/img/illustrations/black-friday-macys-shopping-2026.webp",
+        "twitter:image:alt": "Editorial illustration of shoppers and a Black Friday sale sign inside a busy department store",
+        "viewport": "width=device-width, initial-scale=1.0"
+      },"canonical": "https://www.journopulse.com/business/black-friday-macys-shopping-ritual-retail-deals-november-2026",
+      "ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "NewsMediaOrganization",
+              "@id": "https://www.journopulse.com/#organization",
+              "name": "JournoPulse",
+              "url": "https://www.journopulse.com/",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.journopulse.com/img/Group8%20(1).svg"
+              },
+              "sameAs": [
+                "https://www.facebook.com/journopulse"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://www.journopulse.com/#website",
+              "url": "https://www.journopulse.com/",
+              "name": "JournoPulse",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://www.journopulse.com/#organization"
+              }
+            },
+            {
+              "@type": "NewsArticle",
+              "@id": "https://www.journopulse.com/business/black-friday-macys-shopping-ritual-retail-deals-november-2026#article",
+              "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.journopulse.com/business/black-friday-macys-shopping-ritual-retail-deals-november-2026"
+              },
+              "headline": "Before sunrise at Macy's, a familiar Black Friday ritual returns despite weeks of online deals",
+              "description": "Shoppers returned to stores for Black Friday as retailers balanced in-person traditions, early online promotions and pressure on household budgets.",
+              "image": [
+                {
+                  "@type": "ImageObject",
+                  "url": "https://www.journopulse.com/img/illustrations/black-friday-macys-shopping-2026.webp",
+                  "width": 1200,
+                  "height": 675,
+                  "caption": "Black Friday shoppers returned to physical stores even after weeks of online holiday promotions."
+                }
+              ],
+              "datePublished": "2026-11-27T00:52:50Z",
+              "dateModified": "2026-11-27T00:52:50Z",
+              "author": {
+                "@type": "Organization",
+                "name": "Associated Press"
+              },
+              "publisher": {
+                "@id": "https://www.journopulse.com/#organization"
+              },
+              "isAccessibleForFree": true,
+              "inLanguage": "en-US",
+              "articleSection": "Business",
+              "keywords": [
+                "Black Friday 2026",
+                "Macy's Black Friday shoppers",
+                "Black Friday in-store shopping",
+                "holiday shopping deals",
+                "US retail sales forecast",
+                "online holiday shopping",
+                "Black Friday retail discounts",
+                "November 2026 business news",
+                "Associated Press"
+              ],
+              "isPartOf": {
+                "@id": "https://www.journopulse.com/#website"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://www.journopulse.com/business/black-friday-macys-shopping-ritual-retail-deals-november-2026#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://www.journopulse.com/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Business",
+                  "item": "https://www.journopulse.com/business"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Black Friday Shopping",
+                  "item": "https://www.journopulse.com/business/black-friday-macys-shopping-ritual-retail-deals-november-2026"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
   }
-}
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
+            

@@ -1,5 +1,48 @@
 [
  {
+  "slug": "us-chip-restrictions-could-slow-chinas-ai-model-development-november-2026",
+  "category": "technology",
+  "route": "/technology/us-chip-restrictions-could-slow-chinas-ai-model-development-november-2026",
+  "categoryName": "Technology",
+  "title": "US chip restrictions could slow China's next generation of AI models",
+  "tagline": "New US restrictions on access to advanced computing power could delay major AI releases in China and reshape the global artificial intelligence race.",
+  "author": {
+    "name": "Ryan Sillers",
+    "job": "Senior Editor",
+    "avatar": "/img/illustrations/rayan-author.png",
+    "slug": "ryan-sillers"
+  },
+  "published": {
+    "text": "Published: November 28, 2026",
+    "datetime": "2026-11-28T12:00:00+00:00"
+  },
+  "updated": {
+    "text": "Last updated: November 28, 2026",
+    "datetime": "2026-11-28T12:00:00+00:00"
+  },
+  "image": {
+    "src": "/img/illustrations/journopulse-ai-chip-controls-2026.webp",
+    "alt": "Editorial illustration showing an advanced computer chip, AI data center servers and global technology supply-chain restrictions",
+    "width": 1672,
+    "height": 941,
+    "format": "webp",
+    "attribution": "AI-generated editorial illustration",
+    "caption": "Restrictions on advanced computing chips could create new challenges for China's artificial intelligence industry."
+  },
+  "bodyHtml": "<p>New US restrictions on access to advanced computing power could slow the development of China's next generation of artificial intelligence models, adding fresh pressure to an already competitive global technology industry.</p><p>A Reuters report published November 26 said Chinese AI developers Z.AI and Moonshot AI could face delays as access to overseas computing resources becomes more difficult. The restrictions target the use of advanced US-made chips through data centers outside the United States.</p><h2>AI development faces new computing challenges</h2><p>Training advanced AI models requires large amounts of computing power. Some Chinese developers have relied on overseas data centers to access high-performance processors, including systems built with Nvidia chips.</p><p>Under a US Commerce Department rule that took effect on November 19, certain large-scale computing services using advanced US chips at overseas data centers are subject to licensing requirements. The measure is intended to restrict access to computing capacity that could otherwise reach Chinese companies indirectly.</p><h2>Major AI releases could face delays</h2><p>Reuters reported that Z.AI's planned GLM-5.5 model could be delayed into 2027 or later. Moonshot AI also reportedly expects its usual six-month development cycle to potentially stretch to a year or more if access to overseas computing power is significantly reduced.</p><p>These developments could affect how quickly Chinese companies introduce new AI systems and compete with leading technology firms in the United States and elsewhere.</p><h2>The wider impact on the global technology industry</h2><p>The restrictions highlight how semiconductor access has become a central issue in the international AI competition. Companies developing advanced models must consider not only software and research, but also access to chips, data centers, electricity and reliable computing infrastructure.</p><p>Chinese developers may explore alternative computing providers in Europe and greater use of domestic processors. However, whether these options can fully replace restricted overseas capacity remains uncertain.</p><p>The longer-term impact will depend on how the rules are implemented, how companies adapt their infrastructure and whether new sources of computing power become available.</p><p><em>Based on reporting by Reuters published November 26, 2026. Company statements and the reported development timelines should be treated as attributed information, not independently confirmed outcomes.</em></p>",
+  "sources": [
+    {
+      "name": "Reuters",
+      "title": "US chip curbs, distillation crackdown threaten Chinese AI model development, sources say",
+      "date": "November 26, 2026",
+      "url": "https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/"
+    }
+  ],
+  "categoryHref": "/technology",
+  "url": "https://www.journopulse.com/technology/us-chip-restrictions-could-slow-chinas-ai-model-development-november-2026"
+},
+ 
+    {
   "slug": "republicans-rethink-tariffs-democrats-opening-challenge-trump-november-2026",
   "category": "politics",
   "route": "/politics/republicans-rethink-tariffs-democrats-opening-challenge-trump-november-2026",

@@ -17,8 +17,8 @@ const HEADER_IMG = {
 };
 
 function headerImage(category) {
-  const prefix = HEADER_IMG[category];
-  const art = allArticles.find((a) => a.slug.startsWith(prefix));
+  const prefix = HEADER_IMG[category]; // optional; falls back to the newest story in the category
+  const art = (prefix && allArticles.find((a) => a.slug.startsWith(prefix))) || allArticles.find((a) => a.category === category);
   return art ? art.image.src : "";
 }
 

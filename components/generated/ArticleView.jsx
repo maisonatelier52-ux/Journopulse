@@ -4,6 +4,8 @@ import { CATEGORY_LABELS } from "@/lib/categories";
 import EntryBottom from "./EntryBottom";
 import Sidebar from "./Sidebar";
 import RelatedLatest from "./RelatedLatest";
+import { sanitizeHtml } from "@/lib/contentCore.mjs";
+import { AVATAR_FALLBACK } from "@/lib/authors";
 
 function slugify(t) {
   return t
@@ -15,7 +17,8 @@ function slugify(t) {
 }
 
 // Adds ids to <h2> headings in the body and returns a table of contents.
-function prepareBody(html = "") {
+function prepareBody(rawHtml = "") {
+  const html = sanitizeHtml(rawHtml); // strip scripts, iframes, inline handlers, javascript: URLs
   const toc = [];
   const used = new Set();
   const out = html.replace(/<h2([^>]*)>([\s\S]*?)<\/h2>/gi, (m, attrs, inner) => {
@@ -108,7 +111,7 @@ export default function ArticleView({ a }) {
                             decoding="async"
                             width="150"
                             height="150"
-                            src={a.author.avatar || "/img/illustrations/rayan-author.png"}
+                            src={a.author.avatar || AVATAR_FALLBACK}
                             className="photo avatar author-avatar"
                             alt={`${a.author.name} - ${a.author.job}`}
                           />
@@ -147,6 +150,9 @@ export default function ArticleView({ a }) {
                   <span className="caption-text meta-bold">
                     {a.imageCaption || a.title}
                   </span>
+                  {a.image.attribution && (
+                    <span className="caption-credit meta-text"> Image: {a.image.attribution}{a.image.source && a.image.source !== a.image.attribution ? ` (${a.image.source})` : ""}</span>
+                  )}
                 </div>
               </div>
             </header>
@@ -170,6 +176,19 @@ export default function ArticleView({ a }) {
                           </nav>
                         )}
                         <div className="entry-content rbct clearfix is-highlight-shares" dangerouslySetInnerHTML={{ __html: bodyHtml }} />
+                        {Array.isArray(a.sources) && a.sources.length > 0 && (
+                          <section className="article-sources" aria-labelledby="article-sources-title">
+                            <h2 id="article-sources-title" className="article-sources-title">Sources</h2>
+                            <ul>
+                              {a.sources.map((s, i) => (
+                                <li key={i}>
+                                  {/^https?:\/\//.test(s.url || "") ? <a href={s.url} target="_blank" rel="noopener noreferrer">{s.name}</a> : <span>{s.name}</span>}
+                                  {s.type ? <span className="article-source-type"> — {s.type}</span> : null}
+                                </li>
+                              ))}
+                            </ul>
+                          </section>
+                        )}
                         <EntryBottom />
                       </div>
                     </div>
@@ -181,7 +200,7 @@ export default function ArticleView({ a }) {
               </div>
             </div>
           </article>
-          <RelatedLatest />
+          <RelatedLatest current={a} />
         </div>
       </main>
     </>

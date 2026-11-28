@@ -88,3 +88,12 @@
 .elementor-invisible{visibility:visible!important;animation:jpFadeIn .6s ease both}
 @keyframes jpFadeIn{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
 @media (prefers-reduced-motion:reduce){.elementor-invisible{animation:none}}
+
+/* --- SEO repair additions --- */
+.caption-credit{display:inline-block;margin-left:.5em;opacity:.8;font-size:.9em}
+.editors-note{border-left:3px solid #c9a227;background:rgba(201,162,39,.08);padding:.6em .9em;margin:0 0 1.2em;font-size:.95em}
+.article-sources{margin:2em 0 1em;padding-top:1em;border-top:1px solid rgba(128,128,128,.3)}
+.article-sources-title{font-size:1.1rem;margin:0 0 .5em}
+.article-sources ul{margin:0;padding-left:1.2em}
+.article-source-type{opacity:.7;font-size:.9em}
+.home-latest{margin-top:1.5rem}

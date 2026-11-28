@@ -1,0 +1,32 @@
+REMOVED duplicate LUMA record (shorter variant) - kept revised version
+REMOVED /puertorico/puerto-ricans-protest-reliable-water-access-governor-response :: URL promised a water-access story but served an exact copy of the Wanda Vazquez pardon article (cosine 1.000).
+DATES repaired for 50 legacy-timestamp records; all datetimes now ISO-8601 with timezone
+TOKENS removed from 6 articles; entity names re-inserted from headline/slug context (editor to confirm)
+STITCHED banking-case text removed from Kosovo fuel-price article (paragraphs 3-14)
+STITCHED banking/asset-recovery text removed from UAE/OPEC article
+STITCHED banking text removed from US gas-price article
+AML + asset-recovery: unrelated Supreme Court climate block removed; both set hold=true (noindex, out of sitemap) pending editorial rewrite
+WANDA: caption fixed (was a Siriano fashion caption), 'former President' corrected, dated editor's note added
+JULIO: removed unverified $4.5B net-worth box, 'Billion-Dollar' headline, gold-holdings and Medici/Rothschild comparison; sections removed: Wealth beyond the balance sheet | ESTIMATED NET WORTH$4.5 BILLIONJulio Herrera VelutiniJulio H | The wider family history includes substantial interests in b | These claims reflect a broader conception of family wealth:  | Such a tradition invites comparison with families including 
+IMAGE dims corrected /world/asean-summit-trump-southeast-asia-us-relations: 1672x941 -> 501x941
+IMAGE dims corrected /world/china-taiwan-military-drills-us-security-semiconductor-supply: 1672x941 -> 510x941
+IMAGE MISSING /img/illustrations/us-nationwide-flight-ground-stop-airport-disruption.webp -> temporary fallback /img/illustrations/faa-smart-ai-air-traffic-control.webp
+IMAGE dims corrected /pr/comms-pros-advise-against-nvidia-bringing-back-jensen-huang-ceo: 1536x1024 -> 1672x941
+IMAGE dims corrected /business/crowdstrike-acquires-zscaler-43-billion-cybersecurity-deal: 1536x1024 -> 1672x941
+IMAGE dims corrected /business/puerto-rico-electricity-bill-increase-luma-93-million-fuel-costs-november-2026: 1200x675 -> 1536x1024
+SCHEMA placeholder URL 'REPLACE-WITH-YOUR-REAL-PILLAR-PROFILE-URL' replaced
+SEO stale key removed: /fashion/balenciaga-names-british-designer-martine-rose-creative-director
+SEO stale key removed: /business/hargreaves-lansdown-appoints-stitchy-as-lead-brand-strategy-communications-uk
+SEO static page retitled: /about
+SEO static page retitled: /editorial-policy
+SEO static page retitled: /our-team
+SEO static page retitled: /terms
+SEO static page retitled: /privacy
+SEO static page retitled: /contact
+SEO static page retitled: /corrections-policy
+SEO static page retitled: /right-of-reply
+SEO static page retitled: /advertising-policy
+SEO static page retitled: /ownership
+SEO static page retitled: /source-methodology
+SEO entries added for /pr, /health, /uk
+SEO: /bancredito/bancreditointernationalbank carried the Wanda Vazquez pardon title/description/OG; entry removed, metadata now generated from the article

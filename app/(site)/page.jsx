@@ -1,5 +1,6 @@
 import SiteShell from "@/components/SiteShell";
 import HomeMain from "@/components/generated/HomeMain";
+import LatestStories from "@/components/LatestStories";
 import { metadataFor, JsonLd } from "@/lib/seo";
 
 export const metadata = metadataFor("/");
@@ -9,6 +10,7 @@ export default function HomePage() {
     <SiteShell home topFooter>
       <JsonLd route="/" />
       <main className="site-wrap">
+        <LatestStories />
         <HomeMain />
       </main>
     </SiteShell>

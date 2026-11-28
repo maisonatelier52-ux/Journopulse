@@ -227,7 +227,7 @@ export default function HomeMain() {
                               <div className="p-featured">
                                 <a
   className="p-flink"
-  href="/business/comms-pros-advise-against-nvidia-bringing-back-jensen-huang-ceo"
+  href="/pr/comms-pros-advise-against-nvidia-bringing-back-jensen-huang-ceo"
   title="Comms Pros Advise Against Nvidia Bringing Back Jensen Huang as CEO: He's Not a Rock Star"
 >
   <img
@@ -249,7 +249,7 @@ export default function HomeMain() {
                             <h4 className="entry-title">
                               <a
   className="p-url"
-  href="/business/comms-pros-advise-against-nvidia-bringing-back-jensen-huang-ceo"
+  href="/pr/comms-pros-advise-against-nvidia-bringing-back-jensen-huang-ceo"
   rel="bookmark"
 >
   {" "}
@@ -496,7 +496,7 @@ export default function HomeMain() {
                         <div className="heading-inner">
                           <h3 className="heading-title">
                             <span>
-                              Latest News
+                              Featured Stories
                             </span>
                           </h3>
                         </div>
@@ -1721,17 +1721,17 @@ Climate activist Greta Thunberg urges world leaders to put people and
                                       
 <a
   className="p-flink"
-  href="/puertorico/puertorico-family-secretary-to-resign-amid-corruption-allegations"
-  title="Puerto Rico Family Secretary Suzanne Roig to Resign Amid Corruption Allegations"
+  href="/business/puerto-rico-electricity-bill-increase-luma-93-million-fuel-costs-november-2026"
+  title="Puerto Rico Faces Potential Electricity Bill Increase as LUMA Reports $93 Million in Additional Fuel Costs"
 >
   <img
     loading="lazy"
     decoding="async"
-    width="1672"
-    height="941"
-    src="/img/illustrations/puerto-rico-news.webp"
+    width="1536"
+    height="1024"
+    src="/img/illustrations/puerto-rico-luma-93-million-fuel-costs-november-2026.webp"
     className="featured-img wp-post-image"
-    alt="Puerto Rico flag flying above historic Old San Juan buildings, representing the political developments surrounding Family Secretary Suzanne Roig's resignation"
+    alt="Editorial illustration showing Puerto Rico's electricity infrastructure, transmission towers, a power station and an electricity bill with a rising cost chart."
   />
 </a>
 
@@ -1873,7 +1873,7 @@ Climate activist Greta Thunberg urges world leaders to put people and
                         <div className="heading-inner">
                           <h3 className="heading-title">
                             <a className="h-link" href="/us">
-                              Latest News
+                              U.S. News
                             </a>
                           </h3>
                         </div>

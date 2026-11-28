@@ -1,11 +1,11 @@
 import ArticleCard from "@/components/ArticleCard";
 import { allArticles } from "@/lib/articles";
 import { CATEGORY_LABELS } from "@/lib/categories";
+import { relatedArticles } from "@/lib/contentCore.mjs";
 
+// Related stories: same category and shared headline vocabulary first, then newest. Never the current story.
 export default function MoreToRead({ a }) {
-  const same = allArticles.filter((x) => x.category === a.category && x.route !== a.route);
-  const others = allArticles.filter((x) => x.category !== a.category);
-  const picks = [...same, ...others].slice(0, 3);
+  const picks = relatedArticles(a, allArticles, 3);
   return (
     <section className="more-to-read" aria-labelledby="more-to-read-title">
       <div className="more-to-read-head">

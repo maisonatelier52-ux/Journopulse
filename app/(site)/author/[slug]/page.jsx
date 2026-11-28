@@ -29,7 +29,7 @@ export default async function AuthorPage({ params }) {
   const au = getAuthor(slug);
   if (!au) notFound();
   const cats = [...new Set(au.articles.map((a) => a.category))];
-  const ld = { "@context": "https://schema.org", "@type": "Person", name: au.name, jobTitle: au.job, url: `${ORIGIN}/author/${au.slug}`, image: ORIGIN + au.avatar, worksFor: { "@type": "NewsMediaOrganization", name: "JournoPulse", url: ORIGIN } };
+  const ld = { "@context": "https://schema.org", "@type": "Person", name: au.name, jobTitle: au.job, url: `${ORIGIN}/author/${au.slug}`, image: ORIGIN + (au.avatar || "/img/author-placeholder.svg"), worksFor: { "@type": "NewsMediaOrganization", name: "JournoPulse", url: ORIGIN } };
   return (
     <SiteShell topFooter>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(ld) }} />

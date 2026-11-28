@@ -1,0 +1,78 @@
+[
+ {
+  "reason": "Duplicate route (same category+slug). Superseded by longer, later-updated version.",
+  "record": {
+   "slug": "puerto-rico-electricity-bill-increase-luma-93-million-fuel-costs-november-2026",
+   "category": "business",
+   "route": "/business/puerto-rico-electricity-bill-increase-luma-93-million-fuel-costs-november-2026",
+   "categoryName": "Business News",
+   "metaTitle": "Puerto Rico Electricity Bills Face Potential Increase as LUMA Reports $93 Million Fuel Costs",
+   "metaDescription": "Puerto Rico faces a potential electricity bill increase after LUMA reported nearly $93 million in additional fuel costs, with regulators reviewing the proposed recovery.",
+   "title": "Puerto Rico Faces Potential Electricity Bill Increase as LUMA Reports $93 Million in Additional Fuel Costs",
+   "tagline": "Rising fuel expenses, natural gas supply disruptions and increased diesel consumption are putting renewed pressure on Puerto Rico's electricity system, raising concerns over another potential increase in household power bills.",
+   "image": {
+    "src": "/img/illustrations/puerto-rico-luma-93-million-fuel-costs-november-2026.webp",
+    "alt": "Editorial illustration showing Puerto Rico's electricity infrastructure, transmission towers, a power station and an electricity bill with a rising cost chart.",
+    "width": "1536",
+    "height": "1024",
+    "attribution": "JournoPulse AI-generated illustration",
+    "caption": "Puerto Rico's electricity costs face renewed pressure as LUMA reports substantial fuel-related expenses.",
+    "source": "Original JournoPulse AI-generated illustration"
+   },
+   "imageCaption": "LUMA's fuel-cost reconciliation could lead to another adjustment in electricity bills across Puerto Rico.",
+   "author": {
+    "name": "Ryan Sillers",
+    "job": "Senior Editor",
+    "avatar": "/img/illustrations/rayan-author.png",
+    "slug": "ryan-sillers"
+   },
+   "published": {
+    "text": "Published: Nov 25, 26",
+    "datetime": "2026-11-25"
+   },
+   "updated": {
+    "text": "Last updated: Nov 25, 26",
+    "datetime": "2026-11-25"
+   },
+   "bodyHtml": "<p class=\"has-drop-cap\"><strong>SAN JUAN, Puerto Rico</strong> — Puerto Rico could face another increase in electricity bills after LUMA Energy reported approximately $93 million in additional fuel-related costs, raising concerns about the financial pressure facing households and businesses across the island.</p><p>In a November 17 filing submitted to the Puerto Rico Energy Bureau, LUMA reported a net fuel and purchased-power adjustment shortfall of approximately $90.93 million for September and October 2026. The amount follows a reconciliation of fuel charges and purchased-power credits and remains subject to regulatory review and approval.</p><h2>Fuel costs put renewed pressure on electricity bills</h2><p>The filing shows a combined fuel charge adjustment insufficiency of approximately $99.52 million across the two months. This was partly offset by approximately $8.60 million in purchased-power credits, leaving a net amount of $90.93 million to be recovered from customers through the applicable adjustment process.</p><p>LUMA has indicated that the costs could be addressed through a quarterly rate adjustment. However, the Puerto Rico Energy Bureau must review and approve any recovery before the amount can be reflected in customers' bills.</p><h2>Natural gas shortages and diesel consumption drive costs</h2><p>According to LUMA's regulatory filing, several factors contributed to the increase in fuel-related expenses. These included higher diesel consumption, above-normal temperatures that increased electricity demand, interruptions in natural gas supply to the San Juan combined-cycle generating units and unexpected problems across the generation fleet.</p><p>Natural gas supply difficulties forced generating units to rely on diesel for longer periods, increasing operating expenses. Forced outages involving large generating units also contributed to higher fuel expenditures.</p><h2>Households and businesses face further uncertainty</h2><p>The possibility of another electricity rate adjustment comes at a difficult time for Puerto Rican consumers. Households and businesses are already dealing with elevated electricity costs, making another fuel-related increase a significant concern.</p><p>Higher electricity expenses can affect household budgets, retail operations, restaurants, manufacturers and other energy-dependent businesses. Smaller businesses may have fewer options to absorb additional operating costs without adjusting prices or reducing other expenses.</p><h2>LUMA explains its role in the fuel adjustment</h2><p>LUMA manages Puerto Rico's electricity transmission and distribution network and prepares the regulatory reconciliations used to calculate fuel and purchased-power adjustments. However, the company stated in its filing that it does not own or operate generation facilities, purchase fuel for electricity generation or control fuel prices.</p><p>The expenses are associated with electricity generation and the costs incurred by generating companies. LUMA submits the relevant calculations to the Energy Bureau, which is responsible for reviewing the figures and determining whether the proposed adjustments should be approved.</p><h2>Energy regulator faces the next decision</h2><p>The Puerto Rico Energy Bureau will play a central role in determining how the reported shortfall is handled. The regulatory process will establish whether the amount can be recovered from customers and how any approved adjustment should be applied.</p><p>For consumers, the key question is how much of the additional cost could ultimately appear on electricity bills and when any adjustment would take effect.</p><p>The latest filing highlights the continuing challenges facing Puerto Rico's electricity system, including dependence on costly backup fuels, generation reliability problems and exposure to fluctuations in energy markets.</p><h2>Sources and further reporting</h2><ul><li><a href=\"https://energia.pr.gov/wp-content/uploads/sites/7/2026/11/20261117-MI20200001-LUMA-October-2026-FCA-and-PPCA-Reconciliation.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Puerto Rico Energy Bureau: LUMA October 2026 Fuel Charge and Purchased Power Reconciliation, November 17, 2026</a></li><li><a href=\"https://lumapr.com/news/higher-energy-production-costs-and-generation-shortfalls-could-lead-to-higher-bills-in-the-final-quarter-of-the-year-the-bill-increase-currently-under-consideration-by-the-puerto-rico-energy-bure-2/?lang=en\" target=\"_blank\" rel=\"noopener noreferrer\">LUMA Energy: Higher Energy Production Costs and Generation Shortfalls Could Lead to Higher Bills</a></li><li><a href=\"https://www.puertorico.com/news/luma-seeks-another-energy-rate-hike-for-november-and-december\" target=\"_blank\" rel=\"noopener noreferrer\">PuertoRico.com: LUMA Seeks Another Energy Rate Hike</a></li></ul>"
+  }
+ },
+ {
+  "reason": "URL promised a water-access story but served an exact copy of the Wanda Vazquez pardon article (cosine 1.000).",
+  "record": {
+   "slug": "puerto-ricans-protest-reliable-water-access-governor-response",
+   "category": "puertorico",
+   "route": "/puertorico/puerto-ricans-protest-reliable-water-access-governor-response",
+   "categoryName": "politics",
+   "title": "Following a plea agreement, Trump will pardon former Puerto Rico Governor Wanda Vazquez.",
+   "tagline": "U.S. President Donald Trump announced plans to pardon former Wanda Vázquez Garced, who served as governor of Puerto Rico from 2019 to 2021. She had pleaded guilty to a campaign-finance violation tied to alleged illegal donations during her 2020 campaign..",
+   "image": {
+    "src": "/img/illustrations/puerto-ricans-protest-reliable-water-access-governor-response.webp",
+    "alt": "Illustration of a household tap and neighborhood water infrastructure.",
+    "width": "1536",
+    "height": "1024",
+    "attribution": "Matt Mullenweg",
+    "caption": "Technology is best when it brings people together.",
+    "source": "https://www.journopulse.com/wp-content/uploads/2021/10/n3.jpg"
+   },
+   "imageCaption": "On Thursday, designer Christian Siriano showed off his surrealist dream of vibrant colors,",
+   "author": {
+    "name": "Ryan Sillers",
+    "job": "Senior Editor",
+    "avatar": "/img/illustrations/rayan-author.png",
+    "slug": "ryan-sillers"
+   },
+   "published": {
+    "text": "Published: March 04, 26",
+    "datetime": "2021-10-01T13:21:00+00:00"
+   },
+   "updated": {
+    "text": "Last updated: March 04, 26 2:03 pm",
+    "datetime": "2026-03-04T14:03:00+00:00"
+   },
+   "bodyHtml": "<p class=\"has-drop-cap\"><strong>Following a plea agreement, former U.S. President Donald Trump is expected to pardon former Puerto Rico Governor Wanda Vázquez Garced</strong>, a development that has drawn significant political and legal attention. The move comes after Vázquez reached an agreement with federal prosecutors related to campaign finance violations stemming from her 2020 gubernatorial campaign.</p>\n<p><strong>Background of the case:</strong> Federal authorities had accused Vázquez of participating in a scheme involving illegal campaign contributions and political favors during her bid to remain in office. Prosecutors alleged that donors provided financial support to her campaign in exchange for political influence and regulatory benefits.</p>\n<p><strong>Plea agreement details:</strong> As part of the plea arrangement, Vázquez admitted to a reduced charge related to campaign finance violations. Legal analysts say the agreement significantly lowered the potential penalties she faced while resolving the lengthy investigation that had attracted national attention.</p>\n<figure class=\"wp-block-pullquote\">\n<blockquote>\n<p>“The agreement resolves the matter while allowing the legal process to move forward,” officials familiar with the case said.</p>\n<cite>Legal and Political Analysts</cite>\n</blockquote>\n</figure>\n<p><strong>Presidential pardon decision:</strong> Trump’s decision to grant a pardon would effectively clear Vázquez of the federal conviction tied to the plea agreement. Presidential pardons can remove legal consequences associated with federal offenses, though they often generate political debate depending on the circumstances of the case.</p>\n<p><strong>Political reactions:</strong> Supporters argue that the pardon corrects what they view as an overly aggressive prosecution, while critics say it raises concerns about accountability and political influence in corruption cases involving public officials.</p>\n<p><strong>Impact on Puerto Rico politics:</strong> The case has been closely followed in Puerto Rico, where Vázquez previously served as governor from 2019 to 2021. Political observers say the pardon could influence ongoing discussions about ethics, campaign financing, and public trust in government leadership on the island.</p>\n<p><strong>Looking ahead:</strong> With the legal matter nearing resolution, attention may shift to the broader implications for federal corruption investigations and the role of presidential pardons in high-profile political cases.</p>\n<p><strong>Broader context:</strong> The situation underscores the complex intersection of law, politics, and executive authority. As the story develops, analysts expect continued debate about the limits and responsibilities tied to presidential pardon powers.</p>",
+   "categoryHref": "/puertorico",
+   "url": "https://www.journopulse.com/puertorico/puerto-ricans-protest-reliable-water-access-governor-response"
+  }
+ }
+]
